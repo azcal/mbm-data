@@ -1,0 +1,14 @@
+{
+  "bookmakers": "pinnacle,betonlineag,lowvig,bovada,mybookieag,betus,draftkings,fanduel,betmgm,betrivers",
+  "monthly_budget": 500,
+  "reserve": 40,
+  "snapshots": {
+    "americanfootball_nfl":   {"markets": "h2h,spreads,totals", "utc_hours": [16, 23], "days": [0, 3, 6]},
+    "americanfootball_ncaaf": {"markets": "spreads,totals",     "utc_hours": [15],     "days": [5]},
+    "basketball_nba":         {"markets": "h2h,spreads",        "utc_hours": [22],     "days": [0, 1, 2, 3, 4, 5, 6], "season": ["10-20", "06-25"]},
+    "icehockey_nhl":          {"markets": "h2h",                "utc_hours": [22],     "days": [0, 1, 2, 3, 4, 5, 6], "season": ["10-05", "06-25"]},
+    "basketball_wnba":        {"markets": "h2h,spreads",        "utc_hours": [22],     "days": [0, 1, 2, 3, 4, 5, 6], "season": ["05-10", "10-15"]},
+    "soccer_epl":             {"markets": "h2h",                "utc_hours": [11],     "days": [5, 6]},
+    "mma_mixed_martial_arts": {"markets": "h2h",                "utc_hours": [22],     "days": [5]}
+  }
+}

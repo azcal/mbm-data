@@ -1,0 +1,1 @@
+{"min_gain_vs_incumbent": 0.005, "ci_clear_of_zero": true, "max_gap_vs_market": 0.010, "blend_coef_min": 0.0, "magnitude_pass": true, "calibration_2se": true}
