@@ -31,7 +31,7 @@ def espn():
     for lg, path in LEAGUES.items():
         for name in ("injuries", "scoreboard"):
             try:
-                r = requests.get(f"{ESPN}/{path}/{name}", headers=H, timeout=60)
+                r = requests.get(f"{ESPN}/{path}/{name}", timeout=60)   # ESPN 403s any custom User-Agent
                 if r.status_code == 200:
                     save(lg, name, r.json())
                 else:
