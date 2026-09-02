@@ -1,0 +1,25 @@
+name: pregame-states
+on:
+  schedule:
+    - cron: "30 15 * * *"    # 15:30 UTC daily, 9:30am MDT
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  states:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install requests
+      - run: python states_snapshot.py
+        env:
+          CFBD_KEY: ${{ secrets.CFBD_KEY }}
+      - name: commit
+        run: |
+          git config user.name "mbm-data"
+          git config user.email "mbm-data@users.noreply.github.com"
+          git add states cfbd
+          git commit -m "states $(date -u +%F)" || echo "nothing new"
+          git pull --rebase && git push
