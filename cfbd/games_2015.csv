@@ -1,0 +1,1539 @@
+year,season_type,id,week,startDate,neutralSite,homeTeam,homeConference,homePoints,awayTeam,awayConference,awayPoints
+2015,regular,400795501,1,2015-08-29T19:30:00.000Z,False,Montana,Big Sky,38,North Dakota State,MVFC,35
+2015,regular,400763593,1,2015-09-03T22:00:00.000Z,False,UCF,American Athletic,14,Florida International,Conference USA,15
+2015,regular,400603840,1,2015-09-03T22:00:00.000Z,True,South Carolina,SEC,17,North Carolina,ACC,13
+2015,regular,400756896,1,2015-09-03T23:00:00.000Z,False,Wake Forest,ACC,41,Elon,CAA,3
+2015,regular,400799035,1,2015-09-03T23:00:00.000Z,False,Samford,Southern,45,Central Arkansas,Southland,16
+2015,regular,400795587,1,2015-09-03T23:00:00.000Z,False,Charleston Southern,Big South,41,North Greenville,Independent DII,14
+2015,regular,400799924,1,2015-09-03T23:00:00.000Z,False,Northwestern State,Southland,20,SE Louisiana,Southland,34
+2015,regular,400795765,1,2015-09-03T23:00:00.000Z,False,Eastern Kentucky,OVC,52,Valparaiso,Pioneer,10
+2015,regular,400787299,1,2015-09-03T23:00:00.000Z,False,Ball State,Mid-American,48,VMI,Southern,36
+2015,regular,400795766,1,2015-09-03T23:00:00.000Z,False,Murray State,OVC,52,Kentucky Wesleyan,Independent DII,12
+2015,regular,400763399,1,2015-09-03T23:00:00.000Z,False,Central Michigan,Mid-American,13,Oklahoma State,Big 12,24
+2015,regular,400799864,1,2015-09-03T23:00:00.000Z,False,Campbell,Pioneer,41,Pikeville,,20
+2015,regular,400795494,1,2015-09-03T23:00:00.000Z,False,Western Illinois,MVFC,33,Eastern Illinois,OVC,5
+2015,regular,400764854,1,2015-09-03T23:30:00.000Z,False,UConn,American Athletic,20,Villanova,CAA,15
+2015,regular,400795577,1,2015-09-03T23:30:00.000Z,True,East Tennessee State,FCS Independents,16,Kennesaw State,Big South,56
+2015,regular,400756895,1,2015-09-03T23:30:00.000Z,False,Georgia Tech,ACC,69,Alcorn State,SWAC,6
+2015,regular,400603839,1,2015-09-04T00:00:00.000Z,False,Vanderbilt,SEC,12,Western Kentucky,Conference USA,14
+2015,regular,400756883,1,2015-09-04T00:30:00.000Z,False,Utah,Pac-12,24,Michigan,Big Ten,17
+2015,regular,400787302,1,2015-09-04T01:00:00.000Z,False,Idaho,Sun Belt,28,Ohio,Mid-American,45
+2015,regular,400763398,1,2015-09-04T01:00:00.000Z,False,Minnesota,Big Ten,17,TCU,Big 12,23
+2015,regular,400787110,1,2015-09-04T01:00:00.000Z,False,Utah State,Mountain West,12,Southern Utah,Big Sky,9
+2015,regular,400795502,1,2015-09-04T01:05:00.000Z,False,Montana State,Big Sky,45,Fort Lewis,Rocky Mountain,14
+2015,regular,400756894,1,2015-09-04T01:30:00.000Z,False,Tulane,American Athletic,7,Duke,ACC,37
+2015,regular,400787109,1,2015-09-04T02:00:00.000Z,False,San José State,Mountain West,43,New Hampshire,CAA,13
+2015,regular,400756882,1,2015-09-04T02:00:00.000Z,False,Arizona,Pac-12,42,UTSA,Conference USA,32
+2015,regular,400799923,1,2015-09-04T02:00:00.000Z,False,Fresno State,Mountain West,34,Abilene Christian,Southland,13
+2015,regular,400787108,1,2015-09-04T02:00:00.000Z,False,Nevada,Mountain West,31,UC Davis,Big Sky,17
+2015,regular,400787107,1,2015-09-04T05:00:00.000Z,False,Hawai'i,Mountain West,28,Colorado,Pac-12,20
+2015,regular,400763587,1,2015-09-04T19:30:00.000Z,False,Georgia State,Sun Belt,20,Charlotte,Conference USA,23
+2015,regular,400799427,1,2015-09-04T23:00:00.000Z,False,Central Connecticut,NEC,14,Lehigh,Patriot,20
+2015,regular,400763470,1,2015-09-04T23:00:00.000Z,False,Western Michigan,Mid-American,24,Michigan State,Big Ten,37
+2015,regular,400760491,1,2015-09-04T23:00:00.000Z,False,Army,FBS Independents,35,Fordham,Patriot,37
+2015,regular,400795631,1,2015-09-04T23:00:00.000Z,False,Delaware,CAA,14,Jacksonville,Pioneer,20
+2015,regular,400764855,1,2015-09-04T23:00:00.000Z,False,SMU,American Athletic,21,Baylor,Big 12,56
+2015,regular,400756903,1,2015-09-04T23:00:00.000Z,False,Syracuse,ACC,47,Rhode Island,CAA,0
+2015,regular,400756887,1,2015-09-05T00:00:00.000Z,False,Oregon State,Pac-12,26,Weber State,Big Sky,7
+2015,regular,400756888,1,2015-09-05T02:26:00.000Z,False,Boise State,Mountain West,16,Washington,Pac-12,13
+2015,regular,400763401,1,2015-09-05T16:00:00.000Z,False,Kansas,Big 12,38,South Dakota State,MVFC,41
+2015,regular,400799833,1,2015-09-05T16:00:00.000Z,False,Robert Morris,NEC,24,Dayton,Pioneer,27
+2015,regular,400799428,1,2015-09-05T16:00:00.000Z,False,Saint Francis,NEC,48,Georgetown,Patriot,20
+2015,regular,400764860,1,2015-09-05T16:00:00.000Z,False,Navy,American Athletic,48,Colgate,Patriot,10
+2015,regular,400763496,1,2015-09-05T16:00:00.000Z,True,Rutgers,Big Ten,63,Norfolk State,MEAC,13
+2015,regular,400603835,1,2015-09-05T16:00:00.000Z,False,Ole Miss,SEC,76,UT Martin,OVC,3
+2015,regular,400799832,1,2015-09-05T16:00:00.000Z,False,Duquesne,NEC,47,Kentucky Christian,,7
+2015,regular,400756891,1,2015-09-05T16:00:00.000Z,False,Northwestern,Big Ten,16,Stanford,Pac-12,6
+2015,regular,400763494,1,2015-09-05T16:00:00.000Z,False,Maryland,Big Ten,50,Richmond,CAA,21
+2015,regular,400603831,1,2015-09-05T16:00:00.000Z,False,Georgia,SEC,51,UL Monroe,Sun Belt,14
+2015,regular,400763473,1,2015-09-05T16:00:00.000Z,False,Iowa,Big Ten,31,Illinois State,MVFC,14
+2015,regular,400756898,1,2015-09-05T16:30:00.000Z,False,Clemson,ACC,49,Wofford,Southern,10
+2015,regular,400756902,1,2015-09-05T17:00:00.000Z,False,Pittsburgh,ACC,45,Youngstown State,MVFC,37
+2015,regular,400756897,1,2015-09-05T17:00:00.000Z,False,Boston College,ACC,24,Maine,CAA,3
+2015,regular,400795590,1,2015-09-05T17:00:00.000Z,True,Monmouth,Big South,19,Holy Cross,Patriot,27
+2015,regular,400756889,1,2015-09-05T18:00:00.000Z,False,Washington State,Pac-12,17,Portland State,Big Sky,24
+2015,regular,400835430,1,2015-09-05T18:00:00.000Z,False,Illinois,Big Ten,52,Kent State,Mid-American,3
+2015,regular,400799927,1,2015-09-05T19:00:00.000Z,False,Incarnate Word,Southland,18,Texas A&M-Kingsville,Lone Star,16
+2015,regular,400799831,1,2015-09-05T19:00:00.000Z,False,Bryant,NEC,27,American International,Northeast 10,3
+2015,regular,400795495,1,2015-09-05T19:05:00.000Z,False,Indiana State,MVFC,52,Butler,Pioneer,17
+2015,regular,400763588,1,2015-09-05T19:30:00.000Z,False,Eastern Michigan,Mid-American,34,Old Dominion,Conference USA,38
+2015,regular,400787303,1,2015-09-05T19:30:00.000Z,False,Buffalo,Mid-American,51,UAlbany,CAA,14
+2015,regular,400787304,1,2015-09-05T19:30:00.000Z,False,Miami (OH),Mid-American,26,Presbyterian,Big South,7
+2015,regular,400787111,1,2015-09-05T19:30:00.000Z,False,Air Force,Mountain West,63,Morgan State,MEAC,7
+2015,regular,400603828,1,2015-09-05T19:30:00.000Z,False,Arkansas,SEC,48,UTEP,Conference USA,13
+2015,regular,400756904,1,2015-09-05T19:30:00.000Z,False,UCLA,Pac-12,34,Virginia,ACC,16
+2015,regular,400603829,1,2015-09-05T19:30:00.000Z,True,Auburn,SEC,31,Louisville,ACC,24
+2015,regular,400763497,1,2015-09-05T19:30:00.000Z,False,Temple,American Athletic,27,Penn State,Big Ten,10
+2015,regular,400763592,1,2015-09-05T19:30:00.000Z,False,Tulsa,American Athletic,47,Florida Atlantic,Conference USA,44
+2015,regular,400763406,1,2015-09-05T19:30:00.000Z,False,Texas Tech,Big 12,59,Sam Houston,Southland,45
+2015,regular,400763495,1,2015-09-05T19:30:00.000Z,False,Nebraska,Big Ten,28,BYU,FBS Independents,33
+2015,regular,400787412,1,2015-09-05T19:30:00.000Z,False,App State,Sun Belt,49,Howard,MEAC,0
+2015,regular,400795504,1,2015-09-05T19:35:00.000Z,False,Northern Colorado,Big Sky,42,Western Colorado,Rocky Mountain,34
+2015,regular,400763472,1,2015-09-05T20:00:00.000Z,False,Indiana,Big Ten,48,Southern Illinois,MVFC,47
+2015,regular,400787112,1,2015-09-05T20:00:00.000Z,True,Colorado State,Mountain West,65,Savannah State,MEAC,13
+2015,regular,400787116,1,2015-09-05T20:00:00.000Z,False,Wyoming,Mountain West,13,North Dakota,Big Sky,24
+2015,regular,400603834,1,2015-09-05T20:00:00.000Z,False,Missouri,SEC,34,Southeast Missouri State,OVC,3
+2015,regular,400834350,1,2015-09-05T20:00:00.000Z,True,Tennessee,SEC,59,Bowling Green,Mid-American,30
+2015,regular,400763591,1,2015-09-05T20:40:00.000Z,False,Rice,Conference USA,56,Wagner,NEC,16
+2015,regular,400756890,1,2015-09-05T21:00:00.000Z,False,California,Pac-12,73,Grambling,SWAC,14
+2015,regular,400795767,1,2015-09-05T21:45:00.000Z,False,Austin Peay,OVC,7,Mercer,Southern,28
+2015,regular,400795633,1,2015-09-05T22:00:00.000Z,False,Lafayette,Patriot,7,William & Mary,CAA,34
+2015,regular,400799834,1,2015-09-05T22:00:00.000Z,False,Sacred Heart,NEC,43,Saint Anselm,Northeast 10,19
+2015,regular,400799043,1,2015-09-05T22:00:00.000Z,False,The Citadel,Southern,69,Davidson,Pioneer,0
+2015,regular,400795768,1,2015-09-05T22:00:00.000Z,False,Chattanooga,Southern,20,Jacksonville State,OVC,23
+2015,regular,400795632,1,2015-09-05T22:00:00.000Z,False,James Madison,CAA,56,Morehead State,Pioneer,7
+2015,regular,400764857,1,2015-09-05T22:00:00.000Z,False,East Carolina,American Athletic,28,Towson,CAA,20
+2015,regular,400799783,1,2015-09-05T22:00:00.000Z,False,North Carolina A&T,MEAC,61,Shaw,CIAA,7
+2015,regular,400787414,1,2015-09-05T22:00:00.000Z,True,South Alabama,Sun Belt,33,Gardner-Webb,Big South,23
+2015,regular,400756900,1,2015-09-05T22:00:00.000Z,False,Miami,ACC,45,Bethune-Cookman,MEAC,0
+2015,regular,400799781,1,2015-09-05T22:00:00.000Z,False,Hampton,MEAC,35,Kentucky State,SIAC,20
+2015,regular,400799429,1,2015-09-05T22:00:00.000Z,False,Bucknell,Patriot,17,Marist,Pioneer,0
+2015,regular,400799782,1,2015-09-05T22:00:00.000Z,False,North Carolina Central,MEAC,72,St. Augustine's,CIAA,0
+2015,regular,400756901,1,2015-09-05T22:00:00.000Z,False,NC State,ACC,49,Troy,Sun Belt,21
+2015,regular,400795503,1,2015-09-05T22:05:00.000Z,False,Idaho State,Big Sky,55,Black Hills State,Rocky Mountain,0
+2015,regular,400795588,1,2015-09-05T23:00:00.000Z,False,Furman,Southern,35,Coastal Carolina,Big South,38
+2015,regular,400795589,1,2015-09-05T23:00:00.000Z,False,Liberty,Big South,32,Delaware State,MEAC,13
+2015,regular,400799865,1,2015-09-05T23:00:00.000Z,False,Drake,Pioneer,44,William Jewell,Great Lakes,30
+2015,regular,400799052,1,2015-09-05T23:00:00.000Z,False,Western Carolina,Southern,42,Mars Hill,South Atlantic,14
+2015,regular,400799866,1,2015-09-05T23:00:00.000Z,False,Stetson,Pioneer,42,Webber International,,13
+2015,regular,400795505,1,2015-09-05T23:00:00.000Z,False,Stephen F. Austin,Southland,28,Northern Arizona,Big Sky,34
+2015,regular,400603838,1,2015-09-05T23:00:00.000Z,True,Texas A&M,SEC,38,Arizona State,Pac-12,17
+2015,regular,400763590,1,2015-09-05T23:00:00.000Z,False,Middle Tennessee,Conference USA,70,Jackson State,SWAC,14
+2015,regular,400764859,1,2015-09-05T23:00:00.000Z,False,Memphis,American Athletic,63,Missouri State,MVFC,7
+2015,regular,400763404,1,2015-09-05T23:00:00.000Z,False,Oklahoma,Big 12,41,Akron,Mid-American,3
+2015,regular,400603832,1,2015-09-05T23:00:00.000Z,False,Kentucky,SEC,40,Louisiana,Sun Belt,33
+2015,regular,400764861,1,2015-09-05T23:00:00.000Z,False,South Florida,American Athletic,51,Florida A&M,MEAC,3
+2015,regular,400763589,1,2015-09-05T23:00:00.000Z,False,Louisiana Tech,Conference USA,62,Southern,SWAC,15
+2015,regular,400763402,1,2015-09-05T23:10:00.000Z,False,Kansas State,Big 12,34,South Dakota,MVFC,0
+2015,regular,400763403,1,2015-09-05T23:30:00.000Z,False,Notre Dame,FBS Independents,38,Texas,Big 12,3
+2015,regular,400787115,1,2015-09-05T23:30:00.000Z,False,Northern Illinois,Mid-American,38,UNLV,Mountain West,30
+2015,regular,400763407,1,2015-09-05T23:30:00.000Z,False,West Virginia,Big 12,44,Georgia Southern,Sun Belt,0
+2015,regular,400603830,1,2015-09-05T23:30:00.000Z,False,Florida,SEC,61,New Mexico State,Sun Belt,13
+2015,regular,400603827,1,2015-09-06T00:00:00.000Z,True,Alabama,SEC,35,Wisconsin,Big Ten,17
+2015,regular,400799925,1,2015-09-06T00:00:00.000Z,False,Lamar,Southland,66,Bacone College,,3
+2015,regular,400799926,1,2015-09-06T00:00:00.000Z,False,Houston Christian,Southland,51,Bethany (KS),,7
+2015,regular,400764858,1,2015-09-06T00:00:00.000Z,False,Houston,American Athletic,52,Tennessee Tech,OVC,24
+2015,regular,400763400,1,2015-09-06T00:00:00.000Z,False,Iowa State,Big 12,31,Northern Iowa,MVFC,7
+2015,regular,400791346,1,2015-09-06T00:00:00.000Z,True,San Diego State,Mountain West,37,San Diego,Pioneer,3
+2015,regular,400756886,1,2015-09-06T00:00:00.000Z,False,Oregon,Pac-12,61,Eastern Washington,Big Sky,42
+2015,regular,400787114,1,2015-09-06T00:05:00.000Z,False,New Mexico,Mountain West,66,Mississippi Valley State,SWAC,0
+2015,regular,400764856,1,2015-09-06T00:45:00.000Z,False,Cincinnati,American Athletic,52,Alabama A&M,SWAC,10
+2015,regular,400799676,1,2015-09-06T01:00:00.000Z,False,Texas Southern,SWAC,11,Prairie View A&M,SWAC,38
+2015,regular,400795508,1,2015-09-06T01:00:00.000Z,False,Montana,Big Sky,19,Cal Poly,Big Sky,20
+2015,regular,400756899,1,2015-09-06T01:03:00.000Z,False,Florida State,ACC,59,Texas State,Sun Belt,16
+2015,regular,400795506,1,2015-09-06T01:05:00.000Z,False,Sacramento State,Big Sky,41,Eastern Oregon,,20
+2015,regular,400603836,1,2015-09-06T02:00:00.000Z,False,Southern Miss,Conference USA,16,Mississippi State,SEC,34
+2015,regular,400756884,1,2015-09-06T03:00:00.000Z,False,USC,Pac-12,55,Arkansas State,Sun Belt,6
+2015,regular,400763498,1,2015-09-06T19:00:00.000Z,False,Marshall,Conference USA,41,Purdue,Big Ten,31
+2015,regular,400796441,1,2015-09-06T19:30:00.000Z,True,South Carolina State,MEAC,35,Arkansas-Pine Bluff,SWAC,7
+2015,regular,400795769,1,2015-09-06T23:00:00.000Z,False,Tennessee State,OVC,24,Alabama State,SWAC,14
+2015,regular,400756905,1,2015-09-08T00:00:00.000Z,False,Virginia Tech,ACC,24,Ohio State,Big Ten,42
+2015,regular,400799673,2,2015-09-10T23:30:00.000Z,False,Mississippi Valley State,SWAC,13,Southern,SWAC,50
+2015,regular,400795578,2,2015-09-10T23:30:00.000Z,True,East Tennessee State,FCS Independents,21,Maryville (TN),USA South,28
+2015,regular,400795770,2,2015-09-10T23:30:00.000Z,False,UT Martin,OVC,72,Bethel University Tennessee,,10
+2015,regular,400763599,2,2015-09-11T00:00:00.000Z,False,Western Kentucky,Conference USA,41,Louisiana Tech,Conference USA,38
+2015,regular,400756912,2,2015-09-12T00:00:00.000Z,False,Florida Atlantic,Conference USA,20,Miami,ACC,44
+2015,regular,400799680,2,2015-09-12T00:00:00.000Z,False,Texas Southern,SWAC,63,Bacone College,,0
+2015,regular,400787981,2,2015-09-12T01:00:00.000Z,False,Utah,Pac-12,24,Utah State,Mountain West,14
+2015,regular,400792601,2,2015-09-12T15:30:00.000Z,False,Florida State,ACC,34,South Florida,American Athletic,14
+2015,regular,400760492,2,2015-09-12T16:00:00.000Z,False,UConn,American Athletic,22,Army,FBS Independents,17
+2015,regular,400763500,2,2015-09-12T16:00:00.000Z,False,Illinois,Big Ten,44,Western Illinois,MVFC,0
+2015,regular,400763508,2,2015-09-12T16:00:00.000Z,False,Wisconsin,Big Ten,58,Miami (OH),Mid-American,0
+2015,regular,400795638,2,2015-09-12T16:00:00.000Z,False,Hampton,MEAC,28,Richmond,CAA,31
+2015,regular,400763594,2,2015-09-12T16:00:00.000Z,False,Charlotte,Conference USA,34,Presbyterian,Big South,10
+2015,regular,400603863,2,2015-09-12T16:00:00.000Z,False,Auburn,SEC,27,Jacksonville State,OVC,20
+2015,regular,400763507,2,2015-09-12T16:00:00.000Z,False,Purdue,Big Ten,38,Indiana State,MVFC,14
+2015,regular,400763414,2,2015-09-12T16:00:00.000Z,False,UTSA,Conference USA,3,Kansas State,Big 12,30
+2015,regular,400763502,2,2015-09-12T16:00:00.000Z,False,Maryland,Big Ten,27,Bowling Green,Mid-American,48
+2015,regular,400763506,2,2015-09-12T16:00:00.000Z,False,Penn State,Big Ten,27,Buffalo,Mid-American,14
+2015,regular,400757019,2,2015-09-12T16:00:00.000Z,False,Michigan,Big Ten,35,Oregon State,Pac-12,7
+2015,regular,400756911,2,2015-09-12T16:00:00.000Z,False,Louisville,ACC,31,Houston,American Athletic,34
+2015,regular,400756907,2,2015-09-12T16:30:00.000Z,False,Clemson,ACC,41,App State,Sun Belt,10
+2015,regular,400756916,2,2015-09-12T16:30:00.000Z,False,Syracuse,ACC,30,Wake Forest,ACC,17
+2015,regular,400799870,2,2015-09-12T17:00:00.000Z,False,Newberry,South Atlantic,14,Jacksonville,Pioneer,17
+2015,regular,400798994,2,2015-09-12T17:00:00.000Z,False,Chattanooga,Southern,44,Mars Hill,South Atlantic,34
+2015,regular,400756906,2,2015-09-12T17:00:00.000Z,False,Boston College,ACC,76,Howard,MEAC,0
+2015,regular,400799048,2,2015-09-12T17:30:00.000Z,False,VMI,Southern,43,Morehead State,Pioneer,40
+2015,regular,400757020,2,2015-09-12T18:00:00.000Z,False,Washington,Pac-12,49,Sacramento State,Big Sky,0
+2015,regular,400795509,2,2015-09-12T18:00:00.000Z,False,Northern Iowa,MVFC,38,Eastern Washington,Big Sky,35
+2015,regular,400799835,2,2015-09-12T18:00:00.000Z,False,Valparaiso,Pioneer,3,Sacred Heart,NEC,56
+2015,regular,400757016,2,2015-09-12T18:00:00.000Z,False,Colorado,Pac-12,48,Massachusetts,Mid-American,14
+2015,regular,400763415,2,2015-09-12T19:00:00.000Z,False,Texas Tech,Big 12,69,UTEP,Conference USA,20
+2015,regular,400763416,2,2015-09-12T19:00:00.000Z,False,West Virginia,Big 12,41,Liberty,Big South,17
+2015,regular,400795499,2,2015-09-12T19:00:00.000Z,False,Missouri State,MVFC,21,Chadron State,Rocky Mountain,13
+2015,regular,400799036,2,2015-09-12T19:00:00.000Z,False,Samford,Southern,58,Florida A&M,MEAC,21
+2015,regular,400787306,2,2015-09-12T19:00:00.000Z,False,Central Michigan,Mid-American,31,Monmouth,Big South,10
+2015,regular,400763412,2,2015-09-12T19:30:00.000Z,False,TCU,Big 12,70,Stephen F. Austin,Southland,7
+2015,regular,400763505,2,2015-09-12T19:30:00.000Z,False,Ohio State,Big Ten,38,Hawai'i,Mountain West,0
+2015,regular,400787307,2,2015-09-12T19:30:00.000Z,False,Northern Illinois,Mid-American,57,Murray State,OVC,26
+2015,regular,400756918,2,2015-09-12T19:30:00.000Z,False,Virginia Tech,ACC,42,Furman,Southern,3
+2015,regular,400763598,2,2015-09-12T19:30:00.000Z,False,Southern Miss,Conference USA,52,Austin Peay,OVC,6
+2015,regular,400603866,2,2015-09-12T19:30:00.000Z,False,Ole Miss,SEC,73,Fresno State,Mountain West,21
+2015,regular,400795515,2,2015-09-12T19:30:00.000Z,False,North Dakota State,MVFC,41,Weber State,Big Sky,14
+2015,regular,400757021,2,2015-09-12T19:30:00.000Z,False,Rutgers,Big Ten,34,Washington State,Pac-12,37
+2015,regular,400756910,2,2015-09-12T19:30:00.000Z,False,Georgia Tech,ACC,65,Tulane,American Athletic,10
+2015,regular,400603870,2,2015-09-12T19:30:00.000Z,False,Vanderbilt,SEC,14,Georgia,SEC,31
+2015,regular,400756917,2,2015-09-12T19:30:00.000Z,False,Virginia,ACC,27,Notre Dame,FBS Independents,34
+2015,regular,400763499,2,2015-09-12T19:30:00.000Z,False,Colorado State,Mountain West,20,Minnesota,Big Ten,23
+2015,regular,400795634,2,2015-09-12T19:30:00.000Z,False,UAlbany,CAA,35,Rhode Island,CAA,7
+2015,regular,400795636,2,2015-09-12T20:00:00.000Z,False,James Madison,CAA,55,Lehigh,Patriot,17
+2015,regular,400787119,2,2015-09-12T20:00:00.000Z,False,Wyoming,Mountain West,29,Eastern Michigan,Mid-American,48
+2015,regular,400603861,2,2015-09-12T20:00:00.000Z,False,Arkansas,SEC,12,Toledo,Mid-American,16
+2015,regular,400763504,2,2015-09-12T20:00:00.000Z,False,Northwestern,Big Ten,41,Eastern Illinois,OVC,0
+2015,regular,400603860,2,2015-09-12T20:00:00.000Z,False,Alabama,SEC,37,Middle Tennessee,Conference USA,10
+2015,regular,400795593,2,2015-09-12T20:00:00.000Z,False,Kennesaw State,Big South,58,Edward Waters,SIAC,7
+2015,regular,400763409,2,2015-09-12T20:45:00.000Z,False,Iowa State,Big 12,17,Iowa,Big Ten,31
+2015,regular,400757022,2,2015-09-12T21:00:00.000Z,False,California,Pac-12,35,San Diego State,Mountain West,7
+2015,regular,400799868,2,2015-09-12T22:00:00.000Z,False,Campbell,Pioneer,35,Chowan,CIAA,3
+2015,regular,400795640,2,2015-09-12T22:00:00.000Z,False,Towson,CAA,35,Saint Francis,NEC,20
+2015,regular,400795641,2,2015-09-12T22:00:00.000Z,True,Fordham,Patriot,7,Villanova,CAA,14
+2015,regular,400795639,2,2015-09-12T22:00:00.000Z,False,Stony Brook,CAA,38,Central Connecticut,NEC,9
+2015,regular,400799430,2,2015-09-12T22:00:00.000Z,False,Georgetown,Patriot,34,Marist,Pioneer,7
+2015,regular,400795637,2,2015-09-12T22:00:00.000Z,False,Colgate,Patriot,8,New Hampshire,CAA,26
+2015,regular,400603868,2,2015-09-12T22:00:00.000Z,False,Tennessee,SEC,24,Oklahoma,Big 12,31
+2015,regular,400799044,2,2015-09-12T22:00:00.000Z,False,The Citadel,Southern,28,Western Carolina,Southern,10
+2015,regular,400799029,2,2015-09-12T22:00:00.000Z,False,Mercer,Southern,57,Stetson,Pioneer,14
+2015,regular,400795592,2,2015-09-12T22:00:00.000Z,False,Gardner-Webb,Big South,13,Elon,CAA,21
+2015,regular,400795635,2,2015-09-12T22:00:00.000Z,False,Delaware,CAA,19,Lafayette,Patriot,9
+2015,regular,400795591,2,2015-09-12T22:00:00.000Z,False,South Carolina State,MEAC,14,Coastal Carolina,Big South,41
+2015,regular,400795511,2,2015-09-12T22:00:00.000Z,False,North Dakota,Big Sky,21,Drake,Pioneer,18
+2015,regular,400756914,2,2015-09-12T22:00:00.000Z,False,NC State,ACC,35,Eastern Kentucky,OVC,0
+2015,regular,400756913,2,2015-09-12T22:00:00.000Z,False,North Carolina,ACC,53,North Carolina A&T,MEAC,14
+2015,regular,400756908,2,2015-09-12T22:00:00.000Z,False,Duke,ACC,55,North Carolina Central,MEAC,0
+2015,regular,400799431,2,2015-09-12T22:00:00.000Z,False,Bucknell,Patriot,7,Duquesne,NEC,26
+2015,regular,400756915,2,2015-09-12T22:00:00.000Z,False,Akron,Mid-American,7,Pittsburgh,ACC,24
+2015,regular,400787305,2,2015-09-12T22:00:00.000Z,False,Kent State,Mid-American,45,Delaware State,MEAC,13
+2015,regular,400787308,2,2015-09-12T22:00:00.000Z,False,Georgia Southern,Sun Belt,43,Western Michigan,Mid-American,17
+2015,regular,400795510,2,2015-09-12T22:05:00.000Z,False,Idaho State,Big Sky,14,Portland State,Big Sky,34
+2015,regular,400799867,2,2015-09-12T22:30:00.000Z,False,Butler,Pioneer,41,Franklin,Heartland,14
+2015,regular,400756892,2,2015-09-12T23:00:00.000Z,False,Nevada,Mountain West,20,Arizona,Pac-12,44
+2015,regular,400795772,2,2015-09-12T23:00:00.000Z,True,Jackson State,SWAC,25,Tennessee State,OVC,35
+2015,regular,400799639,2,2015-09-12T23:00:00.000Z,False,Alabama State,SWAC,14,Alcorn State,SWAC,31
+2015,regular,400799656,2,2015-09-12T23:00:00.000Z,False,Arkansas-Pine Bluff,SWAC,29,Morehouse,SIAC,27
+2015,regular,400795771,2,2015-09-12T23:00:00.000Z,False,Wofford,Southern,34,Tennessee Tech,OVC,14
+2015,regular,400603862,2,2015-09-12T23:00:00.000Z,False,Arkansas State,Sun Belt,20,Missouri,SEC,27
+2015,regular,400795498,2,2015-09-12T23:00:00.000Z,False,Youngstown State,MVFC,21,Robert Morris,NEC,14
+2015,regular,400763595,2,2015-09-12T23:00:00.000Z,False,Ohio,Mid-American,21,Marshall,Conference USA,10
+2015,regular,400795513,2,2015-09-12T23:00:00.000Z,False,Northern Arizona,Big Sky,41,New Mexico Highlands,Rocky Mountain,5
+2015,regular,400795512,2,2015-09-12T23:00:00.000Z,True,South Dakota State,MVFC,55,Southern Utah,Big Sky,10
+2015,regular,400795496,2,2015-09-12T23:00:00.000Z,True,Southeast Missouri State,OVC,27,Southern Illinois,MVFC,24
+2015,regular,400603869,2,2015-09-12T23:00:00.000Z,False,Texas A&M,SEC,56,Ball State,Mid-American,23
+2015,regular,400763410,2,2015-09-12T23:00:00.000Z,False,Kansas,Big 12,23,Memphis,American Athletic,55
+2015,regular,400787418,2,2015-09-12T23:00:00.000Z,False,Texas State,Sun Belt,63,Prairie View A&M,SWAC,24
+2015,regular,400799663,2,2015-09-12T23:00:00.000Z,False,Grambling,SWAC,53,Bethune-Cookman,MEAC,56
+2015,regular,400787419,2,2015-09-12T23:00:00.000Z,False,Troy,Sun Belt,44,Charleston Southern,Big South,16
+2015,regular,400603864,2,2015-09-12T23:00:00.000Z,False,Florida,SEC,31,East Carolina,American Athletic,24
+2015,regular,400763597,2,2015-09-12T23:00:00.000Z,False,SMU,American Athletic,31,North Texas,Conference USA,13
+2015,regular,400787417,2,2015-09-12T23:00:00.000Z,False,UL Monroe,Sun Belt,47,Nicholls,Southland,0
+2015,regular,400799928,2,2015-09-12T23:00:00.000Z,False,McNeese,Southland,43,Incarnate Word,Southland,6
+2015,regular,400787416,2,2015-09-12T23:00:00.000Z,False,Louisiana,Sun Belt,44,Northwestern State,Southland,17
+2015,regular,400799869,2,2015-09-12T23:00:00.000Z,False,Davidson,Pioneer,21,Catawba,South Atlantic,35
+2015,regular,400763596,2,2015-09-12T23:15:00.000Z,False,Old Dominion,Conference USA,24,Norfolk State,MEAC,10
+2015,regular,400795497,2,2015-09-12T23:30:00.000Z,False,Illinois State,MVFC,67,Morgan State,MEAC,14
+2015,regular,400763411,2,2015-09-12T23:30:00.000Z,False,Oklahoma State,Big 12,32,Central Arkansas,Southland,8
+2015,regular,400603867,2,2015-09-12T23:30:00.000Z,False,South Carolina,SEC,22,Kentucky,SEC,26
+2015,regular,400763408,2,2015-09-12T23:30:00.000Z,False,Baylor,Big 12,66,Lamar,Southland,31
+2015,regular,400757018,2,2015-09-13T00:00:00.000Z,False,Michigan State,Big Ten,31,Oregon,Pac-12,28
+2015,regular,400787415,2,2015-09-13T00:00:00.000Z,False,New Mexico State,Sun Belt,32,Georgia State,Sun Belt,34
+2015,regular,400764863,2,2015-09-13T00:00:00.000Z,False,New Mexico,Mountain West,21,Tulsa,American Athletic,40
+2015,regular,400757014,2,2015-09-13T00:00:00.000Z,False,USC,Pac-12,59,Idaho,Sun Belt,9
+2015,regular,400763501,2,2015-09-13T00:00:00.000Z,False,Indiana,Big Ten,36,Florida International,Conference USA,22
+2015,regular,400763413,2,2015-09-13T00:00:00.000Z,False,Texas,Big 12,42,Rice,Conference USA,28
+2015,regular,400763503,2,2015-09-13T00:00:00.000Z,False,Nebraska,Big Ten,48,South Alabama,Sun Belt,9
+2015,regular,400799929,2,2015-09-13T00:00:00.000Z,False,SE Louisiana,Southland,28,Florida Tech,Gulf South,17
+2015,regular,400795514,2,2015-09-13T00:00:00.000Z,False,Houston Christian,Southland,10,Northern Colorado,Big Sky,34
+2015,regular,400764862,2,2015-09-13T00:00:00.000Z,False,Cincinnati,American Athletic,26,Temple,American Athletic,34
+2015,regular,400795516,2,2015-09-13T01:00:00.000Z,False,UC Davis,Big Sky,17,South Dakota,MVFC,27
+2015,regular,400799871,2,2015-09-13T01:00:00.000Z,False,San Diego,Pioneer,45,Western New Mexico,Rocky Mountain,21
+2015,regular,400603865,2,2015-09-13T01:15:00.000Z,False,Mississippi State,SEC,19,LSU,SEC,21
+2015,regular,400787117,2,2015-09-13T02:15:00.000Z,False,Air Force,Mountain West,37,San José State,Mountain West,16
+2015,regular,400787118,2,2015-09-13T02:15:00.000Z,False,BYU,FBS Independents,35,Boise State,Mountain West,24
+2015,regular,400757015,2,2015-09-13T02:30:00.000Z,False,UNLV,Mountain West,3,UCLA,Pac-12,37
+2015,regular,400757023,2,2015-09-13T02:30:00.000Z,False,Stanford,Pac-12,31,UCF,American Athletic,7
+2015,regular,400756893,2,2015-09-13T03:00:00.000Z,False,Arizona State,Pac-12,35,Cal Poly,Big Sky,21
+2015,regular,400795579,3,2015-09-17T23:00:00.000Z,False,Charleston Southern,Big South,47,East Tennessee State,FCS Independents,7
+2015,regular,400756919,3,2015-09-17T23:30:00.000Z,False,Louisville,ACC,17,Clemson,ACC,20
+2015,regular,400799788,3,2015-09-17T23:30:00.000Z,False,South Carolina State,MEAC,36,Florida A&M,MEAC,0
+2015,regular,400799784,3,2015-09-18T23:30:00.000Z,True,Hampton,MEAC,37,Howard,MEAC,19
+2015,regular,400756920,3,2015-09-19T00:00:00.000Z,False,Boston College,ACC,0,Florida State,ACC,14
+2015,regular,400787120,3,2015-09-19T01:00:00.000Z,False,Boise State,Mountain West,52,Idaho State,Big Sky,0
+2015,regular,400787241,3,2015-09-19T02:00:00.000Z,False,Arizona State,Pac-12,34,New Mexico,Mountain West,10
+2015,regular,400756930,3,2015-09-19T16:00:00.000Z,False,Army,FBS Independents,14,Wake Forest,ACC,17
+2015,regular,400787310,3,2015-09-19T16:00:00.000Z,False,Akron,Mid-American,52,Savannah State,MEAC,9
+2015,regular,400763512,3,2015-09-19T16:00:00.000Z,False,Michigan State,Big Ten,35,Air Force,Mountain West,21
+2015,regular,400756924,3,2015-09-19T16:00:00.000Z,False,North Carolina,ACC,48,Illinois,Big Ten,14
+2015,regular,400799432,3,2015-09-19T16:00:00.000Z,False,Georgetown,Patriot,10,Dartmouth,Ivy,31
+2015,regular,400795644,3,2015-09-19T16:00:00.000Z,False,Villanova,CAA,28,Delaware,CAA,21
+2015,regular,400763600,3,2015-09-19T16:00:00.000Z,False,Florida Atlantic,Conference USA,15,Buffalo,Mid-American,33
+2015,regular,400763510,3,2015-09-19T16:00:00.000Z,False,Maryland,Big Ten,35,South Florida,American Athletic,17
+2015,regular,400763513,3,2015-09-19T16:00:00.000Z,False,Minnesota,Big Ten,10,Kent State,Mid-American,7
+2015,regular,400763418,3,2015-09-19T16:00:00.000Z,False,Oklahoma,Big 12,52,Tulsa,American Athletic,38
+2015,regular,400603856,3,2015-09-19T16:00:00.000Z,False,Missouri,SEC,9,UConn,American Athletic,6
+2015,regular,400603858,3,2015-09-19T16:00:00.000Z,False,Texas A&M,SEC,44,Nevada,Mountain West,27
+2015,regular,400763511,3,2015-09-19T16:00:00.000Z,False,Michigan,Big Ten,28,UNLV,Mountain West,7
+2015,regular,400799437,3,2015-09-19T16:30:00.000Z,False,Lehigh,Patriot,42,Pennsylvania,Ivy,21
+2015,regular,400756921,3,2015-09-19T16:30:00.000Z,False,Duke,ACC,10,Northwestern,Big Ten,19
+2015,regular,400756927,3,2015-09-19T16:30:00.000Z,False,Syracuse,ACC,30,Central Michigan,Mid-American,27
+2015,regular,400799596,3,2015-09-19T16:30:00.000Z,False,Brown,Ivy,16,Bryant,NEC,20
+2015,regular,400799433,3,2015-09-19T17:00:00.000Z,True,Fordham,Patriot,44,Columbia,Ivy,24
+2015,regular,400795596,3,2015-09-19T17:00:00.000Z,False,Kennesaw State,Big South,18,Shorter,Gulf South,10
+2015,regular,400799434,3,2015-09-19T17:00:00.000Z,False,Colgate,Patriot,28,Yale,Ivy,29
+2015,regular,400799837,3,2015-09-19T17:00:00.000Z,False,Dayton,Pioneer,24,Duquesne,NEC,13
+2015,regular,400795646,3,2015-09-19T17:00:00.000Z,False,Rhode Island,CAA,10,Harvard,Ivy,41
+2015,regular,400787309,3,2015-09-19T18:00:00.000Z,False,Ohio,Mid-American,35,SE Louisiana,Southland,14
+2015,regular,400795773,3,2015-09-19T18:00:00.000Z,False,Jacksonville State,OVC,48,Tennessee State,OVC,13
+2015,regular,400799786,3,2015-09-19T18:00:00.000Z,False,Delaware State,MEAC,30,Chowan,CIAA,31
+2015,regular,400757030,3,2015-09-19T18:00:00.000Z,False,Oregon,Pac-12,61,Georgia State,Sun Belt,28
+2015,regular,400763605,3,2015-09-19T18:30:00.000Z,False,North Texas,Conference USA,24,Rice,Conference USA,38
+2015,regular,400764864,3,2015-09-19T19:00:00.000Z,False,Bowling Green,Mid-American,41,Memphis,American Athletic,44
+2015,regular,400795642,3,2015-09-19T19:00:00.000Z,False,James Madison,CAA,42,UAlbany,CAA,28
+2015,regular,400799839,3,2015-09-19T19:00:00.000Z,False,Robert Morris,NEC,35,Notre Dame College,Mountain East,24
+2015,regular,400799436,3,2015-09-19T19:00:00.000Z,False,Cornell,Ivy,14,Bucknell,Patriot,19
+2015,regular,400799931,3,2015-09-19T19:00:00.000Z,False,Incarnate Word,Southland,20,Nicholls,Southland,10
+2015,regular,400764869,3,2015-09-19T19:00:00.000Z,False,Massachusetts,Mid-American,23,Temple,American Athletic,25
+2015,regular,400795723,3,2015-09-19T19:00:00.000Z,False,South Dakota,MVFC,52,Drake,Pioneer,0
+2015,regular,400763417,3,2015-09-19T19:00:00.000Z,False,Kansas State,Big 12,39,Louisiana Tech,Conference USA,33
+2015,regular,400787311,3,2015-09-19T19:00:00.000Z,False,Eastern Michigan,Mid-American,17,Ball State,Mid-American,28
+2015,regular,400795722,3,2015-09-19T19:05:00.000Z,False,Indiana State,MVFC,29,Southeast Missouri State,OVC,28
+2015,regular,400756928,3,2015-09-19T19:30:00.000Z,False,Virginia,ACC,35,William & Mary,CAA,29
+2015,regular,400756929,3,2015-09-19T19:30:00.000Z,False,Purdue,Big Ten,24,Virginia Tech,ACC,51
+2015,regular,400798995,3,2015-09-19T19:30:00.000Z,False,Samford,Southern,21,Chattanooga,Southern,31
+2015,regular,400756923,3,2015-09-19T19:30:00.000Z,False,Miami,ACC,36,Nebraska,Big Ten,33
+2015,regular,400763602,3,2015-09-19T19:30:00.000Z,False,Marshall,Conference USA,45,Norfolk State,MEAC,7
+2015,regular,400795520,3,2015-09-19T19:30:00.000Z,False,North Dakota State,MVFC,34,North Dakota,Big Sky,9
+2015,regular,400764866,3,2015-09-19T19:30:00.000Z,False,Navy,American Athletic,45,East Carolina,American Athletic,21
+2015,regular,400763516,3,2015-09-19T19:30:00.000Z,False,Wisconsin,Big Ten,28,Troy,Sun Belt,3
+2015,regular,400763419,3,2015-09-19T19:30:00.000Z,False,Oklahoma State,Big 12,69,UTSA,Conference USA,14
+2015,regular,400756922,3,2015-09-19T19:30:00.000Z,False,Notre Dame,FBS Independents,30,Georgia Tech,ACC,22
+2015,regular,400764865,3,2015-09-19T19:30:00.000Z,False,Miami (OH),Mid-American,33,Cincinnati,American Athletic,37
+2015,regular,400603854,3,2015-09-19T19:30:00.000Z,False,LSU,SEC,45,Auburn,SEC,21
+2015,regular,400763514,3,2015-09-19T19:30:00.000Z,False,Ohio State,Big Ten,20,Northern Illinois,Mid-American,13
+2015,regular,400763509,3,2015-09-19T20:00:00.000Z,False,Indiana,Big Ten,38,Western Kentucky,Conference USA,35
+2015,regular,400795500,3,2015-09-19T20:00:00.000Z,False,Youngstown State,MVFC,48,Saint Francis,NEC,3
+2015,regular,400603859,3,2015-09-19T20:00:00.000Z,False,Vanderbilt,SEC,47,Austin Peay,OVC,7
+2015,regular,400799785,3,2015-09-19T20:00:00.000Z,False,Bethune-Cookman,MEAC,7,Lane College,SIAC,3
+2015,regular,400603855,3,2015-09-19T20:00:00.000Z,False,Mississippi State,SEC,62,Northwestern State,Southland,13
+2015,regular,400795517,3,2015-09-19T20:05:00.000Z,False,Eastern Washington,Big Sky,55,Montana State,Big Sky,50
+2015,regular,400787442,3,2015-09-19T21:00:00.000Z,False,Idaho,Sun Belt,41,Wofford,Southern,38
+2015,regular,400799648,3,2015-09-19T21:00:00.000Z,False,Alcorn State,SWAC,55,Mississippi Valley State,SWAC,14
+2015,regular,400757032,3,2015-09-19T21:00:00.000Z,False,Washington,Pac-12,31,Utah State,Mountain West,17
+2015,regular,400799838,3,2015-09-19T22:00:00.000Z,False,Marist,Pioneer,34,Sacred Heart,NEC,27
+2015,regular,400763601,3,2015-09-19T22:00:00.000Z,False,Florida International,Conference USA,39,North Carolina Central,MEAC,14
+2015,regular,400795648,3,2015-09-19T22:00:00.000Z,False,Towson,CAA,29,Holy Cross,Patriot,26
+2015,regular,400799669,3,2015-09-19T22:00:00.000Z,False,Southern,SWAC,50,Jackson State,SWAC,31
+2015,regular,400787441,3,2015-09-19T22:00:00.000Z,False,Georgia Southern,Sun Belt,48,The Citadel,Southern,13
+2015,regular,400795645,3,2015-09-19T22:00:00.000Z,False,Elon,CAA,7,North Carolina A&T,MEAC,14
+2015,regular,400764868,3,2015-09-19T22:00:00.000Z,False,UCF,American Athletic,15,Furman,Southern,16
+2015,regular,400795597,3,2015-09-19T22:00:00.000Z,False,Wagner,NEC,16,Monmouth,Big South,31
+2015,regular,400799435,3,2015-09-19T22:00:00.000Z,False,Lafayette,Patriot,7,Princeton,Ivy,40
+2015,regular,400795594,3,2015-09-19T22:00:00.000Z,False,Coastal Carolina,Big South,34,Western Illinois,MVFC,27
+2015,regular,400795647,3,2015-09-19T22:00:00.000Z,False,Richmond,CAA,42,VMI,Southern,10
+2015,regular,400795595,3,2015-09-19T22:00:00.000Z,False,Gardner-Webb,Big South,13,Virginia Union,CIAA,9
+2015,regular,400603852,3,2015-09-19T22:00:00.000Z,False,Georgia,SEC,52,South Carolina,SEC,20
+2015,regular,400763603,3,2015-09-19T23:00:00.000Z,False,Middle Tennessee,Conference USA,73,Charlotte,Conference USA,14
+2015,regular,400763606,3,2015-09-19T23:00:00.000Z,False,Texas State,Sun Belt,50,Southern Miss,Conference USA,56
+2015,regular,400799657,3,2015-09-19T23:00:00.000Z,False,Arkansas-Pine Bluff,SWAC,20,Texas Southern,SWAC,24
+2015,regular,400799930,3,2015-09-19T23:00:00.000Z,True,Abilene Christian,Southland,49,Houston Christian,Southland,21
+2015,regular,400603851,3,2015-09-19T23:00:00.000Z,False,Arkansas,SEC,24,Texas Tech,Big 12,35
+2015,regular,400757028,3,2015-09-19T23:00:00.000Z,True,Colorado State,Mountain West,24,Colorado,Pac-12,27
+2015,regular,400799836,3,2015-09-19T23:00:00.000Z,False,Central Connecticut,NEC,21,Bowie State,CIAA,14
+2015,regular,400787420,3,2015-09-19T23:00:00.000Z,False,Arkansas State,Sun Belt,70,Missouri State,MVFC,7
+2015,regular,400799640,3,2015-09-19T23:00:00.000Z,False,Alabama State,SWAC,10,Grambling,SWAC,34
+2015,regular,400795774,3,2015-09-19T23:00:00.000Z,False,Tennessee Tech,OVC,29,Mercer,Southern,22
+2015,regular,400603857,3,2015-09-19T23:00:00.000Z,False,Tennessee,SEC,55,Western Carolina,Southern,10
+2015,regular,400799932,3,2015-09-19T23:00:00.000Z,False,Sam Houston,Southland,46,Lamar,Southland,49
+2015,regular,400795519,3,2015-09-19T23:00:00.000Z,False,Liberty,Big South,31,Montana,Big Sky,21
+2015,regular,400787312,3,2015-09-19T23:00:00.000Z,False,Western Michigan,Mid-American,52,Murray State,OVC,20
+2015,regular,400795598,3,2015-09-19T23:00:00.000Z,False,Presbyterian,Big South,23,Campbell,Pioneer,13
+2015,regular,400799630,3,2015-09-19T23:00:00.000Z,True,Prairie View A&M,SWAC,53,Alabama A&M,SWAC,49
+2015,regular,400795643,3,2015-09-19T23:00:00.000Z,False,Stony Brook,CAA,31,New Hampshire,CAA,6
+2015,regular,400799933,3,2015-09-19T23:00:00.000Z,False,Stephen F. Austin,Southland,14,McNeese,Southland,28
+2015,regular,400756925,3,2015-09-19T23:00:00.000Z,False,Old Dominion,Conference USA,14,NC State,ACC,38
+2015,regular,400603853,3,2015-09-19T23:30:00.000Z,False,Kentucky,SEC,9,Florida,SEC,14
+2015,regular,400757034,3,2015-09-19T23:30:00.000Z,False,Texas,Big 12,44,California,Pac-12,45
+2015,regular,400763420,3,2015-09-20T00:00:00.000Z,False,TCU,Big 12,56,SMU,American Athletic,37
+2015,regular,400763604,3,2015-09-20T00:00:00.000Z,False,New Mexico State,Sun Belt,47,UTEP,Conference USA,50
+2015,regular,400757031,3,2015-09-20T00:00:00.000Z,False,Oregon State,Pac-12,35,San José State,Mountain West,21
+2015,regular,400756926,3,2015-09-20T00:00:00.000Z,False,Iowa,Big Ten,27,Pittsburgh,ACC,24
+2015,regular,400795522,3,2015-09-20T00:00:00.000Z,False,Weber State,Big Sky,32,Sacramento State,Big Sky,14
+2015,regular,400787243,3,2015-09-20T00:00:00.000Z,False,San Diego State,Mountain West,27,South Alabama,Sun Belt,34
+2015,regular,400795721,3,2015-09-20T00:00:00.000Z,False,Eastern Illinois,OVC,31,Illinois State,MVFC,34
+2015,regular,400764867,3,2015-09-20T00:00:00.000Z,False,Tulane,American Athletic,38,Maine,CAA,7
+2015,regular,400757026,3,2015-09-20T00:00:00.000Z,False,USC,Pac-12,31,Stanford,Pac-12,41
+2015,regular,400763515,3,2015-09-20T00:00:00.000Z,False,Penn State,Big Ten,28,Rutgers,Big Ten,3
+2015,regular,400795521,3,2015-09-20T00:00:00.000Z,False,Southern Utah,Big Sky,30,Northern Colorado,Big Sky,3
+2015,regular,400763421,3,2015-09-20T00:00:00.000Z,False,Toledo,Mid-American,30,Iowa State,Big 12,23
+2015,regular,400757033,3,2015-09-20T00:30:00.000Z,False,Washington State,Pac-12,31,Wyoming,Mountain West,14
+2015,regular,400603850,3,2015-09-20T01:15:00.000Z,False,Alabama,SEC,37,Ole Miss,SEC,43
+2015,regular,400757027,3,2015-09-20T02:30:00.000Z,False,UCLA,Pac-12,24,BYU,FBS Independents,23
+2015,regular,400757029,3,2015-09-20T02:30:00.000Z,False,Fresno State,Mountain West,24,Utah,Pac-12,45
+2015,regular,400795518,3,2015-09-20T02:30:00.000Z,False,Cal Poly,Big Sky,20,Northern Iowa,MVFC,34
+2015,regular,400757024,3,2015-09-20T03:00:00.000Z,False,Arizona,Pac-12,77,Northern Arizona,Big Sky,13
+2015,regular,400787242,3,2015-09-20T03:59:00.000Z,True,Hawai'i,Mountain West,47,UC Davis,Big Sky,27
+2015,regular,400795654,4,2015-09-24T23:00:00.000Z,False,Villanova,CAA,13,Pennsylvania,Ivy,24
+2015,regular,400764870,4,2015-09-24T23:30:00.000Z,False,Memphis,American Athletic,53,Cincinnati,American Athletic,46
+2015,regular,400756931,4,2015-09-26T00:00:00.000Z,False,Virginia,ACC,14,Boise State,Mountain West,56
+2015,regular,400757035,4,2015-09-26T02:00:00.000Z,False,Oregon State,Pac-12,24,Stanford,Pac-12,42
+2015,regular,400799875,4,2015-09-26T16:00:00.000Z,False,Butler,Pioneer,25,Campbell,Pioneer,24
+2015,regular,400799934,4,2015-09-26T16:00:00.000Z,True,Abilene Christian,Southland,35,Stephen F. Austin,Southland,32
+2015,regular,400763520,4,2015-09-26T16:00:00.000Z,False,Michigan State,Big Ten,30,Central Michigan,Mid-American,10
+2015,regular,400763522,4,2015-09-26T16:00:00.000Z,False,Nebraska,Big Ten,36,Southern Miss,Conference USA,28
+2015,regular,400603845,4,2015-09-26T16:00:00.000Z,False,Georgia,SEC,48,Southern,SWAC,6
+2015,regular,400799877,4,2015-09-26T16:00:00.000Z,False,Marist,Pioneer,16,Jacksonville,Pioneer,20
+2015,regular,400603848,4,2015-09-26T16:00:00.000Z,False,South Carolina,SEC,31,UCF,American Athletic,14
+2015,regular,400763526,4,2015-09-26T16:00:00.000Z,False,Purdue,Big Ten,28,Bowling Green,Mid-American,35
+2015,regular,400763519,4,2015-09-26T16:00:00.000Z,False,Michigan,Big Ten,31,BYU,FBS Independents,0
+2015,regular,400756933,4,2015-09-26T16:00:00.000Z,False,Duke,ACC,34,Georgia Tech,ACC,20
+2015,regular,400763423,4,2015-09-26T16:00:00.000Z,False,Rutgers,Big Ten,27,Kansas,Big 12,14
+2015,regular,400764871,4,2015-09-26T16:00:00.000Z,False,UConn,American Athletic,18,Navy,American Athletic,28
+2015,regular,400603849,4,2015-09-26T16:00:00.000Z,False,Syracuse,ACC,24,LSU,SEC,34
+2015,regular,400799438,4,2015-09-26T16:05:00.000Z,False,Holy Cross,Patriot,14,Colgate,Patriot,31
+2015,regular,400756938,4,2015-09-26T16:30:00.000Z,False,Wake Forest,ACC,24,Indiana,Big Ten,31
+2015,regular,400756935,4,2015-09-26T16:30:00.000Z,False,North Carolina,ACC,41,Delaware,CAA,14
+2015,regular,400799878,4,2015-09-26T17:00:00.000Z,False,Morehead State,Pioneer,34,Davidson,Pioneer,0
+2015,regular,400756932,4,2015-09-26T17:00:00.000Z,False,Boston College,ACC,17,Northern Illinois,Mid-American,14
+2015,regular,400799598,4,2015-09-26T17:00:00.000Z,False,Yale,Ivy,33,Cornell,Ivy,26
+2015,regular,400795604,4,2015-09-26T17:00:00.000Z,True,Fordham,Patriot,54,Monmouth,Big South,31
+2015,regular,400799439,4,2015-09-26T17:00:00.000Z,False,Columbia,Ivy,16,Georgetown,Patriot,24
+2015,regular,400795580,4,2015-09-26T17:30:00.000Z,True,East Tennessee State,FCS Independents,24,Emory & Henry,Old Dominion,27
+2015,regular,400799879,4,2015-09-26T17:30:00.000Z,False,Valparaiso,Pioneer,6,San Diego,Pioneer,38
+2015,regular,400757038,4,2015-09-26T17:30:00.000Z,False,Colorado,Pac-12,48,Nicholls,Southland,0
+2015,regular,400795526,4,2015-09-26T18:00:00.000Z,False,North Dakota,Big Sky,31,UC Davis,Big Sky,24
+2015,regular,400795775,4,2015-09-26T18:00:00.000Z,True,Southeast Missouri State,OVC,21,Shorter,Gulf South,26
+2015,regular,400799876,4,2015-09-26T18:00:00.000Z,False,Drake,Pioneer,41,Stetson,Pioneer,3
+2015,regular,400763609,4,2015-09-26T18:30:00.000Z,False,Louisiana Tech,Conference USA,27,Florida International,Conference USA,17
+2015,regular,400787246,4,2015-09-26T19:00:00.000Z,False,Wyoming,Mountain West,28,New Mexico,Mountain West,38
+2015,regular,400799022,4,2015-09-26T19:00:00.000Z,False,Furman,Southern,24,VMI,Southern,21
+2015,regular,400795651,4,2015-09-26T19:00:00.000Z,False,Elon,CAA,17,Towson,CAA,13
+2015,regular,400795652,4,2015-09-26T19:00:00.000Z,False,UAlbany,CAA,17,Duquesne,NEC,14
+2015,regular,400763422,4,2015-09-26T19:00:00.000Z,False,Baylor,Big 12,70,Rice,Conference USA,17
+2015,regular,400795778,4,2015-09-26T19:00:00.000Z,False,UT Martin,OVC,41,Jacksonville State,OVC,48
+2015,regular,400763426,4,2015-09-26T19:00:00.000Z,False,West Virginia,Big 12,45,Maryland,Big Ten,6
+2015,regular,400763521,4,2015-09-26T19:30:00.000Z,False,Minnesota,Big Ten,27,Ohio,Mid-American,24
+2015,regular,400763610,4,2015-09-26T19:30:00.000Z,False,Old Dominion,Conference USA,0,App State,Sun Belt,49
+2015,regular,400763524,4,2015-09-26T19:30:00.000Z,False,Ohio State,Big Ten,38,Western Michigan,Mid-American,12
+2015,regular,400795649,4,2015-09-26T19:30:00.000Z,False,Maine,CAA,27,Rhode Island,CAA,17
+2015,regular,400763583,4,2015-09-26T19:30:00.000Z,False,Notre Dame,FBS Independents,62,Massachusetts,Mid-American,27
+2015,regular,400763518,4,2015-09-26T19:30:00.000Z,False,Iowa,Big Ten,62,North Texas,Conference USA,16
+2015,regular,400756937,4,2015-09-26T19:30:00.000Z,False,East Carolina,American Athletic,35,Virginia Tech,ACC,28
+2015,regular,400763525,4,2015-09-26T19:30:00.000Z,False,Penn State,Big Ten,37,San Diego State,Mountain West,21
+2015,regular,400763424,4,2015-09-26T19:30:00.000Z,False,Texas,Big 12,27,Oklahoma State,Big 12,30
+2015,regular,400603844,4,2015-09-26T19:30:00.000Z,False,Florida,SEC,28,Tennessee,SEC,27
+2015,regular,400763608,4,2015-09-26T19:30:00.000Z,False,Kent State,Mid-American,29,Marshall,Conference USA,36
+2015,regular,400787245,4,2015-09-26T19:30:00.000Z,False,Buffalo,Mid-American,21,Nevada,Mountain West,24
+2015,regular,400763613,4,2015-09-26T19:30:00.000Z,False,Western Kentucky,Conference USA,56,Miami (OH),Mid-American,14
+2015,regular,400795527,4,2015-09-26T19:35:00.000Z,False,Montana State,Big Sky,45,Cal Poly,Big Sky,28
+2015,regular,400795524,4,2015-09-26T19:35:00.000Z,False,Northern Colorado,Big Sky,17,Weber State,Big Sky,38
+2015,regular,400799789,4,2015-09-26T20:00:00.000Z,False,Bethune-Cookman,MEAC,42,Savannah State,MEAC,12
+2015,regular,400603841,4,2015-09-26T20:00:00.000Z,False,Alabama,SEC,34,UL Monroe,Sun Belt,0
+2015,regular,400795528,4,2015-09-26T20:00:00.000Z,False,Montana,Big Sky,23,Northern Arizona,Big Sky,14
+2015,regular,400799791,4,2015-09-26T20:00:00.000Z,False,Norfolk State,MEAC,24,Hampton,MEAC,14
+2015,regular,400763517,4,2015-09-26T20:00:00.000Z,False,Illinois,Big Ten,27,Middle Tennessee,Conference USA,25
+2015,regular,400799790,4,2015-09-26T20:30:00.000Z,True,Howard,MEAC,13,Morgan State,MEAC,21
+2015,regular,400763425,4,2015-09-26T20:45:00.000Z,False,Texas Tech,Big 12,52,TCU,Big 12,55
+2015,regular,400799501,4,2015-09-26T21:00:00.000Z,False,Princeton,Ivy,52,Lehigh,Patriot,26
+2015,regular,400757040,4,2015-09-26T21:00:00.000Z,False,Washington,Pac-12,24,California,Pac-12,30
+2015,regular,400795525,4,2015-09-26T21:05:00.000Z,True,Portland State,Big Sky,31,Western Oregon,Great Northwest,0
+2015,regular,400760493,4,2015-09-26T22:00:00.000Z,False,Eastern Michigan,Mid-American,36,Army,FBS Independents,58
+2015,regular,400756934,4,2015-09-26T22:00:00.000Z,False,Louisville,ACC,45,Samford,Southern,3
+2015,regular,400795599,4,2015-09-26T22:00:00.000Z,False,The Citadel,Southern,20,Charleston Southern,Big South,33
+2015,regular,400795602,4,2015-09-26T22:00:00.000Z,False,Dayton,Pioneer,31,Kennesaw State,Big South,27
+2015,regular,400795724,4,2015-09-26T22:00:00.000Z,True,South Dakota State,MVFC,34,Robert Morris,NEC,10
+2015,regular,400795653,4,2015-09-26T22:00:00.000Z,False,New Hampshire,CAA,57,Central Connecticut,NEC,14
+2015,regular,400795600,4,2015-09-26T22:00:00.000Z,False,Coastal Carolina,Big South,31,Bryant,NEC,17
+2015,regular,400795779,4,2015-09-26T22:00:00.000Z,False,Florida A&M,MEAC,14,Tennessee State,OVC,30
+2015,regular,400795776,4,2015-09-26T22:00:00.000Z,False,Eastern Kentucky,OVC,51,Austin Peay,OVC,13
+2015,regular,400799440,4,2015-09-26T22:00:00.000Z,False,Wagner,NEC,24,Lafayette,Patriot,35
+2015,regular,400763612,4,2015-09-26T23:00:00.000Z,False,UTSA,Conference USA,31,Colorado State,Mountain West,33
+2015,regular,400603847,4,2015-09-26T23:00:00.000Z,False,Ole Miss,SEC,27,Vanderbilt,SEC,16
+2015,regular,400795777,4,2015-09-26T23:00:00.000Z,False,Murray State,OVC,29,Tennessee Tech,OVC,31
+2015,regular,400795603,4,2015-09-26T23:00:00.000Z,False,Southern Illinois,MVFC,34,Liberty,Big South,13
+2015,regular,400787313,4,2015-09-26T23:00:00.000Z,False,Louisiana,Sun Belt,14,Akron,Mid-American,35
+2015,regular,400799599,4,2015-09-26T23:00:00.000Z,False,Dartmouth,Ivy,49,Sacred Heart,NEC,7
+2015,regular,400768337,4,2015-09-26T23:00:00.000Z,False,SMU,American Athletic,45,James Madison,CAA,48
+2015,regular,400787314,4,2015-09-26T23:00:00.000Z,False,Toledo,Mid-American,37,Arkansas State,Sun Belt,7
+2015,regular,400799597,4,2015-09-26T23:00:00.000Z,False,Harvard,Ivy,53,Brown,Ivy,27
+2015,regular,400795601,4,2015-09-26T23:00:00.000Z,False,Wofford,Southern,16,Gardner-Webb,Big South,0
+2015,regular,400799935,4,2015-09-26T23:00:00.000Z,False,McNeese,Southland,37,Mississippi College,Gulf South,0
+2015,regular,400763607,4,2015-09-26T23:00:00.000Z,False,Charlotte,Conference USA,7,Florida Atlantic,Conference USA,17
+2015,regular,400799937,4,2015-09-26T23:00:00.000Z,False,Sam Houston,Southland,63,Houston Christian,Southland,14
+2015,regular,400603842,4,2015-09-26T23:00:00.000Z,True,Arkansas,SEC,21,Texas A&M,SEC,28
+2015,regular,400795605,4,2015-09-26T23:00:00.000Z,False,Presbyterian,Big South,0,Chattanooga,Southern,21
+2015,regular,400799936,4,2015-09-26T23:00:00.000Z,False,Northwestern State,Southland,21,Central Arkansas,Southland,49
+2015,regular,400603843,4,2015-09-26T23:30:00.000Z,False,Auburn,SEC,9,Mississippi State,SEC,17
+2015,regular,400795650,4,2015-09-26T23:30:00.000Z,False,William & Mary,CAA,21,Stony Brook,CAA,0
+2015,regular,400603846,4,2015-09-26T23:30:00.000Z,False,Kentucky,SEC,21,Missouri,SEC,13
+2015,regular,400763523,4,2015-09-27T00:00:00.000Z,False,Northwestern,Big Ten,24,Ball State,Mid-American,19
+2015,regular,400795523,4,2015-09-27T00:00:00.000Z,False,Southern Utah,Big Sky,55,Brevard,South Atlantic,7
+2015,regular,400763527,4,2015-09-27T00:00:00.000Z,False,Wisconsin,Big Ten,28,Hawai'i,Mountain West,0
+2015,regular,400763611,4,2015-09-27T00:00:00.000Z,False,UTEP,Conference USA,27,Incarnate Word,Southland,17
+2015,regular,400764872,4,2015-09-27T00:00:00.000Z,False,Houston,American Athletic,59,Texas State,Sun Belt,14
+2015,regular,400757036,4,2015-09-27T00:00:00.000Z,False,Arizona,Pac-12,30,UCLA,Pac-12,56
+2015,regular,400756936,4,2015-09-27T00:00:00.000Z,False,South Alabama,Sun Belt,13,NC State,ACC,63
+2015,regular,400757039,4,2015-09-27T00:30:00.000Z,False,Oregon,Pac-12,20,Utah,Pac-12,62
+2015,regular,400787443,4,2015-09-27T01:00:00.000Z,False,Idaho,Sun Belt,20,Georgia Southern,Sun Belt,44
+2015,regular,400787247,4,2015-09-27T01:00:00.000Z,True,UNLV,Mountain West,80,Idaho State,Big Sky,8
+2015,regular,400795529,4,2015-09-27T01:05:00.000Z,False,Sacramento State,Big Sky,20,Eastern Washington,Big Sky,28
+2015,regular,400757037,4,2015-09-27T02:30:00.000Z,False,Arizona State,Pac-12,14,USC,Pac-12,42
+2015,regular,400787244,4,2015-09-27T02:30:00.000Z,False,San José State,Mountain West,49,Fresno State,Mountain West,23
+2015,regular,400799942,5,2015-10-01T23:00:00.000Z,False,SE Louisiana,Southland,30,Lamar,Southland,27
+2015,regular,400799681,5,2015-10-01T23:30:00.000Z,False,Texas Southern,SWAC,23,Alabama State,SWAC,41
+2015,regular,400764873,5,2015-10-01T23:30:00.000Z,False,Cincinnati,American Athletic,34,Miami,ACC,23
+2015,regular,400763614,5,2015-10-02T23:00:00.000Z,False,Charlotte,Conference USA,3,Temple,American Athletic,37
+2015,regular,400764875,5,2015-10-02T23:00:00.000Z,False,South Florida,American Athletic,17,Memphis,American Athletic,24
+2015,regular,400799600,5,2015-10-02T23:00:00.000Z,False,Princeton,Ivy,10,Columbia,Ivy,5
+2015,regular,400799502,5,2015-10-02T23:00:00.000Z,False,Cornell,Ivy,21,Colgate,Patriot,28
+2015,regular,400799504,5,2015-10-02T23:00:00.000Z,False,Harvard,Ivy,45,Georgetown,Patriot,0
+2015,regular,400795534,5,2015-10-03T00:00:00.000Z,False,Weber State,Big Sky,0,Southern Utah,Big Sky,44
+2015,regular,400764874,5,2015-10-03T02:15:00.000Z,False,BYU,FBS Independents,30,UConn,American Athletic,13
+2015,regular,400764878,5,2015-10-03T16:00:00.000Z,False,Tulane,American Athletic,45,UCF,American Athletic,31
+2015,regular,400799842,5,2015-10-03T16:00:00.000Z,False,Wagner,NEC,6,Robert Morris,NEC,9
+2015,regular,400763532,5,2015-10-03T16:00:00.000Z,False,Northwestern,Big Ten,27,Minnesota,Big Ten,0
+2015,regular,400763430,5,2015-10-03T16:00:00.000Z,False,TCU,Big 12,50,Texas,Big 12,7
+2015,regular,400763530,5,2015-10-03T16:00:00.000Z,False,Maryland,Big Ten,0,Michigan,Big Ten,28
+2015,regular,400763428,5,2015-10-03T16:00:00.000Z,False,Oklahoma,Big 12,44,West Virginia,Big 12,24
+2015,regular,400764879,5,2015-10-03T16:00:00.000Z,False,Tulsa,American Athletic,24,Houston,American Athletic,38
+2015,regular,400760494,5,2015-10-03T16:00:00.000Z,False,Penn State,Big Ten,20,Army,FBS Independents,14
+2015,regular,400756945,5,2015-10-03T16:00:00.000Z,False,Virginia Tech,ACC,13,Pittsburgh,ACC,17
+2015,regular,400763533,5,2015-10-03T16:00:00.000Z,False,Wisconsin,Big Ten,6,Iowa,Big Ten,10
+2015,regular,400799793,5,2015-10-03T16:00:00.000Z,False,Hampton,MEAC,31,North Carolina A&T,MEAC,45
+2015,regular,400799841,5,2015-10-03T16:00:00.000Z,False,Duquesne,NEC,27,Central Connecticut,NEC,10
+2015,regular,400763531,5,2015-10-03T16:00:00.000Z,False,Michigan State,Big Ten,24,Purdue,Big Ten,21
+2015,regular,400795655,5,2015-10-03T16:00:00.000Z,False,James Madison,CAA,38,Stony Brook,CAA,20
+2015,regular,400763427,5,2015-10-03T16:00:00.000Z,False,Iowa State,Big 12,38,Kansas,Big 12,13
+2015,regular,400603883,5,2015-10-03T16:00:00.000Z,False,Missouri,SEC,24,South Carolina,SEC,10
+2015,regular,400799505,5,2015-10-03T16:30:00.000Z,False,Lehigh,Patriot,12,Yale,Ivy,27
+2015,regular,400756943,5,2015-10-03T16:30:00.000Z,False,NC State,ACC,13,Louisville,ACC,20
+2015,regular,400799884,5,2015-10-03T17:00:00.000Z,False,Stetson,Pioneer,14,Dayton,Pioneer,27
+2015,regular,400799794,5,2015-10-03T17:00:00.000Z,False,Howard,MEAC,12,Norfolk State,MEAC,15
+2015,regular,400795659,5,2015-10-03T17:00:00.000Z,False,Holy Cross,Patriot,37,UAlbany,CAA,0
+2015,regular,400795725,5,2015-10-03T17:00:00.000Z,False,Illinois State,MVFC,21,Northern Iowa,MVFC,13
+2015,regular,400799882,5,2015-10-03T17:00:00.000Z,True,Jacksonville,Pioneer,30,Morehead State,Pioneer,26
+2015,regular,400799881,5,2015-10-03T17:00:00.000Z,False,Davidson,Pioneer,35,Valparaiso,Pioneer,42
+2015,regular,400795581,5,2015-10-03T17:00:00.000Z,True,East Tennessee State,FCS Independents,9,Saint Francis,NEC,58
+2015,regular,400795607,5,2015-10-03T17:00:00.000Z,True,Monmouth,Big South,31,Bryant,NEC,24
+2015,regular,400799049,5,2015-10-03T17:30:00.000Z,False,VMI,Southern,22,Bucknell,Patriot,28
+2015,regular,400799792,5,2015-10-03T18:00:00.000Z,False,Delaware State,MEAC,6,Morgan State,MEAC,26
+2015,regular,400787316,5,2015-10-03T18:00:00.000Z,False,Akron,Mid-American,12,Ohio,Mid-American,14
+2015,regular,400795606,5,2015-10-03T18:00:00.000Z,False,Coastal Carolina,Big South,55,Alabama A&M,SWAC,0
+2015,regular,400799795,5,2015-10-03T18:00:00.000Z,False,North Carolina Central,MEAC,26,Bethune-Cookman,MEAC,28
+2015,regular,400795780,5,2015-10-03T18:00:00.000Z,False,Jacksonville State,OVC,49,Mississippi Valley State,SWAC,7
+2015,regular,400787315,5,2015-10-03T19:00:00.000Z,False,Central Michigan,Mid-American,29,Northern Illinois,Mid-American,19
+2015,regular,400763620,5,2015-10-03T19:00:00.000Z,False,Massachusetts,Mid-American,24,Florida International,Conference USA,14
+2015,regular,400795727,5,2015-10-03T19:00:00.000Z,False,Missouri State,MVFC,28,Indiana State,MVFC,56
+2015,regular,400787317,5,2015-10-03T19:00:00.000Z,False,Ball State,Mid-American,10,Toledo,Mid-American,24
+2015,regular,400795728,5,2015-10-03T19:00:00.000Z,False,South Dakota,MVFC,3,Youngstown State,MVFC,31
+2015,regular,400756942,5,2015-10-03T19:30:00.000Z,False,Georgia Tech,ACC,31,North Carolina,ACC,38
+2015,regular,400799602,5,2015-10-03T19:30:00.000Z,False,Pennsylvania,Ivy,20,Dartmouth,Ivy,41
+2015,regular,400756939,5,2015-10-03T19:30:00.000Z,False,Duke,ACC,9,Boston College,ACC,7
+2015,regular,400787319,5,2015-10-03T19:30:00.000Z,False,Kent State,Mid-American,20,Miami (OH),Mid-American,14
+2015,regular,400795656,5,2015-10-03T19:30:00.000Z,False,Richmond,CAA,48,Maine,CAA,17
+2015,regular,400787446,5,2015-10-03T19:30:00.000Z,True,Georgia State,Sun Belt,33,Liberty,Big South,41
+2015,regular,400763431,5,2015-10-03T19:30:00.000Z,True,Baylor,Big 12,63,Texas Tech,Big 12,35
+2015,regular,400603879,5,2015-10-03T19:30:00.000Z,False,Georgia,SEC,10,Alabama,SEC,38
+2015,regular,400763617,5,2015-10-03T19:30:00.000Z,False,Rice,Conference USA,10,Western Kentucky,Conference USA,49
+2015,regular,400795657,5,2015-10-03T19:30:00.000Z,False,New Hampshire,CAA,37,Elon,CAA,14
+2015,regular,400795608,5,2015-10-03T19:30:00.000Z,False,Western Carolina,Southern,33,Presbyterian,Big South,21
+2015,regular,400764876,5,2015-10-03T19:30:00.000Z,False,Navy,American Athletic,33,Air Force,Mountain West,11
+2015,regular,400787318,5,2015-10-03T19:30:00.000Z,False,Buffalo,Mid-American,22,Bowling Green,Mid-American,28
+2015,regular,400763529,5,2015-10-03T19:30:00.000Z,False,Indiana,Big Ten,27,Ohio State,Big Ten,34
+2015,regular,400763616,5,2015-10-03T19:30:00.000Z,False,Marshall,Conference USA,27,Old Dominion,Conference USA,7
+2015,regular,400787253,5,2015-10-03T19:30:00.000Z,False,App State,Sun Belt,31,Wyoming,Mountain West,13
+2015,regular,400756941,5,2015-10-03T19:30:00.000Z,False,Wake Forest,ACC,16,Florida State,ACC,24
+2015,regular,400763429,5,2015-10-03T20:00:00.000Z,False,Oklahoma State,Big 12,36,Kansas State,Big 12,34
+2015,regular,400603877,5,2015-10-03T20:00:00.000Z,False,Auburn,SEC,35,San José State,Mountain West,21
+2015,regular,400795531,5,2015-10-03T20:00:00.000Z,False,UC Davis,Big Sky,13,Montana,Big Sky,27
+2015,regular,400764877,5,2015-10-03T20:00:00.000Z,False,SMU,American Athletic,23,East Carolina,American Athletic,49
+2015,regular,400795726,5,2015-10-03T20:00:00.000Z,False,Western Illinois,MVFC,37,Southern Illinois,MVFC,36
+2015,regular,400757044,5,2015-10-03T20:00:00.000Z,False,California,Pac-12,34,Washington State,Pac-12,28
+2015,regular,400799883,5,2015-10-03T20:00:00.000Z,False,San Diego,Pioneer,30,Marist,Pioneer,27
+2015,regular,400763528,5,2015-10-03T20:02:00.000Z,False,Illinois,Big Ten,14,Nebraska,Big Ten,13
+2015,regular,400795783,5,2015-10-03T21:00:00.000Z,False,Austin Peay,OVC,16,Eastern Illinois,OVC,40
+2015,regular,400799650,5,2015-10-03T21:00:00.000Z,True,Arkansas-Pine Bluff,SWAC,14,Alcorn State,SWAC,61
+2015,regular,400795533,5,2015-10-03T21:05:00.000Z,False,Portland State,Big Sky,17,North Dakota,Big Sky,19
+2015,regular,400799880,5,2015-10-03T22:00:00.000Z,False,Campbell,Pioneer,24,Drake,Pioneer,14
+2015,regular,400799030,5,2015-10-03T22:00:00.000Z,False,Mercer,Southern,33,Wofford,Southern,34
+2015,regular,400795660,5,2015-10-03T22:00:00.000Z,False,Brown,Ivy,41,Rhode Island,CAA,31
+2015,regular,400799503,5,2015-10-03T22:00:00.000Z,False,Lafayette,Patriot,7,Fordham,Patriot,35
+2015,regular,400603878,5,2015-10-03T23:00:00.000Z,False,Florida,SEC,38,Ole Miss,SEC,10
+2015,regular,400763618,5,2015-10-03T23:00:00.000Z,False,Southern Miss,Conference USA,49,North Texas,Conference USA,14
+2015,regular,400787447,5,2015-10-03T23:00:00.000Z,False,Troy,Sun Belt,18,South Alabama,Sun Belt,24
+2015,regular,400787445,5,2015-10-03T23:00:00.000Z,False,UL Monroe,Sun Belt,31,Georgia Southern,Sun Belt,51
+2015,regular,400603881,5,2015-10-03T23:00:00.000Z,False,LSU,SEC,44,Eastern Michigan,Mid-American,22
+2015,regular,400795729,5,2015-10-03T23:00:00.000Z,True,South Dakota State,MVFC,7,North Dakota State,MVFC,28
+2015,regular,400787444,5,2015-10-03T23:00:00.000Z,False,Arkansas State,Sun Belt,49,Idaho,Sun Belt,35
+2015,regular,400799023,5,2015-10-03T23:00:00.000Z,False,Furman,Southern,17,South Carolina State,MEAC,3
+2015,regular,400603882,5,2015-10-03T23:00:00.000Z,False,Middle Tennessee,Conference USA,13,Vanderbilt,SEC,17
+2015,regular,400603884,5,2015-10-03T23:00:00.000Z,False,Tennessee,SEC,20,Arkansas,SEC,24
+2015,regular,400795782,5,2015-10-03T23:00:00.000Z,False,Tennessee Tech,OVC,17,UT Martin,OVC,31
+2015,regular,400795781,5,2015-10-03T23:00:00.000Z,True,Southeast Missouri State,OVC,27,Murray State,OVC,10
+2015,regular,400763615,5,2015-10-03T23:00:00.000Z,False,Louisiana Tech,Conference USA,43,Louisiana,Sun Belt,14
+2015,regular,400799796,5,2015-10-03T23:00:00.000Z,False,Savannah State,MEAC,37,Florida A&M,MEAC,27
+2015,regular,400787249,5,2015-10-03T23:00:00.000Z,False,Utah State,Mountain West,33,Colorado State,Mountain West,18
+2015,regular,400799665,5,2015-10-03T23:00:00.000Z,False,Jackson State,SWAC,27,Grambling,SWAC,59
+2015,regular,400787251,5,2015-10-03T23:00:00.000Z,False,Nevada,Mountain West,17,UNLV,Mountain West,23
+2015,regular,400795532,5,2015-10-03T23:05:00.000Z,False,Northern Arizona,Big Sky,49,Montana State,Big Sky,41
+2015,regular,400795658,5,2015-10-03T23:30:00.000Z,False,Delaware,CAA,24,William & Mary,CAA,23
+2015,regular,400603880,5,2015-10-03T23:30:00.000Z,False,Kentucky,SEC,34,Eastern Kentucky,OVC,27
+2015,regular,400757042,5,2015-10-03T23:30:00.000Z,False,UCLA,Pac-12,23,Arizona State,Pac-12,38
+2015,regular,400603885,5,2015-10-03T23:30:00.000Z,False,Texas A&M,SEC,30,Mississippi State,SEC,17
+2015,regular,400756940,5,2015-10-04T00:00:00.000Z,False,Clemson,ACC,24,Notre Dame,FBS Independents,22
+2015,regular,400763619,5,2015-10-04T00:00:00.000Z,False,UTEP,Conference USA,6,UTSA,Conference USA,25
+2015,regular,400787252,5,2015-10-04T00:00:00.000Z,False,New Mexico,Mountain West,38,New Mexico State,Sun Belt,29
+2015,regular,400795535,5,2015-10-04T01:05:00.000Z,False,Sacramento State,Big Sky,20,Northern Colorado,Big Sky,27
+2015,regular,400795530,5,2015-10-04T01:05:00.000Z,False,Cal Poly,Big Sky,58,Idaho State,Big Sky,26
+2015,regular,400787248,5,2015-10-04T02:15:00.000Z,False,Boise State,Mountain West,55,Hawai'i,Mountain West,0
+2015,regular,400787250,5,2015-10-04T02:30:00.000Z,False,San Diego State,Mountain West,21,Fresno State,Mountain West,7
+2015,regular,400757041,5,2015-10-04T02:30:00.000Z,False,Stanford,Pac-12,55,Arizona,Pac-12,17
+2015,regular,400757043,5,2015-10-04T03:05:00.000Z,False,Colorado,Pac-12,24,Oregon,Pac-12,41
+2015,regular,400795784,6,2015-10-08T23:00:00.000Z,True,Eastern Kentucky,OVC,48,Tennessee Tech,OVC,17
+2015,regular,400799797,6,2015-10-08T23:30:00.000Z,False,Bethune-Cookman,MEAC,17,South Carolina State,MEAC,14
+2015,regular,400764880,6,2015-10-09T00:00:00.000Z,False,Houston,American Athletic,49,SMU,American Athletic,28
+2015,regular,400757045,6,2015-10-09T01:00:00.000Z,False,USC,Pac-12,12,Washington,Pac-12,17
+2015,regular,400763623,6,2015-10-09T23:00:00.000Z,False,Marshall,Conference USA,31,Southern Miss,Conference USA,10
+2015,regular,400756946,6,2015-10-10T00:00:00.000Z,False,Virginia Tech,ACC,28,NC State,ACC,13
+2015,regular,400795665,6,2015-10-10T16:00:00.000Z,False,Villanova,CAA,16,William & Mary,CAA,38
+2015,regular,400799845,6,2015-10-10T16:00:00.000Z,False,Robert Morris,NEC,13,Sacred Heart,NEC,26
+2015,regular,400799604,6,2015-10-10T16:00:00.000Z,False,Cornell,Ivy,3,Harvard,Ivy,40
+2015,regular,400603902,6,2015-10-10T16:00:00.000Z,False,Ole Miss,SEC,52,New Mexico State,Sun Belt,3
+2015,regular,400764882,6,2015-10-10T16:00:00.000Z,False,Temple,American Athletic,49,Tulane,American Athletic,10
+2015,regular,400795662,6,2015-10-10T16:00:00.000Z,False,Rhode Island,CAA,20,Delaware,CAA,0
+2015,regular,400795609,6,2015-10-10T16:00:00.000Z,False,Charleston Southern,Big South,37,Monmouth,Big South,7
+2015,regular,400787323,6,2015-10-10T16:00:00.000Z,False,Western Michigan,Mid-American,41,Central Michigan,Mid-American,39
+2015,regular,400763434,6,2015-10-10T16:00:00.000Z,True,Texas,Big 12,24,Oklahoma,Big 12,17
+2015,regular,400763432,6,2015-10-10T16:00:00.000Z,False,Kansas,Big 12,7,Baylor,Big 12,66
+2015,regular,400763534,6,2015-10-10T16:00:00.000Z,False,Iowa,Big Ten,29,Illinois,Big Ten,20
+2015,regular,400763537,6,2015-10-10T16:00:00.000Z,False,Ohio State,Big Ten,49,Maryland,Big Ten,28
+2015,regular,400756949,6,2015-10-10T16:00:00.000Z,False,Army,FBS Independents,3,Duke,ACC,44
+2015,regular,400763538,6,2015-10-10T16:00:00.000Z,False,Penn State,Big Ten,29,Indiana,Big Ten,7
+2015,regular,400763626,6,2015-10-10T16:00:00.000Z,False,Western Kentucky,Conference USA,58,Middle Tennessee,Conference USA,28
+2015,regular,400763622,6,2015-10-10T16:00:00.000Z,False,Florida International,Conference USA,52,UTEP,Conference USA,12
+2015,regular,400756951,6,2015-10-10T16:30:00.000Z,False,Pittsburgh,ACC,26,Virginia,ACC,19
+2015,regular,400798996,6,2015-10-10T17:00:00.000Z,False,Chattanooga,Southern,31,Furman,Southern,3
+2015,regular,400799887,6,2015-10-10T17:00:00.000Z,False,Dayton,Pioneer,13,San Diego,Pioneer,12
+2015,regular,400799886,6,2015-10-10T17:00:00.000Z,False,Davidson,Pioneer,14,Kentucky Wesleyan,Independent DII,7
+2015,regular,400799890,6,2015-10-10T17:00:00.000Z,False,Morehead State,Pioneer,34,Butler,Pioneer,21
+2015,regular,400795612,6,2015-10-10T17:00:00.000Z,False,Kennesaw State,Big South,56,Point University,,17
+2015,regular,400799509,6,2015-10-10T17:00:00.000Z,False,Princeton,Ivy,44,Colgate,Patriot,20
+2015,regular,400799510,6,2015-10-10T17:00:00.000Z,False,Pennsylvania,Ivy,45,Fordham,Patriot,48
+2015,regular,400799843,6,2015-10-10T17:00:00.000Z,False,Central Connecticut,NEC,35,Bryant,NEC,33
+2015,regular,400799844,6,2015-10-10T17:00:00.000Z,False,Duquesne,NEC,53,Alderson-Broaddus,Independent DII,18
+2015,regular,400799507,6,2015-10-10T17:00:00.000Z,False,Bucknell,Patriot,10,Lehigh,Patriot,21
+2015,regular,400799508,6,2015-10-10T17:05:00.000Z,False,Holy Cross,Patriot,24,Brown,Ivy,25
+2015,regular,400799605,6,2015-10-10T17:30:00.000Z,False,Dartmouth,Ivy,35,Yale,Ivy,3
+2015,regular,400799037,6,2015-10-10T17:30:00.000Z,False,VMI,Southern,13,Samford,Southern,49
+2015,regular,400787325,6,2015-10-10T18:00:00.000Z,False,Ohio,Mid-American,34,Miami (OH),Mid-American,3
+2015,regular,400795786,6,2015-10-10T18:00:00.000Z,False,Eastern Illinois,OVC,33,Southeast Missouri State,OVC,28
+2015,regular,400787321,6,2015-10-10T18:00:00.000Z,False,Bowling Green,Mid-American,62,Massachusetts,Mid-American,38
+2015,regular,400795610,6,2015-10-10T18:00:00.000Z,False,Coastal Carolina,Big South,24,Presbyterian,Big South,17
+2015,regular,400795540,6,2015-10-10T18:00:00.000Z,False,North Dakota,Big Sky,31,Idaho State,Big Sky,37
+2015,regular,400799045,6,2015-10-10T18:00:00.000Z,False,The Citadel,Southern,39,Wofford,Southern,12
+2015,regular,400795730,6,2015-10-10T18:00:00.000Z,False,North Dakota State,MVFC,31,Northern Iowa,MVFC,28
+2015,regular,400799506,6,2015-10-10T18:00:00.000Z,False,Georgetown,Patriot,38,Lafayette,Patriot,7
+2015,regular,400799888,6,2015-10-10T18:00:00.000Z,False,Drake,Pioneer,34,Valparaiso,Pioneer,7
+2015,regular,400799799,6,2015-10-10T18:00:00.000Z,False,Hampton,MEAC,21,Delaware State,MEAC,7
+2015,regular,400799801,6,2015-10-10T18:00:00.000Z,False,Norfolk State,MEAC,3,North Carolina A&T,MEAC,27
+2015,regular,400763621,6,2015-10-10T18:30:00.000Z,False,Florida Atlantic,Conference USA,26,Rice,Conference USA,27
+2015,regular,400787322,6,2015-10-10T19:00:00.000Z,False,Eastern Michigan,Mid-American,21,Akron,Mid-American,47
+2015,regular,400756947,6,2015-10-10T19:00:00.000Z,False,Boston College,ACC,0,Wake Forest,ACC,3
+2015,regular,400799674,6,2015-10-10T19:00:00.000Z,True,Prairie View A&M,SWAC,45,Mississippi Valley State,SWAC,6
+2015,regular,400795664,6,2015-10-10T19:00:00.000Z,False,Towson,CAA,30,James Madison,CAA,51
+2015,regular,400787320,6,2015-10-10T19:00:00.000Z,False,Toledo,Mid-American,38,Kent State,Mid-American,7
+2015,regular,400603904,6,2015-10-10T19:30:00.000Z,False,Tennessee,SEC,38,Georgia,SEC,31
+2015,regular,400795663,6,2015-10-10T19:30:00.000Z,False,Richmond,CAA,27,Elon,CAA,14
+2015,regular,400799031,6,2015-10-10T19:30:00.000Z,False,Western Carolina,Southern,24,Mercer,Southern,21
+2015,regular,400799944,6,2015-10-10T19:30:00.000Z,False,Houston Christian,Southland,7,Central Arkansas,Southland,43
+2015,regular,400763536,6,2015-10-10T19:30:00.000Z,False,Nebraska,Big Ten,21,Wisconsin,Big Ten,23
+2015,regular,400795661,6,2015-10-10T19:30:00.000Z,False,UAlbany,CAA,7,Maine,CAA,39
+2015,regular,400603903,6,2015-10-10T19:30:00.000Z,False,LSU,SEC,45,South Carolina,SEC,24
+2015,regular,400795787,6,2015-10-10T19:30:00.000Z,False,UT Martin,OVC,28,Tennessee State,OVC,14
+2015,regular,400756948,6,2015-10-10T19:30:00.000Z,False,Clemson,ACC,43,Georgia Tech,ACC,24
+2015,regular,400787448,6,2015-10-10T19:30:00.000Z,False,Georgia State,Sun Belt,3,App State,Sun Belt,37
+2015,regular,400787324,6,2015-10-10T19:30:00.000Z,False,Northern Illinois,Mid-American,59,Ball State,Mid-American,41
+2015,regular,400763539,6,2015-10-10T19:30:00.000Z,False,Purdue,Big Ten,13,Minnesota,Big Ten,41
+2015,regular,400763435,6,2015-10-10T19:30:00.000Z,False,Texas Tech,Big 12,66,Iowa State,Big 12,31
+2015,regular,400763535,6,2015-10-10T19:30:00.000Z,False,Michigan,Big Ten,38,Northwestern,Big Ten,0
+2015,regular,400756952,6,2015-10-10T19:30:00.000Z,False,South Florida,American Athletic,45,Syracuse,ACC,24
+2015,regular,400763584,6,2015-10-10T19:30:00.000Z,False,Notre Dame,FBS Independents,41,Navy,American Athletic,24
+2015,regular,400764884,6,2015-10-10T19:45:00.000Z,False,UCF,American Athletic,13,UConn,American Athletic,40
+2015,regular,400757046,6,2015-10-10T20:00:00.000Z,False,Arizona,Pac-12,44,Oregon State,Pac-12,7
+2015,regular,400603900,6,2015-10-10T20:00:00.000Z,False,Mississippi State,SEC,45,Troy,Sun Belt,17
+2015,regular,400795539,6,2015-10-10T20:00:00.000Z,False,Montana,Big Sky,21,Weber State,Big Sky,24
+2015,regular,400799800,6,2015-10-10T20:00:00.000Z,False,Morgan State,MEAC,42,Savannah State,MEAC,3
+2015,regular,400795785,6,2015-10-10T20:00:00.000Z,False,Murray State,OVC,34,Austin Peay,OVC,18
+2015,regular,400799632,6,2015-10-10T20:00:00.000Z,False,Grambling,SWAC,37,Alabama A&M,SWAC,14
+2015,regular,400795731,6,2015-10-10T20:00:00.000Z,False,Western Illinois,MVFC,40,South Dakota,MVFC,21
+2015,regular,400799948,6,2015-10-10T20:00:00.000Z,False,Stephen F. Austin,Southland,28,Nicholls,Southland,24
+2015,regular,400795538,6,2015-10-10T20:05:00.000Z,False,Eastern Washington,Big Sky,42,Cal Poly,Big Sky,41
+2015,regular,400763624,6,2015-10-10T21:00:00.000Z,False,North Texas,Conference USA,7,Portland State,Big Sky,66
+2015,regular,400799798,6,2015-10-10T21:00:00.000Z,False,Florida A&M,MEAC,24,North Carolina Central,MEAC,27
+2015,regular,400799889,6,2015-10-10T22:00:00.000Z,True,Jacksonville,Pioneer,41,Stetson,Pioneer,14
+2015,regular,400799885,6,2015-10-10T22:00:00.000Z,False,Campbell,Pioneer,10,Marist,Pioneer,13
+2015,regular,400799603,6,2015-10-10T22:00:00.000Z,False,Columbia,Ivy,26,Wagner,NEC,3
+2015,regular,400757049,6,2015-10-10T22:00:00.000Z,False,Oregon,Pac-12,38,Washington State,Pac-12,45
+2015,regular,400764883,6,2015-10-10T22:00:00.000Z,False,Tulsa,American Athletic,34,UL Monroe,Sun Belt,24
+2015,regular,400787255,6,2015-10-10T23:00:00.000Z,False,Colorado State,Mountain West,10,Boise State,Mountain West,41
+2015,regular,400795732,6,2015-10-10T23:00:00.000Z,False,Youngstown State,MVFC,29,Illinois State,MVFC,31
+2015,regular,400799947,6,2015-10-10T23:00:00.000Z,False,Sam Houston,Southland,59,Incarnate Word,Southland,7
+2015,regular,400799643,6,2015-10-10T23:00:00.000Z,False,Alabama State,SWAC,34,Southern,SWAC,45
+2015,regular,400787258,6,2015-10-10T23:00:00.000Z,False,Nevada,Mountain West,35,New Mexico,Mountain West,17
+2015,regular,400787449,6,2015-10-10T23:00:00.000Z,False,Louisiana,Sun Belt,49,Texas State,Sun Belt,27
+2015,regular,400763625,6,2015-10-10T23:00:00.000Z,False,UTSA,Conference USA,31,Louisiana Tech,Conference USA,34
+2015,regular,400795733,6,2015-10-10T23:00:00.000Z,False,Southern Illinois,MVFC,73,Missouri State,MVFC,26
+2015,regular,400795734,6,2015-10-10T23:00:00.000Z,True,South Dakota State,MVFC,24,Indiana State,MVFC,7
+2015,regular,400799946,6,2015-10-10T23:00:00.000Z,False,McNeese,Southland,21,SE Louisiana,Southland,7
+2015,regular,400795611,6,2015-10-10T23:00:00.000Z,False,Gardner-Webb,Big South,34,Liberty,Big South,20
+2015,regular,400795536,6,2015-10-10T23:00:00.000Z,False,UC Davis,Big Sky,38,Northern Arizona,Big Sky,24
+2015,regular,400603899,6,2015-10-10T23:00:00.000Z,False,Alabama,SEC,27,Arkansas,SEC,14
+2015,regular,400763436,6,2015-10-10T23:00:00.000Z,False,West Virginia,Big 12,26,Oklahoma State,Big 12,33
+2015,regular,400795537,6,2015-10-10T23:05:00.000Z,False,Montana State,Big Sky,35,Sacramento State,Big Sky,13
+2015,regular,400764881,6,2015-10-10T23:30:00.000Z,False,BYU,FBS Independents,45,East Carolina,American Athletic,38
+2015,regular,400603901,6,2015-10-10T23:30:00.000Z,False,Missouri,SEC,3,Florida,SEC,21
+2015,regular,400763433,6,2015-10-10T23:30:00.000Z,False,Kansas State,Big 12,45,TCU,Big 12,52
+2015,regular,400763540,6,2015-10-11T00:00:00.000Z,False,Rutgers,Big Ten,24,Michigan State,Big Ten,31
+2015,regular,400799945,6,2015-10-11T00:00:00.000Z,False,Lamar,Southland,44,Abilene Christian,Southland,28
+2015,regular,400756950,6,2015-10-11T00:00:00.000Z,False,Florida State,ACC,29,Miami,ACC,24
+2015,regular,400787259,6,2015-10-11T01:00:00.000Z,False,UNLV,Mountain West,27,San José State,Mountain West,33
+2015,regular,400757047,6,2015-10-11T02:00:00.000Z,False,Arizona State,Pac-12,48,Colorado,Pac-12,23
+2015,regular,400757048,6,2015-10-11T02:15:00.000Z,False,Utah,Pac-12,30,California,Pac-12,24
+2015,regular,400787254,6,2015-10-11T02:26:00.000Z,False,Air Force,Mountain West,31,Wyoming,Mountain West,17
+2015,regular,400787256,6,2015-10-11T02:30:00.000Z,False,Fresno State,Mountain West,14,Utah State,Mountain West,56
+2015,regular,400787257,6,2015-10-11T03:59:00.000Z,False,Hawai'i,Mountain West,14,San Diego State,Mountain West,28
+2015,regular,400787450,7,2015-10-14T00:00:00.000Z,False,South Alabama,Sun Belt,31,Arkansas State,Sun Belt,49
+2015,regular,400603898,7,2015-10-15T23:00:00.000Z,False,Kentucky,SEC,27,Auburn,SEC,30
+2015,regular,400799644,7,2015-10-15T23:30:00.000Z,False,Arkansas-Pine Bluff,SWAC,24,Alabama State,SWAC,31
+2015,regular,400763629,7,2015-10-15T23:30:00.000Z,False,North Texas,Conference USA,28,Western Kentucky,Conference USA,55
+2015,regular,400757050,7,2015-10-16T02:30:00.000Z,False,Stanford,Pac-12,56,UCLA,Pac-12,35
+2015,regular,400764886,7,2015-10-17T00:00:00.000Z,False,BYU,FBS Independents,38,Cincinnati,American Athletic,24
+2015,regular,400790882,7,2015-10-17T01:00:00.000Z,False,Utah State,Mountain West,52,Boise State,Mountain West,26
+2015,regular,400764885,7,2015-10-17T01:00:00.000Z,False,Tulane,American Athletic,7,Houston,American Athletic,42
+2015,regular,400790883,7,2015-10-17T02:30:00.000Z,False,Fresno State,Mountain West,31,UNLV,Mountain West,28
+2015,regular,400763546,7,2015-10-17T16:00:00.000Z,False,Wisconsin,Big Ten,24,Purdue,Big Ten,7
+2015,regular,400787330,7,2015-10-17T16:00:00.000Z,False,Toledo,Mid-American,63,Eastern Michigan,Mid-American,20
+2015,regular,400756954,7,2015-10-17T16:00:00.000Z,False,Florida State,ACC,41,Louisville,ACC,21
+2015,regular,400764887,7,2015-10-17T16:00:00.000Z,False,UConn,American Athletic,20,South Florida,American Athletic,28
+2015,regular,400763627,7,2015-10-17T16:00:00.000Z,False,Florida Atlantic,Conference USA,17,Marshall,Conference USA,33
+2015,regular,400603894,7,2015-10-17T16:00:00.000Z,False,Memphis,American Athletic,37,Ole Miss,SEC,24
+2015,regular,400763628,7,2015-10-17T16:00:00.000Z,False,Middle Tennessee,Conference USA,42,Florida International,Conference USA,34
+2015,regular,400764888,7,2015-10-17T16:00:00.000Z,False,East Carolina,American Athletic,30,Tulsa,American Athletic,17
+2015,regular,400795667,7,2015-10-17T16:00:00.000Z,False,William & Mary,CAA,34,New Hampshire,CAA,18
+2015,regular,400763439,7,2015-10-17T16:00:00.000Z,False,Kansas,Big 12,20,Texas Tech,Big 12,30
+2015,regular,400603895,7,2015-10-17T16:00:00.000Z,False,Mississippi State,SEC,45,Louisiana Tech,Conference USA,20
+2015,regular,400799606,7,2015-10-17T16:00:00.000Z,False,Brown,Ivy,38,Princeton,Ivy,31
+2015,regular,400795666,7,2015-10-17T16:00:00.000Z,False,Rhode Island,CAA,12,Richmond,CAA,37
+2015,regular,400760495,7,2015-10-17T16:00:00.000Z,False,Army,FBS Independents,21,Bucknell,Patriot,14
+2015,regular,400763437,7,2015-10-17T16:00:00.000Z,False,Baylor,Big 12,62,West Virginia,Big 12,38
+2015,regular,400799608,7,2015-10-17T16:00:00.000Z,False,Central Connecticut,NEC,7,Dartmouth,Ivy,34
+2015,regular,400799846,7,2015-10-17T16:00:00.000Z,False,Bryant,NEC,38,Duquesne,NEC,17
+2015,regular,400763544,7,2015-10-17T16:00:00.000Z,False,Northwestern,Big Ten,10,Iowa,Big Ten,40
+2015,regular,400787328,7,2015-10-17T16:00:00.000Z,False,Ohio,Mid-American,14,Western Michigan,Mid-American,49
+2015,regular,400756955,7,2015-10-17T16:30:00.000Z,False,Georgia Tech,ACC,28,Pittsburgh,ACC,31
+2015,regular,400799803,7,2015-10-17T17:00:00.000Z,False,Morgan State,MEAC,10,Hampton,MEAC,20
+2015,regular,400799894,7,2015-10-17T17:00:00.000Z,False,Stetson,Pioneer,6,Campbell,Pioneer,16
+2015,regular,400795614,7,2015-10-17T17:00:00.000Z,False,Kennesaw State,Big South,12,Gardner-Webb,Big South,7
+2015,regular,400799892,7,2015-10-17T17:00:00.000Z,True,Jacksonville,Pioneer,49,Edward Waters,SIAC,28
+2015,regular,400799607,7,2015-10-17T17:00:00.000Z,False,Sacred Heart,NEC,31,Cornell,Ivy,6
+2015,regular,400795615,7,2015-10-17T17:00:00.000Z,True,Monmouth,Big South,20,Liberty,Big South,17
+2015,regular,400799804,7,2015-10-17T17:00:00.000Z,False,North Carolina A&T,MEAC,24,Bethune-Cookman,MEAC,14
+2015,regular,400799512,7,2015-10-17T17:00:00.000Z,True,Fordham,Patriot,47,Holy Cross,Patriot,41
+2015,regular,400799511,7,2015-10-17T17:00:00.000Z,False,Georgetown,Patriot,13,Colgate,Patriot,17
+2015,regular,400799891,7,2015-10-17T17:00:00.000Z,False,Butler,Pioneer,38,Davidson,Pioneer,7
+2015,regular,400787332,7,2015-10-17T17:00:00.000Z,False,Central Michigan,Mid-American,51,Buffalo,Mid-American,14
+2015,regular,400798997,7,2015-10-17T17:30:00.000Z,False,VMI,Southern,27,Chattanooga,Southern,33
+2015,regular,400795788,7,2015-10-17T18:00:00.000Z,True,Southeast Missouri State,OVC,10,Eastern Kentucky,OVC,27
+2015,regular,400799805,7,2015-10-17T18:00:00.000Z,False,Savannah State,MEAC,22,North Carolina Central,MEAC,39
+2015,regular,400799633,7,2015-10-17T18:00:00.000Z,False,Alabama A&M,SWAC,28,Jackson State,SWAC,22
+2015,regular,400799053,7,2015-10-17T18:00:00.000Z,False,Wofford,Southern,17,Western Carolina,Southern,24
+2015,regular,400795613,7,2015-10-17T18:00:00.000Z,False,Presbyterian,Big South,7,Charleston Southern,Big South,10
+2015,regular,400799806,7,2015-10-17T18:00:00.000Z,False,South Carolina State,MEAC,49,Howard,MEAC,10
+2015,regular,400799895,7,2015-10-17T18:00:00.000Z,False,Valparaiso,Pioneer,14,Dayton,Pioneer,44
+2015,regular,400787327,7,2015-10-17T18:30:00.000Z,False,Miami (OH),Mid-American,12,Northern Illinois,Mid-American,45
+2015,regular,400795738,7,2015-10-17T19:00:00.000Z,False,Missouri State,MVFC,2,Illinois State,MVFC,38
+2015,regular,400799038,7,2015-10-17T19:00:00.000Z,False,Samford,Southern,25,The Citadel,Southern,44
+2015,regular,400795670,7,2015-10-17T19:00:00.000Z,False,Elon,CAA,0,James Madison,CAA,51
+2015,regular,400787329,7,2015-10-17T19:00:00.000Z,False,Ball State,Mid-American,19,Georgia State,Sun Belt,31
+2015,regular,400795737,7,2015-10-17T19:00:00.000Z,False,Indiana State,MVFC,39,Southern Illinois,MVFC,36
+2015,regular,400799802,7,2015-10-17T19:00:00.000Z,False,Florida A&M,MEAC,41,Delaware State,MEAC,13
+2015,regular,400787331,7,2015-10-17T19:00:00.000Z,False,Bowling Green,Mid-American,59,Akron,Mid-American,10
+2015,regular,400795544,7,2015-10-17T19:05:00.000Z,False,Northern Colorado,Big Sky,56,UC Davis,Big Sky,27
+2015,regular,400763630,7,2015-10-17T19:30:00.000Z,False,Old Dominion,Conference USA,37,Charlotte,Conference USA,34
+2015,regular,400756958,7,2015-10-17T19:30:00.000Z,False,Virginia,ACC,44,Syracuse,ACC,38
+2015,regular,400799949,7,2015-10-17T19:30:00.000Z,True,Abilene Christian,Southland,21,Sam Houston,Southland,49
+2015,regular,400763440,7,2015-10-17T19:30:00.000Z,False,Kansas State,Big 12,0,Oklahoma,Big 12,55
+2015,regular,400787453,7,2015-10-17T19:30:00.000Z,False,Troy,Sun Belt,16,Idaho,Sun Belt,19
+2015,regular,400795671,7,2015-10-17T19:30:00.000Z,False,Maine,CAA,10,Yale,Ivy,21
+2015,regular,400799609,7,2015-10-17T19:30:00.000Z,False,Columbia,Ivy,7,Pennsylvania,Ivy,42
+2015,regular,400787260,7,2015-10-17T19:30:00.000Z,False,Colorado State,Mountain West,38,Air Force,Mountain West,23
+2015,regular,400799847,7,2015-10-17T19:30:00.000Z,False,Saint Francis,NEC,43,Wagner,NEC,14
+2015,regular,400603897,7,2015-10-17T19:30:00.000Z,False,Texas A&M,SEC,23,Alabama,SEC,41
+2015,regular,400795668,7,2015-10-17T19:30:00.000Z,False,UAlbany,CAA,0,Villanova,CAA,37
+2015,regular,400787326,7,2015-10-17T19:30:00.000Z,False,Massachusetts,Mid-American,10,Kent State,Mid-American,15
+2015,regular,400795735,7,2015-10-17T19:30:00.000Z,False,North Dakota State,MVFC,21,South Dakota,MVFC,24
+2015,regular,400763541,7,2015-10-17T19:30:00.000Z,False,Indiana,Big Ten,52,Rutgers,Big Ten,55
+2015,regular,400756956,7,2015-10-17T19:30:00.000Z,False,Miami,ACC,30,Virginia Tech,ACC,20
+2015,regular,400763543,7,2015-10-17T19:30:00.000Z,False,Minnesota,Big Ten,25,Nebraska,Big Ten,48
+2015,regular,400799513,7,2015-10-17T19:30:00.000Z,False,Lafayette,Patriot,0,Harvard,Ivy,42
+2015,regular,400763542,7,2015-10-17T19:30:00.000Z,False,Michigan,Big Ten,23,Michigan State,Big Ten,27
+2015,regular,400795542,7,2015-10-17T19:35:00.000Z,True,Portland State,Big Sky,59,Montana State,Big Sky,42
+2015,regular,400795736,7,2015-10-17T20:00:00.000Z,False,Youngstown State,MVFC,8,South Dakota State,MVFC,38
+2015,regular,400799951,7,2015-10-17T20:00:00.000Z,False,Nicholls,Southland,38,Houston Christian,Southland,17
+2015,regular,400787264,7,2015-10-17T20:00:00.000Z,False,Wyoming,Mountain West,28,Nevada,Mountain West,21
+2015,regular,400603896,7,2015-10-17T20:00:00.000Z,False,South Carolina,SEC,19,Vanderbilt,SEC,10
+2015,regular,400757055,7,2015-10-17T20:00:00.000Z,False,Washington State,Pac-12,52,Oregon State,Pac-12,31
+2015,regular,400795582,7,2015-10-17T20:00:00.000Z,False,Mercer,Southern,52,East Tennessee State,FCS Independents,0
+2015,regular,400795541,7,2015-10-17T20:35:00.000Z,False,Idaho State,Big Sky,28,Eastern Washington,Big Sky,45
+2015,regular,400795790,7,2015-10-17T21:00:00.000Z,False,Austin Peay,OVC,14,UT Martin,OVC,44
+2015,regular,400799893,7,2015-10-17T21:00:00.000Z,False,San Diego,Pioneer,27,Drake,Pioneer,0
+2015,regular,400795739,7,2015-10-17T21:00:00.000Z,False,Northern Iowa,MVFC,19,Western Illinois,MVFC,24
+2015,regular,400795669,7,2015-10-17T22:00:00.000Z,False,Stony Brook,CAA,14,Towson,CAA,21
+2015,regular,400787452,7,2015-10-17T22:00:00.000Z,False,Georgia Southern,Sun Belt,56,New Mexico State,Sun Belt,26
+2015,regular,400787451,7,2015-10-17T23:00:00.000Z,False,UL Monroe,Sun Belt,14,App State,Sun Belt,59
+2015,regular,400795791,7,2015-10-17T23:00:00.000Z,False,Tennessee State,OVC,22,Eastern Illinois,OVC,25
+2015,regular,400795789,7,2015-10-17T23:00:00.000Z,False,Tennessee Tech,OVC,13,Jacksonville State,OVC,42
+2015,regular,400799950,7,2015-10-17T23:00:00.000Z,False,Central Arkansas,Southland,13,McNeese,Southland,28
+2015,regular,400756953,7,2015-10-17T23:00:00.000Z,False,Clemson,ACC,34,Boston College,ACC,17
+2015,regular,400799952,7,2015-10-17T23:00:00.000Z,False,Northwestern State,Southland,48,Lamar,Southland,35
+2015,regular,400763631,7,2015-10-17T23:00:00.000Z,False,Southern Miss,Conference USA,32,UTSA,Conference USA,10
+2015,regular,400756957,7,2015-10-17T23:00:00.000Z,False,North Carolina,ACC,50,Wake Forest,ACC,14
+2015,regular,400603893,7,2015-10-17T23:00:00.000Z,False,LSU,SEC,35,Florida,SEC,28
+2015,regular,400763438,7,2015-10-17T23:00:00.000Z,False,Iowa State,Big 12,21,TCU,Big 12,45
+2015,regular,400787262,7,2015-10-17T23:00:00.000Z,False,New Mexico,Mountain West,28,Hawai'i,Mountain West,27
+2015,regular,400757053,7,2015-10-17T23:30:00.000Z,False,Notre Dame,FBS Independents,41,USC,Pac-12,31
+2015,regular,400603892,7,2015-10-17T23:30:00.000Z,False,Georgia,SEC,9,Missouri,SEC,6
+2015,regular,400764889,7,2015-10-17T23:30:00.000Z,False,Temple,American Athletic,30,UCF,American Athletic,16
+2015,regular,400799953,7,2015-10-18T00:00:00.000Z,False,SE Louisiana,Southland,27,Stephen F. Austin,Southland,28
+2015,regular,400795543,7,2015-10-18T00:00:00.000Z,False,Weber State,Big Sky,25,North Dakota,Big Sky,24
+2015,regular,400795545,7,2015-10-18T00:00:00.000Z,False,Southern Utah,Big Sky,44,Sacramento State,Big Sky,0
+2015,regular,400763545,7,2015-10-18T00:00:00.000Z,False,Ohio State,Big Ten,38,Penn State,Big Ten,10
+2015,regular,400757051,7,2015-10-18T01:00:00.000Z,False,Colorado,Pac-12,31,Arizona,Pac-12,38
+2015,regular,400757052,7,2015-10-18T02:00:00.000Z,False,Utah,Pac-12,34,Arizona State,Pac-12,18
+2015,regular,400757054,7,2015-10-18T02:30:00.000Z,False,Washington,Pac-12,20,Oregon,Pac-12,26
+2015,regular,400787265,7,2015-10-18T02:30:00.000Z,False,San José State,Mountain West,7,San Diego State,Mountain West,30
+2015,regular,400787454,8,2015-10-21T00:00:00.000Z,False,Arkansas State,Sun Belt,37,Louisiana,Sun Belt,27
+2015,regular,400764890,8,2015-10-22T23:00:00.000Z,False,East Carolina,American Athletic,14,Temple,American Athletic,24
+2015,regular,400787455,8,2015-10-22T23:30:00.000Z,False,App State,Sun Belt,31,Georgia Southern,Sun Belt,13
+2015,regular,400757056,8,2015-10-23T01:00:00.000Z,False,UCLA,Pac-12,40,California,Pac-12,24
+2015,regular,400799613,8,2015-10-23T23:00:00.000Z,False,Pennsylvania,Ivy,34,Yale,Ivy,20
+2015,regular,400764891,8,2015-10-24T00:00:00.000Z,False,Tulsa,American Athletic,42,Memphis,American Athletic,66
+2015,regular,400790884,8,2015-10-24T02:30:00.000Z,False,San Diego State,Mountain West,48,Utah State,Mountain West,14
+2015,regular,400756965,8,2015-10-24T16:00:00.000Z,False,Syracuse,ACC,20,Pittsburgh,ACC,23
+2015,regular,400763550,8,2015-10-24T16:00:00.000Z,False,Nebraska,Big Ten,28,Northwestern,Big Ten,30
+2015,regular,400763632,8,2015-10-24T16:00:00.000Z,False,Charlotte,Conference USA,10,Southern Miss,Conference USA,44
+2015,regular,400756964,8,2015-10-24T16:00:00.000Z,False,Wake Forest,ACC,17,NC State,ACC,35
+2015,regular,400763444,8,2015-10-24T16:00:00.000Z,False,Texas,Big 12,23,Kansas State,Big 12,9
+2015,regular,400764895,8,2015-10-24T16:00:00.000Z,False,UCF,American Athletic,10,Houston,American Athletic,59
+2015,regular,400760496,8,2015-10-24T16:00:00.000Z,False,Rice,Conference USA,38,Army,FBS Independents,31
+2015,regular,400799612,8,2015-10-24T16:00:00.000Z,False,Harvard,Ivy,42,Princeton,Ivy,7
+2015,regular,400603887,8,2015-10-24T16:00:00.000Z,False,Arkansas,SEC,54,Auburn,SEC,46
+2015,regular,400756960,8,2015-10-24T16:00:00.000Z,False,Miami,ACC,0,Clemson,ACC,58
+2015,regular,400763441,8,2015-10-24T16:00:00.000Z,False,Baylor,Big 12,45,Iowa State,Big 12,27
+2015,regular,400756959,8,2015-10-24T16:30:00.000Z,False,Louisville,ACC,17,Boston College,ACC,14
+2015,regular,400799610,8,2015-10-24T16:30:00.000Z,False,Cornell,Ivy,24,Brown,Ivy,44
+2015,regular,400795673,8,2015-10-24T16:30:00.000Z,False,Maine,CAA,23,Stony Brook,CAA,10
+2015,regular,400795617,8,2015-10-24T17:00:00.000Z,True,Monmouth,Big South,20,Coastal Carolina,Big South,23
+2015,regular,400799848,8,2015-10-24T17:00:00.000Z,False,Bryant,NEC,26,Saint Francis,NEC,24
+2015,regular,400764893,8,2015-10-24T17:00:00.000Z,False,Navy,American Athletic,31,Tulane,American Athletic,14
+2015,regular,400795742,8,2015-10-24T17:00:00.000Z,False,Indiana State,MVFC,14,North Dakota State,MVFC,28
+2015,regular,400799516,8,2015-10-24T17:00:00.000Z,False,Holy Cross,Patriot,42,Lafayette,Patriot,0
+2015,regular,400799810,8,2015-10-24T17:00:00.000Z,False,North Carolina A&T,MEAC,65,Howard,MEAC,14
+2015,regular,400799515,8,2015-10-24T17:00:00.000Z,False,Bucknell,Patriot,9,Georgetown,Patriot,17
+2015,regular,400787334,8,2015-10-24T17:00:00.000Z,False,Kent State,Mid-American,0,Bowling Green,Mid-American,48
+2015,regular,400799897,8,2015-10-24T17:00:00.000Z,False,Davidson,Pioneer,10,Marist,Pioneer,31
+2015,regular,400799514,8,2015-10-24T17:00:00.000Z,True,Fordham,Patriot,59,Lehigh,Patriot,42
+2015,regular,400799679,8,2015-10-24T17:00:00.000Z,False,Texas Southern,SWAC,21,Southern,SWAC,40
+2015,regular,400799850,8,2015-10-24T17:00:00.000Z,False,Sacred Heart,NEC,10,Central Connecticut,NEC,26
+2015,regular,400798998,8,2015-10-24T17:30:00.000Z,False,Wofford,Southern,17,Chattanooga,Southern,20
+2015,regular,400799024,8,2015-10-24T17:30:00.000Z,False,Furman,Southern,17,The Citadel,Southern,38
+2015,regular,400795616,8,2015-10-24T17:30:00.000Z,False,Gardner-Webb,Big South,0,Charleston Southern,Big South,34
+2015,regular,400799899,8,2015-10-24T18:00:00.000Z,False,Drake,Pioneer,28,Jacksonville,Pioneer,24
+2015,regular,400799808,8,2015-10-24T18:00:00.000Z,False,Delaware State,MEAC,7,South Carolina State,MEAC,34
+2015,regular,400787266,8,2015-10-24T18:00:00.000Z,False,Air Force,Mountain West,42,Fresno State,Mountain West,14
+2015,regular,400799809,8,2015-10-24T18:00:00.000Z,False,North Carolina Central,MEAC,20,Morgan State,MEAC,17
+2015,regular,400795794,8,2015-10-24T18:00:00.000Z,False,Eastern Illinois,OVC,51,Tennessee Tech,OVC,20
+2015,regular,400799901,8,2015-10-24T18:00:00.000Z,False,Valparaiso,Pioneer,14,Stetson,Pioneer,37
+2015,regular,400787337,8,2015-10-24T18:00:00.000Z,False,Western Michigan,Mid-American,35,Miami (OH),Mid-American,13
+2015,regular,400795743,8,2015-10-24T19:00:00.000Z,False,South Dakota,MVFC,40,Missouri State,MVFC,10
+2015,regular,400787338,8,2015-10-24T19:00:00.000Z,False,Massachusetts,Mid-American,35,Toledo,Mid-American,51
+2015,regular,400795740,8,2015-10-24T19:00:00.000Z,False,Illinois State,MVFC,48,Western Illinois,MVFC,28
+2015,regular,400799611,8,2015-10-24T19:00:00.000Z,False,Dartmouth,Ivy,13,Columbia,Ivy,9
+2015,regular,400787429,8,2015-10-24T19:00:00.000Z,False,BYU,FBS Independents,70,Wagner,NEC,6
+2015,regular,400787336,8,2015-10-24T19:00:00.000Z,False,Ball State,Mid-American,21,Central Michigan,Mid-American,23
+2015,regular,400795792,8,2015-10-24T19:00:00.000Z,False,Eastern Kentucky,OVC,45,Tennessee State,OVC,21
+2015,regular,400799954,8,2015-10-24T19:00:00.000Z,False,Houston Christian,Southland,7,SE Louisiana,Southland,22
+2015,regular,400799658,8,2015-10-24T19:00:00.000Z,False,Jackson State,SWAC,37,Arkansas-Pine Bluff,SWAC,3
+2015,regular,400799032,8,2015-10-24T19:00:00.000Z,False,Mercer,Southern,21,VMI,Southern,28
+2015,regular,400795744,8,2015-10-24T19:00:00.000Z,True,South Dakota State,MVFC,7,Northern Iowa,MVFC,10
+2015,regular,400795795,8,2015-10-24T19:00:00.000Z,False,UT Martin,OVC,52,Murray State,OVC,45
+2015,regular,400799666,8,2015-10-24T19:00:00.000Z,False,Grambling,SWAC,49,Mississippi Valley State,SWAC,14
+2015,regular,400795676,8,2015-10-24T19:30:00.000Z,False,James Madison,CAA,49,Richmond,CAA,59
+2015,regular,400763635,8,2015-10-24T19:30:00.000Z,False,Marshall,Conference USA,30,North Texas,Conference USA,13
+2015,regular,400795550,8,2015-10-24T19:30:00.000Z,False,Montana,Big Sky,42,North Dakota,Big Sky,16
+2015,regular,400795675,8,2015-10-24T19:30:00.000Z,False,William & Mary,CAA,40,Hampton,MEAC,7
+2015,regular,400756961,8,2015-10-24T19:30:00.000Z,False,Virginia Tech,ACC,43,Duke,ACC,45
+2015,regular,400799039,8,2015-10-24T19:30:00.000Z,False,Western Carolina,Southern,56,Samford,Southern,36
+2015,regular,400763634,8,2015-10-24T19:30:00.000Z,False,Louisiana Tech,Conference USA,45,Middle Tennessee,Conference USA,16
+2015,regular,400763442,8,2015-10-24T19:30:00.000Z,False,Oklahoma,Big 12,63,Texas Tech,Big 12,27
+2015,regular,400763443,8,2015-10-24T19:30:00.000Z,False,Oklahoma State,Big 12,58,Kansas,Big 12,10
+2015,regular,400756963,8,2015-10-24T19:30:00.000Z,False,North Carolina,ACC,26,Virginia,ACC,13
+2015,regular,400763549,8,2015-10-24T19:30:00.000Z,False,Michigan State,Big Ten,52,Indiana,Big Ten,26
+2015,regular,400795672,8,2015-10-24T19:30:00.000Z,False,Delaware,CAA,31,New Hampshire,CAA,14
+2015,regular,400787335,8,2015-10-24T19:30:00.000Z,False,Northern Illinois,Mid-American,49,Eastern Michigan,Mid-American,21
+2015,regular,400763548,8,2015-10-24T19:30:00.000Z,True,Maryland,Big Ten,30,Penn State,Big Ten,31
+2015,regular,400787333,8,2015-10-24T19:30:00.000Z,False,Buffalo,Mid-American,41,Ohio,Mid-American,17
+2015,regular,400763547,8,2015-10-24T19:30:00.000Z,False,Illinois,Big Ten,13,Wisconsin,Big Ten,24
+2015,regular,400603886,8,2015-10-24T19:30:00.000Z,False,Alabama,SEC,19,Tennessee,SEC,14
+2015,regular,400795552,8,2015-10-24T19:35:00.000Z,False,Northern Colorado,Big Sky,41,Eastern Washington,Big Sky,43
+2015,regular,400799896,8,2015-10-24T20:00:00.000Z,False,Campbell,Pioneer,27,Morehead State,Pioneer,31
+2015,regular,400799807,8,2015-10-24T20:00:00.000Z,False,Bethune-Cookman,MEAC,59,Norfolk State,MEAC,49
+2015,regular,400603891,8,2015-10-24T20:00:00.000Z,False,Vanderbilt,SEC,10,Missouri,SEC,3
+2015,regular,400764894,8,2015-10-24T20:00:00.000Z,False,South Florida,American Athletic,38,SMU,American Athletic,14
+2015,regular,400757057,8,2015-10-24T20:00:00.000Z,False,Arizona,Pac-12,42,Washington State,Pac-12,45
+2015,regular,400787268,8,2015-10-24T20:00:00.000Z,False,Nevada,Mountain West,30,Hawai'i,Mountain West,20
+2015,regular,400764892,8,2015-10-24T20:30:00.000Z,False,Cincinnati,American Athletic,37,UConn,American Athletic,13
+2015,regular,400795548,8,2015-10-24T20:35:00.000Z,False,Montana State,Big Sky,63,East Tennessee State,FCS Independents,7
+2015,regular,400795793,8,2015-10-24T21:00:00.000Z,False,Austin Peay,OVC,7,Jacksonville State,OVC,27
+2015,regular,400787456,8,2015-10-24T21:00:00.000Z,False,Idaho,Sun Belt,27,UL Monroe,Sun Belt,13
+2015,regular,400799898,8,2015-10-24T22:00:00.000Z,False,Dayton,Pioneer,27,Butler,Pioneer,24
+2015,regular,400763633,8,2015-10-24T22:00:00.000Z,False,Florida International,Conference USA,41,Old Dominion,Conference USA,12
+2015,regular,400799849,8,2015-10-24T22:00:00.000Z,False,Robert Morris,NEC,7,Duquesne,NEC,16
+2015,regular,400795547,8,2015-10-24T23:00:00.000Z,False,Northern Arizona,Big Sky,52,Weber State,Big Sky,36
+2015,regular,400799957,8,2015-10-24T23:00:00.000Z,False,McNeese,Southland,47,Northwestern State,Southland,27
+2015,regular,400787269,8,2015-10-24T23:00:00.000Z,False,San José State,Mountain West,31,New Mexico,Mountain West,21
+2015,regular,400795618,8,2015-10-24T23:00:00.000Z,False,Liberty,Big South,45,Kennesaw State,Big South,35
+2015,regular,400799956,8,2015-10-24T23:00:00.000Z,False,Lamar,Southland,17,Central Arkansas,Southland,35
+2015,regular,400603890,8,2015-10-24T23:00:00.000Z,False,Ole Miss,SEC,23,Texas A&M,SEC,3
+2015,regular,400756962,8,2015-10-24T23:00:00.000Z,False,Georgia Tech,ACC,22,Florida State,ACC,16
+2015,regular,400787458,8,2015-10-24T23:00:00.000Z,False,Texas State,Sun Belt,36,South Alabama,Sun Belt,18
+2015,regular,400795741,8,2015-10-24T23:00:00.000Z,False,Southern Illinois,MVFC,38,Youngstown State,MVFC,31
+2015,regular,400795546,8,2015-10-24T23:00:00.000Z,False,UC Davis,Big Sky,6,Southern Utah,Big Sky,34
+2015,regular,400795674,8,2015-10-24T23:00:00.000Z,False,Towson,CAA,28,Villanova,CAA,21
+2015,regular,400799958,8,2015-10-24T23:00:00.000Z,False,Sam Houston,Southland,37,Nicholls,Southland,7
+2015,regular,400603888,8,2015-10-24T23:00:00.000Z,False,LSU,SEC,48,Western Kentucky,Conference USA,20
+2015,regular,400763636,8,2015-10-24T23:00:00.000Z,False,UTEP,Conference USA,27,Florida Atlantic,Conference USA,17
+2015,regular,400757058,8,2015-10-24T23:30:00.000Z,False,USC,Pac-12,42,Utah,Pac-12,24
+2015,regular,400603889,8,2015-10-24T23:30:00.000Z,False,Mississippi State,SEC,42,Kentucky,SEC,16
+2015,regular,400787457,8,2015-10-25T00:00:00.000Z,False,New Mexico State,Sun Belt,7,Troy,Sun Belt,52
+2015,regular,400763551,8,2015-10-25T00:00:00.000Z,False,Rutgers,Big Ten,7,Ohio State,Big Ten,49
+2015,regular,400799900,8,2015-10-25T01:00:00.000Z,False,San Diego,Pioneer,45,Warner,,14
+2015,regular,400795549,8,2015-10-25T01:05:00.000Z,False,Sacramento State,Big Sky,38,Idaho State,Big Sky,13
+2015,regular,400795551,8,2015-10-25T01:05:00.000Z,False,Cal Poly,Big Sky,35,Portland State,Big Sky,38
+2015,regular,400787267,8,2015-10-25T02:21:00.000Z,False,Boise State,Mountain West,34,Wyoming,Mountain West,14
+2015,regular,400757059,8,2015-10-25T02:30:00.000Z,False,Oregon State,Pac-12,13,Colorado,Pac-12,17
+2015,regular,400757060,8,2015-10-25T02:36:00.000Z,False,Stanford,Pac-12,31,Washington,Pac-12,14
+2015,regular,400850248,8,2015-10-25T19:00:00.000Z,False,Incarnate Word,Southland,25,Abilene Christian,Southland,20
+2015,regular,400756966,9,2015-10-29T23:00:00.000Z,False,Pittsburgh,ACC,19,North Carolina,ACC,26
+2015,regular,400763445,9,2015-10-29T23:30:00.000Z,False,TCU,Big 12,40,West Virginia,Big 12,10
+2015,regular,400787340,9,2015-10-29T23:30:00.000Z,False,Miami (OH),Mid-American,24,Buffalo,Mid-American,29
+2015,regular,400787459,9,2015-10-29T23:30:00.000Z,False,Georgia Southern,Sun Belt,37,Texas State,Sun Belt,13
+2015,regular,400787339,9,2015-10-29T23:30:00.000Z,False,Eastern Michigan,Mid-American,28,Western Michigan,Mid-American,58
+2015,regular,400757061,9,2015-10-30T02:30:00.000Z,False,Arizona State,Pac-12,55,Oregon,Pac-12,61
+2015,regular,400756967,9,2015-10-30T23:00:00.000Z,False,Wake Forest,ACC,19,Louisville,ACC,20
+2015,regular,400764896,9,2015-10-30T23:00:00.000Z,False,UConn,American Athletic,31,East Carolina,American Athletic,13
+2015,regular,400799617,9,2015-10-30T23:30:00.000Z,False,Harvard,Ivy,14,Dartmouth,Ivy,13
+2015,regular,400763641,9,2015-10-31T00:00:00.000Z,False,Rice,Conference USA,17,Louisiana Tech,Conference USA,42
+2015,regular,400790885,9,2015-10-31T02:26:00.000Z,False,Utah State,Mountain West,58,Wyoming,Mountain West,27
+2015,regular,400603872,9,2015-10-31T16:00:00.000Z,False,Auburn,SEC,19,Ole Miss,SEC,27
+2015,regular,400756971,9,2015-10-31T16:00:00.000Z,False,Florida State,ACC,45,Syracuse,ACC,21
+2015,regular,400763554,9,2015-10-31T16:00:00.000Z,False,Penn State,Big Ten,39,Illinois,Big Ten,0
+2015,regular,400763640,9,2015-10-31T16:00:00.000Z,False,Old Dominion,Conference USA,30,Western Kentucky,Conference USA,55
+2015,regular,400799851,9,2015-10-31T16:00:00.000Z,False,Central Connecticut,NEC,34,Robert Morris,NEC,0
+2015,regular,400799852,9,2015-10-31T16:00:00.000Z,False,Duquesne,NEC,35,Wagner,NEC,17
+2015,regular,400799904,9,2015-10-31T16:00:00.000Z,False,Marist,Pioneer,35,Butler,Pioneer,14
+2015,regular,400799853,9,2015-10-31T16:00:00.000Z,False,Saint Francis,NEC,23,Sacred Heart,NEC,14
+2015,regular,400795681,9,2015-10-31T16:00:00.000Z,False,Stony Brook,CAA,7,Elon,CAA,21
+2015,regular,400763555,9,2015-10-31T16:00:00.000Z,False,Purdue,Big Ten,55,Nebraska,Big Ten,45
+2015,regular,400603876,9,2015-10-31T16:00:00.000Z,False,Texas A&M,SEC,35,South Carolina,SEC,28
+2015,regular,400764899,9,2015-10-31T16:00:00.000Z,False,Navy,American Athletic,29,South Florida,American Athletic,17
+2015,regular,400763556,9,2015-10-31T16:00:00.000Z,False,Wisconsin,Big Ten,48,Rutgers,Big Ten,10
+2015,regular,400764897,9,2015-10-31T16:00:00.000Z,False,Cincinnati,American Athletic,52,UCF,American Athletic,7
+2015,regular,400756968,9,2015-10-31T16:30:00.000Z,False,Boston College,ACC,10,Virginia Tech,ACC,26
+2015,regular,400799615,9,2015-10-31T16:30:00.000Z,False,Yale,Ivy,7,Columbia,Ivy,17
+2015,regular,400799519,9,2015-10-31T16:30:00.000Z,False,Lehigh,Patriot,33,Georgetown,Patriot,28
+2015,regular,400799614,9,2015-10-31T16:30:00.000Z,False,Brown,Ivy,28,Pennsylvania,Ivy,48
+2015,regular,400799518,9,2015-10-31T17:00:00.000Z,False,Colgate,Patriot,31,Fordham,Patriot,29
+2015,regular,400799903,9,2015-10-31T17:00:00.000Z,False,Dayton,Pioneer,31,Jacksonville,Pioneer,14
+2015,regular,400799905,9,2015-10-31T17:00:00.000Z,False,Morehead State,Pioneer,38,Drake,Pioneer,35
+2015,regular,400799813,9,2015-10-31T17:00:00.000Z,False,Howard,MEAC,55,Savannah State,MEAC,9
+2015,regular,400795583,9,2015-10-31T17:00:00.000Z,True,East Tennessee State,FCS Independents,42,Warner,,9
+2015,regular,400799906,9,2015-10-31T17:00:00.000Z,False,Stetson,Pioneer,16,San Diego,Pioneer,47
+2015,regular,400795745,9,2015-10-31T17:00:00.000Z,False,Illinois State,MVFC,27,Indiana State,MVFC,24
+2015,regular,400795621,9,2015-10-31T17:00:00.000Z,False,Kennesaw State,Big South,23,Monmouth,Big South,13
+2015,regular,400795678,9,2015-10-31T17:00:00.000Z,False,New Hampshire,CAA,20,Rhode Island,CAA,17
+2015,regular,400787342,9,2015-10-31T17:00:00.000Z,False,Ball State,Mid-American,20,Massachusetts,Mid-American,10
+2015,regular,400799520,9,2015-10-31T17:05:00.000Z,False,Holy Cross,Patriot,34,Bryant,NEC,33
+2015,regular,400799815,9,2015-10-31T17:30:00.000Z,False,South Carolina State,MEAC,34,Hampton,MEAC,20
+2015,regular,400799050,9,2015-10-31T17:30:00.000Z,False,VMI,Southern,20,Wofford,Southern,41
+2015,regular,400795680,9,2015-10-31T18:00:00.000Z,False,Towson,CAA,19,Delaware,CAA,0
+2015,regular,400795620,9,2015-10-31T18:00:00.000Z,False,Presbyterian,Big South,10,Gardner-Webb,Big South,14
+2015,regular,400795746,9,2015-10-31T18:00:00.000Z,False,Western Illinois,MVFC,21,Youngstown State,MVFC,23
+2015,regular,400787341,9,2015-10-31T18:00:00.000Z,False,Akron,Mid-American,6,Central Michigan,Mid-American,14
+2015,regular,400795556,9,2015-10-31T18:00:00.000Z,False,North Dakota,Big Sky,44,Montana State,Big Sky,38
+2015,regular,400795796,9,2015-10-31T18:00:00.000Z,False,Jacksonville State,OVC,34,Eastern Kentucky,OVC,0
+2015,regular,400799814,9,2015-10-31T18:00:00.000Z,False,North Carolina Central,MEAC,24,Norfolk State,MEAC,16
+2015,regular,400799811,9,2015-10-31T18:00:00.000Z,False,Delaware State,MEAC,21,Bethune-Cookman,MEAC,49
+2015,regular,400798999,9,2015-10-31T18:00:00.000Z,False,Chattanooga,Southern,41,Western Carolina,Southern,13
+2015,regular,400799033,9,2015-10-31T18:00:00.000Z,False,The Citadel,Southern,21,Mercer,Southern,19
+2015,regular,400795749,9,2015-10-31T18:00:00.000Z,False,Northern Iowa,MVFC,20,South Dakota,MVFC,7
+2015,regular,400795798,9,2015-10-31T18:00:00.000Z,False,Murray State,OVC,20,Eastern Illinois,OVC,34
+2015,regular,400799659,9,2015-10-31T18:00:00.000Z,True,Prairie View A&M,SWAC,54,Arkansas-Pine Bluff,SWAC,29
+2015,regular,400795797,9,2015-10-31T18:00:00.000Z,True,Southeast Missouri State,OVC,38,Tennessee Tech,OVC,17
+2015,regular,400799671,9,2015-10-31T18:00:00.000Z,False,Mississippi Valley State,SWAC,16,Jackson State,SWAC,26
+2015,regular,400763642,9,2015-10-31T18:30:00.000Z,False,Southern Miss,Conference USA,34,UTEP,Conference USA,13
+2015,regular,400795748,9,2015-10-31T19:00:00.000Z,False,Missouri State,MVFC,0,South Dakota State,MVFC,39
+2015,regular,400757064,9,2015-10-31T19:00:00.000Z,False,UCLA,Pac-12,35,Colorado,Pac-12,31
+2015,regular,400799902,9,2015-10-31T19:00:00.000Z,False,Davidson,Pioneer,9,Campbell,Pioneer,39
+2015,regular,400795799,9,2015-10-31T19:00:00.000Z,True,Tennessee State,OVC,20,Austin Peay,OVC,6
+2015,regular,400795747,9,2015-10-31T19:00:00.000Z,False,Southern Illinois,MVFC,29,North Dakota State,MVFC,35
+2015,regular,400799025,9,2015-10-31T19:00:00.000Z,False,Samford,Southern,17,Furman,Southern,20
+2015,regular,400799961,9,2015-10-31T19:00:00.000Z,False,Houston Christian,Southland,7,Lamar,Southland,55
+2015,regular,400756972,9,2015-10-31T19:00:00.000Z,False,Virginia,ACC,27,Georgia Tech,ACC,21
+2015,regular,400757063,9,2015-10-31T19:00:00.000Z,False,California,Pac-12,21,USC,Pac-12,27
+2015,regular,400795553,9,2015-10-31T19:05:00.000Z,False,Eastern Washington,Big Sky,14,Weber State,Big Sky,13
+2015,regular,400763638,9,2015-10-31T19:30:00.000Z,False,Florida Atlantic,Conference USA,31,Florida International,Conference USA,17
+2015,regular,400763637,9,2015-10-31T19:30:00.000Z,False,Charlotte,Conference USA,10,Marshall,Conference USA,34
+2015,regular,400763447,9,2015-10-31T19:30:00.000Z,False,Kansas,Big 12,7,Oklahoma,Big 12,62
+2015,regular,400787460,9,2015-10-31T19:30:00.000Z,False,App State,Sun Belt,44,Troy,Sun Belt,41
+2015,regular,400799634,9,2015-10-31T19:30:00.000Z,True,Alabama State,SWAC,35,Alabama A&M,SWAC,20
+2015,regular,400787273,9,2015-10-31T19:30:00.000Z,False,Colorado State,Mountain West,17,San Diego State,Mountain West,41
+2015,regular,400799959,9,2015-10-31T19:30:00.000Z,True,Abilene Christian,Southland,13,McNeese,Southland,15
+2015,regular,400756969,9,2015-10-31T19:30:00.000Z,False,NC State,ACC,41,Clemson,ACC,56
+2015,regular,400763552,9,2015-10-31T19:30:00.000Z,False,Iowa,Big Ten,31,Maryland,Big Ten,15
+2015,regular,400799517,9,2015-10-31T19:30:00.000Z,False,Lafayette,Patriot,24,Bucknell,Patriot,35
+2015,regular,400795679,9,2015-10-31T19:30:00.000Z,False,Richmond,CAA,38,UAlbany,CAA,31
+2015,regular,400763448,9,2015-10-31T19:30:00.000Z,False,Texas Tech,Big 12,53,Oklahoma State,Big 12,70
+2015,regular,400799616,9,2015-10-31T19:30:00.000Z,False,Princeton,Ivy,47,Cornell,Ivy,21
+2015,regular,400603873,9,2015-10-31T19:30:00.000Z,True,Florida,SEC,27,Georgia,SEC,3
+2015,regular,400787272,9,2015-10-31T19:30:00.000Z,False,UNLV,Mountain West,27,Boise State,Mountain West,55
+2015,regular,400764900,9,2015-10-31T20:00:00.000Z,False,SMU,American Athletic,31,Tulsa,American Athletic,40
+2015,regular,400799962,9,2015-10-31T20:00:00.000Z,False,Nicholls,Southland,21,Northwestern State,Southland,37
+2015,regular,400795682,9,2015-10-31T20:00:00.000Z,False,William & Mary,CAA,44,James Madison,CAA,41
+2015,regular,400603871,9,2015-10-31T20:00:00.000Z,False,Arkansas,SEC,63,UT Martin,OVC,28
+2015,regular,400799964,9,2015-10-31T20:00:00.000Z,False,Stephen F. Austin,Southland,55,Incarnate Word,Southland,21
+2015,regular,400799812,9,2015-10-31T21:00:00.000Z,False,Florida A&M,MEAC,10,North Carolina A&T,MEAC,28
+2015,regular,400787463,9,2015-10-31T21:00:00.000Z,False,Louisiana,Sun Belt,30,UL Monroe,Sun Belt,24
+2015,regular,400795554,9,2015-10-31T21:00:00.000Z,False,Southern Utah,Big Sky,54,Cal Poly,Big Sky,37
+2015,regular,400795555,9,2015-10-31T21:00:00.000Z,True,Portland State,Big Sky,35,Montana,Big Sky,16
+2015,regular,400799652,9,2015-10-31T21:00:00.000Z,False,Southern,SWAC,7,Alcorn State,SWAC,48
+2015,regular,400795557,9,2015-10-31T21:00:00.000Z,False,Northern Arizona,Big Sky,63,Northern Colorado,Big Sky,21
+2015,regular,400799963,9,2015-10-31T23:00:00.000Z,False,Sam Houston,Southland,38,East Texas A&M,Lone Star,24
+2015,regular,400757065,9,2015-10-31T23:00:00.000Z,False,Utah,Pac-12,27,Oregon State,Pac-12,12
+2015,regular,400603874,9,2015-10-31T23:00:00.000Z,False,Houston,American Athletic,34,Vanderbilt,SEC,0
+2015,regular,400763446,9,2015-10-31T23:00:00.000Z,False,Iowa State,Big 12,24,Texas,Big 12,0
+2015,regular,400756970,9,2015-10-31T23:00:00.000Z,False,Duke,ACC,27,Miami,ACC,30
+2015,regular,400795619,9,2015-10-31T23:00:00.000Z,False,Charleston Southern,Big South,33,Coastal Carolina,Big South,25
+2015,regular,400763639,9,2015-10-31T23:00:00.000Z,False,North Texas,Conference USA,30,UTSA,Conference USA,23
+2015,regular,400763553,9,2015-10-31T23:00:00.000Z,False,Minnesota,Big Ten,26,Michigan,Big Ten,29
+2015,regular,400764898,9,2015-10-31T23:00:00.000Z,False,Memphis,American Athletic,41,Tulane,American Athletic,13
+2015,regular,400787461,9,2015-10-31T23:00:00.000Z,False,Arkansas State,Sun Belt,48,Georgia State,Sun Belt,34
+2015,regular,400603875,9,2015-10-31T23:30:00.000Z,False,Kentucky,SEC,21,Tennessee,SEC,52
+2015,regular,400795677,9,2015-10-31T23:30:00.000Z,False,Villanova,CAA,13,Maine,CAA,3
+2015,regular,400763585,9,2015-11-01T00:00:00.000Z,False,Temple,American Athletic,20,Notre Dame,FBS Independents,24
+2015,regular,400799960,9,2015-11-01T00:00:00.000Z,False,Central Arkansas,Southland,21,SE Louisiana,Southland,16
+2015,regular,400787462,9,2015-11-01T00:00:00.000Z,False,New Mexico State,Sun Belt,55,Idaho,Sun Belt,48
+2015,regular,400757066,9,2015-11-01T02:30:00.000Z,False,Washington State,Pac-12,28,Stanford,Pac-12,30
+2015,regular,400787271,9,2015-11-01T02:30:00.000Z,False,Hawai'i,Mountain West,7,Air Force,Mountain West,58
+2015,regular,400757062,9,2015-11-01T03:00:00.000Z,False,Washington,Pac-12,49,Arizona,Pac-12,3
+2015,regular,400787343,10,2015-11-04T01:00:00.000Z,False,Toledo,Mid-American,27,Northern Illinois,Mid-American,32
+2015,regular,400787344,10,2015-11-05T01:00:00.000Z,False,Bowling Green,Mid-American,62,Ohio,Mid-American,24
+2015,regular,400787345,10,2015-11-06T00:00:00.000Z,False,Kent State,Mid-American,17,Buffalo,Mid-American,18
+2015,regular,400787464,10,2015-11-06T00:30:00.000Z,False,App State,Sun Belt,27,Arkansas State,Sun Belt,40
+2015,regular,400763449,10,2015-11-06T00:30:00.000Z,False,Kansas State,Big 12,24,Baylor,Big 12,31
+2015,regular,400787346,10,2015-11-06T00:30:00.000Z,False,Western Michigan,Mid-American,54,Ball State,Mid-American,7
+2015,regular,400603911,10,2015-11-06T02:00:00.000Z,False,Missouri,SEC,13,Mississippi State,SEC,31
+2015,regular,400790886,10,2015-11-06T03:30:00.000Z,False,Fresno State,Mountain West,16,Nevada,Mountain West,30
+2015,regular,400764901,10,2015-11-07T01:00:00.000Z,False,SMU,American Athletic,40,Temple,American Athletic,60
+2015,regular,400763646,10,2015-11-07T01:00:00.000Z,False,UTEP,Conference USA,24,Rice,Conference USA,21
+2015,regular,400799620,10,2015-11-07T01:00:00.000Z,False,Dartmouth,Ivy,21,Cornell,Ivy,3
+2015,regular,400790887,10,2015-11-07T04:30:00.000Z,False,San José State,Mountain West,16,BYU,FBS Independents,17
+2015,regular,400603907,10,2015-11-07T17:00:00.000Z,False,Georgia,SEC,27,Kentucky,SEC,3
+2015,regular,400763643,10,2015-11-07T17:00:00.000Z,False,Florida International,Conference USA,48,Charlotte,Conference USA,31
+2015,regular,400764906,10,2015-11-07T17:00:00.000Z,False,Tulsa,American Athletic,45,UCF,American Athletic,30
+2015,regular,400763648,10,2015-11-07T17:00:00.000Z,False,Western Kentucky,Conference USA,35,Florida Atlantic,Conference USA,19
+2015,regular,400603906,10,2015-11-07T17:00:00.000Z,False,Florida,SEC,9,Vanderbilt,SEC,7
+2015,regular,400763453,10,2015-11-07T17:00:00.000Z,False,West Virginia,Big 12,31,Texas Tech,Big 12,26
+2015,regular,400795687,10,2015-11-07T17:00:00.000Z,False,Elon,CAA,13,William & Mary,CAA,34
+2015,regular,400799856,10,2015-11-07T17:00:00.000Z,False,Wagner,NEC,10,Bryant,NEC,40
+2015,regular,400795683,10,2015-11-07T17:00:00.000Z,False,Delaware,CAA,6,UAlbany,CAA,17
+2015,regular,400799854,10,2015-11-07T17:00:00.000Z,False,Central Connecticut,NEC,13,Saint Francis,NEC,22
+2015,regular,400763561,10,2015-11-07T17:00:00.000Z,False,Northwestern,Big Ten,23,Penn State,Big Ten,21
+2015,regular,400787348,10,2015-11-07T17:00:00.000Z,False,Massachusetts,Mid-American,13,Akron,Mid-American,17
+2015,regular,400799855,10,2015-11-07T17:00:00.000Z,False,Sacred Heart,NEC,14,Duquesne,NEC,41
+2015,regular,400756975,10,2015-11-07T17:00:00.000Z,False,North Carolina,ACC,66,Duke,ACC,31
+2015,regular,400795584,10,2015-11-07T17:00:00.000Z,False,Robert Morris,NEC,21,East Tennessee State,FCS Independents,9
+2015,regular,400763563,10,2015-11-07T17:00:00.000Z,False,Purdue,Big Ten,14,Illinois,Big Ten,48
+2015,regular,400799621,10,2015-11-07T17:00:00.000Z,False,Pennsylvania,Ivy,26,Princeton,Ivy,23
+2015,regular,400756978,10,2015-11-07T17:00:00.000Z,False,Pittsburgh,ACC,30,Notre Dame,FBS Independents,42
+2015,regular,400756973,10,2015-11-07T17:30:00.000Z,False,Boston College,ACC,8,NC State,ACC,24
+2015,regular,400799618,10,2015-11-07T17:30:00.000Z,False,Yale,Ivy,41,Brown,Ivy,14
+2015,regular,400795685,10,2015-11-07T17:30:00.000Z,False,Rhode Island,CAA,3,Villanova,CAA,24
+2015,regular,400799523,10,2015-11-07T17:30:00.000Z,False,Lehigh,Patriot,51,Holy Cross,Patriot,38
+2015,regular,400756976,10,2015-11-07T17:30:00.000Z,False,Louisville,ACC,41,Syracuse,ACC,17
+2015,regular,400799908,10,2015-11-07T18:00:00.000Z,True,Jacksonville,Pioneer,42,Davidson,Pioneer,12
+2015,regular,400799909,10,2015-11-07T18:00:00.000Z,False,Marist,Pioneer,49,Stetson,Pioneer,14
+2015,regular,400799907,10,2015-11-07T18:00:00.000Z,False,Butler,Pioneer,42,Valparaiso,Pioneer,21
+2015,regular,400799817,10,2015-11-07T18:00:00.000Z,False,Hampton,MEAC,33,Florida A&M,MEAC,0
+2015,regular,400757070,10,2015-11-07T18:00:00.000Z,False,Colorado,Pac-12,10,Stanford,Pac-12,42
+2015,regular,400799910,10,2015-11-07T18:00:00.000Z,False,Morehead State,Pioneer,15,Dayton,Pioneer,20
+2015,regular,400799522,10,2015-11-07T18:00:00.000Z,False,Lafayette,Patriot,19,Colgate,Patriot,28
+2015,regular,400799619,10,2015-11-07T18:00:00.000Z,False,Columbia,Ivy,16,Harvard,Ivy,24
+2015,regular,400799521,10,2015-11-07T18:00:00.000Z,True,Fordham,Patriot,24,Bucknell,Patriot,16
+2015,regular,400795800,10,2015-11-07T18:00:00.000Z,False,Eastern Kentucky,OVC,35,UT Martin,OVC,42
+2015,regular,400795688,10,2015-11-07T18:00:00.000Z,False,Stony Brook,CAA,14,Howard,MEAC,9
+2015,regular,400795622,10,2015-11-07T18:00:00.000Z,False,Kennesaw State,Big South,14,Charleston Southern,Big South,28
+2015,regular,400799820,10,2015-11-07T18:30:00.000Z,False,South Carolina State,MEAC,6,North Carolina A&T,MEAC,9
+2015,regular,400799819,10,2015-11-07T19:00:00.000Z,False,Norfolk State,MEAC,20,Savannah State,MEAC,17
+2015,regular,400795802,10,2015-11-07T19:00:00.000Z,False,Eastern Illinois,OVC,3,Jacksonville State,OVC,24
+2015,regular,400787465,10,2015-11-07T19:00:00.000Z,False,Georgia State,Sun Belt,21,Louisiana,Sun Belt,23
+2015,regular,400799818,10,2015-11-07T19:00:00.000Z,False,North Carolina Central,MEAC,43,Delaware State,MEAC,10
+2015,regular,400795558,10,2015-11-07T19:00:00.000Z,False,Northern Colorado,Big Sky,35,Portland State,Big Sky,32
+2015,regular,400795560,10,2015-11-07T19:00:00.000Z,False,Weber State,Big Sky,23,UC Davis,Big Sky,3
+2015,regular,400799635,10,2015-11-07T19:00:00.000Z,False,Alabama A&M,SWAC,27,Mississippi Valley State,SWAC,24
+2015,regular,400799046,10,2015-11-07T19:00:00.000Z,False,The Citadel,Southern,35,VMI,Southern,14
+2015,regular,400795750,10,2015-11-07T19:00:00.000Z,False,Youngstown State,MVFC,47,Missouri State,MVFC,7
+2015,regular,400795753,10,2015-11-07T19:00:00.000Z,False,South Dakota,MVFC,34,Southern Illinois,MVFC,31
+2015,regular,400787347,10,2015-11-07T19:30:00.000Z,False,Miami (OH),Mid-American,28,Eastern Michigan,Mid-American,13
+2015,regular,400799911,10,2015-11-07T20:00:00.000Z,False,San Diego,Pioneer,31,Campbell,Pioneer,27
+2015,regular,400756977,10,2015-11-07T20:00:00.000Z,False,Miami,ACC,27,Virginia,ACC,21
+2015,regular,400795686,10,2015-11-07T20:00:00.000Z,False,New Hampshire,CAA,30,Richmond,CAA,25
+2015,regular,400799040,10,2015-11-07T20:00:00.000Z,False,Samford,Southern,43,Clark Atlanta,SIAC,0
+2015,regular,400787275,10,2015-11-07T20:00:00.000Z,False,Wyoming,Mountain West,7,Colorado State,Mountain West,26
+2015,regular,400799667,10,2015-11-07T20:00:00.000Z,False,Grambling,SWAC,41,Texas Southern,SWAC,15
+2015,regular,400799653,10,2015-11-07T20:00:00.000Z,False,Alcorn State,SWAC,34,Prairie View A&M,SWAC,40
+2015,regular,400795754,10,2015-11-07T20:00:00.000Z,True,South Dakota State,MVFC,25,Illinois State,MVFC,20
+2015,regular,400787466,10,2015-11-07T20:00:00.000Z,False,South Alabama,Sun Belt,52,Idaho,Sun Belt,45
+2015,regular,400763557,10,2015-11-07T20:30:00.000Z,False,Indiana,Big Ten,27,Iowa,Big Ten,35
+2015,regular,400760497,10,2015-11-07T20:30:00.000Z,False,Air Force,Mountain West,20,Army,FBS Independents,3
+2015,regular,400756974,10,2015-11-07T20:30:00.000Z,False,Clemson,ACC,23,Florida State,ACC,13
+2015,regular,400763645,10,2015-11-07T20:30:00.000Z,False,Middle Tennessee,Conference USA,27,Marshall,Conference USA,24
+2015,regular,400763559,10,2015-11-07T20:30:00.000Z,False,Michigan,Big Ten,49,Rutgers,Big Ten,16
+2015,regular,400787278,10,2015-11-07T20:30:00.000Z,False,New Mexico,Mountain West,14,Utah State,Mountain West,13
+2015,regular,400795624,10,2015-11-07T20:30:00.000Z,False,Liberty,Big South,21,Presbyterian,Big South,13
+2015,regular,400799965,10,2015-11-07T20:30:00.000Z,False,Central Arkansas,Southland,36,Stephen F. Austin,Southland,24
+2015,regular,400795751,10,2015-11-07T20:30:00.000Z,False,North Dakota State,MVFC,59,Western Illinois,MVFC,7
+2015,regular,400763451,10,2015-11-07T20:30:00.000Z,False,Oklahoma State,Big 12,49,TCU,Big 12,29
+2015,regular,400757068,10,2015-11-07T20:30:00.000Z,False,Washington State,Pac-12,38,Arizona State,Pac-12,24
+2015,regular,400603908,10,2015-11-07T20:30:00.000Z,False,Ole Miss,SEC,52,Arkansas,SEC,53
+2015,regular,400795803,10,2015-11-07T20:30:00.000Z,True,Tennessee State,OVC,43,Murray State,OVC,46
+2015,regular,400795623,10,2015-11-07T20:30:00.000Z,False,Coastal Carolina,Big South,46,Gardner-Webb,Big South,0
+2015,regular,400787467,10,2015-11-07T20:30:00.000Z,False,Troy,Sun Belt,51,UL Monroe,Sun Belt,14
+2015,regular,400763558,10,2015-11-07T20:30:00.000Z,False,Maryland,Big Ten,24,Wisconsin,Big Ten,31
+2015,regular,400799660,10,2015-11-07T20:30:00.000Z,False,Arkansas-Pine Bluff,SWAC,24,Southern,SWAC,57
+2015,regular,400763644,10,2015-11-07T20:30:00.000Z,False,Louisiana Tech,Conference USA,56,North Texas,Conference USA,13
+2015,regular,400799026,10,2015-11-07T20:30:00.000Z,False,Western Carolina,Southern,48,Furman,Southern,10
+2015,regular,400764903,10,2015-11-07T20:30:00.000Z,False,Houston,American Athletic,33,Cincinnati,American Athletic,30
+2015,regular,400795559,10,2015-11-07T20:40:00.000Z,False,Montana State,Big Sky,23,Southern Utah,Big Sky,34
+2015,regular,400603909,10,2015-11-07T21:00:00.000Z,False,Tennessee,SEC,27,South Carolina,SEC,24
+2015,regular,400799000,10,2015-11-07T21:00:00.000Z,False,Mercer,Southern,17,Chattanooga,Southern,14
+2015,regular,400799816,10,2015-11-07T21:00:00.000Z,False,Bethune-Cookman,MEAC,38,Morgan State,MEAC,14
+2015,regular,400764905,10,2015-11-07T21:00:00.000Z,False,Tulane,American Athletic,3,UConn,American Athletic,7
+2015,regular,400787468,10,2015-11-07T21:00:00.000Z,False,Texas State,Sun Belt,21,New Mexico State,Sun Belt,31
+2015,regular,400757069,10,2015-11-07T21:30:00.000Z,False,Oregon State,Pac-12,0,UCLA,Pac-12,41
+2015,regular,400795561,10,2015-11-07T21:35:00.000Z,False,Idaho State,Big Sky,27,Montana,Big Sky,33
+2015,regular,400795801,10,2015-11-07T22:00:00.000Z,False,Austin Peay,OVC,15,Southeast Missouri State,OVC,44
+2015,regular,400795752,10,2015-11-07T22:00:00.000Z,False,Northern Iowa,MVFC,59,Indiana State,MVFC,13
+2015,regular,400787277,10,2015-11-07T23:00:00.000Z,False,UNLV,Mountain West,41,Hawai'i,Mountain West,21
+2015,regular,400795563,10,2015-11-07T23:05:00.000Z,False,Eastern Washington,Big Sky,30,Northern Arizona,Big Sky,52
+2015,regular,400764904,10,2015-11-08T00:00:00.000Z,False,Memphis,American Athletic,20,Navy,American Athletic,45
+2015,regular,400795684,10,2015-11-08T00:00:00.000Z,False,Maine,CAA,7,Towson,CAA,10
+2015,regular,400763647,10,2015-11-08T00:00:00.000Z,False,UTSA,Conference USA,31,Old Dominion,Conference USA,36
+2015,regular,400799967,10,2015-11-08T00:00:00.000Z,False,McNeese,Southland,27,Sam Houston,Southland,10
+2015,regular,400763450,10,2015-11-08T00:00:00.000Z,False,Oklahoma,Big 12,52,Iowa State,Big 12,16
+2015,regular,400799966,10,2015-11-08T00:00:00.000Z,False,Lamar,Southland,28,Nicholls,Southland,30
+2015,regular,400799968,10,2015-11-08T00:00:00.000Z,False,Northwestern State,Southland,39,Abilene Christian,Southland,22
+2015,regular,400799969,10,2015-11-08T00:00:00.000Z,False,SE Louisiana,Southland,2,Incarnate Word,Southland,16
+2015,regular,400799645,10,2015-11-08T00:00:00.000Z,False,Jackson State,SWAC,12,Alabama State,SWAC,17
+2015,regular,400763560,10,2015-11-08T00:00:00.000Z,False,Nebraska,Big Ten,39,Michigan State,Big Ten,38
+2015,regular,400603910,10,2015-11-08T00:30:00.000Z,False,Texas A&M,SEC,10,Auburn,SEC,26
+2015,regular,400764902,10,2015-11-08T00:30:00.000Z,False,East Carolina,American Athletic,17,South Florida,American Athletic,22
+2015,regular,400757071,10,2015-11-08T00:30:00.000Z,False,Washington,Pac-12,23,Utah,Pac-12,34
+2015,regular,400763562,10,2015-11-08T01:00:00.000Z,False,Ohio State,Big Ten,28,Minnesota,Big Ten,14
+2015,regular,400763452,10,2015-11-08T01:00:00.000Z,False,Texas,Big 12,59,Kansas,Big 12,20
+2015,regular,400603905,10,2015-11-08T01:00:00.000Z,False,Alabama,SEC,30,LSU,SEC,16
+2015,regular,400795562,10,2015-11-08T02:05:00.000Z,False,Cal Poly,Big Sky,36,Sacramento State,Big Sky,14
+2015,regular,400757067,10,2015-11-08T03:30:00.000Z,False,USC,Pac-12,38,Arizona,Pac-12,30
+2015,regular,400757072,10,2015-11-08T03:30:00.000Z,False,Oregon,Pac-12,44,California,Pac-12,28
+2015,regular,400787350,11,2015-11-11T01:00:00.000Z,False,Central Michigan,Mid-American,23,Toledo,Mid-American,28
+2015,regular,400787349,11,2015-11-11T01:00:00.000Z,False,Ohio,Mid-American,27,Kent State,Mid-American,0
+2015,regular,400787352,11,2015-11-12T01:00:00.000Z,False,Western Michigan,Mid-American,27,Bowling Green,Mid-American,41
+2015,regular,400787351,11,2015-11-12T01:00:00.000Z,False,Buffalo,Mid-American,30,Northern Illinois,Mid-American,41
+2015,regular,400756979,11,2015-11-13T00:30:00.000Z,False,Georgia Tech,ACC,21,Virginia Tech,ACC,23
+2015,regular,400787469,11,2015-11-13T00:30:00.000Z,False,South Alabama,Sun Belt,32,Louisiana,Sun Belt,25
+2015,regular,400757073,11,2015-11-14T02:00:00.000Z,False,Colorado,Pac-12,24,USC,Pac-12,27
+2015,regular,400799524,11,2015-11-14T17:00:00.000Z,False,Georgetown,Patriot,31,Fordham,Patriot,38
+2015,regular,400799624,11,2015-11-14T17:00:00.000Z,False,Harvard,Ivy,25,Pennsylvania,Ivy,35
+2015,regular,400795627,11,2015-11-14T17:00:00.000Z,True,Monmouth,Big South,21,Presbyterian,Big South,16
+2015,regular,400763650,11,2015-11-14T17:00:00.000Z,False,Florida Atlantic,Conference USA,17,Middle Tennessee,Conference USA,24
+2015,regular,400763652,11,2015-11-14T17:00:00.000Z,False,Old Dominion,Conference USA,31,UTEP,Conference USA,21
+2015,regular,400603934,11,2015-11-14T17:00:00.000Z,False,South Carolina,SEC,14,Florida,SEC,24
+2015,regular,400763567,11,2015-11-14T17:00:00.000Z,False,Michigan State,Big Ten,24,Maryland,Big Ten,7
+2015,regular,400763456,11,2015-11-14T17:00:00.000Z,False,TCU,Big 12,23,Kansas,Big 12,17
+2015,regular,400799858,11,2015-11-14T17:00:00.000Z,False,Saint Francis,NEC,21,Robert Morris,NEC,0
+2015,regular,400799857,11,2015-11-14T17:00:00.000Z,False,Bryant,NEC,19,Sacred Heart,NEC,28
+2015,regular,400763458,11,2015-11-14T17:00:00.000Z,False,West Virginia,Big 12,38,Texas,Big 12,20
+2015,regular,400799859,11,2015-11-14T17:00:00.000Z,False,Wagner,NEC,28,Central Connecticut,NEC,7
+2015,regular,400603931,11,2015-11-14T17:00:00.000Z,False,Auburn,SEC,13,Georgia,SEC,20
+2015,regular,400799914,11,2015-11-14T17:00:00.000Z,False,Davidson,Pioneer,10,San Diego,Pioneer,35
+2015,regular,400756981,11,2015-11-14T17:00:00.000Z,False,Duke,ACC,13,Pittsburgh,ACC,31
+2015,regular,400763564,11,2015-11-14T17:00:00.000Z,False,Illinois,Big Ten,3,Ohio State,Big Ten,28
+2015,regular,400763568,11,2015-11-14T17:00:00.000Z,False,Northwestern,Big Ten,21,Purdue,Big Ten,14
+2015,regular,400787353,11,2015-11-14T17:00:00.000Z,False,Miami (OH),Mid-American,28,Akron,Mid-American,37
+2015,regular,400760498,11,2015-11-14T17:00:00.000Z,False,Army,FBS Independents,31,Tulane,American Athletic,34
+2015,regular,400603935,11,2015-11-14T17:00:00.000Z,False,Tennessee,SEC,24,North Texas,Conference USA,0
+2015,regular,400756982,11,2015-11-14T17:30:00.000Z,False,Florida State,ACC,34,NC State,ACC,17
+2015,regular,400799622,11,2015-11-14T17:30:00.000Z,False,Brown,Ivy,18,Dartmouth,Ivy,34
+2015,regular,400795690,11,2015-11-14T17:30:00.000Z,False,Rhode Island,CAA,7,Stony Brook,CAA,19
+2015,regular,400799623,11,2015-11-14T17:30:00.000Z,False,Cornell,Ivy,3,Columbia,Ivy,0
+2015,regular,400756983,11,2015-11-14T17:30:00.000Z,False,Louisville,ACC,38,Virginia,ACC,31
+2015,regular,400795693,11,2015-11-14T17:30:00.000Z,False,Maine,CAA,22,Elon,CAA,27
+2015,regular,400799823,11,2015-11-14T18:00:00.000Z,False,Norfolk State,MEAC,10,South Carolina State,MEAC,17
+2015,regular,400799821,11,2015-11-14T18:00:00.000Z,False,Howard,MEAC,6,North Carolina Central,MEAC,41
+2015,regular,400799912,11,2015-11-14T18:00:00.000Z,False,Butler,Pioneer,20,Drake,Pioneer,13
+2015,regular,400799825,11,2015-11-14T18:00:00.000Z,False,Savannah State,MEAC,3,Hampton,MEAC,42
+2015,regular,400799525,11,2015-11-14T18:00:00.000Z,False,Colgate,Patriot,49,Lehigh,Patriot,42
+2015,regular,400799625,11,2015-11-14T18:00:00.000Z,False,Princeton,Ivy,28,Yale,Ivy,35
+2015,regular,400799824,11,2015-11-14T18:00:00.000Z,False,North Carolina A&T,MEAC,27,Delaware State,MEAC,6
+2015,regular,400799913,11,2015-11-14T18:00:00.000Z,False,Campbell,Pioneer,14,Jacksonville,Pioneer,20
+2015,regular,400799822,11,2015-11-14T18:00:00.000Z,False,Morgan State,MEAC,21,Florida A&M,MEAC,7
+2015,regular,400799526,11,2015-11-14T18:00:00.000Z,False,Bucknell,Patriot,7,Holy Cross,Patriot,23
+2015,regular,400799915,11,2015-11-14T18:00:00.000Z,False,Dayton,Pioneer,28,Marist,Pioneer,21
+2015,regular,400795757,11,2015-11-14T18:05:00.000Z,False,Indiana State,MVFC,30,Western Illinois,MVFC,37
+2015,regular,400799027,11,2015-11-14T18:30:00.000Z,False,Furman,Southern,20,Mercer,Southern,27
+2015,regular,400799041,11,2015-11-14T18:30:00.000Z,False,Wofford,Southern,27,Samford,Southern,37
+2015,regular,400795585,11,2015-11-14T18:30:00.000Z,False,Gardner-Webb,Big South,28,East Tennessee State,FCS Independents,3
+2015,regular,400795692,11,2015-11-14T18:30:00.000Z,False,William & Mary,CAA,31,Towson,CAA,17
+2015,regular,400795625,11,2015-11-14T19:00:00.000Z,False,Charleston Southern,Big South,31,Liberty,Big South,24
+2015,regular,400795755,11,2015-11-14T19:00:00.000Z,False,Youngstown State,MVFC,24,North Dakota State,MVFC,27
+2015,regular,400799021,11,2015-11-14T19:00:00.000Z,False,Chattanooga,Southern,31,The Citadel,Southern,23
+2015,regular,400787280,11,2015-11-14T19:00:00.000Z,False,Air Force,Mountain West,35,Utah State,Mountain West,28
+2015,regular,400795759,11,2015-11-14T19:00:00.000Z,False,South Dakota,MVFC,23,South Dakota State,MVFC,30
+2015,regular,400795567,11,2015-11-14T19:00:00.000Z,False,North Dakota,Big Sky,45,Northern Colorado,Big Sky,14
+2015,regular,400799917,11,2015-11-14T19:00:00.000Z,False,Valparaiso,Pioneer,29,Morehead State,Pioneer,36
+2015,regular,400795804,11,2015-11-14T19:00:00.000Z,False,Jacksonville State,OVC,56,Southeast Missouri State,OVC,28
+2015,regular,400799654,11,2015-11-14T19:00:00.000Z,False,Texas Southern,SWAC,13,Alcorn State,SWAC,65
+2015,regular,400795626,11,2015-11-14T19:00:00.000Z,False,Coastal Carolina,Big South,45,Kennesaw State,Big South,13
+2015,regular,400795805,11,2015-11-14T19:00:00.000Z,False,Murray State,OVC,34,Eastern Kentucky,OVC,41
+2015,regular,400763649,11,2015-11-14T19:00:00.000Z,False,Charlotte,Conference USA,27,UTSA,Conference USA,30
+2015,regular,400795806,11,2015-11-14T19:30:00.000Z,False,Tennessee Tech,OVC,42,Austin Peay,OVC,24
+2015,regular,400757075,11,2015-11-14T20:00:00.000Z,False,Arizona State,Pac-12,27,Washington,Pac-12,17
+2015,regular,400799970,11,2015-11-14T20:00:00.000Z,True,Abilene Christian,Southland,21,SE Louisiana,Southland,17
+2015,regular,400795758,11,2015-11-14T20:00:00.000Z,False,Missouri State,MVFC,0,Northern Iowa,MVFC,41
+2015,regular,400799916,11,2015-11-14T20:00:00.000Z,False,Stetson,Pioneer,60,Ave Maria University,,21
+2015,regular,400795807,11,2015-11-14T20:00:00.000Z,False,UT Martin,OVC,21,Eastern Illinois,OVC,23
+2015,regular,400799646,11,2015-11-14T20:00:00.000Z,False,Alabama State,SWAC,13,Prairie View A&M,SWAC,38
+2015,regular,400795756,11,2015-11-14T20:00:00.000Z,False,Southern Illinois,MVFC,21,Illinois State,MVFC,42
+2015,regular,400799971,11,2015-11-14T20:00:00.000Z,False,Incarnate Word,Southland,21,Lamar,Southland,28
+2015,regular,400787354,11,2015-11-14T20:00:00.000Z,False,Eastern Michigan,Mid-American,17,Massachusetts,Mid-American,28
+2015,regular,400787471,11,2015-11-14T20:00:00.000Z,False,UL Monroe,Sun Belt,21,Arkansas State,Sun Belt,59
+2015,regular,400763565,11,2015-11-14T20:30:00.000Z,False,Indiana,Big Ten,41,Michigan,Big Ten,48
+2015,regular,400763569,11,2015-11-14T20:30:00.000Z,False,Rutgers,Big Ten,14,Nebraska,Big Ten,31
+2015,regular,400763653,11,2015-11-14T20:30:00.000Z,False,Rice,Conference USA,10,Southern Miss,Conference USA,65
+2015,regular,400756980,11,2015-11-14T20:30:00.000Z,False,Syracuse,ACC,27,Clemson,ACC,37
+2015,regular,400795694,11,2015-11-14T20:30:00.000Z,False,Delaware,CAA,21,James Madison,CAA,24
+2015,regular,400795565,11,2015-11-14T20:30:00.000Z,False,Montana,Big Sky,57,Eastern Washington,Big Sky,16
+2015,regular,400799973,11,2015-11-14T20:30:00.000Z,False,Sam Houston,Southland,59,Northwestern State,Southland,21
+2015,regular,400787472,11,2015-11-14T20:30:00.000Z,False,Troy,Sun Belt,10,Georgia Southern,Sun Belt,45
+2015,regular,400763455,11,2015-11-14T20:30:00.000Z,False,Iowa State,Big 12,31,Oklahoma State,Big 12,35
+2015,regular,400603933,11,2015-11-14T20:30:00.000Z,False,Mississippi State,SEC,6,Alabama,SEC,31
+2015,regular,400795689,11,2015-11-14T20:30:00.000Z,False,Villanova,CAA,21,Richmond,CAA,20
+2015,regular,400763457,11,2015-11-14T20:30:00.000Z,False,Texas Tech,Big 12,59,Kansas State,Big 12,44
+2015,regular,400756985,11,2015-11-14T20:30:00.000Z,False,Notre Dame,FBS Independents,28,Wake Forest,ACC,7
+2015,regular,400764909,11,2015-11-14T20:30:00.000Z,False,Navy,American Athletic,55,SMU,American Athletic,14
+2015,regular,400799661,11,2015-11-14T20:30:00.000Z,False,Arkansas-Pine Bluff,SWAC,31,Grambling,SWAC,49
+2015,regular,400763651,11,2015-11-14T20:30:00.000Z,False,Marshall,Conference USA,52,Florida International,Conference USA,0
+2015,regular,400756984,11,2015-11-14T20:30:00.000Z,False,North Carolina,ACC,59,Miami,ACC,21
+2015,regular,400787284,11,2015-11-14T21:00:00.000Z,False,Nevada,Mountain West,37,San José State,Mountain West,34
+2015,regular,400795569,11,2015-11-14T21:00:00.000Z,False,Northern Arizona,Big Sky,49,Sacramento State,Big Sky,35
+2015,regular,400603937,11,2015-11-14T21:00:00.000Z,False,Vanderbilt,SEC,21,Kentucky,SEC,17
+2015,regular,400799974,11,2015-11-14T21:00:00.000Z,False,Stephen F. Austin,Southland,55,Houston Christian,Southland,20
+2015,regular,400787473,11,2015-11-14T21:00:00.000Z,False,Texas State,Sun Belt,19,Georgia State,Sun Belt,41
+2015,regular,400795564,11,2015-11-14T21:35:00.000Z,False,Idaho State,Big Sky,20,Montana State,Big Sky,44
+2015,regular,400799636,11,2015-11-14T22:00:00.000Z,False,Southern,SWAC,46,Alabama A&M,SWAC,7
+2015,regular,400795566,11,2015-11-14T22:00:00.000Z,False,UC Davis,Big Sky,38,Cal Poly,Big Sky,55
+2015,regular,400787470,11,2015-11-14T22:00:00.000Z,False,Idaho,Sun Belt,20,App State,Sun Belt,47
+2015,regular,400795568,11,2015-11-14T22:05:00.000Z,True,Portland State,Big Sky,24,Southern Utah,Big Sky,23
+2015,regular,400795691,11,2015-11-15T00:00:00.000Z,False,UAlbany,CAA,14,New Hampshire,CAA,24
+2015,regular,400764910,11,2015-11-15T00:00:00.000Z,False,South Florida,American Athletic,44,Temple,American Athletic,23
+2015,regular,400799972,11,2015-11-15T00:00:00.000Z,False,Nicholls,Southland,31,Central Arkansas,Southland,34
+2015,regular,400603936,11,2015-11-15T00:00:00.000Z,False,Texas A&M,SEC,41,Western Carolina,Southern,17
+2015,regular,400764908,11,2015-11-15T00:00:00.000Z,False,Houston,American Athletic,35,Memphis,American Athletic,34
+2015,regular,400787282,11,2015-11-15T00:00:00.000Z,False,Colorado State,Mountain West,49,UNLV,Mountain West,35
+2015,regular,400603932,11,2015-11-15T00:15:00.000Z,False,LSU,SEC,14,Arkansas,SEC,31
+2015,regular,400785063,11,2015-11-15T00:30:00.000Z,True,Missouri,SEC,20,BYU,FBS Independents,16
+2015,regular,400764907,11,2015-11-15T00:30:00.000Z,False,Cincinnati,American Athletic,49,Tulsa,American Athletic,38
+2015,regular,400757077,11,2015-11-15T00:30:00.000Z,False,Stanford,Pac-12,36,Oregon,Pac-12,38
+2015,regular,400763566,11,2015-11-15T01:00:00.000Z,False,Iowa,Big Ten,40,Minnesota,Big Ten,35
+2015,regular,400763454,11,2015-11-15T01:00:00.000Z,False,Baylor,Big 12,34,Oklahoma,Big 12,44
+2015,regular,400757074,11,2015-11-15T03:00:00.000Z,False,Arizona,Pac-12,37,Utah,Pac-12,30
+2015,regular,400787281,11,2015-11-15T03:15:00.000Z,False,Boise State,Mountain West,24,New Mexico,Mountain West,31
+2015,regular,400757078,11,2015-11-15T03:30:00.000Z,False,California,Pac-12,54,Oregon State,Pac-12,24
+2015,regular,400787285,11,2015-11-15T03:30:00.000Z,False,San Diego State,Mountain West,38,Wyoming,Mountain West,3
+2015,regular,400757076,11,2015-11-15T03:45:00.000Z,False,UCLA,Pac-12,27,Washington State,Pac-12,31
+2015,regular,400787283,11,2015-11-15T04:00:00.000Z,False,Hawai'i,Mountain West,14,Fresno State,Mountain West,42
+2015,regular,400787356,12,2015-11-17T23:00:00.000Z,False,Bowling Green,Mid-American,28,Toledo,Mid-American,44
+2015,regular,400787355,12,2015-11-18T00:00:00.000Z,False,Ohio,Mid-American,48,Ball State,Mid-American,31
+2015,regular,400787357,12,2015-11-19T01:00:00.000Z,False,Kent State,Mid-American,14,Central Michigan,Mid-American,27
+2015,regular,400787358,12,2015-11-19T01:00:00.000Z,False,Northern Illinois,Mid-American,27,Western Michigan,Mid-American,19
+2015,regular,400799975,12,2015-11-20T00:00:00.000Z,False,SE Louisiana,Southland,24,Nicholls,Southland,27
+2015,regular,400795628,12,2015-11-20T00:00:00.000Z,False,Liberty,Big South,24,Coastal Carolina,Big South,21
+2015,regular,400764911,12,2015-11-20T00:30:00.000Z,False,UCF,American Athletic,7,East Carolina,American Athletic,44
+2015,regular,400787474,12,2015-11-20T02:30:00.000Z,False,Texas State,Sun Belt,16,UL Monroe,Sun Belt,3
+2015,regular,400799626,12,2015-11-21T00:30:00.000Z,False,Columbia,Ivy,23,Brown,Ivy,28
+2015,regular,400764912,12,2015-11-21T01:00:00.000Z,False,South Florida,American Athletic,65,Cincinnati,American Athletic,27
+2015,regular,400790881,12,2015-11-21T02:30:00.000Z,False,Boise State,Mountain West,30,Air Force,Mountain West,37
+2015,regular,400763460,12,2015-11-21T17:00:00.000Z,False,Kansas State,Big 12,38,Iowa State,Big 12,35
+2015,regular,400764915,12,2015-11-21T17:00:00.000Z,False,Temple,American Athletic,31,Memphis,American Athletic,12
+2015,regular,400603924,12,2015-11-21T17:00:00.000Z,False,Florida,SEC,20,Florida Atlantic,Conference USA,14
+2015,regular,400603929,12,2015-11-21T17:00:00.000Z,False,South Carolina,SEC,22,The Citadel,Southern,23
+2015,regular,400763572,12,2015-11-21T17:00:00.000Z,False,Minnesota,Big Ten,32,Illinois,Big Ten,23
+2015,regular,400799862,12,2015-11-21T17:00:00.000Z,False,Sacred Heart,NEC,45,Wagner,NEC,17
+2015,regular,400799860,12,2015-11-21T17:00:00.000Z,False,Duquesne,NEC,30,Saint Francis,NEC,20
+2015,regular,400763574,12,2015-11-21T17:00:00.000Z,False,Penn State,Big Ten,16,Michigan,Big Ten,28
+2015,regular,400763459,12,2015-11-21T17:00:00.000Z,False,Kansas,Big 12,0,West Virginia,Big 12,49
+2015,regular,400795699,12,2015-11-21T17:00:00.000Z,False,James Madison,CAA,38,Villanova,CAA,29
+2015,regular,400799628,12,2015-11-21T17:00:00.000Z,False,Dartmouth,Ivy,17,Princeton,Ivy,10
+2015,regular,400795700,12,2015-11-21T17:00:00.000Z,False,Richmond,CAA,20,William & Mary,CAA,9
+2015,regular,400763570,12,2015-11-21T17:00:00.000Z,False,Iowa,Big Ten,40,Purdue,Big Ten,20
+2015,regular,400756992,12,2015-11-21T17:00:00.000Z,False,Virginia Tech,ACC,27,North Carolina,ACC,30
+2015,regular,400799861,12,2015-11-21T17:00:00.000Z,False,Robert Morris,NEC,21,Bryant,NEC,20
+2015,regular,400763571,12,2015-11-21T17:00:00.000Z,False,Maryland,Big Ten,28,Indiana,Big Ten,47
+2015,regular,400795698,12,2015-11-21T17:00:00.000Z,False,Elon,CAA,10,Delaware,CAA,14
+2015,regular,400763655,12,2015-11-21T17:00:00.000Z,False,Middle Tennessee,Conference USA,41,North Texas,Conference USA,7
+2015,regular,400760499,12,2015-11-21T17:00:00.000Z,False,Army,FBS Independents,21,Rutgers,Big Ten,31
+2015,regular,400799528,12,2015-11-21T17:05:00.000Z,False,Holy Cross,Patriot,45,Georgetown,Patriot,7
+2015,regular,400799529,12,2015-11-21T17:30:00.000Z,False,Lehigh,Patriot,49,Lafayette,Patriot,35
+2015,regular,400756990,12,2015-11-21T17:30:00.000Z,False,Miami,ACC,38,Georgia Tech,ACC,21
+2015,regular,400756993,12,2015-11-21T17:30:00.000Z,False,NC State,ACC,42,Syracuse,ACC,29
+2015,regular,400787359,12,2015-11-21T18:00:00.000Z,False,Massachusetts,Mid-American,13,Miami (OH),Mid-American,20
+2015,regular,400799919,12,2015-11-21T18:00:00.000Z,True,Jacksonville,Pioneer,58,Valparaiso,Pioneer,13
+2015,regular,400799920,12,2015-11-21T18:00:00.000Z,False,Marist,Pioneer,17,Morehead State,Pioneer,20
+2015,regular,400795695,12,2015-11-21T18:00:00.000Z,False,Stony Brook,CAA,20,UAlbany,CAA,2
+2015,regular,400799527,12,2015-11-21T18:00:00.000Z,False,Colgate,Patriot,14,Bucknell,Patriot,10
+2015,regular,400799922,12,2015-11-21T18:00:00.000Z,False,Stetson,Pioneer,17,Davidson,Pioneer,20
+2015,regular,400795696,12,2015-11-21T18:00:00.000Z,False,New Hampshire,CAA,22,Maine,CAA,6
+2015,regular,400795760,12,2015-11-21T18:00:00.000Z,False,Illinois State,MVFC,46,South Dakota,MVFC,0
+2015,regular,400799828,12,2015-11-21T18:00:00.000Z,False,Morgan State,MEAC,10,Norfolk State,MEAC,17
+2015,regular,400799830,12,2015-11-21T18:00:00.000Z,False,Savannah State,MEAC,29,South Carolina State,MEAC,52
+2015,regular,400799627,12,2015-11-21T18:00:00.000Z,False,Pennsylvania,Ivy,34,Cornell,Ivy,21
+2015,regular,400799829,12,2015-11-21T18:00:00.000Z,False,North Carolina A&T,MEAC,16,North Carolina Central,MEAC,21
+2015,regular,400795586,12,2015-11-21T18:00:00.000Z,True,East Tennessee State,FCS Independents,42,Kentucky Wesleyan,Independent DII,27
+2015,regular,400795763,12,2015-11-21T18:05:00.000Z,False,Indiana State,MVFC,27,Youngstown State,MVFC,24
+2015,regular,400795629,12,2015-11-21T18:30:00.000Z,False,Gardner-Webb,Big South,9,Monmouth,Big South,23
+2015,regular,400799051,12,2015-11-21T18:30:00.000Z,False,VMI,Southern,20,Western Carolina,Southern,24
+2015,regular,400795572,12,2015-11-21T19:00:00.000Z,False,Northern Colorado,Big Sky,40,Abilene Christian,Southland,36
+2015,regular,400787475,12,2015-11-21T19:00:00.000Z,False,Georgia State,Sun Belt,24,South Alabama,Sun Belt,10
+2015,regular,400795808,12,2015-11-21T19:00:00.000Z,False,Jacksonville State,OVC,42,Murray State,OVC,20
+2015,regular,400799672,12,2015-11-21T19:00:00.000Z,True,Prairie View A&M,SWAC,56,Jackson State,SWAC,14
+2015,regular,400795630,12,2015-11-21T19:00:00.000Z,False,Presbyterian,Big South,14,Kennesaw State,Big South,6
+2015,regular,400799827,12,2015-11-21T19:00:00.000Z,False,Delaware State,MEAC,32,Howard,MEAC,31
+2015,regular,400799662,12,2015-11-21T19:00:00.000Z,False,Mississippi Valley State,SWAC,19,Arkansas-Pine Bluff,SWAC,25
+2015,regular,400795574,12,2015-11-21T19:00:00.000Z,False,Montana State,Big Sky,35,Montana,Big Sky,54
+2015,regular,400795697,12,2015-11-21T19:00:00.000Z,False,Towson,CAA,38,Rhode Island,CAA,21
+2015,regular,400795809,12,2015-11-21T19:00:00.000Z,True,Southeast Missouri State,OVC,25,UT Martin,OVC,28
+2015,regular,400799918,12,2015-11-21T19:00:00.000Z,False,Drake,Pioneer,27,Dayton,Pioneer,17
+2015,regular,400795811,12,2015-11-21T19:00:00.000Z,False,Eastern Illinois,OVC,21,Eastern Kentucky,OVC,7
+2015,regular,400799629,12,2015-11-21T19:30:00.000Z,False,Yale,Ivy,19,Harvard,Ivy,38
+2015,regular,400799826,12,2015-11-21T19:30:00.000Z,True,Bethune-Cookman,MEAC,35,Florida A&M,MEAC,14
+2015,regular,400763654,12,2015-11-21T19:30:00.000Z,False,Florida International,Conference USA,7,Western Kentucky,Conference USA,63
+2015,regular,400799034,12,2015-11-21T20:00:00.000Z,False,Mercer,Southern,21,Samford,Southern,47
+2015,regular,400795573,12,2015-11-21T20:00:00.000Z,False,Weber State,Big Sky,35,Idaho State,Big Sky,14
+2015,regular,400799637,12,2015-11-21T20:00:00.000Z,False,Alcorn State,SWAC,44,Alabama A&M,SWAC,10
+2015,regular,400756989,12,2015-11-21T20:00:00.000Z,False,Florida State,ACC,52,Chattanooga,Southern,13
+2015,regular,400787288,12,2015-11-21T20:00:00.000Z,False,BYU,FBS Independents,52,Fresno State,Mountain West,10
+2015,regular,400799977,12,2015-11-21T20:00:00.000Z,False,Houston Christian,Southland,3,Incarnate Word,Southland,30
+2015,regular,400757080,12,2015-11-21T20:30:00.000Z,False,Oregon,Pac-12,48,USC,Pac-12,28
+2015,regular,400756988,12,2015-11-21T20:30:00.000Z,False,Virginia,ACC,42,Duke,ACC,34
+2015,regular,400795761,12,2015-11-21T20:30:00.000Z,False,Western Illinois,MVFC,30,South Dakota State,MVFC,24
+2015,regular,400795762,12,2015-11-21T20:30:00.000Z,False,North Dakota State,MVFC,55,Missouri State,MVFC,0
+2015,regular,400787290,12,2015-11-21T20:30:00.000Z,False,Utah State,Mountain West,31,Nevada,Mountain West,27
+2015,regular,400763656,12,2015-11-21T20:30:00.000Z,False,Southern Miss,Conference USA,56,Old Dominion,Conference USA,31
+2015,regular,400757079,12,2015-11-21T20:30:00.000Z,False,Arizona State,Pac-12,52,Arizona,Pac-12,37
+2015,regular,400757081,12,2015-11-21T20:30:00.000Z,False,Utah,Pac-12,9,UCLA,Pac-12,17
+2015,regular,400603928,12,2015-11-21T20:30:00.000Z,False,Ole Miss,SEC,38,LSU,SEC,17
+2015,regular,400795810,12,2015-11-21T20:30:00.000Z,False,Tennessee Tech,OVC,30,Tennessee State,OVC,24
+2015,regular,400799028,12,2015-11-21T20:30:00.000Z,False,Wofford,Southern,38,Furman,Southern,28
+2015,regular,400787360,12,2015-11-21T20:30:00.000Z,False,Akron,Mid-American,42,Buffalo,Mid-American,21
+2015,regular,400763657,12,2015-11-21T20:30:00.000Z,False,UTEP,Conference USA,15,Louisiana Tech,Conference USA,17
+2015,regular,400763575,12,2015-11-21T20:30:00.000Z,False,Wisconsin,Big Ten,7,Northwestern,Big Ten,13
+2015,regular,400764913,12,2015-11-21T20:30:00.000Z,False,UConn,American Athletic,20,Houston,American Athletic,17
+2015,regular,400763573,12,2015-11-21T20:30:00.000Z,False,Ohio State,Big Ten,14,Michigan State,Big Ten,17
+2015,regular,400756987,12,2015-11-21T20:30:00.000Z,False,Clemson,ACC,33,Wake Forest,ACC,13
+2015,regular,400756991,12,2015-11-21T20:45:00.000Z,False,Pittsburgh,ACC,45,Louisville,ACC,34
+2015,regular,400799647,12,2015-11-21T21:00:00.000Z,False,Alabama State,SWAC,26,Miles,SIAC,7
+2015,regular,400603923,12,2015-11-21T21:00:00.000Z,False,Auburn,SEC,56,Idaho,Sun Belt,34
+2015,regular,400603921,12,2015-11-21T21:00:00.000Z,False,Alabama,SEC,56,Charleston Southern,Big South,6
+2015,regular,400799921,12,2015-11-21T21:00:00.000Z,False,San Diego,Pioneer,28,Butler,Pioneer,27
+2015,regular,400799979,12,2015-11-21T21:00:00.000Z,False,Northwestern State,Southland,33,Stephen F. Austin,Southland,17
+2015,regular,400795764,12,2015-11-21T22:00:00.000Z,False,Northern Iowa,MVFC,49,Southern Illinois,MVFC,28
+2015,regular,400787476,12,2015-11-21T22:00:00.000Z,False,Louisiana,Sun Belt,34,New Mexico State,Sun Belt,37
+2015,regular,400795570,12,2015-11-21T22:00:00.000Z,False,Southern Utah,Big Sky,49,Northern Arizona,Big Sky,41
+2015,regular,400795576,12,2015-11-21T22:05:00.000Z,False,Eastern Washington,Big Sky,31,Portland State,Big Sky,34
+2015,regular,400787287,12,2015-11-21T22:30:00.000Z,False,New Mexico,Mountain West,21,Colorado State,Mountain West,28
+2015,regular,400795571,12,2015-11-21T22:30:00.000Z,False,Sacramento State,Big Sky,21,UC Davis,Big Sky,35
+2015,regular,400757083,12,2015-11-21T23:00:00.000Z,False,Oregon State,Pac-12,7,Washington,Pac-12,52
+2015,regular,400799976,12,2015-11-22T00:00:00.000Z,False,Central Arkansas,Southland,13,Sam Houston,Southland,42
+2015,regular,400763658,12,2015-11-22T00:00:00.000Z,False,UTSA,Conference USA,34,Rice,Conference USA,24
+2015,regular,400603922,12,2015-11-22T00:00:00.000Z,False,Arkansas,SEC,50,Mississippi State,SEC,51
+2015,regular,400799978,12,2015-11-22T00:00:00.000Z,False,Lamar,Southland,14,McNeese,Southland,20
+2015,regular,400764916,12,2015-11-22T00:00:00.000Z,False,Tulsa,American Athletic,21,Navy,American Athletic,44
+2015,regular,400603925,12,2015-11-22T00:00:00.000Z,False,Georgia,SEC,23,Georgia Southern,Sun Belt,17
+2015,regular,400603927,12,2015-11-22T00:15:00.000Z,False,Missouri,SEC,8,Tennessee,SEC,19
+2015,regular,400763462,12,2015-11-22T00:30:00.000Z,False,Oklahoma State,Big 12,35,Baylor,Big 12,45
+2015,regular,400603926,12,2015-11-22T00:30:00.000Z,False,Kentucky,SEC,58,Charlotte,Conference USA,10
+2015,regular,400603930,12,2015-11-22T00:30:00.000Z,False,Vanderbilt,SEC,0,Texas A&M,SEC,25
+2015,regular,400756986,12,2015-11-22T00:30:00.000Z,True,Notre Dame,FBS Independents,19,Boston College,ACC,16
+2015,regular,400763461,12,2015-11-22T01:00:00.000Z,False,Oklahoma,Big 12,30,TCU,Big 12,29
+2015,regular,400764914,12,2015-11-22T01:00:00.000Z,False,SMU,American Athletic,49,Tulane,American Athletic,21
+2015,regular,400795575,12,2015-11-22T02:05:00.000Z,False,Cal Poly,Big Sky,21,North Dakota,Big Sky,45
+2015,regular,400757084,12,2015-11-22T03:30:00.000Z,False,Stanford,Pac-12,35,California,Pac-12,22
+2015,regular,400787291,12,2015-11-22T03:30:00.000Z,False,UNLV,Mountain West,14,San Diego State,Mountain West,52
+2015,regular,400757082,12,2015-11-22T03:45:00.000Z,False,Washington State,Pac-12,27,Colorado,Pac-12,3
+2015,regular,400787289,12,2015-11-22T04:00:00.000Z,False,Hawai'i,Mountain West,23,San José State,Mountain West,42
+2015,regular,400787361,13,2015-11-25T00:00:00.000Z,False,Ball State,Mid-American,10,Bowling Green,Mid-American,48
+2015,regular,400787362,13,2015-11-25T00:30:00.000Z,False,Northern Illinois,Mid-American,21,Ohio,Mid-American,26
+2015,regular,400764918,13,2015-11-27T00:30:00.000Z,False,UCF,American Athletic,3,South Florida,American Athletic,44
+2015,regular,400763463,13,2015-11-27T00:30:00.000Z,False,Texas,Big 12,45,Texas Tech,Big 12,48
+2015,regular,400756994,13,2015-11-27T17:00:00.000Z,False,Pittsburgh,ACC,24,Miami,ACC,29
+2015,regular,400763664,13,2015-11-27T17:00:00.000Z,False,Western Kentucky,Conference USA,49,Marshall,Conference USA,28
+2015,regular,400787366,13,2015-11-27T17:00:00.000Z,False,Akron,Mid-American,20,Kent State,Mid-American,0
+2015,regular,400764917,13,2015-11-27T17:00:00.000Z,False,Houston,American Athletic,52,Navy,American Athletic,31
+2015,regular,400787363,13,2015-11-27T17:00:00.000Z,False,Toledo,Mid-American,30,Western Michigan,Mid-American,35
+2015,regular,400787364,13,2015-11-27T18:00:00.000Z,False,Central Michigan,Mid-American,35,Eastern Michigan,Mid-American,28
+2015,regular,400787477,13,2015-11-27T19:00:00.000Z,False,Georgia State,Sun Belt,31,Troy,Sun Belt,21
+2015,regular,400603912,13,2015-11-27T19:30:00.000Z,False,Arkansas,SEC,28,Missouri,SEC,3
+2015,regular,400757086,13,2015-11-27T20:30:00.000Z,False,Washington,Pac-12,45,Washington State,Pac-12,10
+2015,regular,400763576,13,2015-11-27T20:30:00.000Z,False,Nebraska,Big Ten,20,Iowa,Big Ten,28
+2015,regular,400790888,13,2015-11-27T20:30:00.000Z,False,San José State,Mountain West,23,Boise State,Mountain West,40
+2015,regular,400757085,13,2015-11-27T21:00:00.000Z,False,Oregon,Pac-12,52,Oregon State,Pac-12,42
+2015,regular,400787365,13,2015-11-27T21:30:00.000Z,False,Buffalo,Mid-American,26,Massachusetts,Mid-American,31
+2015,regular,400763464,13,2015-11-28T00:30:00.000Z,False,TCU,Big 12,28,Baylor,Big 12,21
+2015,regular,400764922,13,2015-11-28T01:00:00.000Z,False,Tulane,American Athletic,34,Tulsa,American Athletic,45
+2015,regular,400756998,13,2015-11-28T17:00:00.000Z,False,Virginia,ACC,20,Virginia Tech,ACC,23
+2015,regular,400763578,13,2015-11-28T17:00:00.000Z,False,Michigan,Big Ten,13,Ohio State,Big Ten,42
+2015,regular,400764919,13,2015-11-28T17:00:00.000Z,False,East Carolina,American Athletic,16,Cincinnati,American Athletic,19
+2015,regular,400763661,13,2015-11-28T17:00:00.000Z,False,Old Dominion,Conference USA,31,Florida Atlantic,Conference USA,33
+2015,regular,400603916,13,2015-11-28T17:00:00.000Z,False,Kentucky,SEC,24,Louisville,ACC,38
+2015,regular,400764920,13,2015-11-28T17:00:00.000Z,False,Memphis,American Athletic,63,SMU,American Athletic,0
+2015,regular,400603915,13,2015-11-28T17:00:00.000Z,False,Georgia Tech,ACC,7,Georgia,SEC,13
+2015,regular,400603919,13,2015-11-28T17:00:00.000Z,False,South Carolina,SEC,32,Clemson,ACC,37
+2015,regular,400763467,13,2015-11-28T17:00:00.000Z,False,West Virginia,Big 12,30,Iowa State,Big 12,6
+2015,regular,400763582,13,2015-11-28T17:00:00.000Z,False,Rutgers,Big Ten,41,Maryland,Big Ten,46
+2015,regular,400763581,13,2015-11-28T17:00:00.000Z,False,Purdue,Big Ten,36,Indiana,Big Ten,54
+2015,regular,400763659,13,2015-11-28T17:00:00.000Z,False,Louisiana Tech,Conference USA,24,Southern Miss,Conference USA,58
+2015,regular,400853515,13,2015-11-28T17:00:00.000Z,False,Dayton,Pioneer,7,Western Illinois,MVFC,24
+2015,regular,400756995,13,2015-11-28T17:30:00.000Z,False,Syracuse,ACC,20,Boston College,ACC,17
+2015,regular,400756996,13,2015-11-28T17:30:00.000Z,False,Wake Forest,ACC,21,Duke,ACC,27
+2015,regular,400853508,13,2015-11-28T18:00:00.000Z,False,Chattanooga,Southern,50,Fordham,Patriot,20
+2015,regular,400799638,13,2015-11-28T19:00:00.000Z,False,Alabama A&M,SWAC,38,Texas Southern,SWAC,7
+2015,regular,400853509,13,2015-11-28T19:00:00.000Z,False,Coastal Carolina,Big South,38,The Citadel,Southern,41
+2015,regular,400787478,13,2015-11-28T19:00:00.000Z,False,App State,Sun Belt,28,Louisiana,Sun Belt,7
+2015,regular,400787480,13,2015-11-28T19:00:00.000Z,False,Georgia Southern,Sun Belt,55,South Alabama,Sun Belt,17
+2015,regular,400787298,13,2015-11-28T19:00:00.000Z,False,Wyoming,Mountain West,35,UNLV,Mountain West,28
+2015,regular,400763663,13,2015-11-28T19:30:00.000Z,False,UTSA,Conference USA,7,Middle Tennessee,Conference USA,42
+2015,regular,400757089,13,2015-11-28T19:30:00.000Z,False,Utah,Pac-12,20,Colorado,Pac-12,14
+2015,regular,400853512,13,2015-11-28T20:00:00.000Z,False,Montana,Big Sky,24,South Dakota State,MVFC,17
+2015,regular,400853511,13,2015-11-28T20:00:00.000Z,False,Sam Houston,Southland,42,Southern Utah,Big Sky,39
+2015,regular,400799655,13,2015-11-28T20:00:00.000Z,False,Jackson State,SWAC,10,Alcorn State,SWAC,14
+2015,regular,400757088,13,2015-11-28T20:30:00.000Z,False,USC,Pac-12,40,UCLA,Pac-12,21
+2015,regular,400763579,13,2015-11-28T20:30:00.000Z,False,Michigan State,Big Ten,55,Penn State,Big Ten,16
+2015,regular,400763577,13,2015-11-28T20:30:00.000Z,True,Illinois,Big Ten,14,Northwestern,Big Ten,24
+2015,regular,400853510,13,2015-11-28T20:30:00.000Z,False,New Hampshire,CAA,20,Colgate,Patriot,27
+2015,regular,400853514,13,2015-11-28T20:30:00.000Z,False,William & Mary,CAA,52,Duquesne,NEC,49
+2015,regular,400763580,13,2015-11-28T20:30:00.000Z,False,Minnesota,Big Ten,21,Wisconsin,Big Ten,31
+2015,regular,400763660,13,2015-11-28T20:30:00.000Z,False,North Texas,Conference USA,17,UTEP,Conference USA,20
+2015,regular,400603913,13,2015-11-28T20:30:00.000Z,False,Auburn,SEC,13,Alabama,SEC,29
+2015,regular,400756997,13,2015-11-28T20:30:00.000Z,False,NC State,ACC,34,North Carolina,ACC,45
+2015,regular,400763662,13,2015-11-28T20:30:00.000Z,False,Rice,Conference USA,27,Charlotte,Conference USA,7
+2015,regular,400787297,13,2015-11-28T20:30:00.000Z,False,Utah State,Mountain West,28,BYU,FBS Independents,51
+2015,regular,400787479,13,2015-11-28T21:00:00.000Z,False,New Mexico State,Sun Belt,28,Arkansas State,Sun Belt,52
+2015,regular,400603920,13,2015-11-28T21:00:00.000Z,False,Tennessee,SEC,53,Vanderbilt,SEC,28
+2015,regular,400763465,13,2015-11-28T21:00:00.000Z,False,Kansas,Big 12,14,Kansas State,Big 12,45
+2015,regular,400853513,13,2015-11-28T22:00:00.000Z,False,Northern Iowa,MVFC,53,Eastern Illinois,OVC,17
+2015,regular,400799668,13,2015-11-28T22:00:00.000Z,True,Grambling,SWAC,34,Southern,SWAC,23
+2015,regular,400787481,13,2015-11-28T22:00:00.000Z,False,Idaho,Sun Belt,38,Texas State,Sun Belt,31
+2015,regular,400764921,13,2015-11-29T00:00:00.000Z,False,Temple,American Athletic,27,UConn,American Athletic,3
+2015,regular,400603918,13,2015-11-29T00:15:00.000Z,False,Mississippi State,SEC,27,Ole Miss,SEC,38
+2015,regular,400603917,13,2015-11-29T00:30:00.000Z,False,LSU,SEC,19,Texas A&M,SEC,7
+2015,regular,400603914,13,2015-11-29T00:30:00.000Z,False,Florida,SEC,2,Florida State,ACC,27
+2015,regular,400757090,13,2015-11-29T00:30:00.000Z,False,Stanford,Pac-12,38,Notre Dame,FBS Independents,36
+2015,regular,400763466,13,2015-11-29T01:00:00.000Z,False,Oklahoma State,Big 12,23,Oklahoma,Big 12,58
+2015,regular,400787294,13,2015-11-29T02:00:00.000Z,False,Fresno State,Mountain West,31,Colorado State,Mountain West,34
+2015,regular,400757087,13,2015-11-29T03:00:00.000Z,False,California,Pac-12,48,Arizona State,Pac-12,46
+2015,regular,400787292,13,2015-11-29T03:15:00.000Z,False,New Mexico,Mountain West,47,Air Force,Mountain West,35
+2015,regular,400787296,13,2015-11-29T03:45:00.000Z,False,San Diego State,Mountain West,31,Nevada,Mountain West,14
+2015,regular,400787295,13,2015-11-29T04:00:00.000Z,False,Hawai'i,Mountain West,28,UL Monroe,Sun Belt,26
+2015,regular,400852680,14,2015-12-05T01:00:00.000Z,True,Northern Illinois,Mid-American,14,Bowling Green,Mid-American,34
+2015,regular,400852678,14,2015-12-05T17:00:00.000Z,False,Houston,American Athletic,24,Temple,American Athletic,13
+2015,regular,400852672,14,2015-12-05T17:00:00.000Z,False,Western Kentucky,Conference USA,45,Southern Miss,Conference USA,28
+2015,regular,400854531,14,2015-12-05T17:00:00.000Z,False,Richmond,CAA,48,William & Mary,CAA,13
+2015,regular,400763468,14,2015-12-05T17:00:00.000Z,False,Baylor,Big 12,17,Texas,Big 12,23
+2015,regular,400854528,14,2015-12-05T18:00:00.000Z,False,James Madison,CAA,38,Colgate,Patriot,44
+2015,regular,400854488,14,2015-12-05T18:00:00.000Z,False,Charleston Southern,Big South,14,The Citadel,Southern,6
+2015,regular,400854429,14,2015-12-05T19:00:00.000Z,False,Illinois State,MVFC,36,Western Illinois,MVFC,19
+2015,regular,400854451,14,2015-12-05T19:00:00.000Z,False,Jacksonville State,OVC,41,Chattanooga,Southern,35
+2015,regular,400787484,14,2015-12-05T19:00:00.000Z,False,Georgia Southern,Sun Belt,7,Georgia State,Sun Belt,34
+2015,regular,400787486,14,2015-12-05T20:00:00.000Z,False,UL Monroe,Sun Belt,42,New Mexico State,Sun Belt,35
+2015,regular,400787483,14,2015-12-05T20:00:00.000Z,False,Arkansas State,Sun Belt,55,Texas State,Sun Belt,17
+2015,regular,400854530,14,2015-12-05T20:30:00.000Z,False,North Dakota State,MVFC,37,Montana,Big Sky,6
+2015,regular,400852674,14,2015-12-05T21:00:00.000Z,True,Alcorn State,SWAC,49,Grambling,SWAC,21
+2015,regular,400852681,14,2015-12-05T21:00:00.000Z,True,Alabama,SEC,29,Florida,SEC,15
+2015,regular,400763469,14,2015-12-05T21:30:00.000Z,False,Kansas State,Big 12,24,West Virginia,Big 12,23
+2015,regular,400787485,14,2015-12-05T22:00:00.000Z,False,Louisiana,Sun Belt,17,Troy,Sun Belt,41
+2015,regular,400854529,14,2015-12-06T00:00:00.000Z,False,McNeese,Southland,29,Sam Houston,Southland,34
+2015,regular,400787482,14,2015-12-06T00:30:00.000Z,False,South Alabama,Sun Belt,27,App State,Sun Belt,34
+2015,regular,400852675,14,2015-12-06T00:30:00.000Z,False,San Diego State,Mountain West,27,Air Force,Mountain West,24
+2015,regular,400852677,14,2015-12-06T00:45:00.000Z,True,Stanford,Pac-12,41,USC,Pac-12,22
+2015,regular,400852682,14,2015-12-06T01:00:00.000Z,True,Iowa,Big Ten,13,Michigan State,Big Ten,16
+2015,regular,400852676,14,2015-12-06T01:00:00.000Z,True,Clemson,ACC,45,North Carolina,ACC,37
+2015,regular,400854548,14,2015-12-06T03:00:00.000Z,True,Portland State,Big Sky,17,Northern Iowa,MVFC,29
+2015,regular,400855895,15,2015-12-12T00:30:00.000Z,False,Illinois State,MVFC,27,Richmond,CAA,39
+2015,regular,400855896,15,2015-12-12T01:00:00.000Z,False,Jacksonville State,OVC,58,Charleston Southern,Big South,38
+2015,regular,400855897,15,2015-12-12T17:00:00.000Z,False,Sam Houston,Southland,48,Colgate,Patriot,21
+2015,regular,400855898,15,2015-12-12T17:00:00.000Z,False,North Dakota State,MVFC,23,Northern Iowa,MVFC,13
+2015,regular,400760500,15,2015-12-12T20:00:00.000Z,True,Navy,American Athletic,21,Army,FBS Independents,17
+2015,postseason,400856831,1,2015-12-19T00:00:00.000Z,True,St. Thomas (MN),Minnesota,35,Mount Union,Ohio,49
+2015,postseason,400856848,1,2015-12-19T01:00:00.000Z,False,North Dakota State,MVFC,33,Richmond,CAA,7
+2015,postseason,400852712,1,2015-12-19T17:00:00.000Z,True,North Carolina A&T,MEAC,41,Alcorn State,SWAC,34
+2015,postseason,400852668,1,2015-12-19T19:00:00.000Z,True,New Mexico,Mountain West,37,Arizona,Pac-12,45
+2015,postseason,400852684,1,2015-12-19T20:30:00.000Z,True,Utah,Pac-12,35,BYU,FBS Independents,28
+2015,postseason,400856849,1,2015-12-19T21:00:00.000Z,False,Jacksonville State,OVC,62,Sam Houston,Southland,10
+2015,postseason,400856830,1,2015-12-19T21:00:00.000Z,True,Shepherd,Mountain East,7,Northwest Missouri State,Mid America,34
+2015,postseason,400852685,1,2015-12-19T22:30:00.000Z,True,App State,Sun Belt,31,Ohio,Mid-American,29
+2015,postseason,400852683,1,2015-12-20T00:00:00.000Z,True,Georgia State,Sun Belt,16,San José State,Mountain West,27
+2015,postseason,400852686,1,2015-12-20T02:00:00.000Z,True,Louisiana Tech,Conference USA,47,Arkansas State,Sun Belt,28
+2015,postseason,400852687,1,2015-12-21T19:30:00.000Z,True,South Florida,American Athletic,35,Western Kentucky,Conference USA,45
+2015,postseason,400852708,1,2015-12-22T20:30:00.000Z,True,Utah State,Mountain West,21,Akron,Mid-American,23
+2015,postseason,400852709,1,2015-12-23T00:00:00.000Z,True,Toledo,Mid-American,32,Temple,American Athletic,17
+2015,postseason,400852710,1,2015-12-23T21:30:00.000Z,True,Northern Illinois,Mid-American,7,Boise State,Mountain West,55
+2015,postseason,400852711,1,2015-12-24T01:00:00.000Z,True,Bowling Green,Mid-American,27,Georgia Southern,Sun Belt,58
+2015,postseason,400852713,1,2015-12-24T17:00:00.000Z,True,Western Michigan,Mid-American,45,Middle Tennessee,Conference USA,31
+2015,postseason,400852714,1,2015-12-25T01:00:00.000Z,True,Cincinnati,American Athletic,7,San Diego State,Mountain West,42
+2015,postseason,400852715,1,2015-12-26T16:00:00.000Z,True,Marshall,Conference USA,16,UConn,American Athletic,10
+2015,postseason,400852716,1,2015-12-26T19:15:00.000Z,True,Washington State,Pac-12,20,Miami,ACC,14
+2015,postseason,400852717,1,2015-12-26T19:20:00.000Z,True,Southern Miss,Conference USA,31,Washington,Pac-12,44
+2015,postseason,400852718,1,2015-12-26T20:30:00.000Z,True,Duke,ACC,44,Indiana,Big Ten,41
+2015,postseason,400852719,1,2015-12-26T22:45:00.000Z,True,Virginia Tech,ACC,55,Tulsa,American Athletic,52
+2015,postseason,400852720,1,2015-12-27T02:15:00.000Z,True,Nebraska,Big Ten,37,UCLA,Pac-12,29
+2015,postseason,400852721,1,2015-12-28T19:30:00.000Z,True,Navy,American Athletic,44,Pittsburgh,ACC,28
+2015,postseason,400852722,1,2015-12-28T22:00:00.000Z,True,Minnesota,Big Ten,21,Central Michigan,Mid-American,14
+2015,postseason,400852723,1,2015-12-29T19:00:00.000Z,True,Air Force,Mountain West,36,California,Pac-12,55
+2015,postseason,400852724,1,2015-12-29T22:30:00.000Z,True,Baylor,Big 12,49,North Carolina,ACC,38
+2015,postseason,400852725,1,2015-12-30T00:30:00.000Z,True,Colorado State,Mountain West,23,Nevada,Mountain West,28
+2015,postseason,400852726,1,2015-12-30T02:00:00.000Z,True,Texas Tech,Big 12,27,LSU,SEC,56
+2015,postseason,400852727,1,2015-12-30T17:00:00.000Z,True,Memphis,American Athletic,10,Auburn,SEC,31
+2015,postseason,400852728,1,2015-12-30T20:30:00.000Z,True,Mississippi State,SEC,51,NC State,ACC,28
+2015,postseason,400852729,1,2015-12-31T00:00:00.000Z,True,Louisville,ACC,27,Texas A&M,SEC,21
+2015,postseason,400852730,1,2015-12-31T03:30:00.000Z,True,Wisconsin,Big Ten,23,USC,Pac-12,21
+2015,postseason,400852731,1,2015-12-31T17:00:00.000Z,True,Florida State,ACC,24,Houston,American Athletic,38
+2015,postseason,400852733,1,2015-12-31T21:00:00.000Z,True,Clemson,ACC,37,Oklahoma,Big 12,17
+2015,postseason,400852732,1,2016-01-01T01:20:00.000Z,True,Alabama,SEC,38,Michigan State,Big Ten,0
+2015,postseason,400852734,1,2016-01-01T17:00:00.000Z,True,Tennessee,SEC,45,Northwestern,Big Ten,6
+2015,postseason,400852736,1,2016-01-01T18:00:00.000Z,True,Ohio State,Big Ten,44,Notre Dame,FBS Independents,28
+2015,postseason,400852735,1,2016-01-01T18:00:00.000Z,True,Florida,SEC,7,Michigan,Big Ten,41
+2015,postseason,400852737,1,2016-01-01T22:00:00.000Z,True,Iowa,Big Ten,16,Stanford,Pac-12,45
+2015,postseason,400852738,1,2016-01-02T01:30:00.000Z,True,Ole Miss,SEC,48,Oklahoma State,Big 12,20
+2015,postseason,400852739,1,2016-01-02T17:00:00.000Z,True,Georgia,SEC,24,Penn State,Big Ten,17
+2015,postseason,400852740,1,2016-01-02T20:20:00.000Z,True,Arkansas,SEC,45,Kansas State,Big 12,23
+2015,postseason,400852741,1,2016-01-02T23:45:00.000Z,True,TCU,Big 12,47,Oregon,Pac-12,41
+2015,postseason,400852742,1,2016-01-03T03:15:00.000Z,True,Arizona State,Pac-12,42,West Virginia,Big 12,43
+2015,postseason,400857728,1,2016-01-09T17:00:00.000Z,True,North Dakota State,MVFC,37,Jacksonville State,OVC,10
+2015,postseason,400852743,1,2016-01-12T01:30:00.000Z,True,Clemson,ACC,40,Alabama,SEC,45

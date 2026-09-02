@@ -1,0 +1,594 @@
+year,season_type,id,week,startDate,neutralSite,homeTeam,homeConference,homePoints,awayTeam,awayConference,awayPoints
+2020,regular,401218616,1,2020-08-30T01:00:00.000Z,True,Central Arkansas,Southland,24,Austin Peay,OVC,17
+2020,regular,401238035,1,2020-09-04T00:00:00.000Z,False,UAB,Conference USA,45,Central Arkansas,Southland,35
+2020,regular,401207101,1,2020-09-04T01:00:00.000Z,False,Southern Miss,Conference USA,21,South Alabama,Sun Belt,32
+2020,regular,401237353,1,2020-09-05T17:00:00.000Z,False,Marshall,Conference USA,59,Eastern Kentucky,OVC,0
+2020,regular,401235700,1,2020-09-05T17:30:00.000Z,False,Army,FBS Independents,42,Middle Tennessee,Conference USA,0
+2020,regular,401212484,1,2020-09-05T20:30:00.000Z,False,Texas State,Sun Belt,24,SMU,American Athletic,31
+2020,regular,401207098,1,2020-09-05T23:30:00.000Z,False,North Texas,Conference USA,57,Houston Christian,Southland,31
+2020,regular,401212553,1,2020-09-06T00:00:00.000Z,False,Memphis,American Athletic,37,Arkansas State,Sun Belt,24
+2020,regular,401239884,1,2020-09-06T01:00:00.000Z,False,UTEP,Conference USA,24,Stephen F. Austin,Southland,14
+2020,regular,401234576,1,2020-09-08T00:00:00.000Z,False,Navy,American Athletic,3,BYU,FBS Independents,55
+2020,regular,401234559,2,2020-09-11T00:00:00.000Z,False,Miami,ACC,31,UAB,Conference USA,14
+2020,regular,401236053,2,2020-09-12T16:00:00.000Z,False,Kansas State,Big 12,31,Arkansas State,Sun Belt,35
+2020,regular,401236221,2,2020-09-12T16:00:00.000Z,False,Iowa State,Big 12,14,Louisiana,Sun Belt,31
+2020,regular,401236081,2,2020-09-12T16:00:00.000Z,False,App State,Sun Belt,35,Charlotte,Conference USA,20
+2020,regular,401234565,2,2020-09-12T16:00:00.000Z,False,North Carolina,ACC,31,Syracuse,ACC,6
+2020,regular,401236038,2,2020-09-12T16:00:00.000Z,False,West Virginia,Big 12,56,Eastern Kentucky,OVC,10
+2020,regular,401240113,2,2020-09-12T17:30:00.000Z,False,Army,FBS Independents,37,UL Monroe,Sun Belt,7
+2020,regular,401234574,2,2020-09-12T18:30:00.000Z,False,Notre Dame,ACC,27,Duke,ACC,13
+2020,regular,401207113,2,2020-09-12T19:30:00.000Z,False,Texas State,Sun Belt,48,UTSA,Conference USA,51
+2020,regular,401234563,2,2020-09-12T20:00:00.000Z,False,Florida State,ACC,13,Georgia Tech,ACC,16
+2020,regular,401240233,2,2020-09-12T20:00:00.000Z,False,Pittsburgh,ACC,55,Austin Peay,OVC,0
+2020,regular,401215298,2,2020-09-12T20:14:00.000Z,False,Georgia Southern,Sun Belt,27,Campbell,Big South,26
+2020,regular,401240039,2,2020-09-12T23:00:00.000Z,False,South Florida,American Athletic,27,The Citadel,Southern,6
+2020,regular,401236054,2,2020-09-12T23:00:00.000Z,False,Oklahoma,Big 12,48,Missouri State,MVFC,0
+2020,regular,401234562,2,2020-09-12T23:30:00.000Z,False,Wake Forest,ACC,13,Clemson,ACC,37
+2020,regular,401239973,2,2020-09-12T23:30:00.000Z,False,South Alabama,Sun Belt,24,Tulane,American Athletic,27
+2020,regular,401234564,2,2020-09-13T00:00:00.000Z,False,Louisville,ACC,35,Western Kentucky,Conference USA,21
+2020,regular,401236222,2,2020-09-13T00:00:00.000Z,False,Texas,Big 12,59,UTEP,Conference USA,3
+2020,regular,401236039,2,2020-09-13T00:00:00.000Z,False,Texas Tech,Big 12,35,Houston Christian,Southland,33
+2020,regular,401236658,2,2020-09-13T02:00:00.000Z,False,Kansas,Big 12,23,Coastal Carolina,Sun Belt,38
+2020,regular,401240126,3,2020-09-18T23:30:00.000Z,False,Coastal Carolina,Sun Belt,43,Campbell,Big South,21
+2020,regular,401212522,3,2020-09-19T16:00:00.000Z,False,Tulane,American Athletic,24,Navy,American Athletic,27
+2020,regular,401234571,3,2020-09-19T16:00:00.000Z,False,Pittsburgh,ACC,21,Syracuse,ACC,10
+2020,regular,401212541,3,2020-09-19T16:00:00.000Z,False,Cincinnati,American Athletic,55,Austin Peay,OVC,20
+2020,regular,401207124,3,2020-09-19T16:00:00.000Z,False,Western Kentucky,Conference USA,24,Liberty,FBS Independents,30
+2020,regular,401215301,3,2020-09-19T16:00:00.000Z,False,Georgia State,Sun Belt,31,Louisiana,Sun Belt,34
+2020,regular,401234567,3,2020-09-19T16:00:00.000Z,False,Duke,ACC,6,Boston College,ACC,26
+2020,regular,401236041,3,2020-09-19T16:00:00.000Z,False,Oklahoma State,Big 12,16,Tulsa,American Athletic,7
+2020,regular,401241282,3,2020-09-19T18:30:00.000Z,False,Notre Dame,ACC,52,South Florida,American Athletic,0
+2020,regular,401240640,3,2020-09-19T19:30:00.000Z,False,Middle Tennessee,Conference USA,14,Troy,Sun Belt,47
+2020,regular,401234568,3,2020-09-19T19:30:00.000Z,False,Georgia Tech,ACC,21,UCF,American Athletic,49
+2020,regular,401236939,3,2020-09-19T19:30:00.000Z,False,Marshall,Conference USA,17,App State,Sun Belt,7
+2020,regular,401240041,3,2020-09-19T19:30:00.000Z,False,UTSA,Conference USA,24,Stephen F. Austin,Southland,10
+2020,regular,401237492,3,2020-09-19T20:00:00.000Z,False,Clemson,ACC,49,The Citadel,Southern,0
+2020,regular,401207120,3,2020-09-19T22:00:00.000Z,False,North Texas,Conference USA,35,SMU,American Athletic,65
+2020,regular,401207106,3,2020-09-19T23:30:00.000Z,False,Southern Miss,Conference USA,30,Louisiana Tech,Conference USA,31
+2020,regular,401215302,3,2020-09-19T23:30:00.000Z,False,UL Monroe,Sun Belt,17,Texas State,Sun Belt,38
+2020,regular,401234569,3,2020-09-19T23:30:00.000Z,False,Louisville,ACC,34,Miami,ACC,47
+2020,regular,401234570,3,2020-09-20T00:00:00.000Z,False,NC State,ACC,45,Wake Forest,ACC,42
+2020,regular,401239885,3,2020-09-20T01:00:00.000Z,False,UTEP,Conference USA,17,Abilene Christian,Southland,13
+2020,regular,401207132,4,2020-09-24T23:30:00.000Z,False,South Alabama,Sun Belt,10,UAB,Conference USA,42
+2020,regular,401207134,4,2020-09-26T00:00:00.000Z,False,UTSA,Conference USA,37,Middle Tennessee,Conference USA,35
+2020,regular,401235996,4,2020-09-26T16:00:00.000Z,False,Oklahoma,Big 12,35,Kansas State,Big 12,38
+2020,regular,401212536,4,2020-09-26T16:00:00.000Z,False,East Carolina,American Athletic,28,UCF,American Athletic,51
+2020,regular,401236952,4,2020-09-26T16:00:00.000Z,False,Ole Miss,SEC,35,Florida,SEC,51
+2020,regular,401215303,4,2020-09-26T16:00:00.000Z,False,Louisiana,Sun Belt,20,Georgia Southern,Sun Belt,18
+2020,regular,401237034,4,2020-09-26T16:00:00.000Z,False,Auburn,SEC,29,Kentucky,SEC,13
+2020,regular,401236253,4,2020-09-26T16:00:00.000Z,False,App State,Sun Belt,52,Campbell,Big South,21
+2020,regular,401234594,4,2020-09-26T16:00:00.000Z,False,Syracuse,ACC,37,Georgia Tech,ACC,20
+2020,regular,401234595,4,2020-09-26T16:00:00.000Z,False,Pittsburgh,ACC,23,Louisville,ACC,20
+2020,regular,401237493,4,2020-09-26T17:00:00.000Z,False,The Citadel,Southern,14,Eastern Kentucky,OVC,37
+2020,regular,401207126,4,2020-09-26T17:00:00.000Z,False,Liberty,FBS Independents,36,Florida International,Conference USA,34
+2020,regular,401235994,4,2020-09-26T17:30:00.000Z,False,TCU,Big 12,34,Iowa State,Big 12,37
+2020,regular,401237035,4,2020-09-26T19:30:00.000Z,False,LSU,SEC,34,Mississippi State,SEC,44
+2020,regular,401235997,4,2020-09-26T19:30:00.000Z,False,Oklahoma State,Big 12,27,West Virginia,Big 12,13
+2020,regular,401240194,4,2020-09-26T19:30:00.000Z,False,UL Monroe,Sun Belt,6,UTEP,Conference USA,31
+2020,regular,401235995,4,2020-09-26T19:30:00.000Z,False,Texas Tech,Big 12,56,Texas,Big 12,63
+2020,regular,401240996,4,2020-09-26T19:30:00.000Z,False,Cincinnati,American Athletic,24,Army,FBS Independents,10
+2020,regular,401234638,4,2020-09-26T20:00:00.000Z,False,Virginia,ACC,38,Duke,ACC,20
+2020,regular,401237033,4,2020-09-26T20:00:00.000Z,False,Arkansas,SEC,10,Georgia,SEC,37
+2020,regular,401241303,4,2020-09-26T22:00:00.000Z,False,Boston College,ACC,24,Texas State,Sun Belt,21
+2020,regular,401236951,4,2020-09-26T23:00:00.000Z,False,Missouri,SEC,19,Alabama,SEC,38
+2020,regular,401234734,4,2020-09-26T23:00:00.000Z,False,Southern Miss,Conference USA,24,Tulane,American Athletic,66
+2020,regular,401232157,4,2020-09-26T23:00:00.000Z,False,Louisiana Tech,Conference USA,66,Houston Christian,Southland,38
+2020,regular,401212485,4,2020-09-26T23:00:00.000Z,False,SMU,American Athletic,50,Stephen F. Austin,Southland,7
+2020,regular,401237037,4,2020-09-26T23:30:00.000Z,False,Texas A&M,SEC,17,Vanderbilt,SEC,12
+2020,regular,401234593,4,2020-09-26T23:30:00.000Z,False,Miami,ACC,52,Florida State,ACC,10
+2020,regular,401237036,4,2020-09-26T23:30:00.000Z,False,South Carolina,SEC,27,Tennessee,SEC,31
+2020,regular,401235993,4,2020-09-26T23:30:00.000Z,False,Baylor,Big 12,47,Kansas,Big 12,14
+2020,regular,401234566,4,2020-09-27T00:00:00.000Z,False,Virginia Tech,ACC,45,NC State,ACC,24
+2020,regular,401236381,4,2020-09-27T00:00:00.000Z,False,Central Arkansas,Southland,27,Missouri State,MVFC,20
+2020,regular,401236223,4,2020-09-27T02:15:00.000Z,False,BYU,FBS Independents,48,Troy,Sun Belt,7
+2020,regular,401240282,5,2020-10-02T23:00:00.000Z,False,Wake Forest,ACC,66,Campbell,Big South,14
+2020,regular,401246275,5,2020-10-03T01:00:00.000Z,False,BYU,FBS Independents,45,Louisiana Tech,Conference USA,14
+2020,regular,401235998,5,2020-10-03T16:00:00.000Z,False,West Virginia,Big 12,27,Baylor,Big 12,21
+2020,regular,401215304,5,2020-10-03T16:00:00.000Z,False,Coastal Carolina,Sun Belt,52,Arkansas State,Sun Belt,23
+2020,regular,401212547,5,2020-10-03T16:00:00.000Z,False,Georgia State,Sun Belt,49,East Carolina,American Athletic,29
+2020,regular,401234600,5,2020-10-03T16:00:00.000Z,False,Pittsburgh,ACC,29,NC State,ACC,30
+2020,regular,401237096,5,2020-10-03T16:00:00.000Z,False,Florida,SEC,38,South Carolina,SEC,24
+2020,regular,401237099,5,2020-10-03T16:00:00.000Z,False,Tennessee,SEC,35,Missouri,SEC,12
+2020,regular,401236002,5,2020-10-03T16:00:00.000Z,False,Texas,Big 12,31,TCU,Big 12,33
+2020,regular,401207141,5,2020-10-03T16:30:00.000Z,False,UAB,Conference USA,21,UTSA,Conference USA,13
+2020,regular,401237513,5,2020-10-03T17:00:00.000Z,False,Liberty,FBS Independents,28,North Alabama,Big South,7
+2020,regular,401240040,5,2020-10-03T17:30:00.000Z,False,Army,FBS Independents,55,Abilene Christian,Southland,23
+2020,regular,401246566,5,2020-10-03T19:00:00.000Z,False,Eastern Kentucky,OVC,30,Houston Christian,Southland,33
+2020,regular,401240124,5,2020-10-03T19:30:00.000Z,False,North Dakota State,MVFC,39,Central Arkansas,Southland,28
+2020,regular,401236000,5,2020-10-03T19:30:00.000Z,False,Kansas,Big 12,7,Oklahoma State,Big 12,47
+2020,regular,401234597,5,2020-10-03T19:30:00.000Z,False,Boston College,ACC,22,North Carolina,ACC,26
+2020,regular,401212486,5,2020-10-03T19:30:00.000Z,False,SMU,American Athletic,30,Memphis,American Athletic,27
+2020,regular,401237093,5,2020-10-03T19:30:00.000Z,False,Alabama,SEC,52,Texas A&M,SEC,24
+2020,regular,401236001,5,2020-10-03T19:30:00.000Z,False,Kansas State,Big 12,31,Texas Tech,Big 12,21
+2020,regular,401212476,5,2020-10-03T19:30:00.000Z,False,Cincinnati,American Athletic,28,South Florida,American Athletic,7
+2020,regular,401207136,5,2020-10-03T20:00:00.000Z,False,Florida Atlantic,Conference USA,21,Charlotte,Conference USA,17
+2020,regular,401238034,5,2020-10-03T20:00:00.000Z,False,Florida State,ACC,41,Jacksonville State,OVC,24
+2020,regular,401237097,5,2020-10-03T20:00:00.000Z,False,Kentucky,SEC,41,Ole Miss,SEC,42
+2020,regular,401234599,5,2020-10-03T20:00:00.000Z,False,Duke,ACC,31,Virginia Tech,ACC,38
+2020,regular,401240042,5,2020-10-03T21:00:00.000Z,False,Stephen F. Austin,Southland,34,West Texas,Lone Star,6
+2020,regular,401207138,5,2020-10-03T21:00:00.000Z,False,Middle Tennessee,Conference USA,17,Western Kentucky,Conference USA,20
+2020,regular,401212557,5,2020-10-03T22:00:00.000Z,False,Air Force,Mountain West,40,Navy,American Athletic,7
+2020,regular,401215305,5,2020-10-03T23:00:00.000Z,False,UL Monroe,Sun Belt,30,Georgia Southern,Sun Belt,35
+2020,regular,401235999,5,2020-10-03T23:30:00.000Z,False,Iowa State,Big 12,37,Oklahoma,Big 12,30
+2020,regular,401237098,5,2020-10-03T23:30:00.000Z,False,Vanderbilt,SEC,7,LSU,SEC,41
+2020,regular,401212531,5,2020-10-03T23:30:00.000Z,False,UCF,American Athletic,26,Tulsa,American Athletic,34
+2020,regular,401237094,5,2020-10-03T23:30:00.000Z,False,Mississippi State,SEC,14,Arkansas,SEC,21
+2020,regular,401237095,5,2020-10-03T23:30:00.000Z,False,Georgia,SEC,27,Auburn,SEC,6
+2020,regular,401207139,5,2020-10-03T23:30:00.000Z,False,North Texas,Conference USA,31,Southern Miss,Conference USA,41
+2020,regular,401234598,5,2020-10-04T00:00:00.000Z,False,Clemson,ACC,41,Virginia,ACC,23
+2020,regular,401212523,6,2020-10-08T23:30:00.000Z,False,Houston,American Athletic,49,Tulane,American Athletic,31
+2020,regular,401234601,6,2020-10-09T23:00:00.000Z,False,Georgia Tech,ACC,46,Louisville,ACC,27
+2020,regular,401236005,6,2020-10-10T16:00:00.000Z,True,Oklahoma,Big 12,53,Texas,Big 12,45
+2020,regular,401237106,6,2020-10-10T16:00:00.000Z,False,Vanderbilt,SEC,7,South Carolina,SEC,41
+2020,regular,401207215,6,2020-10-10T16:00:00.000Z,False,Liberty,FBS Independents,40,UL Monroe,Sun Belt,7
+2020,regular,401237105,6,2020-10-10T16:00:00.000Z,False,LSU,SEC,41,Missouri,SEC,45
+2020,regular,401234608,6,2020-10-10T16:00:00.000Z,False,Virginia,ACC,21,NC State,ACC,38
+2020,regular,401234607,6,2020-10-10T16:00:00.000Z,False,North Carolina,ACC,56,Virginia Tech,ACC,45
+2020,regular,401237102,6,2020-10-10T16:00:00.000Z,False,Texas A&M,SEC,41,Florida,SEC,38
+2020,regular,401234605,6,2020-10-10T16:30:00.000Z,False,Syracuse,ACC,24,Duke,ACC,38
+2020,regular,401240114,6,2020-10-10T17:30:00.000Z,False,Army,FBS Independents,14,The Citadel,Southern,9
+2020,regular,401240117,6,2020-10-10T19:00:00.000Z,False,Jacksonville State,OVC,34,Mercer,Southern,28
+2020,regular,401246425,6,2020-10-10T19:30:00.000Z,False,Arkansas State,Sun Belt,50,Central Arkansas,Southland,27
+2020,regular,401215308,6,2020-10-10T19:30:00.000Z,False,Troy,Sun Belt,37,Texas State,Sun Belt,17
+2020,regular,401237103,6,2020-10-10T19:30:00.000Z,False,Georgia,SEC,44,Tennessee,SEC,21
+2020,regular,401240997,6,2020-10-10T19:30:00.000Z,False,BYU,FBS Independents,27,UTSA,Conference USA,20
+2020,regular,401236003,6,2020-10-10T19:30:00.000Z,False,Iowa State,Big 12,31,Texas Tech,Big 12,15
+2020,regular,401207143,6,2020-10-10T20:00:00.000Z,False,Florida International,Conference USA,28,Middle Tennessee,Conference USA,31
+2020,regular,401236004,6,2020-10-10T20:00:00.000Z,False,TCU,Big 12,14,Kansas State,Big 12,21
+2020,regular,401234603,6,2020-10-10T20:00:00.000Z,False,Boston College,ACC,31,Pittsburgh,ACC,30
+2020,regular,401237101,6,2020-10-10T20:00:00.000Z,False,Auburn,SEC,30,Arkansas,SEC,28
+2020,regular,401212515,6,2020-10-10T22:00:00.000Z,False,Navy,American Athletic,31,Temple,American Athletic,29
+2020,regular,401212477,6,2020-10-10T23:00:00.000Z,False,South Florida,American Athletic,24,East Carolina,American Athletic,44
+2020,regular,401234606,6,2020-10-10T23:30:00.000Z,False,Notre Dame,ACC,42,Florida State,ACC,26
+2020,regular,401207145,6,2020-10-10T23:30:00.000Z,False,Louisiana Tech,Conference USA,21,UTEP,Conference USA,17
+2020,regular,401237100,6,2020-10-10T23:30:00.000Z,False,Ole Miss,SEC,48,Alabama,SEC,63
+2020,regular,401237104,6,2020-10-10T23:30:00.000Z,False,Kentucky,SEC,24,Mississippi State,SEC,2
+2020,regular,401207146,6,2020-10-10T23:30:00.000Z,False,Western Kentucky,Conference USA,14,Marshall,Conference USA,38
+2020,regular,401234604,6,2020-10-10T23:30:00.000Z,False,Clemson,ACC,42,Miami,ACC,17
+2020,regular,401207142,6,2020-10-11T00:00:00.000Z,False,North Texas,Conference USA,21,Charlotte,Conference USA,49
+2020,regular,401215311,7,2020-10-14T23:30:00.000Z,False,Louisiana,Sun Belt,27,Coastal Carolina,Sun Belt,30
+2020,regular,401215310,7,2020-10-15T23:30:00.000Z,False,Arkansas State,Sun Belt,59,Georgia State,Sun Belt,52
+2020,regular,401212487,7,2020-10-16T22:00:00.000Z,False,Tulane,American Athletic,34,SMU,American Athletic,37
+2020,regular,401212551,7,2020-10-17T01:30:00.000Z,False,Houston,American Athletic,26,BYU,FBS Independents,43
+2020,regular,401215313,7,2020-10-17T16:00:00.000Z,False,South Alabama,Sun Belt,30,Texas State,Sun Belt,20
+2020,regular,401234610,7,2020-10-17T16:00:00.000Z,False,Georgia Tech,ACC,7,Clemson,ACC,73
+2020,regular,401236007,7,2020-10-17T16:00:00.000Z,False,West Virginia,Big 12,38,Kansas,Big 12,17
+2020,regular,401237109,7,2020-10-17T16:00:00.000Z,False,South Carolina,SEC,30,Auburn,SEC,22
+2020,regular,401212548,7,2020-10-17T16:00:00.000Z,False,East Carolina,American Athletic,23,Navy,American Athletic,27
+2020,regular,401234614,7,2020-10-17T16:00:00.000Z,False,Miami,ACC,31,Pittsburgh,ACC,19
+2020,regular,401237111,7,2020-10-17T16:00:00.000Z,False,Tennessee,SEC,7,Kentucky,SEC,34
+2020,regular,401234615,7,2020-10-17T16:00:00.000Z,False,Syracuse,ACC,21,Liberty,FBS Independents,38
+2020,regular,401212478,7,2020-10-17T16:00:00.000Z,False,Temple,American Athletic,39,South Florida,American Athletic,37
+2020,regular,401240115,7,2020-10-17T17:30:00.000Z,False,UTSA,Conference USA,16,Army,FBS Independents,28
+2020,regular,401207153,7,2020-10-17T17:30:00.000Z,False,UAB,Conference USA,37,Western Kentucky,Conference USA,14
+2020,regular,401240034,7,2020-10-17T18:00:00.000Z,False,North Alabama,Big South,17,Jacksonville State,OVC,24
+2020,regular,401234613,7,2020-10-17T18:30:00.000Z,False,Notre Dame,ACC,12,Louisville,ACC,7
+2020,regular,401239872,7,2020-10-17T19:30:00.000Z,False,Troy,Sun Belt,31,Eastern Kentucky,OVC,29
+2020,regular,401234611,7,2020-10-17T19:30:00.000Z,False,NC State,ACC,31,Duke,ACC,20
+2020,regular,401237108,7,2020-10-17T19:30:00.000Z,False,Arkansas,SEC,33,Ole Miss,SEC,21
+2020,regular,401212537,7,2020-10-17T19:30:00.000Z,False,Memphis,American Athletic,50,UCF,American Athletic,49
+2020,regular,401237112,7,2020-10-17T20:00:00.000Z,False,Mississippi State,SEC,14,Texas A&M,SEC,28
+2020,regular,401234616,7,2020-10-17T20:00:00.000Z,False,Wake Forest,ACC,40,Virginia,ACC,23
+2020,regular,401250215,7,2020-10-17T20:00:00.000Z,False,Georgia Southern,Sun Belt,41,Massachusetts,FBS Independents,0
+2020,regular,401207150,7,2020-10-17T21:00:00.000Z,False,Middle Tennessee,Conference USA,35,North Texas,Conference USA,52
+2020,regular,401249652,7,2020-10-17T21:00:00.000Z,False,Stephen F. Austin,Southland,31,Angelo State,Lone Star,12
+2020,regular,401207149,7,2020-10-17T22:00:00.000Z,False,Louisiana Tech,Conference USA,17,Marshall,Conference USA,35
+2020,regular,401234612,7,2020-10-17T23:30:00.000Z,False,Florida State,ACC,31,North Carolina,ACC,28
+2020,regular,401236382,7,2020-10-18T00:00:00.000Z,False,Missouri State,MVFC,24,Central Arkansas,Southland,33
+2020,regular,401234609,7,2020-10-18T00:00:00.000Z,False,Virginia Tech,ACC,40,Boston College,ACC,14
+2020,regular,401237107,7,2020-10-18T00:00:00.000Z,False,Alabama,SEC,41,Georgia,SEC,24
+2020,regular,401240642,8,2020-10-22T23:30:00.000Z,False,App State,Sun Belt,45,Arkansas State,Sun Belt,17
+2020,regular,401250783,8,2020-10-23T23:00:00.000Z,False,Florida International,Conference USA,10,Jacksonville State,OVC,19
+2020,regular,401212479,8,2020-10-23T23:30:00.000Z,False,South Florida,American Athletic,13,Tulsa,American Athletic,42
+2020,regular,401238036,8,2020-10-24T00:00:00.000Z,False,UAB,Conference USA,20,Louisiana,Sun Belt,24
+2020,regular,401247297,8,2020-10-24T00:00:00.000Z,False,Wisconsin,Big Ten,45,Illinois,Big Ten,7
+2020,regular,401207154,8,2020-10-24T16:00:00.000Z,False,Charlotte,Conference USA,38,UTEP,Conference USA,28
+2020,regular,401236010,8,2020-10-24T16:00:00.000Z,False,Kansas State,Big 12,55,Kansas,Big 12,14
+2020,regular,401247293,8,2020-10-24T16:00:00.000Z,False,Ohio State,Big Ten,52,Nebraska,Big Ten,17
+2020,regular,401234619,8,2020-10-24T16:00:00.000Z,False,Louisville,ACC,48,Florida State,ACC,16
+2020,regular,401236011,8,2020-10-24T16:00:00.000Z,False,TCU,Big 12,14,Oklahoma,Big 12,33
+2020,regular,401237115,8,2020-10-24T16:00:00.000Z,False,Ole Miss,SEC,28,Auburn,SEC,35
+2020,regular,401212516,8,2020-10-24T16:00:00.000Z,False,Memphis,American Athletic,41,Temple,American Athletic,29
+2020,regular,401234618,8,2020-10-24T16:00:00.000Z,False,Clemson,ACC,47,Syracuse,ACC,21
+2020,regular,401240116,8,2020-10-24T16:00:00.000Z,False,Army,FBS Independents,49,Mercer,Southern,3
+2020,regular,401247299,8,2020-10-24T16:00:00.000Z,False,Michigan State,Big Ten,27,Rutgers,Big Ten,38
+2020,regular,401215316,8,2020-10-24T16:00:00.000Z,False,Coastal Carolina,Sun Belt,28,Georgia Southern,Sun Belt,14
+2020,regular,401234621,8,2020-10-24T16:00:00.000Z,False,North Carolina,ACC,48,NC State,ACC,21
+2020,regular,401207160,8,2020-10-24T17:00:00.000Z,False,Liberty,FBS Independents,56,Southern Miss,Conference USA,35
+2020,regular,401248039,8,2020-10-24T17:30:00.000Z,True,Stephen F. Austin,Southland,35,Abilene Christian,Southland,32
+2020,regular,401212524,8,2020-10-24T18:00:00.000Z,False,UCF,American Athletic,51,Tulane,American Athletic,34
+2020,regular,401207156,8,2020-10-24T18:30:00.000Z,False,Marshall,Conference USA,20,Florida Atlantic,Conference USA,9
+2020,regular,401239871,8,2020-10-24T19:00:00.000Z,False,Eastern Kentucky,OVC,31,Central Arkansas,Southland,28
+2020,regular,401234623,8,2020-10-24T19:30:00.000Z,False,Wake Forest,ACC,23,Virginia Tech,ACC,16
+2020,regular,401212552,8,2020-10-24T19:30:00.000Z,False,Navy,American Athletic,21,Houston,American Athletic,37
+2020,regular,401247296,8,2020-10-24T19:30:00.000Z,False,Purdue,Big Ten,24,Iowa,Big Ten,20
+2020,regular,401236009,8,2020-10-24T19:30:00.000Z,False,Oklahoma State,Big 12,24,Iowa State,Big 12,21
+2020,regular,401237114,8,2020-10-24T19:30:00.000Z,False,Tennessee,SEC,17,Alabama,SEC,48
+2020,regular,401247295,8,2020-10-24T19:30:00.000Z,False,Indiana,Big Ten,36,Penn State,Big Ten,35
+2020,regular,401207158,8,2020-10-24T19:30:00.000Z,False,Rice,Conference USA,34,Middle Tennessee,Conference USA,40
+2020,regular,401236008,8,2020-10-24T19:30:00.000Z,False,Texas,Big 12,27,Baylor,Big 12,16
+2020,regular,401234622,8,2020-10-24T19:41:00.000Z,False,Pittsburgh,ACC,3,Notre Dame,ACC,45
+2020,regular,401215317,8,2020-10-24T20:00:00.000Z,False,Troy,Sun Belt,34,Georgia State,Sun Belt,36
+2020,regular,401234617,8,2020-10-24T20:00:00.000Z,False,Boston College,ACC,48,Georgia Tech,ACC,27
+2020,regular,401207102,8,2020-10-24T20:00:00.000Z,False,Western Kentucky,Conference USA,13,Chattanooga,Southern,10
+2020,regular,401237122,8,2020-10-24T20:00:00.000Z,False,Missouri,SEC,20,Kentucky,SEC,10
+2020,regular,401236012,8,2020-10-24T21:30:00.000Z,False,Texas Tech,Big 12,34,West Virginia,Big 12,27
+2020,regular,401248998,8,2020-10-24T23:00:00.000Z,False,Nevada,Mountain West,37,Wyoming,Mountain West,34
+2020,regular,401250784,8,2020-10-24T23:00:00.000Z,False,South Alabama,Sun Belt,38,UL Monroe,Sun Belt,14
+2020,regular,401237118,8,2020-10-24T23:00:00.000Z,False,LSU,SEC,52,South Carolina,SEC,24
+2020,regular,401248997,8,2020-10-24T23:00:00.000Z,False,Boise State,Mountain West,42,Utah State,Mountain West,13
+2020,regular,401247298,8,2020-10-24T23:30:00.000Z,False,Northwestern,Big Ten,43,Maryland,Big Ten,3
+2020,regular,401247294,8,2020-10-24T23:30:00.000Z,False,Minnesota,Big Ten,24,Michigan,Big Ten,49
+2020,regular,401248994,8,2020-10-24T23:30:00.000Z,False,Fresno State,Mountain West,19,Hawai'i,Mountain West,34
+2020,regular,401207157,8,2020-10-25T00:00:00.000Z,False,UTSA,Conference USA,27,Louisiana Tech,Conference USA,26
+2020,regular,401234620,8,2020-10-25T00:00:00.000Z,False,Miami,ACC,19,Virginia,ACC,14
+2020,regular,401212488,8,2020-10-25T01:00:00.000Z,False,SMU,American Athletic,13,Cincinnati,American Athletic,42
+2020,regular,401240998,8,2020-10-25T02:15:00.000Z,False,BYU,FBS Independents,52,Texas State,Sun Belt,14
+2020,regular,401248993,8,2020-10-25T02:30:00.000Z,False,San José State,Mountain West,17,Air Force,Mountain West,6
+2020,regular,401248996,8,2020-10-25T02:30:00.000Z,False,San Diego State,Mountain West,34,UNLV,Mountain West,6
+2020,regular,401215321,9,2020-10-29T23:30:00.000Z,False,Georgia Southern,Sun Belt,24,South Alabama,Sun Belt,17
+2020,regular,401249000,9,2020-10-30T02:00:00.000Z,False,Fresno State,Mountain West,38,Colorado State,Mountain West,17
+2020,regular,401247675,9,2020-10-30T23:00:00.000Z,False,Southern Illinois,MVFC,20,Southeast Missouri State,OVC,17
+2020,regular,401247302,9,2020-10-30T23:30:00.000Z,False,Maryland,Big Ten,45,Minnesota,Big Ten,44
+2020,regular,401212533,9,2020-10-31T01:00:00.000Z,False,Tulsa,American Athletic,34,East Carolina,American Athletic,30
+2020,regular,401249001,9,2020-10-31T01:45:00.000Z,False,Wyoming,Mountain West,31,Hawai'i,Mountain West,7
+2020,regular,401247301,9,2020-10-31T16:00:00.000Z,False,Illinois,Big Ten,24,Purdue,Big Ten,31
+2020,regular,401236014,9,2020-10-31T16:00:00.000Z,False,Kansas,Big 12,22,Iowa State,Big 12,52
+2020,regular,401212517,9,2020-10-31T16:00:00.000Z,False,Tulane,American Athletic,38,Temple,American Athletic,3
+2020,regular,401215318,9,2020-10-31T16:00:00.000Z,False,Georgia State,Sun Belt,0,Coastal Carolina,Sun Belt,51
+2020,regular,401234629,9,2020-10-31T16:00:00.000Z,False,Syracuse,ACC,14,Wake Forest,ACC,38
+2020,regular,401247305,9,2020-10-31T16:00:00.000Z,False,Michigan,Big Ten,24,Michigan State,Big Ten,27
+2020,regular,401207162,9,2020-10-31T16:00:00.000Z,False,Florida Atlantic,Conference USA,24,UTSA,Conference USA,3
+2020,regular,401237117,9,2020-10-31T16:00:00.000Z,False,Kentucky,SEC,3,Georgia,SEC,14
+2020,regular,401212543,9,2020-10-31T16:00:00.000Z,False,Cincinnati,American Athletic,49,Memphis,American Athletic,10
+2020,regular,401234624,9,2020-10-31T16:00:00.000Z,False,Clemson,ACC,34,Boston College,ACC,28
+2020,regular,401236015,9,2020-10-31T16:00:00.000Z,False,West Virginia,Big 12,37,Kansas State,Big 12,10
+2020,regular,401212538,9,2020-10-31T18:00:00.000Z,False,Houston,American Athletic,21,UCF,American Athletic,44
+2020,regular,401215320,9,2020-10-31T19:00:00.000Z,False,Arkansas State,Sun Belt,10,Troy,Sun Belt,38
+2020,regular,401207166,9,2020-10-31T19:00:00.000Z,False,Southern Miss,Conference USA,6,Rice,Conference USA,30
+2020,regular,401250213,9,2020-10-31T19:00:00.000Z,False,Stephen F. Austin,Southland,64,Western Colorado,Rocky Mountain,7
+2020,regular,401248073,9,2020-10-31T19:00:00.000Z,False,Mercer,Southern,17,Abilene Christian,Southland,20
+2020,regular,401247303,9,2020-10-31T19:30:00.000Z,False,Iowa,Big Ten,20,Northwestern,Big Ten,21
+2020,regular,401236013,9,2020-10-31T19:30:00.000Z,False,Baylor,Big 12,23,TCU,Big 12,33
+2020,regular,401237121,9,2020-10-31T19:30:00.000Z,False,Auburn,SEC,48,LSU,SEC,11
+2020,regular,401207163,9,2020-10-31T19:30:00.000Z,False,Louisiana Tech,Conference USA,37,UAB,Conference USA,34
+2020,regular,401247300,9,2020-10-31T19:30:00.000Z,False,Rutgers,Big Ten,21,Indiana,Big Ten,37
+2020,regular,401234626,9,2020-10-31T19:30:00.000Z,False,Georgia Tech,ACC,13,Notre Dame,ACC,31
+2020,regular,401234627,9,2020-10-31T20:00:00.000Z,False,Louisville,ACC,35,Virginia Tech,ACC,42
+2020,regular,401215319,9,2020-10-31T20:00:00.000Z,False,UL Monroe,Sun Belt,13,App State,Sun Belt,31
+2020,regular,401237123,9,2020-10-31T20:00:00.000Z,False,Vanderbilt,SEC,21,Ole Miss,SEC,54
+2020,regular,401236017,9,2020-10-31T20:00:00.000Z,False,Oklahoma State,Big 12,34,Texas,Big 12,41
+2020,regular,401239873,9,2020-10-31T20:00:00.000Z,False,Central Arkansas,Southland,52,Missouri Western,Mid America,10
+2020,regular,401248999,9,2020-10-31T22:00:00.000Z,False,Air Force,Mountain West,30,Boise State,Mountain West,49
+2020,regular,401234625,9,2020-10-31T23:00:00.000Z,False,Duke,ACC,53,Charlotte,Conference USA,19
+2020,regular,401249003,9,2020-10-31T23:00:00.000Z,False,New Mexico,Mountain West,21,San José State,Mountain West,38
+2020,regular,401237119,9,2020-10-31T23:00:00.000Z,False,Alabama,SEC,41,Mississippi State,SEC,0
+2020,regular,401212489,9,2020-10-31T23:30:00.000Z,False,SMU,American Athletic,51,Navy,American Athletic,37
+2020,regular,401237116,9,2020-10-31T23:30:00.000Z,False,Florida,SEC,41,Missouri,SEC,17
+2020,regular,401237120,9,2020-10-31T23:30:00.000Z,False,Texas A&M,SEC,42,Arkansas,SEC,31
+2020,regular,401247306,9,2020-10-31T23:30:00.000Z,False,Penn State,Big Ten,25,Ohio State,Big Ten,38
+2020,regular,401234628,9,2020-11-01T00:00:00.000Z,False,Virginia,ACC,44,North Carolina,ACC,41
+2020,regular,401215322,9,2020-11-01T00:00:00.000Z,False,Texas State,Sun Belt,34,Louisiana,Sun Belt,44
+2020,regular,401236016,9,2020-11-01T00:00:00.000Z,False,Texas Tech,Big 12,28,Oklahoma,Big 12,62
+2020,regular,401249004,9,2020-11-01T01:30:00.000Z,False,Utah State,Mountain West,7,San Diego State,Mountain West,38
+2020,regular,401239887,9,2020-11-01T02:15:00.000Z,False,BYU,FBS Independents,41,Western Kentucky,Conference USA,10
+2020,regular,401249002,9,2020-11-01T02:30:00.000Z,False,UNLV,Mountain West,19,Nevada,Mountain West,37
+2020,regular,401249857,10,2020-11-04T23:00:00.000Z,False,Akron,Mid-American,13,Western Michigan,Mid-American,58
+2020,regular,401249856,10,2020-11-04T23:00:00.000Z,False,Kent State,Mid-American,27,Eastern Michigan,Mid-American,23
+2020,regular,401249860,10,2020-11-05T00:00:00.000Z,False,Central Michigan,Mid-American,30,Ohio,Mid-American,27
+2020,regular,401249859,10,2020-11-05T00:00:00.000Z,False,Northern Illinois,Mid-American,30,Buffalo,Mid-American,49
+2020,regular,401249889,10,2020-11-05T00:00:00.000Z,False,Miami (OH),Mid-American,38,Ball State,Mid-American,31
+2020,regular,401249858,10,2020-11-05T01:00:00.000Z,False,Toledo,Mid-American,38,Bowling Green,Mid-American,3
+2020,regular,401249009,10,2020-11-06T00:00:00.000Z,False,Nevada,Mountain West,34,Utah State,Mountain West,9
+2020,regular,401249010,10,2020-11-06T02:00:00.000Z,False,Colorado State,Mountain West,34,Wyoming,Mountain West,24
+2020,regular,401234630,10,2020-11-07T00:30:00.000Z,False,NC State,ACC,41,Miami,ACC,44
+2020,regular,401249008,10,2020-11-07T02:00:00.000Z,False,San Diego State,Mountain West,17,San José State,Mountain West,28
+2020,regular,401249005,10,2020-11-07T02:45:00.000Z,False,Boise State,Mountain West,17,BYU,FBS Independents,51
+2020,regular,401215327,10,2020-11-07T17:00:00.000Z,False,Georgia State,Sun Belt,52,UL Monroe,Sun Belt,34
+2020,regular,401212480,10,2020-11-07T17:00:00.000Z,False,Memphis,American Athletic,34,South Florida,American Athletic,33
+2020,regular,401253924,10,2020-11-07T17:00:00.000Z,False,Louisiana,Sun Belt,27,Arkansas State,Sun Belt,20
+2020,regular,401234636,10,2020-11-07T17:00:00.000Z,False,Virginia Tech,ACC,35,Liberty,FBS Independents,38
+2020,regular,401247309,10,2020-11-07T17:00:00.000Z,False,Indiana,Big Ten,38,Michigan,Big Ten,21
+2020,regular,401249400,10,2020-11-07T17:00:00.000Z,False,USC,Pac-12,28,Arizona State,Pac-12,27
+2020,regular,401236022,10,2020-11-07T17:00:00.000Z,False,Texas,Big 12,17,West Virginia,Big 12,13
+2020,regular,401212490,10,2020-11-07T17:00:00.000Z,False,Temple,American Athletic,23,SMU,American Athletic,47
+2020,regular,401247313,10,2020-11-07T17:00:00.000Z,False,Iowa,Big Ten,49,Michigan State,Big Ten,7
+2020,regular,401234633,10,2020-11-07T17:00:00.000Z,False,Duke,ACC,24,North Carolina,ACC,56
+2020,regular,401212525,10,2020-11-07T17:00:00.000Z,False,East Carolina,American Athletic,21,Tulane,American Athletic,38
+2020,regular,401247307,10,2020-11-07T17:00:00.000Z,False,Northwestern,Big Ten,21,Nebraska,Big Ten,13
+2020,regular,401215326,10,2020-11-07T18:00:00.000Z,False,Georgia Southern,Sun Belt,20,Troy,Sun Belt,13
+2020,regular,401234631,10,2020-11-07T19:00:00.000Z,False,Syracuse,ACC,13,Boston College,ACC,16
+2020,regular,401251931,10,2020-11-07T19:30:00.000Z,False,Marshall,Conference USA,51,Massachusetts,FBS Independents,10
+2020,regular,401215324,10,2020-11-07T20:00:00.000Z,False,Texas State,Sun Belt,17,App State,Sun Belt,38
+2020,regular,401239874,10,2020-11-07T20:00:00.000Z,False,Eastern Kentucky,OVC,6,Stephen F. Austin,Southland,24
+2020,regular,401240035,10,2020-11-07T20:00:00.000Z,False,Southern Miss,Conference USA,24,North Alabama,Big South,13
+2020,regular,401249006,10,2020-11-07T20:30:00.000Z,False,UNLV,Mountain West,27,Fresno State,Mountain West,40
+2020,regular,401247312,10,2020-11-07T20:30:00.000Z,False,Penn State,Big Ten,19,Maryland,Big Ten,35
+2020,regular,401237125,10,2020-11-07T20:30:00.000Z,True,Georgia,SEC,28,Florida,SEC,44
+2020,regular,401237126,10,2020-11-07T20:30:00.000Z,False,Mississippi State,SEC,24,Vanderbilt,SEC,17
+2020,regular,401236021,10,2020-11-07T20:30:00.000Z,False,TCU,Big 12,34,Texas Tech,Big 12,18
+2020,regular,401247308,10,2020-11-07T20:30:00.000Z,False,Illinois,Big Ten,14,Minnesota,Big Ten,41
+2020,regular,401236019,10,2020-11-07T20:30:00.000Z,False,Oklahoma,Big 12,62,Kansas,Big 12,9
+2020,regular,401212544,10,2020-11-07T20:30:00.000Z,False,Cincinnati,American Athletic,38,Houston,American Athletic,10
+2020,regular,401234634,10,2020-11-07T21:00:00.000Z,False,Florida State,ACC,17,Pittsburgh,ACC,41
+2020,regular,401236020,10,2020-11-07T21:00:00.000Z,False,Kansas State,Big 12,18,Oklahoma State,Big 12,20
+2020,regular,401248273,10,2020-11-07T21:00:00.000Z,False,Abilene Christian,Southland,21,Angelo State,Lone Star,34
+2020,regular,401207169,10,2020-11-07T23:00:00.000Z,False,Florida Atlantic,Conference USA,10,Western Kentucky,Conference USA,6
+2020,regular,401237127,10,2020-11-08T00:00:00.000Z,False,South Carolina,SEC,3,Texas A&M,SEC,48
+2020,regular,401236018,10,2020-11-08T00:00:00.000Z,False,Iowa State,Big 12,38,Baylor,Big 12,31
+2020,regular,401249402,10,2020-11-08T00:00:00.000Z,False,Colorado,Pac-12,48,UCLA,Pac-12,42
+2020,regular,401247310,10,2020-11-08T00:30:00.000Z,False,Ohio State,Big Ten,49,Rutgers,Big Ten,27
+2020,regular,401249399,10,2020-11-08T00:30:00.000Z,False,Oregon,Pac-12,35,Stanford,Pac-12,14
+2020,regular,401234632,10,2020-11-08T00:30:00.000Z,False,Notre Dame,ACC,47,Clemson,ACC,40
+2020,regular,401237124,10,2020-11-08T00:30:00.000Z,False,Arkansas,SEC,24,Tennessee,SEC,13
+2020,regular,401215325,10,2020-11-08T01:00:00.000Z,False,Coastal Carolina,Sun Belt,23,South Alabama,Sun Belt,6
+2020,regular,401249397,10,2020-11-08T03:30:00.000Z,False,Oregon State,Pac-12,28,Washington State,Pac-12,38
+2020,regular,401249007,10,2020-11-08T04:00:00.000Z,False,Hawai'i,Mountain West,39,New Mexico,Mountain West,33
+2020,regular,401249861,11,2020-11-11T00:00:00.000Z,False,Ohio,Mid-American,24,Akron,Mid-American,10
+2020,regular,401249862,11,2020-11-11T00:30:00.000Z,False,Bowling Green,Mid-American,24,Kent State,Mid-American,62
+2020,regular,401249890,11,2020-11-11T01:00:00.000Z,False,Buffalo,Mid-American,42,Miami (OH),Mid-American,10
+2020,regular,401249865,11,2020-11-12T00:00:00.000Z,False,Ball State,Mid-American,38,Eastern Michigan,Mid-American,31
+2020,regular,401249864,11,2020-11-12T01:00:00.000Z,False,Northern Illinois,Mid-American,10,Central Michigan,Mid-American,40
+2020,regular,401249866,11,2020-11-12T01:00:00.000Z,False,Western Michigan,Mid-American,41,Toledo,Mid-American,38
+2020,regular,401249012,11,2020-11-13T01:00:00.000Z,False,Boise State,Mountain West,52,Colorado State,Mountain West,21
+2020,regular,401207174,11,2020-11-14T00:00:00.000Z,False,Florida International,Conference USA,19,Florida Atlantic,Conference USA,38
+2020,regular,401247317,11,2020-11-14T00:00:00.000Z,False,Minnesota,Big Ten,7,Iowa,Big Ten,35
+2020,regular,401212545,11,2020-11-14T00:30:00.000Z,False,Cincinnati,American Athletic,55,East Carolina,American Athletic,17
+2020,regular,401247316,11,2020-11-14T17:00:00.000Z,False,Michigan State,Big Ten,0,Indiana,Big Ten,24
+2020,regular,401234641,11,2020-11-14T17:00:00.000Z,False,Virginia Tech,ACC,24,Miami,ACC,25
+2020,regular,401207218,11,2020-11-14T17:00:00.000Z,False,Liberty,FBS Independents,58,Western Carolina,Southern,14
+2020,regular,401234642,11,2020-11-14T17:00:00.000Z,False,North Carolina,ACC,59,Wake Forest,ACC,53
+2020,regular,401207200,11,2020-11-14T17:00:00.000Z,False,Tulane,American Athletic,38,Army,FBS Independents,12
+2020,regular,401207176,11,2020-11-14T17:00:00.000Z,False,Marshall,Conference USA,42,Middle Tennessee,Conference USA,14
+2020,regular,401247320,11,2020-11-14T17:00:00.000Z,False,Nebraska,Big Ten,30,Penn State,Big Ten,23
+2020,regular,401237132,11,2020-11-14T17:00:00.000Z,False,Kentucky,SEC,38,Vanderbilt,SEC,35
+2020,regular,401236024,11,2020-11-14T17:00:00.000Z,False,West Virginia,Big 12,24,TCU,Big 12,6
+2020,regular,401247314,11,2020-11-14T18:00:00.000Z,False,Rutgers,Big Ten,20,Illinois,Big Ten,23
+2020,regular,401215332,11,2020-11-14T19:00:00.000Z,False,Louisiana,Sun Belt,38,South Alabama,Sun Belt,10
+2020,regular,401215328,11,2020-11-14T19:30:00.000Z,False,App State,Sun Belt,17,Georgia State,Sun Belt,13
+2020,regular,401249013,11,2020-11-14T19:30:00.000Z,False,Utah State,Mountain West,16,Fresno State,Mountain West,35
+2020,regular,401207179,11,2020-11-14T20:00:00.000Z,False,UTSA,Conference USA,52,UTEP,Conference USA,21
+2020,regular,401207178,11,2020-11-14T20:30:00.000Z,False,Western Kentucky,Conference USA,10,Southern Miss,Conference USA,7
+2020,regular,401215331,11,2020-11-14T20:30:00.000Z,False,Georgia Southern,Sun Belt,40,Texas State,Sun Belt,38
+2020,regular,401249403,11,2020-11-14T20:30:00.000Z,False,Arizona,Pac-12,30,USC,Pac-12,34
+2020,regular,401249406,11,2020-11-14T20:30:00.000Z,False,Stanford,Pac-12,32,Colorado,Pac-12,35
+2020,regular,401234637,11,2020-11-14T20:30:00.000Z,False,Boston College,ACC,31,Notre Dame,ACC,45
+2020,regular,401212481,11,2020-11-14T20:30:00.000Z,False,Houston,American Athletic,56,South Florida,American Athletic,21
+2020,regular,401257934,11,2020-11-14T20:30:00.000Z,False,Virginia,ACC,31,Louisville,ACC,17
+2020,regular,401248074,11,2020-11-14T21:00:00.000Z,False,Central Arkansas,Southland,37,Eastern Kentucky,OVC,25
+2020,regular,401236023,11,2020-11-14T21:00:00.000Z,False,Texas Tech,Big 12,24,Baylor,Big 12,23
+2020,regular,401249014,11,2020-11-14T21:00:00.000Z,False,San Diego State,Mountain West,34,Hawai'i,Mountain West,10
+2020,regular,401247315,11,2020-11-14T22:00:00.000Z,False,Purdue,Big Ten,20,Northwestern,Big Ten,27
+2020,regular,401247413,11,2020-11-14T22:00:00.000Z,False,Stephen F. Austin,Southland,26,Pittsburg State,Mid America,7
+2020,regular,401249015,11,2020-11-14T23:30:00.000Z,False,New Mexico,Mountain West,20,Nevada,Mountain West,27
+2020,regular,401237129,11,2020-11-15T00:00:00.000Z,False,Florida,SEC,63,Arkansas,SEC,35
+2020,regular,401249405,11,2020-11-15T00:00:00.000Z,False,Washington State,Pac-12,29,Oregon,Pac-12,43
+2020,regular,401212491,11,2020-11-15T00:00:00.000Z,False,Tulsa,American Athletic,28,SMU,American Athletic,24
+2020,regular,401237133,11,2020-11-15T00:30:00.000Z,False,Ole Miss,SEC,59,South Carolina,SEC,42
+2020,regular,401247319,11,2020-11-15T00:30:00.000Z,False,Michigan,Big Ten,11,Wisconsin,Big Ten,49
+2020,regular,401234639,11,2020-11-15T00:30:00.000Z,False,NC State,ACC,38,Florida State,ACC,22
+2020,regular,401212518,11,2020-11-15T00:30:00.000Z,False,UCF,American Athletic,38,Temple,American Athletic,13
+2020,regular,401249016,11,2020-11-15T03:30:00.000Z,False,San José State,Mountain West,34,UNLV,Mountain West,17
+2020,regular,401249404,11,2020-11-15T04:00:00.000Z,False,Washington,Pac-12,27,Oregon State,Pac-12,21
+2020,regular,401261454,11,2020-11-15T17:00:00.000Z,False,UCLA,Pac-12,34,California,Pac-12,10
+2020,regular,401249868,12,2020-11-18T00:00:00.000Z,False,Bowling Green,Mid-American,17,Buffalo,Mid-American,42
+2020,regular,401249867,12,2020-11-18T01:00:00.000Z,False,Kent State,Mid-American,69,Akron,Mid-American,35
+2020,regular,401249871,12,2020-11-19T00:00:00.000Z,False,Eastern Michigan,Mid-American,28,Toledo,Mid-American,45
+2020,regular,401249870,12,2020-11-19T00:00:00.000Z,False,Ball State,Mid-American,31,Northern Illinois,Mid-American,25
+2020,regular,401249872,12,2020-11-19T00:00:00.000Z,False,Central Michigan,Mid-American,44,Western Michigan,Mid-American,52
+2020,regular,401212526,12,2020-11-20T00:30:00.000Z,False,Tulsa,American Athletic,30,Tulane,American Athletic,24
+2020,regular,401234643,12,2020-11-21T00:00:00.000Z,False,Louisville,ACC,30,Syracuse,ACC,0
+2020,regular,401247325,12,2020-11-21T00:30:00.000Z,False,Minnesota,Big Ten,34,Purdue,Big Ten,31
+2020,regular,401261674,12,2020-11-21T01:00:00.000Z,False,Florida Atlantic,Conference USA,24,Massachusetts,FBS Independents,2
+2020,regular,401249018,12,2020-11-21T02:30:00.000Z,False,Air Force,Mountain West,28,New Mexico,Mountain West,0
+2020,regular,401212519,12,2020-11-21T17:00:00.000Z,False,Temple,American Athletic,3,East Carolina,American Athletic,28
+2020,regular,401215333,12,2020-11-21T17:00:00.000Z,False,Coastal Carolina,Sun Belt,34,App State,Sun Belt,23
+2020,regular,401247374,12,2020-11-21T17:00:00.000Z,False,Memphis,American Athletic,56,Stephen F. Austin,Southland,14
+2020,regular,401237138,12,2020-11-21T17:00:00.000Z,False,Vanderbilt,SEC,17,Florida,SEC,38
+2020,regular,401237136,12,2020-11-21T17:00:00.000Z,False,Arkansas,SEC,24,LSU,SEC,27
+2020,regular,401215334,12,2020-11-21T17:00:00.000Z,False,Texas State,Sun Belt,47,Arkansas State,Sun Belt,45
+2020,regular,401247321,12,2020-11-21T17:00:00.000Z,False,Nebraska,Big Ten,23,Illinois,Big Ten,41
+2020,regular,401235975,12,2020-11-21T17:00:00.000Z,False,Army,FBS Independents,28,Georgia Southern,Sun Belt,27
+2020,regular,401247326,12,2020-11-21T17:00:00.000Z,False,Ohio State,Big Ten,42,Indiana,Big Ten,35
+2020,regular,401207184,12,2020-11-21T19:00:00.000Z,False,North Texas,Conference USA,27,Rice,Conference USA,17
+2020,regular,401207181,12,2020-11-21T19:00:00.000Z,False,Western Kentucky,Conference USA,38,Florida International,Conference USA,21
+2020,regular,401207185,12,2020-11-21T20:00:00.000Z,False,Southern Miss,Conference USA,20,UTSA,Conference USA,23
+2020,regular,401209818,12,2020-11-21T20:00:00.000Z,False,BYU,FBS Independents,66,North Alabama,Big South,14
+2020,regular,401239875,12,2020-11-21T20:00:00.000Z,False,Eastern Kentucky,OVC,49,Western Carolina,Southern,17
+2020,regular,401247323,12,2020-11-21T20:30:00.000Z,False,Northwestern,Big Ten,17,Wisconsin,Big Ten,7
+2020,regular,401215335,12,2020-11-21T20:30:00.000Z,False,South Alabama,Sun Belt,14,Georgia State,Sun Belt,31
+2020,regular,401212540,12,2020-11-21T20:30:00.000Z,False,UCF,American Athletic,33,Cincinnati,American Athletic,36
+2020,regular,401249411,12,2020-11-21T20:30:00.000Z,False,Oregon State,Pac-12,31,California,Pac-12,27
+2020,regular,401240641,12,2020-11-21T20:30:00.000Z,False,Troy,Sun Belt,17,Middle Tennessee,Conference USA,20
+2020,regular,401249019,12,2020-11-21T20:30:00.000Z,False,Nevada,Mountain West,26,San Diego State,Mountain West,21
+2020,regular,401249415,12,2020-11-21T20:30:00.000Z,False,Oregon,Pac-12,38,UCLA,Pac-12,35
+2020,regular,401247327,12,2020-11-21T20:30:00.000Z,False,Penn State,Big Ten,21,Iowa,Big Ten,41
+2020,regular,401248275,12,2020-11-21T21:00:00.000Z,False,Virginia,ACC,55,Abilene Christian,Southland,15
+2020,regular,401234648,12,2020-11-21T21:00:00.000Z,False,Pittsburgh,ACC,47,Virginia Tech,ACC,14
+2020,regular,401237135,12,2020-11-21T21:00:00.000Z,False,Alabama,SEC,63,Kentucky,SEC,3
+2020,regular,401236025,12,2020-11-21T21:00:00.000Z,False,Iowa State,Big 12,45,Kansas State,Big 12,0
+2020,regular,401237137,12,2020-11-22T00:00:00.000Z,False,Auburn,SEC,30,Tennessee,SEC,17
+2020,regular,401237141,12,2020-11-22T00:30:00.000Z,False,South Carolina,SEC,10,Missouri,SEC,17
+2020,regular,401236027,12,2020-11-22T00:30:00.000Z,False,Oklahoma,Big 12,41,Oklahoma State,Big 12,13
+2020,regular,401247324,12,2020-11-22T00:30:00.000Z,False,Rutgers,Big Ten,42,Michigan,Big Ten,48
+2020,regular,401237139,12,2020-11-22T00:30:00.000Z,False,Georgia,SEC,31,Mississippi State,SEC,24
+2020,regular,401234647,12,2020-11-22T00:30:00.000Z,False,NC State,ACC,15,Liberty,FBS Independents,14
+2020,regular,401249413,12,2020-11-22T01:00:00.000Z,False,Washington,Pac-12,44,Arizona,Pac-12,27
+2020,regular,401249410,12,2020-11-22T03:30:00.000Z,False,Utah,Pac-12,17,USC,Pac-12,33
+2020,regular,401249017,12,2020-11-22T04:00:00.000Z,False,Hawai'i,Mountain West,32,Boise State,Mountain West,40
+2020,regular,401249025,13,2020-11-27T00:00:00.000Z,False,Utah State,Mountain West,41,New Mexico,Mountain West,27
+2020,regular,401236029,13,2020-11-27T17:00:00.000Z,False,Texas,Big 12,20,Iowa State,Big 12,23
+2020,regular,401251926,13,2020-11-27T17:00:00.000Z,False,Liberty,FBS Independents,45,Massachusetts,FBS Independents,0
+2020,regular,401247332,13,2020-11-27T18:00:00.000Z,False,Iowa,Big Ten,26,Nebraska,Big Ten,20
+2020,regular,401212483,13,2020-11-27T20:30:00.000Z,False,South Florida,American Athletic,46,UCF,American Athletic,58
+2020,regular,401234650,13,2020-11-27T20:30:00.000Z,False,North Carolina,ACC,17,Notre Dame,ACC,31
+2020,regular,401249028,13,2020-11-27T21:00:00.000Z,False,UNLV,Mountain West,14,Wyoming,Mountain West,45
+2020,regular,401249874,13,2020-11-27T21:00:00.000Z,False,Eastern Michigan,Mid-American,23,Central Michigan,Mid-American,31
+2020,regular,401249417,13,2020-11-27T21:30:00.000Z,False,California,Pac-12,23,Stanford,Pac-12,24
+2020,regular,401249418,13,2020-11-28T00:30:00.000Z,False,Oregon State,Pac-12,41,Oregon,Pac-12,38
+2020,regular,401249875,13,2020-11-28T17:00:00.000Z,False,Western Michigan,Mid-American,30,Northern Illinois,Mid-American,27
+2020,regular,401215339,13,2020-11-28T17:00:00.000Z,False,Georgia State,Sun Belt,30,Georgia Southern,Sun Belt,24
+2020,regular,401247333,13,2020-11-28T17:00:00.000Z,False,Michigan,Big Ten,17,Penn State,Big Ten,27
+2020,regular,401247329,13,2020-11-28T17:00:00.000Z,False,Indiana,Big Ten,27,Maryland,Big Ten,11
+2020,regular,401249876,13,2020-11-28T17:00:00.000Z,False,Ohio,Mid-American,52,Bowling Green,Mid-American,10
+2020,regular,401236032,13,2020-11-28T17:00:00.000Z,False,Oklahoma State,Big 12,50,Texas Tech,Big 12,44
+2020,regular,401212513,13,2020-11-28T17:00:00.000Z,False,East Carolina,American Athletic,52,SMU,American Athletic,38
+2020,regular,401234655,13,2020-11-28T17:00:00.000Z,False,Syracuse,ACC,29,NC State,ACC,36
+2020,regular,401237144,13,2020-11-28T17:00:00.000Z,False,Florida,SEC,34,Kentucky,SEC,10
+2020,regular,401249877,13,2020-11-28T17:00:00.000Z,False,Buffalo,Mid-American,70,Kent State,Mid-American,41
+2020,regular,401237143,13,2020-11-28T17:00:00.000Z,False,Missouri,SEC,41,Vanderbilt,SEC,0
+2020,regular,401249873,13,2020-11-28T17:00:00.000Z,False,Toledo,Mid-American,24,Ball State,Mid-American,27
+2020,regular,401249892,13,2020-11-28T18:00:00.000Z,False,Akron,Mid-American,7,Miami (OH),Mid-American,38
+2020,regular,401215338,13,2020-11-28T20:00:00.000Z,False,Texas State,Sun Belt,14,Coastal Carolina,Sun Belt,49
+2020,regular,401215337,13,2020-11-28T20:00:00.000Z,False,Arkansas State,Sun Belt,31,South Alabama,Sun Belt,38
+2020,regular,401215340,13,2020-11-28T20:00:00.000Z,False,UL Monroe,Sun Belt,20,Louisiana,Sun Belt,70
+2020,regular,401207191,13,2020-11-28T20:00:00.000Z,False,UTSA,Conference USA,49,North Texas,Conference USA,17
+2020,regular,401247330,13,2020-11-28T20:30:00.000Z,False,Michigan State,Big Ten,29,Northwestern,Big Ten,20
+2020,regular,401237142,13,2020-11-28T20:30:00.000Z,False,Alabama,SEC,42,Auburn,SEC,13
+2020,regular,401215336,13,2020-11-28T20:30:00.000Z,False,App State,Sun Belt,47,Troy,Sun Belt,10
+2020,regular,401234651,13,2020-11-28T20:30:00.000Z,False,Clemson,ACC,52,Pittsburgh,ACC,17
+2020,regular,401247328,13,2020-11-28T21:00:00.000Z,False,Purdue,Big Ten,30,Rutgers,Big Ten,37
+2020,regular,401237147,13,2020-11-28T21:00:00.000Z,False,Ole Miss,SEC,31,Mississippi State,SEC,24
+2020,regular,401234649,13,2020-11-28T21:00:00.000Z,False,Boston College,ACC,34,Louisville,ACC,27
+2020,regular,401265734,13,2020-11-28T22:37:00.000Z,False,Colorado,Pac-12,20,San Diego State,Mountain West,10
+2020,regular,401236028,13,2020-11-29T00:00:00.000Z,False,Baylor,Big 12,32,Kansas State,Big 12,31
+2020,regular,401237146,13,2020-11-29T00:00:00.000Z,False,Texas A&M,SEC,20,LSU,SEC,7
+2020,regular,401234652,13,2020-11-29T00:00:00.000Z,False,Georgia Tech,ACC,56,Duke,ACC,33
+2020,regular,401264080,13,2020-11-29T00:00:00.000Z,False,Navy,American Athletic,7,Memphis,American Athletic,10
+2020,regular,401237145,13,2020-11-29T00:30:00.000Z,False,South Carolina,SEC,16,Georgia,SEC,45
+2020,regular,401265458,13,2020-11-29T00:30:00.000Z,False,Washington,Pac-12,24,Utah,Pac-12,21
+2020,regular,401236030,13,2020-11-29T01:00:00.000Z,False,Kansas,Big 12,23,TCU,Big 12,59
+2020,regular,401249421,13,2020-11-29T01:00:00.000Z,False,UCLA,Pac-12,27,Arizona,Pac-12,10
+2020,regular,401249024,13,2020-11-29T04:00:00.000Z,False,Hawai'i,Mountain West,24,Nevada,Mountain West,21
+2020,regular,401265703,14,2020-12-03T23:00:00.000Z,False,North Texas,Conference USA,31,Louisiana Tech,Conference USA,42
+2020,regular,401249029,14,2020-12-04T02:30:00.000Z,False,Utah State,Mountain West,7,Air Force,Mountain West,35
+2020,regular,401252117,14,2020-12-05T01:30:00.000Z,False,App State,Sun Belt,21,Louisiana,Sun Belt,24
+2020,regular,401257812,14,2020-12-05T17:00:00.000Z,False,Marshall,Conference USA,0,Rice,Conference USA,20
+2020,regular,401247336,14,2020-12-05T17:00:00.000Z,False,Rutgers,Big Ten,7,Penn State,Big Ten,23
+2020,regular,401265818,14,2020-12-05T17:00:00.000Z,False,Missouri,SEC,50,Arkansas,SEC,48
+2020,regular,401236036,14,2020-12-05T17:00:00.000Z,False,Kansas State,Big 12,31,Texas,Big 12,69
+2020,regular,401247340,14,2020-12-05T17:00:00.000Z,False,Michigan State,Big Ten,12,Ohio State,Big Ten,52
+2020,regular,401236035,14,2020-12-05T17:00:00.000Z,False,Texas Tech,Big 12,16,Kansas,Big 12,13
+2020,regular,401249880,14,2020-12-05T17:00:00.000Z,False,Northern Illinois,Mid-American,24,Toledo,Mid-American,41
+2020,regular,401236037,14,2020-12-05T17:00:00.000Z,False,TCU,Big 12,29,Oklahoma State,Big 12,22
+2020,regular,401237150,14,2020-12-05T17:00:00.000Z,False,Auburn,SEC,20,Texas A&M,SEC,31
+2020,regular,401248781,14,2020-12-05T17:00:00.000Z,False,North Carolina,ACC,49,Western Carolina,Southern,9
+2020,regular,401264082,14,2020-12-05T17:00:00.000Z,False,Tulane,American Athletic,35,Memphis,American Athletic,21
+2020,regular,401247335,14,2020-12-05T17:00:00.000Z,False,Purdue,Big Ten,27,Nebraska,Big Ten,37
+2020,regular,401249879,14,2020-12-05T19:00:00.000Z,False,Western Michigan,Mid-American,42,Eastern Michigan,Mid-American,53
+2020,regular,401262494,14,2020-12-05T19:00:00.000Z,False,South Alabama,Sun Belt,0,Troy,Sun Belt,29
+2020,regular,401249881,14,2020-12-05T19:00:00.000Z,False,Akron,Mid-American,31,Bowling Green,Mid-American,3
+2020,regular,401249878,14,2020-12-05T19:00:00.000Z,False,Central Michigan,Mid-American,20,Ball State,Mid-American,45
+2020,regular,401234662,14,2020-12-05T19:30:00.000Z,False,Notre Dame,ACC,45,Syracuse,ACC,21
+2020,regular,401262493,14,2020-12-05T20:00:00.000Z,False,Arkansas State,Sun Belt,48,UL Monroe,Sun Belt,15
+2020,regular,401236034,14,2020-12-05T20:30:00.000Z,False,Iowa State,Big 12,42,West Virginia,Big 12,6
+2020,regular,401247337,14,2020-12-05T20:30:00.000Z,False,Illinois,Big Ten,21,Iowa,Big Ten,35
+2020,regular,401264083,14,2020-12-05T20:30:00.000Z,False,Navy,American Athletic,6,Tulsa,American Athletic,19
+2020,regular,401237151,14,2020-12-05T20:30:00.000Z,False,Tennessee,SEC,19,Florida,SEC,31
+2020,regular,401247338,14,2020-12-05T20:30:00.000Z,False,Wisconsin,Big Ten,6,Indiana,Big Ten,14
+2020,regular,401234656,14,2020-12-05T20:30:00.000Z,False,Virginia,ACC,43,Boston College,ACC,32
+2020,regular,401249424,14,2020-12-05T21:00:00.000Z,False,Washington,Pac-12,26,Stanford,Pac-12,31
+2020,regular,401234659,14,2020-12-05T21:00:00.000Z,False,NC State,ACC,23,Georgia Tech,ACC,13
+2020,regular,401237514,14,2020-12-05T22:30:00.000Z,False,Coastal Carolina,Sun Belt,22,BYU,FBS Independents,17
+2020,regular,401249033,14,2020-12-05T23:00:00.000Z,False,San José State,Mountain West,35,Hawai'i,Mountain West,24
+2020,regular,401261675,14,2020-12-05T23:00:00.000Z,False,Georgia Southern,Sun Belt,20,Florida Atlantic,Conference USA,3
+2020,regular,401249423,14,2020-12-06T00:00:00.000Z,False,California,Pac-12,21,Oregon,Pac-12,17
+2020,regular,401249031,14,2020-12-06T00:00:00.000Z,False,San Diego State,Mountain West,29,Colorado State,Mountain West,17
+2020,regular,401249426,14,2020-12-06T00:00:00.000Z,False,Arizona,Pac-12,13,Colorado,Pac-12,24
+2020,regular,401234657,14,2020-12-06T00:30:00.000Z,False,Virginia Tech,ACC,10,Clemson,ACC,45
+2020,regular,401237153,14,2020-12-06T00:30:00.000Z,False,Kentucky,SEC,41,South Carolina,SEC,18
+2020,regular,401236033,14,2020-12-06T01:00:00.000Z,False,Oklahoma,Big 12,27,Baylor,Big 12,14
+2020,regular,401265817,14,2020-12-06T01:00:00.000Z,False,LSU,SEC,17,Alabama,SEC,55
+2020,regular,401266134,14,2020-12-06T01:00:00.000Z,False,Duke,ACC,0,Miami,ACC,48
+2020,regular,401249032,14,2020-12-06T02:00:00.000Z,False,Nevada,Mountain West,37,Fresno State,Mountain West,26
+2020,regular,401249034,14,2020-12-06T03:30:00.000Z,False,New Mexico,Mountain West,17,Wyoming,Mountain West,16
+2020,regular,401249422,14,2020-12-06T03:30:00.000Z,False,Utah,Pac-12,30,Oregon State,Pac-12,24
+2020,regular,401249425,14,2020-12-06T03:30:00.000Z,False,Arizona State,Pac-12,18,UCLA,Pac-12,25
+2020,regular,401266789,14,2020-12-06T17:00:00.000Z,False,Charlotte,Conference USA,19,Western Kentucky,Conference USA,37
+2020,regular,401249427,14,2020-12-07T00:30:00.000Z,False,USC,Pac-12,38,Washington State,Pac-12,13
+2020,regular,401257813,15,2020-12-10T23:30:00.000Z,False,Southern Miss,Conference USA,45,Florida Atlantic,Conference USA,31
+2020,regular,401261245,15,2020-12-11T00:00:00.000Z,False,Georgia Tech,ACC,20,Pittsburgh,ACC,34
+2020,regular,401257816,15,2020-12-11T23:00:00.000Z,False,UTEP,Conference USA,43,North Texas,Conference USA,45
+2020,regular,401249429,15,2020-12-12T00:00:00.000Z,False,Arizona,Pac-12,7,Arizona State,Pac-12,70
+2020,regular,401249037,15,2020-12-12T03:00:00.000Z,False,San José State,Mountain West,30,Nevada,Mountain West,20
+2020,regular,401247342,15,2020-12-12T17:00:00.000Z,False,Maryland,Big Ten,24,Rutgers,Big Ten,27
+2020,regular,401249885,15,2020-12-12T17:00:00.000Z,False,Ball State,Mid-American,30,Western Michigan,Mid-American,27
+2020,regular,401249428,15,2020-12-12T17:00:00.000Z,False,Colorado,Pac-12,21,Utah,Pac-12,38
+2020,regular,401267164,15,2020-12-12T17:00:00.000Z,False,Arkansas,SEC,3,Alabama,SEC,52
+2020,regular,401247346,15,2020-12-12T17:00:00.000Z,False,Penn State,Big Ten,39,Michigan State,Big Ten,24
+2020,regular,401247345,15,2020-12-12T17:00:00.000Z,False,Nebraska,Big Ten,17,Minnesota,Big Ten,24
+2020,regular,401267161,15,2020-12-12T17:00:00.000Z,False,Missouri,SEC,14,Georgia,SEC,49
+2020,regular,401247344,15,2020-12-12T17:00:00.000Z,False,Northwestern,Big Ten,28,Illinois,Big Ten,10
+2020,regular,401249884,15,2020-12-12T17:00:00.000Z,False,Eastern Michigan,Mid-American,41,Northern Illinois,Mid-American,33
+2020,regular,401266696,15,2020-12-12T17:00:00.000Z,False,Louisville,ACC,45,Wake Forest,ACC,21
+2020,regular,401257815,15,2020-12-12T18:00:00.000Z,False,Rice,Conference USA,16,UAB,Conference USA,21
+2020,regular,401249886,15,2020-12-12T19:30:00.000Z,False,Buffalo,Mid-American,56,Akron,Mid-American,7
+2020,regular,401259671,15,2020-12-12T20:00:00.000Z,False,Troy,Sun Belt,38,Coastal Carolina,Sun Belt,42
+2020,regular,401249883,15,2020-12-12T20:00:00.000Z,False,Toledo,Mid-American,24,Central Michigan,Mid-American,23
+2020,regular,401207203,15,2020-12-12T20:00:00.000Z,True,Army,FBS Independents,15,Navy,American Athletic,0
+2020,regular,401234661,15,2020-12-12T20:30:00.000Z,False,Miami,ACC,26,North Carolina,ACC,62
+2020,regular,401247347,15,2020-12-12T20:30:00.000Z,False,Iowa,Big Ten,28,Wisconsin,Big Ten,7
+2020,regular,401250713,15,2020-12-12T20:30:00.000Z,False,Baylor,Big 12,3,Oklahoma State,Big 12,42
+2020,regular,401264084,15,2020-12-12T20:30:00.000Z,False,Memphis,American Athletic,30,Houston,American Athletic,27
+2020,regular,401266694,15,2020-12-12T21:00:00.000Z,False,Florida State,ACC,56,Duke,ACC,35
+2020,regular,401267163,15,2020-12-12T21:00:00.000Z,False,Vanderbilt,SEC,17,Tennessee,SEC,42
+2020,regular,401249035,15,2020-12-12T23:00:00.000Z,False,Wyoming,Mountain West,9,Boise State,Mountain West,17
+2020,regular,401215309,15,2020-12-12T23:00:00.000Z,False,Georgia Southern,Sun Belt,26,App State,Sun Belt,34
+2020,regular,401251100,15,2020-12-13T00:00:00.000Z,False,Florida,SEC,34,LSU,SEC,37
+2020,regular,401266711,15,2020-12-13T00:00:00.000Z,False,TCU,Big 12,52,Louisiana Tech,Conference USA,10
+2020,regular,401249431,15,2020-12-13T00:30:00.000Z,False,UCLA,Pac-12,38,USC,Pac-12,43
+2020,regular,401260157,15,2020-12-13T00:30:00.000Z,False,Mississippi State,SEC,10,Auburn,SEC,24
+2020,regular,401234572,15,2020-12-13T01:00:00.000Z,False,Virginia Tech,ACC,33,Virginia,ACC,15
+2020,regular,401249435,15,2020-12-13T03:00:00.000Z,False,BYU,FBS Independents,28,San Diego State,Mountain West,14
+2020,regular,401249432,15,2020-12-13T03:00:00.000Z,False,Oregon State,Pac-12,24,Stanford,Pac-12,27
+2020,regular,401249036,15,2020-12-13T03:30:00.000Z,False,New Mexico,Mountain West,49,Fresno State,Mountain West,39
+2020,regular,401249038,15,2020-12-13T04:00:00.000Z,False,Hawai'i,Mountain West,38,UNLV,Mountain West,21
+2020,regular,401240101,16,2020-12-19T00:00:00.000Z,False,Marshall,Conference USA,13,UAB,Conference USA,22
+2020,regular,401249854,16,2020-12-19T00:30:00.000Z,True,Buffalo,Mid-American,28,Ball State,Mid-American,38
+2020,regular,401269382,16,2020-12-19T00:30:00.000Z,False,Rutgers,Big Ten,21,Nebraska,Big Ten,28
+2020,regular,401249434,16,2020-12-19T01:00:00.000Z,False,USC,Pac-12,24,Oregon,Pac-12,31
+2020,regular,401260158,16,2020-12-19T17:00:00.000Z,False,Tennessee,SEC,13,Texas A&M,SEC,34
+2020,regular,401262060,16,2020-12-19T17:00:00.000Z,True,Iowa State,Big 12,21,Oklahoma,Big 12,27
+2020,regular,401247349,16,2020-12-19T17:00:00.000Z,True,Ohio State,Big Ten,22,Northwestern,Big Ten,10
+2020,regular,401269375,16,2020-12-19T18:30:00.000Z,False,Utah,Pac-12,45,Washington State,Pac-12,28
+2020,regular,401265699,16,2020-12-19T20:00:00.000Z,False,Army,FBS Independents,10,Air Force,Mountain West,7
+2020,regular,401267166,16,2020-12-19T20:30:00.000Z,False,Mississippi State,SEC,51,Missouri,SEC,32
+2020,regular,401267165,16,2020-12-19T20:30:00.000Z,False,LSU,SEC,53,Ole Miss,SEC,48
+2020,regular,401269384,16,2020-12-19T21:00:00.000Z,False,Wisconsin,Big Ten,20,Minnesota,Big Ten,17
+2020,regular,401256001,16,2020-12-19T21:00:00.000Z,True,Notre Dame,ACC,10,Clemson,ACC,34
+2020,regular,401249043,16,2020-12-19T21:40:00.000Z,True,San José State,Mountain West,34,Boise State,Mountain West,20
+2020,regular,401269381,16,2020-12-19T22:30:00.000Z,False,Penn State,Big Ten,56,Illinois,Big Ten,21
+2020,regular,401269376,16,2020-12-20T00:00:00.000Z,False,UCLA,Pac-12,47,Stanford,Pac-12,48
+2020,regular,401264085,16,2020-12-20T01:00:00.000Z,False,Cincinnati,American Athletic,27,Tulsa,American Athletic,24
+2020,regular,401237074,16,2020-12-20T01:00:00.000Z,True,Florida,SEC,46,Alabama,SEC,52
+2020,regular,401269378,16,2020-12-20T03:30:00.000Z,False,Oregon State,Pac-12,33,Arizona State,Pac-12,46
+2020,postseason,401256135,1,2020-12-21T19:30:00.000Z,True,North Texas,Conference USA,28,App State,Sun Belt,56
+2020,postseason,401256136,1,2020-12-22T20:30:00.000Z,True,Nevada,Mountain West,38,Tulane,American Athletic,27
+2020,postseason,401256137,1,2020-12-23T00:00:00.000Z,True,BYU,FBS Independents,49,UCF,American Athletic,23
+2020,postseason,401256138,1,2020-12-23T20:00:00.000Z,True,Georgia Southern,Sun Belt,38,Louisiana Tech,Conference USA,3
+2020,postseason,401256139,1,2020-12-24T00:00:00.000Z,True,Florida Atlantic,Conference USA,10,Memphis,American Athletic,25
+2020,postseason,401256140,1,2020-12-24T20:30:00.000Z,True,Houston,American Athletic,14,Hawai'i,Mountain West,28
+2020,postseason,401256141,1,2020-12-25T19:30:00.000Z,True,Buffalo,Mid-American,17,Marshall,Conference USA,10
+2020,postseason,401256144,1,2020-12-26T20:30:00.000Z,True,UTSA,Conference USA,24,Louisiana,Sun Belt,31
+2020,postseason,401256145,1,2020-12-26T20:30:00.000Z,True,Georgia State,Sun Belt,39,Western Kentucky,Conference USA,21
+2020,postseason,401256143,1,2020-12-27T00:30:00.000Z,True,Coastal Carolina,Sun Belt,34,Liberty,FBS Independents,37
+2020,postseason,401256150,1,2020-12-29T22:30:00.000Z,True,Miami,ACC,34,Oklahoma State,Big 12,37
+2020,postseason,401256151,1,2020-12-30T02:00:00.000Z,True,Colorado,Pac-12,23,Texas,Big 12,55
+2020,postseason,401256152,1,2020-12-30T17:00:00.000Z,True,Wisconsin,Big Ten,42,Wake Forest,ACC,28
+2020,postseason,401256194,1,2020-12-31T01:00:00.000Z,True,Oklahoma,Big 12,55,Florida,SEC,20
+2020,postseason,401256196,1,2020-12-31T17:00:00.000Z,True,Mississippi State,SEC,28,Tulsa,American Athletic,26
+2020,postseason,401268773,1,2020-12-31T19:00:00.000Z,True,San José State,Mountain West,13,Ball State,Mid-American,34
+2020,postseason,401256197,1,2020-12-31T21:00:00.000Z,True,Army,FBS Independents,21,West Virginia,Big 12,24
+2020,postseason,401256108,1,2021-01-01T17:00:00.000Z,True,Georgia,SEC,24,Cincinnati,American Athletic,21
+2020,postseason,401256199,1,2021-01-01T18:00:00.000Z,True,Northwestern,Big Ten,35,Auburn,SEC,19
+2020,postseason,401240152,1,2021-01-01T21:00:00.000Z,True,Alabama,SEC,31,Notre Dame,ACC,14
+2020,postseason,401240173,1,2021-01-02T01:00:00.000Z,True,Clemson,ACC,28,Ohio State,Big Ten,49
+2020,postseason,401256109,1,2021-01-02T17:00:00.000Z,True,Kentucky,SEC,23,NC State,ACC,21
+2020,postseason,401256110,1,2021-01-02T17:30:00.000Z,True,Indiana,Big Ten,20,Ole Miss,SEC,26
+2020,postseason,401256111,1,2021-01-02T21:00:00.000Z,True,Iowa State,Big 12,34,Oregon,Pac-12,17
+2020,postseason,401256112,1,2021-01-03T01:00:00.000Z,True,North Carolina,ACC,27,Texas A&M,SEC,41
+2020,postseason,401240174,1,2021-01-12T01:00:00.000Z,True,Alabama,SEC,52,Ohio State,Big Ten,24
+2020,postseason,401321794,20,2021-04-24T18:00:00.000Z,False,James Madison,CAA,31,VMI,Southern,24
+2020,postseason,401322680,20,2021-05-02T22:00:00.000Z,False,James Madison,CAA,34,North Dakota,MVFC,21
+2020,postseason,401324093,20,2021-05-08T18:30:00.000Z,False,Sam Houston,Southland,38,James Madison,CAA,35
+2020,postseason,401325471,20,2021-05-16T18:00:00.000Z,True,South Dakota State,MVFC,21,Sam Houston,Southland,23

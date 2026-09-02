@@ -1,0 +1,1624 @@
+year,season_type,id,week,startDate,neutralSite,homeTeam,homeConference,homePoints,awayTeam,awayConference,awayPoints
+2019,regular,401128622,1,2019-08-24T16:00:00.000Z,False,Colgate,Patriot,14,Villanova,CAA,34
+2019,regular,401127303,1,2019-08-24T19:00:00.000Z,True,Samford,Southern,22,Youngstown State,MVFC,45
+2019,regular,401110723,1,2019-08-24T23:00:00.000Z,True,Florida,SEC,24,Miami,ACC,20
+2019,regular,401114164,1,2019-08-25T02:30:00.000Z,False,Hawai'i,Mountain West,45,Arizona,Pac-12,38
+2019,regular,401128597,1,2019-08-29T22:00:00.000Z,False,Morehead State,Pioneer,44,Union College,,7
+2019,regular,401127043,1,2019-08-29T23:00:00.000Z,False,Stony Brook,CAA,35,Bryant,NEC,10
+2019,regular,401127042,1,2019-08-29T23:00:00.000Z,False,Richmond,CAA,38,Jacksonville,Pioneer,19
+2019,regular,401127039,1,2019-08-29T23:00:00.000Z,False,Delaware,CAA,31,Delaware State,MEAC,13
+2019,regular,401128354,1,2019-08-29T23:00:00.000Z,False,Eastern Kentucky,OVC,53,Valparaiso,Pioneer,7
+2019,regular,401128370,1,2019-08-29T23:00:00.000Z,False,Murray State,OVC,59,Pikeville,,20
+2019,regular,401117855,1,2019-08-29T23:00:00.000Z,False,UConn,American Athletic,24,Wagner,NEC,21
+2019,regular,401128490,1,2019-08-29T23:00:00.000Z,False,Chattanooga,Southern,24,Eastern Illinois,OVC,10
+2019,regular,401117854,1,2019-08-29T23:00:00.000Z,False,Cincinnati,American Athletic,24,UCLA,Pac-12,14
+2019,regular,401119255,1,2019-08-29T23:00:00.000Z,False,Buffalo,Mid-American,38,Robert Morris,NEC,10
+2019,regular,401119254,1,2019-08-29T23:00:00.000Z,False,Bowling Green,Mid-American,46,Morgan State,MEAC,3
+2019,regular,401114246,1,2019-08-29T23:30:00.000Z,False,Western Kentucky,Conference USA,28,Central Arkansas,Southland,35
+2019,regular,401135910,1,2019-08-29T23:30:00.000Z,False,Charlotte,Conference USA,49,Gardner-Webb,Big South,28
+2019,regular,401127297,1,2019-08-29T23:30:00.000Z,False,Southeast Missouri State,OVC,44,Southern Illinois,MVFC,26
+2019,regular,401128724,1,2019-08-29T23:30:00.000Z,False,UT Martin,OVC,42,Northwestern State,Southland,20
+2019,regular,401117853,1,2019-08-29T23:30:00.000Z,False,UCF,American Athletic,62,Florida A&M,MEAC,0
+2019,regular,401111653,1,2019-08-30T00:00:00.000Z,False,Clemson,ACC,52,Georgia Tech,ACC,14
+2019,regular,401127029,1,2019-08-30T00:00:00.000Z,False,North Alabama,Big South,26,Western Illinois,MVFC,17
+2019,regular,401128709,1,2019-08-30T00:00:00.000Z,False,Lamar,Southland,65,Bethel University Tennessee,,16
+2019,regular,401128362,1,2019-08-30T00:00:00.000Z,False,SE Louisiana,Southland,35,Jacksonville State,OVC,14
+2019,regular,401114236,1,2019-08-30T00:00:00.000Z,False,Tulane,American Athletic,42,Florida International,Conference USA,14
+2019,regular,401127240,1,2019-08-30T00:00:00.000Z,False,Austin Peay,OVC,41,North Carolina Central,MEAC,10
+2019,regular,401114237,1,2019-08-30T00:00:00.000Z,False,UAB,Conference USA,24,Alabama State,SWAC,19
+2019,regular,401110731,1,2019-08-30T00:30:00.000Z,False,Texas A&M,SEC,41,Texas State,Sun Belt,7
+2019,regular,401119253,1,2019-08-30T00:50:00.000Z,False,Central Michigan,Mid-American,38,UAlbany,CAA,21
+2019,regular,401126954,1,2019-08-30T01:00:00.000Z,False,Northern Arizona,Big Sky,37,Missouri State,MVFC,23
+2019,regular,401112229,1,2019-08-30T01:00:00.000Z,False,Minnesota,Big Ten,28,South Dakota State,MVFC,21
+2019,regular,401117493,1,2019-08-30T02:00:00.000Z,False,San José State,Mountain West,35,Northern Colorado,Big Sky,18
+2019,regular,401114153,1,2019-08-30T02:00:00.000Z,False,Arizona State,Pac-12,30,Kent State,Mid-American,7
+2019,regular,401114223,1,2019-08-30T02:15:00.000Z,False,BYU,FBS Independents,12,Utah,Pac-12,30
+2019,regular,401114238,1,2019-08-30T22:00:00.000Z,False,Army,FBS Independents,14,Rice,Conference USA,7
+2019,regular,401127040,1,2019-08-30T22:00:00.000Z,False,Maine,CAA,42,Sacred Heart,NEC,14
+2019,regular,401112212,1,2019-08-30T23:00:00.000Z,False,Michigan State,Big Ten,28,Tulsa,American Athletic,7
+2019,regular,401112264,1,2019-08-30T23:15:00.000Z,False,Rutgers,Big Ten,48,Massachusetts,FBS Independents,21
+2019,regular,401117856,1,2019-08-30T23:55:00.000Z,False,South Florida,American Athletic,0,Wisconsin,Big Ten,49
+2019,regular,401112430,1,2019-08-31T00:00:00.000Z,False,Wake Forest,ACC,38,Utah State,Mountain West,35
+2019,regular,401112262,1,2019-08-31T01:30:00.000Z,False,Nevada,Mountain West,34,Purdue,Big Ten,31
+2019,regular,401114184,1,2019-08-31T02:00:00.000Z,True,Colorado,Pac-12,52,Colorado State,Mountain West,31
+2019,regular,401112122,1,2019-08-31T02:30:00.000Z,False,Oregon State,Pac-12,36,Oklahoma State,Big 12,52
+2019,regular,401112085,1,2019-08-31T16:00:00.000Z,False,Iowa State,Big 12,29,Northern Iowa,MVFC,26
+2019,regular,401112201,1,2019-08-31T16:00:00.000Z,False,Maryland,Big Ten,79,Howard,MEAC,0
+2019,regular,401112431,1,2019-08-31T16:00:00.000Z,False,Florida State,ACC,31,Boise State,Mountain West,36
+2019,regular,401110726,1,2019-08-31T16:00:00.000Z,False,Memphis,American Athletic,15,Ole Miss,SEC,10
+2019,regular,401112157,1,2019-08-31T16:00:00.000Z,True,Ball State,Mid-American,24,Indiana,Big Ten,34
+2019,regular,401112145,1,2019-08-31T16:00:00.000Z,False,Illinois,Big Ten,42,Akron,Mid-American,3
+2019,regular,401112432,1,2019-08-31T16:00:00.000Z,False,NC State,ACC,34,East Carolina,American Athletic,6
+2019,regular,401112096,1,2019-08-31T16:00:00.000Z,False,Kansas,Big 12,24,Indiana State,MVFC,17
+2019,regular,401110724,1,2019-08-31T16:00:00.000Z,False,Kentucky,SEC,38,Toledo,Mid-American,24
+2019,regular,401112238,1,2019-08-31T16:00:00.000Z,False,Nebraska,Big Ten,35,South Alabama,Sun Belt,21
+2019,regular,401112251,1,2019-08-31T16:00:00.000Z,False,Ohio State,Big Ten,45,Florida Atlantic,Conference USA,21
+2019,regular,401110727,1,2019-08-31T16:00:00.000Z,True,Louisiana,Sun Belt,28,Mississippi State,SEC,38
+2019,regular,401128648,1,2019-08-31T16:30:00.000Z,False,Lehigh,Patriot,13,Saint Francis,NEC,14
+2019,regular,401126996,1,2019-08-31T17:00:00.000Z,False,Furman,Southern,46,Charleston Southern,Big South,13
+2019,regular,401128564,1,2019-08-31T17:00:00.000Z,False,Davidson,Pioneer,27,Georgetown,Patriot,20
+2019,regular,401112143,1,2019-08-31T18:00:00.000Z,False,West Virginia,Big 12,20,James Madison,CAA,13
+2019,regular,401119259,1,2019-08-31T18:00:00.000Z,False,Ohio,Mid-American,41,Rhode Island,CAA,20
+2019,regular,401136278,1,2019-08-31T19:00:00.000Z,False,Merrimack,NEC,45,Virginia Lynchburg,,14
+2019,regular,401114233,1,2019-08-31T19:00:00.000Z,False,Washington,Pac-12,47,Eastern Washington,Big Sky,14
+2019,regular,401127044,1,2019-08-31T19:00:00.000Z,False,The Citadel,Southern,21,Towson,CAA,28
+2019,regular,401117859,1,2019-08-31T19:00:00.000Z,False,Temple,American Athletic,56,Bucknell,Patriot,12
+2019,regular,401126937,1,2019-08-31T19:00:00.000Z,False,South Dakota,MVFC,17,Montana,Big Sky,31
+2019,regular,401110720,1,2019-08-31T19:30:00.000Z,True,Alabama,SEC,42,Duke,ACC,3
+2019,regular,401110730,1,2019-08-31T19:30:00.000Z,False,Tennessee,SEC,30,Georgia State,Sun Belt,38
+2019,regular,401117857,1,2019-08-31T19:30:00.000Z,False,Navy,American Athletic,45,Holy Cross,Patriot,7
+2019,regular,401119256,1,2019-08-31T19:30:00.000Z,False,Coastal Carolina,Sun Belt,23,Eastern Michigan,Mid-American,30
+2019,regular,401117494,1,2019-08-31T19:30:00.000Z,False,Air Force,Mountain West,48,Colgate,Patriot,7
+2019,regular,401121934,1,2019-08-31T19:30:00.000Z,False,App State,Sun Belt,42,East Tennessee State,Southern,7
+2019,regular,401112257,1,2019-08-31T19:30:00.000Z,False,Penn State,Big Ten,79,Idaho,Big Sky,7
+2019,regular,401110729,1,2019-08-31T19:30:00.000Z,True,North Carolina,ACC,24,South Carolina,SEC,20
+2019,regular,401112139,1,2019-08-31T20:00:00.000Z,False,Texas Tech,Big 12,45,Montana State,Big Sky,10
+2019,regular,401110721,1,2019-08-31T20:00:00.000Z,False,Arkansas,SEC,20,Portland State,Big Sky,13
+2019,regular,401127277,1,2019-08-31T20:00:00.000Z,False,North Dakota State,MVFC,57,Butler,Pioneer,10
+2019,regular,401112245,1,2019-08-31T20:00:00.000Z,False,Stanford,Pac-12,17,Northwestern,Big Ten,7
+2019,regular,401112435,1,2019-08-31T20:00:00.000Z,False,Boston College,ACC,35,Virginia Tech,ACC,28
+2019,regular,401126901,1,2019-08-31T21:00:00.000Z,False,Cal Poly,Big Sky,52,San Diego,Pioneer,34
+2019,regular,401127201,1,2019-08-31T21:00:00.000Z,False,North Dakota,FCS Independents,47,Drake,Pioneer,7
+2019,regular,401128520,1,2019-08-31T22:00:00.000Z,False,Western Carolina,Southern,27,Mercer,Southern,49
+2019,regular,401130355,1,2019-08-31T22:00:00.000Z,False,Fordham,Patriot,23,Central Connecticut,NEC,26
+2019,regular,401127041,1,2019-08-31T22:00:00.000Z,False,North Carolina A&T,MEAC,24,Elon,CAA,21
+2019,regular,401112434,1,2019-08-31T22:00:00.000Z,False,Liberty,FBS Independents,0,Syracuse,ACC,24
+2019,regular,401127045,1,2019-08-31T22:00:00.000Z,False,William & Mary,CAA,30,Lafayette,Patriot,17
+2019,regular,401127245,1,2019-08-31T22:00:00.000Z,False,South Carolina State,MEAC,28,Wofford,Southern,13
+2019,regular,401128942,1,2019-08-31T22:00:00.000Z,False,Kennesaw State,Big South,59,Point University,,0
+2019,regular,401117495,1,2019-08-31T22:00:00.000Z,False,New Mexico,Mountain West,39,Sam Houston,Southland,31
+2019,regular,401127034,1,2019-08-31T22:00:00.000Z,False,Hampton,Big South,65,Elizabeth City State,CIAA,7
+2019,regular,401121935,1,2019-08-31T22:00:00.000Z,False,Troy,Sun Belt,43,Campbell,Big South,14
+2019,regular,401114245,1,2019-08-31T22:00:00.000Z,False,UTSA,Conference USA,35,Incarnate Word,Southland,7
+2019,regular,401114240,1,2019-08-31T22:30:00.000Z,False,Marshall,Conference USA,56,VMI,Southern,17
+2019,regular,401114174,1,2019-08-31T22:30:00.000Z,False,California,Pac-12,27,UC Davis,Big Sky,13
+2019,regular,401128481,1,2019-08-31T22:30:00.000Z,False,Texas Southern,SWAC,23,Prairie View A&M,SWAC,44
+2019,regular,401119258,1,2019-08-31T23:00:00.000Z,False,Western Michigan,Mid-American,48,Monmouth,Big South,13
+2019,regular,401117858,1,2019-08-31T23:00:00.000Z,False,Arkansas State,Sun Belt,30,SMU,American Athletic,37
+2019,regular,401112073,1,2019-08-31T23:00:00.000Z,False,Baylor,Big 12,56,Stephen F. Austin,Southland,17
+2019,regular,401112106,1,2019-08-31T23:00:00.000Z,False,Kansas State,Big 12,49,Nicholls,Southland,14
+2019,regular,401128388,1,2019-08-31T23:00:00.000Z,False,Tennessee Tech,OVC,59,Samford,Southern,58
+2019,regular,401128382,1,2019-08-31T23:00:00.000Z,False,Tennessee State,OVC,26,Mississippi Valley State,SWAC,20
+2019,regular,401119257,1,2019-08-31T23:00:00.000Z,False,Northern Illinois,Mid-American,24,Illinois State,MVFC,10
+2019,regular,401128486,1,2019-08-31T23:00:00.000Z,False,McNeese,Southland,34,Southern,SWAC,28
+2019,regular,401114243,1,2019-08-31T23:00:00.000Z,False,Southern Miss,Conference USA,38,Alcorn State,SWAC,10
+2019,regular,401114242,1,2019-08-31T23:00:00.000Z,False,Old Dominion,Conference USA,24,Norfolk State,MEAC,21
+2019,regular,401112191,1,2019-08-31T23:30:00.000Z,False,Iowa,Big Ten,38,Miami (OH),Mid-American,14
+2019,regular,401110722,1,2019-08-31T23:30:00.000Z,True,Auburn,SEC,27,Oregon,Pac-12,21
+2019,regular,401110728,1,2019-08-31T23:30:00.000Z,False,Wyoming,Mountain West,37,Missouri,SEC,31
+2019,regular,401110732,1,2019-08-31T23:30:00.000Z,False,Vanderbilt,SEC,6,Georgia,SEC,30
+2019,regular,401110725,1,2019-08-31T23:30:00.000Z,False,LSU,SEC,55,Georgia Southern,Sun Belt,3
+2019,regular,401112222,1,2019-08-31T23:30:00.000Z,False,Michigan,Big Ten,40,Middle Tennessee,Conference USA,21
+2019,regular,401112433,1,2019-08-31T23:30:00.000Z,False,Pittsburgh,ACC,14,Virginia,ACC,30
+2019,regular,401114241,1,2019-08-31T23:30:00.000Z,False,North Texas,Conference USA,51,Abilene Christian,Southland,31
+2019,regular,401114244,1,2019-09-01T00:00:00.000Z,False,UTEP,Conference USA,36,Houston Christian,Southland,34
+2019,regular,401128468,1,2019-09-01T00:00:00.000Z,False,UL Monroe,Sun Belt,31,Grambling,SWAC,9
+2019,regular,401112129,1,2019-09-01T00:00:00.000Z,False,TCU,Big 12,39,Arkansas-Pine Bluff,SWAC,7
+2019,regular,401112135,1,2019-09-01T00:00:00.000Z,False,Texas,Big 12,45,Louisiana Tech,Conference USA,14
+2019,regular,401126970,1,2019-09-01T01:00:00.000Z,False,Sacramento State,Big Sky,77,Southern Oregon,,19
+2019,regular,401117496,1,2019-09-01T01:00:00.000Z,False,San Diego State,Mountain West,6,Weber State,Big Sky,0
+2019,regular,401114228,1,2019-09-01T02:00:00.000Z,False,Washington State,Pac-12,58,New Mexico State,FBS Independents,7
+2019,regular,401117497,1,2019-09-01T02:00:00.000Z,False,UNLV,Mountain West,56,Southern Utah,Big Sky,23
+2019,regular,401114218,1,2019-09-01T02:30:00.000Z,False,USC,Pac-12,31,Fresno State,Mountain West,23
+2019,regular,401127204,1,2019-09-01T19:00:00.000Z,False,Jackson State,SWAC,15,Bethune-Cookman,MEAC,36
+2019,regular,401128433,1,2019-09-01T19:30:00.000Z,False,Alabama A&M,SWAC,35,Morehouse,SIAC,30
+2019,regular,401112114,1,2019-09-01T23:30:00.000Z,False,Oklahoma,Big 12,49,Houston,American Athletic,31
+2019,regular,401112436,1,2019-09-03T00:00:00.000Z,False,Louisville,ACC,17,Notre Dame,FBS Independents,35
+2019,regular,401126929,2,2019-09-06T00:35:00.000Z,False,Idaho State,Big Sky,38,Western Colorado,Rocky Mountain,13
+2019,regular,401112437,2,2019-09-07T00:00:00.000Z,False,Virginia,ACC,52,William & Mary,CAA,17
+2019,regular,401112447,2,2019-09-07T00:00:00.000Z,False,Rice,Conference USA,21,Wake Forest,ACC,41
+2019,regular,401114251,2,2019-09-07T01:00:00.000Z,False,Boise State,Mountain West,14,Marshall,Conference USA,7
+2019,regular,401114154,2,2019-09-07T02:00:00.000Z,False,Arizona State,Pac-12,19,Sacramento State,Big Sky,7
+2019,regular,401112445,2,2019-09-07T15:00:00.000Z,False,Pittsburgh,ACC,20,Ohio,Mid-American,10
+2019,regular,401112202,2,2019-09-07T16:00:00.000Z,False,Maryland,Big Ten,63,Syracuse,ACC,20
+2019,regular,401112223,2,2019-09-07T16:00:00.000Z,False,Michigan,Big Ten,24,Army,FBS Independents,21
+2019,regular,401112252,2,2019-09-07T16:00:00.000Z,False,Ohio State,Big Ten,42,Cincinnati,American Athletic,0
+2019,regular,401110782,2,2019-09-07T16:00:00.000Z,False,South Carolina,SEC,72,Charleston Southern,Big South,10
+2019,regular,401110781,2,2019-09-07T16:00:00.000Z,False,Missouri,SEC,38,West Virginia,Big 12,7
+2019,regular,401119261,2,2019-09-07T16:00:00.000Z,False,Kent State,Mid-American,26,Kennesaw State,Big South,23
+2019,regular,401117862,2,2019-09-07T16:00:00.000Z,False,Memphis,American Athletic,55,Southern,SWAC,24
+2019,regular,401110785,2,2019-09-07T16:00:00.000Z,False,Purdue,Big Ten,42,Vanderbilt,SEC,24
+2019,regular,401114254,2,2019-09-07T16:00:00.000Z,False,Akron,Mid-American,20,UAB,Conference USA,31
+2019,regular,401112446,2,2019-09-07T16:00:00.000Z,False,Virginia Tech,ACC,31,Old Dominion,Conference USA,17
+2019,regular,401112107,2,2019-09-07T16:00:00.000Z,False,Kansas State,Big 12,52,Bowling Green,Mid-American,0
+2019,regular,401112192,2,2019-09-07T16:00:00.000Z,False,Iowa,Big Ten,30,Rutgers,Big Ten,0
+2019,regular,401128590,2,2019-09-07T16:30:00.000Z,False,Georgetown,Patriot,43,Marist,Pioneer,3
+2019,regular,401112444,2,2019-09-07T16:30:00.000Z,False,NC State,ACC,41,Western Carolina,Southern,0
+2019,regular,401114224,2,2019-09-07T17:00:00.000Z,False,Utah,Pac-12,35,Northern Illinois,Mid-American,17
+2019,regular,401132279,2,2019-09-07T17:00:00.000Z,False,Robert Morris,NEC,7,Kentucky State,SIAC,13
+2019,regular,401127014,2,2019-09-07T17:00:00.000Z,False,Monmouth,Big South,24,Lafayette,Patriot,21
+2019,regular,401127050,2,2019-09-07T17:00:00.000Z,False,Holy Cross,Patriot,13,New Hampshire,CAA,10
+2019,regular,401127268,2,2019-09-07T17:00:00.000Z,False,Indiana State,MVFC,35,Dayton,Pioneer,42
+2019,regular,401128527,2,2019-09-07T17:30:00.000Z,False,VMI,Southern,63,Mars Hill,South Atlantic,21
+2019,regular,401127048,2,2019-09-07T18:00:00.000Z,False,Elon,CAA,35,The Citadel,Southern,28
+2019,regular,401119260,2,2019-09-07T18:00:00.000Z,False,Ball State,Mid-American,57,Fordham,Patriot,29
+2019,regular,401165357,2,2019-09-07T18:00:00.000Z,False,Presbyterian,Big South,7,Mercer,Southern,45
+2019,regular,401127304,2,2019-09-07T18:00:00.000Z,False,Youngstown State,MVFC,54,Howard,MEAC,28
+2019,regular,401112441,2,2019-09-07T18:00:00.000Z,False,Georgia Tech,ACC,14,South Florida,American Athletic,10
+2019,regular,401119262,2,2019-09-07T18:30:00.000Z,False,Miami (OH),Mid-American,48,Tennessee Tech,OVC,17
+2019,regular,401127428,2,2019-09-07T19:00:00.000Z,False,Austin Peay,OVC,16,Central Arkansas,Southland,24
+2019,regular,401114250,2,2019-09-07T19:30:00.000Z,False,Louisiana Tech,Conference USA,20,Grambling,SWAC,14
+2019,regular,401112158,2,2019-09-07T19:30:00.000Z,False,Indiana,Big Ten,52,Eastern Illinois,OVC,0
+2019,regular,401110780,2,2019-09-07T19:30:00.000Z,False,Mississippi State,SEC,38,Southern Miss,Conference USA,15
+2019,regular,401112239,2,2019-09-07T19:30:00.000Z,False,Colorado,Pac-12,34,Nebraska,Big Ten,31
+2019,regular,401110784,2,2019-09-07T19:30:00.000Z,False,Clemson,ACC,24,Texas A&M,SEC,10
+2019,regular,401112146,2,2019-09-07T19:30:00.000Z,False,UConn,American Athletic,23,Illinois,Big Ten,31
+2019,regular,401127202,2,2019-09-07T19:30:00.000Z,False,North Dakota State,MVFC,38,North Dakota,FCS Independents,7
+2019,regular,401114354,2,2019-09-07T19:30:00.000Z,False,Massachusetts,FBS Independents,20,Southern Illinois,MVFC,45
+2019,regular,401112438,2,2019-09-07T19:30:00.000Z,False,Boston College,ACC,45,Richmond,CAA,13
+2019,regular,401112268,2,2019-09-07T19:30:00.000Z,False,Wisconsin,Big Ten,61,Central Michigan,Mid-American,0
+2019,regular,401114247,2,2019-09-07T19:30:00.000Z,False,App State,Sun Belt,56,Charlotte,Conference USA,41
+2019,regular,401110773,2,2019-09-07T20:00:00.000Z,False,Alabama,SEC,62,New Mexico State,FBS Independents,10
+2019,regular,401112074,2,2019-09-07T20:00:00.000Z,False,Baylor,Big 12,63,UTSA,Conference USA,14
+2019,regular,401117498,2,2019-09-07T20:00:00.000Z,False,Colorado State,Mountain West,38,Western Illinois,MVFC,13
+2019,regular,401110776,2,2019-09-07T20:00:00.000Z,False,Georgia,SEC,63,Murray State,OVC,17
+2019,regular,401133586,2,2019-09-07T20:00:00.000Z,False,Duquesne,NEC,44,Walsh,Great Midwest Athletic,3
+2019,regular,401135473,2,2019-09-07T20:00:00.000Z,False,South Carolina State,MEAC,34,Lane College,SIAC,0
+2019,regular,401126911,2,2019-09-07T20:05:00.000Z,False,Eastern Washington,Big Sky,59,Lindenwood,Great Lakes Valley,31
+2019,regular,401114214,2,2019-09-07T20:15:00.000Z,False,UCLA,Pac-12,14,San Diego State,Mountain West,23
+2019,regular,401126979,2,2019-09-07T21:00:00.000Z,False,San Diego,Pioneer,35,UC Davis,Big Sky,38
+2019,regular,401112440,2,2019-09-07T21:00:00.000Z,False,Florida State,ACC,45,UL Monroe,Sun Belt,44
+2019,regular,401126973,2,2019-09-07T21:00:00.000Z,False,Northern Iowa,MVFC,34,Southern Utah,Big Sky,14
+2019,regular,401114229,2,2019-09-07T21:00:00.000Z,False,Washington State,Pac-12,59,Northern Colorado,Big Sky,17
+2019,regular,401126966,2,2019-09-07T21:05:00.000Z,False,Portland State,Big Sky,70,Simon Fraser,Great Northwest,7
+2019,regular,401127035,2,2019-09-07T22:00:00.000Z,False,Hampton,Big South,17,Virginia Union,CIAA,36
+2019,regular,401117860,2,2019-09-07T22:00:00.000Z,False,East Carolina,American Athletic,48,Gardner-Webb,Big South,9
+2019,regular,401126986,2,2019-09-07T22:00:00.000Z,False,Campbell,Big South,38,Shaw,CIAA,14
+2019,regular,401112439,2,2019-09-07T22:00:00.000Z,False,Duke,ACC,45,North Carolina A&T,MEAC,13
+2019,regular,401128444,2,2019-09-07T22:00:00.000Z,False,Alabama State,SWAC,38,Tuskegee,SIAC,31
+2019,regular,401127134,2,2019-09-07T22:00:00.000Z,False,Towson,CAA,42,North Carolina Central,MEAC,3
+2019,regular,401127229,2,2019-09-07T22:00:00.000Z,False,Norfolk State,MEAC,44,Virginia State,CIAA,21
+2019,regular,401127051,2,2019-09-07T22:00:00.000Z,False,Villanova,CAA,38,Lehigh,Patriot,10
+2019,regular,401127049,2,2019-09-07T22:00:00.000Z,False,James Madison,CAA,44,Saint Francis,NEC,7
+2019,regular,401136279,2,2019-09-07T22:00:00.000Z,False,Central Connecticut,NEC,40,Merrimack,NEC,37
+2019,regular,401121936,2,2019-09-07T22:00:00.000Z,False,Georgia Southern,Sun Belt,26,Maine,CAA,18
+2019,regular,401133640,2,2019-09-07T22:00:00.000Z,False,Wagner,NEC,14,East Stroudsburg,Pennsylvania State Athletic,24
+2019,regular,401132247,2,2019-09-07T22:00:00.000Z,False,Stetson,Pioneer,58,Louisiana Christian,American Southwest,13
+2019,regular,401128614,2,2019-09-07T22:00:00.000Z,False,Sacred Heart,NEC,30,Bucknell,Patriot,10
+2019,regular,401128565,2,2019-09-07T22:00:00.000Z,False,Davidson,Pioneer,45,Virginia Lynchburg,,7
+2019,regular,401128553,2,2019-09-07T22:00:00.000Z,False,Butler,Pioneer,30,Indiana Wesleyan,,27
+2019,regular,401114249,2,2019-09-07T23:00:00.000Z,False,Florida Atlantic,Conference USA,14,UCF,American Athletic,48
+2019,regular,401128725,2,2019-09-07T23:00:00.000Z,False,Northwestern State,Southland,7,Midwestern State,Lone Star,33
+2019,regular,401112442,2,2019-09-07T23:00:00.000Z,False,Louisville,ACC,42,Eastern Kentucky,OVC,0
+2019,regular,401114253,2,2019-09-07T23:00:00.000Z,False,SMU,American Athletic,49,North Texas,Conference USA,27
+2019,regular,401128659,2,2019-09-07T23:00:00.000Z,False,Abilene Christian,Southland,66,Phoenix,,14
+2019,regular,401127293,2,2019-09-07T23:00:00.000Z,False,South Dakota State,MVFC,38,Long Island University,NEC,3
+2019,regular,401131357,2,2019-09-07T23:00:00.000Z,False,Drake,Pioneer,7,Truman State,Great Lakes,10
+2019,regular,401110783,2,2019-09-07T23:00:00.000Z,False,Tennessee,SEC,26,BYU,FBS Independents,29
+2019,regular,401128702,2,2019-09-07T23:00:00.000Z,False,Incarnate Word,Southland,63,Texas Southern,SWAC,44
+2019,regular,401117500,2,2019-09-07T23:00:00.000Z,False,Texas State,Sun Belt,14,Wyoming,Mountain West,23
+2019,regular,401128733,2,2019-09-07T23:00:00.000Z,False,Stephen F. Austin,Southland,26,Tarleton State,Lone Star,37
+2019,regular,401128434,2,2019-09-07T23:00:00.000Z,False,Alabama A&M,SWAC,34,Arkansas-Pine Bluff,SWAC,52
+2019,regular,401128452,2,2019-09-07T23:00:00.000Z,False,Alcorn State,SWAC,45,Mississippi College,Gulf South,7
+2019,regular,401127047,2,2019-09-07T23:00:00.000Z,False,UAlbany,CAA,45,Bryant,NEC,3
+2019,regular,401128729,2,2019-09-07T23:00:00.000Z,False,Sam Houston,Southland,77,Oklahoma Panhandle,Independent DII,0
+2019,regular,401128478,2,2019-09-07T23:00:00.000Z,False,Lamar,Southland,23,Mississippi Valley State,SWAC,20
+2019,regular,401128693,2,2019-09-07T23:00:00.000Z,False,Houston Christian,Southland,58,Texas Wesleyan,,13
+2019,regular,401127046,2,2019-09-07T23:00:00.000Z,False,Rhode Island,CAA,36,Delaware,CAA,44
+2019,regular,401128363,2,2019-09-07T23:00:00.000Z,False,Jacksonville State,OVC,41,Chattanooga,Southern,20
+2019,regular,401114248,2,2019-09-07T23:00:00.000Z,False,Florida International,Conference USA,14,Western Kentucky,Conference USA,20
+2019,regular,401114252,2,2019-09-07T23:00:00.000Z,False,Middle Tennessee,Conference USA,45,Tennessee State,OVC,26
+2019,regular,401121937,2,2019-09-07T23:00:00.000Z,False,Georgia State,Sun Belt,48,Furman,Southern,42
+2019,regular,401112123,2,2019-09-07T23:00:00.000Z,False,Oklahoma State,Big 12,56,McNeese,Southland,14
+2019,regular,401112097,2,2019-09-07T23:00:00.000Z,False,Kansas,Big 12,7,Coastal Carolina,Sun Belt,12
+2019,regular,401112115,2,2019-09-07T23:00:00.000Z,False,Oklahoma,Big 12,70,South Dakota,MVFC,14
+2019,regular,401121938,2,2019-09-07T23:00:00.000Z,False,South Alabama,Sun Belt,37,Jackson State,SWAC,14
+2019,regular,401112213,2,2019-09-07T23:30:00.000Z,False,Michigan State,Big Ten,51,Western Michigan,Mid-American,17
+2019,regular,401114347,2,2019-09-07T23:30:00.000Z,False,Louisiana,Sun Belt,35,Liberty,FBS Independents,14
+2019,regular,401110777,2,2019-09-07T23:30:00.000Z,False,Kentucky,SEC,38,Eastern Michigan,Mid-American,17
+2019,regular,401110778,2,2019-09-07T23:30:00.000Z,False,Texas,Big 12,38,LSU,SEC,45
+2019,regular,401110779,2,2019-09-07T23:30:00.000Z,False,Ole Miss,SEC,31,Arkansas,SEC,17
+2019,regular,401117499,2,2019-09-07T23:30:00.000Z,False,Utah State,Mountain West,62,Stony Brook,CAA,7
+2019,regular,401128506,2,2019-09-07T23:30:00.000Z,False,East Tennessee State,Southern,48,Shorter,Gulf South,10
+2019,regular,401110774,2,2019-09-07T23:30:00.000Z,False,Auburn,SEC,24,Tulane,American Athletic,6
+2019,regular,401127259,2,2019-09-07T23:30:00.000Z,False,Illinois State,MVFC,42,Morehead State,Pioneer,14
+2019,regular,401114193,2,2019-09-07T23:30:00.000Z,False,Oregon,Pac-12,77,Nevada,Mountain West,6
+2019,regular,401110775,2,2019-09-07T23:30:00.000Z,False,Florida,SEC,45,UT Martin,OVC,0
+2019,regular,401112258,2,2019-09-07T23:30:00.000Z,False,Penn State,Big Ten,45,Buffalo,Mid-American,13
+2019,regular,401112443,2,2019-09-08T00:00:00.000Z,False,North Carolina,ACC,28,Miami,ACC,25
+2019,regular,401126945,2,2019-09-08T00:00:00.000Z,False,Montana State,Big Sky,38,Southeast Missouri State,OVC,17
+2019,regular,401126902,2,2019-09-08T00:00:00.000Z,False,Weber State,Big Sky,41,Cal Poly,Big Sky,24
+2019,regular,401117861,2,2019-09-08T00:00:00.000Z,False,Houston,American Athletic,37,Prairie View A&M,SWAC,17
+2019,regular,401112140,2,2019-09-08T00:00:00.000Z,False,Texas Tech,Big 12,38,UTEP,Conference USA,3
+2019,regular,401126938,2,2019-09-08T01:00:00.000Z,False,Montana,Big Sky,61,North Alabama,Big South,17
+2019,regular,401126921,2,2019-09-08T01:00:00.000Z,False,Idaho,Big Sky,41,Central Washington,Great Northwest,31
+2019,regular,401117501,2,2019-09-08T01:00:00.000Z,False,San José State,Mountain West,16,Tulsa,American Athletic,34
+2019,regular,401117502,2,2019-09-08T02:00:00.000Z,False,UNLV,Mountain West,17,Arkansas State,Sun Belt,43
+2019,regular,401114175,2,2019-09-08T02:30:00.000Z,False,Washington,Pac-12,19,California,Pac-12,20
+2019,regular,401114207,2,2019-09-08T02:30:00.000Z,False,USC,Pac-12,45,Stanford,Pac-12,20
+2019,regular,401112230,2,2019-09-08T02:30:00.000Z,False,Fresno State,Mountain West,35,Minnesota,Big Ten,38
+2019,regular,401114165,2,2019-09-08T02:45:00.000Z,False,Arizona,Pac-12,65,Northern Arizona,Big Sky,41
+2019,regular,401114200,2,2019-09-08T03:59:00.000Z,False,Hawai'i,Mountain West,31,Oregon State,Pac-12,28
+2019,regular,401112448,3,2019-09-13T22:00:00.000Z,False,Wake Forest,ACC,24,North Carolina,ACC,18
+2019,regular,401112098,3,2019-09-13T23:30:00.000Z,False,Boston College,ACC,24,Kansas,Big 12,48
+2019,regular,401114230,3,2019-09-14T01:15:00.000Z,True,Houston,American Athletic,24,Washington State,Pac-12,31
+2019,regular,401112144,3,2019-09-14T16:00:00.000Z,False,West Virginia,Big 12,44,NC State,ACC,27
+2019,regular,401110795,3,2019-09-14T16:00:00.000Z,False,Tennessee,SEC,45,Chattanooga,Southern,0
+2019,regular,401136280,3,2019-09-14T16:00:00.000Z,False,Saint Francis,NEC,42,Merrimack,NEC,14
+2019,regular,401117863,3,2019-09-14T16:00:00.000Z,False,Cincinnati,American Athletic,35,Miami (OH),Mid-American,13
+2019,regular,401110792,3,2019-09-14T16:00:00.000Z,False,Mississippi State,SEC,24,Kansas State,Big 12,31
+2019,regular,401128630,3,2019-09-14T16:00:00.000Z,False,Georgetown,Patriot,69,Catholic,NEWMAC,0
+2019,regular,401112455,3,2019-09-14T16:00:00.000Z,False,Virginia Tech,ACC,24,Furman,Southern,17
+2019,regular,401112159,3,2019-09-14T16:00:00.000Z,False,Indiana,Big Ten,10,Ohio State,Big Ten,51
+2019,regular,401110788,3,2019-09-14T16:00:00.000Z,False,Georgia,SEC,55,Arkansas State,Sun Belt,0
+2019,regular,401128591,3,2019-09-14T16:00:00.000Z,False,Marist,Pioneer,26,Stetson,Pioneer,23
+2019,regular,401112147,3,2019-09-14T16:00:00.000Z,False,Illinois,Big Ten,31,Eastern Michigan,Mid-American,34
+2019,regular,401112203,3,2019-09-14T16:00:00.000Z,False,Temple,American Athletic,20,Maryland,Big Ten,17
+2019,regular,401112259,3,2019-09-14T16:00:00.000Z,False,Penn State,Big Ten,17,Pittsburgh,ACC,10
+2019,regular,401112452,3,2019-09-14T16:30:00.000Z,False,Georgia Tech,ACC,24,The Citadel,Southern,27
+2019,regular,401128643,3,2019-09-14T16:30:00.000Z,False,Lafayette,Patriot,40,Sacred Heart,NEC,56
+2019,regular,401127015,3,2019-09-14T17:00:00.000Z,False,Monmouth,Big South,38,UAlbany,CAA,35
+2019,regular,401114185,3,2019-09-14T17:00:00.000Z,False,Colorado,Pac-12,23,Air Force,Mountain West,30
+2019,regular,401127055,3,2019-09-14T17:00:00.000Z,False,Delaware,CAA,22,North Dakota State,MVFC,47
+2019,regular,401127417,3,2019-09-14T17:00:00.000Z,False,Bryant,NEC,14,Fordham,Patriot,29
+2019,regular,401127269,3,2019-09-14T17:00:00.000Z,False,Indiana State,MVFC,19,Eastern Kentucky,OVC,7
+2019,regular,401128610,3,2019-09-14T18:00:00.000Z,False,Valparaiso,Pioneer,13,Central Connecticut,NEC,42
+2019,regular,401127294,3,2019-09-14T18:00:00.000Z,False,South Dakota State,MVFC,38,Drake,Pioneer,10
+2019,regular,401121939,3,2019-09-14T18:00:00.000Z,False,Coastal Carolina,Sun Belt,46,Norfolk State,MEAC,7
+2019,regular,401127305,3,2019-09-14T18:00:00.000Z,False,Youngstown State,MVFC,34,Duquesne,NEC,14
+2019,regular,401114257,3,2019-09-14T18:00:00.000Z,False,Ball State,Mid-American,31,Florida Atlantic,Conference USA,41
+2019,regular,401114336,3,2019-09-14T18:30:00.000Z,False,Notre Dame,FBS Independents,66,New Mexico,Mountain West,14
+2019,regular,401119263,3,2019-09-14T19:00:00.000Z,False,Central Michigan,Mid-American,45,Akron,Mid-American,24
+2019,regular,401127260,3,2019-09-14T19:00:00.000Z,False,Eastern Illinois,OVC,3,Illinois State,MVFC,21
+2019,regular,401128574,3,2019-09-14T19:00:00.000Z,False,Robert Morris,NEC,31,Dayton,Pioneer,34
+2019,regular,401127288,3,2019-09-14T19:00:00.000Z,False,South Dakota,MVFC,52,Houston Christian,Southland,53
+2019,regular,401112246,3,2019-09-14T19:30:00.000Z,False,Northwestern,Big Ten,30,UNLV,Mountain West,14
+2019,regular,401114219,3,2019-09-14T19:30:00.000Z,False,BYU,FBS Independents,30,USC,Pac-12,27
+2019,regular,401110794,3,2019-09-14T19:30:00.000Z,False,South Carolina,SEC,23,Alabama,SEC,47
+2019,regular,401117865,3,2019-09-14T19:30:00.000Z,False,South Alabama,Sun Belt,6,Memphis,American Athletic,42
+2019,regular,401114261,3,2019-09-14T19:30:00.000Z,False,UTSA,Conference USA,13,Army,FBS Independents,31
+2019,regular,401112231,3,2019-09-14T19:30:00.000Z,False,Minnesota,Big Ten,35,Georgia Southern,Sun Belt,32
+2019,regular,401117864,3,2019-09-14T19:30:00.000Z,False,Navy,American Athletic,42,East Carolina,American Athletic,10
+2019,regular,401128531,3,2019-09-14T19:30:00.000Z,False,Western Carolina,Southern,20,North Greenville,Gulf South,17
+2019,regular,401114208,3,2019-09-14T19:30:00.000Z,False,UCF,American Athletic,45,Stanford,Pac-12,27
+2019,regular,401112124,3,2019-09-14T19:30:00.000Z,False,Tulsa,American Athletic,21,Oklahoma State,Big 12,40
+2019,regular,401127056,3,2019-09-14T20:00:00.000Z,False,James Madison,CAA,63,Morgan State,MEAC,12
+2019,regular,401127413,3,2019-09-14T20:00:00.000Z,False,Delaware State,MEAC,58,Lincoln (PA),CIAA,12
+2019,regular,401112454,3,2019-09-14T20:00:00.000Z,False,Miami,ACC,63,Bethune-Cookman,MEAC,0
+2019,regular,401126912,3,2019-09-14T20:00:00.000Z,False,Jacksonville State,OVC,49,Eastern Washington,Big Sky,45
+2019,regular,401110786,3,2019-09-14T20:00:00.000Z,False,Arkansas,SEC,55,Colorado State,Mountain West,34
+2019,regular,401128598,3,2019-09-14T20:00:00.000Z,False,Morehead State,Pioneer,73,Kentucky Christian,,34
+2019,regular,401126946,3,2019-09-14T20:00:00.000Z,False,Western Illinois,MVFC,14,Montana State,Big Sky,23
+2019,regular,401112214,3,2019-09-14T20:00:00.000Z,False,Michigan State,Big Ten,7,Arizona State,Pac-12,10
+2019,regular,401112086,3,2019-09-14T20:00:00.000Z,False,Iowa State,Big 12,17,Iowa,Big Ten,18
+2019,regular,401112453,3,2019-09-14T20:00:00.000Z,True,Western Kentucky,Conference USA,21,Louisville,ACC,38
+2019,regular,401110791,3,2019-09-14T20:00:00.000Z,False,Ole Miss,SEC,40,SE Louisiana,Southland,29
+2019,regular,401114225,3,2019-09-14T20:15:00.000Z,False,Utah,Pac-12,31,Idaho State,Big Sky,0
+2019,regular,401114201,3,2019-09-14T20:15:00.000Z,False,Oregon State,Pac-12,45,Cal Poly,Big Sky,7
+2019,regular,401114176,3,2019-09-14T20:15:00.000Z,False,California,Pac-12,23,North Texas,Conference USA,17
+2019,regular,401127036,3,2019-09-14T20:30:00.000Z,False,Howard,MEAC,20,Hampton,Big South,41
+2019,regular,401127203,3,2019-09-14T21:00:00.000Z,False,North Dakota,FCS Independents,27,Sam Houston,Southland,23
+2019,regular,401114258,3,2019-09-14T21:00:00.000Z,False,Bowling Green,Mid-American,7,Louisiana Tech,Conference USA,35
+2019,regular,401117504,3,2019-09-14T21:00:00.000Z,False,Wyoming,Mountain West,21,Idaho,Big Sky,16
+2019,regular,401117866,3,2019-09-14T22:00:00.000Z,False,South Florida,American Athletic,55,South Carolina State,MEAC,16
+2019,regular,401128554,3,2019-09-14T22:00:00.000Z,False,Butler,Pioneer,14,Taylor,,17
+2019,regular,401114255,3,2019-09-14T22:00:00.000Z,False,Charlotte,Conference USA,52,Massachusetts,FBS Independents,17
+2019,regular,401127058,3,2019-09-14T22:00:00.000Z,False,Bucknell,Patriot,10,Villanova,CAA,45
+2019,regular,401128445,3,2019-09-14T22:00:00.000Z,False,Alabama State,SWAC,7,Kennesaw State,Big South,42
+2019,regular,401127057,3,2019-09-14T22:00:00.000Z,False,Stony Brook,CAA,26,Wagner,NEC,10
+2019,regular,401126997,3,2019-09-14T22:00:00.000Z,False,Charleston Southern,Big South,21,North Carolina A&T,MEAC,27
+2019,regular,401114260,3,2019-09-14T22:00:00.000Z,False,Troy,Sun Belt,42,Southern Miss,Conference USA,47
+2019,regular,401114348,3,2019-09-14T22:00:00.000Z,False,Liberty,FBS Independents,35,Buffalo,Mid-American,17
+2019,regular,401127006,3,2019-09-14T22:00:00.000Z,False,Gardner-Webb,Big South,21,North Carolina Central,MEAC,12
+2019,regular,401127059,3,2019-09-14T22:00:00.000Z,False,William & Mary,CAA,38,Colgate,Patriot,10
+2019,regular,401128524,3,2019-09-14T22:00:00.000Z,False,Wofford,Southern,14,Samford,Southern,21
+2019,regular,401127053,3,2019-09-14T22:00:00.000Z,False,Richmond,CAA,20,Elon,CAA,42
+2019,regular,401127215,3,2019-09-14T22:00:00.000Z,False,Florida A&M,MEAC,57,Fort Valley State,SIAC,20
+2019,regular,401114259,3,2019-09-14T22:30:00.000Z,False,Marshall,Conference USA,33,Ohio,Mid-American,31
+2019,regular,401119265,3,2019-09-14T23:00:00.000Z,False,Toledo,Mid-American,45,Murray State,OVC,0
+2019,regular,401128453,3,2019-09-14T23:00:00.000Z,False,McNeese,Southland,17,Alcorn State,SWAC,14
+2019,regular,401128389,3,2019-09-14T23:00:00.000Z,False,Tennessee Tech,OVC,31,UVA Wise,South Atlantic,14
+2019,regular,401127030,3,2019-09-14T23:00:00.000Z,False,North Alabama,Big South,24,Alabama A&M,SWAC,31
+2019,regular,401128460,3,2019-09-14T23:00:00.000Z,False,Arkansas-Pine Bluff,SWAC,53,Langston,,15
+2019,regular,401110787,3,2019-09-14T23:00:00.000Z,False,Auburn,SEC,55,Kent State,Mid-American,16
+2019,regular,401127429,3,2019-09-14T23:00:00.000Z,False,Mercer,Southern,34,Austin Peay,OVC,48
+2019,regular,401112450,3,2019-09-14T23:00:00.000Z,False,Middle Tennessee,Conference USA,18,Duke,ACC,41
+2019,regular,401128482,3,2019-09-14T23:00:00.000Z,False,Prairie View A&M,SWAC,35,Nicholls,Southland,42
+2019,regular,401117867,3,2019-09-14T23:00:00.000Z,False,SMU,American Athletic,47,Texas State,Sun Belt,17
+2019,regular,401110789,3,2019-09-14T23:00:00.000Z,False,Kentucky,SEC,21,Florida,SEC,29
+2019,regular,401128660,3,2019-09-14T23:00:00.000Z,False,Central Arkansas,Southland,31,Abilene Christian,Southland,30
+2019,regular,401110796,3,2019-09-14T23:00:00.000Z,False,Texas A&M,SEC,62,Lamar,Southland,3
+2019,regular,401119264,3,2019-09-14T23:00:00.000Z,False,Western Michigan,Mid-American,57,Georgia State,Sun Belt,10
+2019,regular,401128383,3,2019-09-14T23:00:00.000Z,False,Jackson State,SWAC,49,Tennessee State,OVC,44
+2019,regular,401128487,3,2019-09-14T23:00:00.000Z,False,Southern,SWAC,61,Edward Waters,SIAC,0
+2019,regular,401127022,3,2019-09-14T23:00:00.000Z,False,Presbyterian,Big South,20,Jacksonville,Pioneer,30
+2019,regular,401127298,3,2019-09-14T23:00:00.000Z,False,Southern Illinois,MVFC,28,UT Martin,OVC,14
+2019,regular,401126955,3,2019-09-14T23:00:00.000Z,False,Northern Arizona,Big Sky,55,Western New Mexico,Lone Star,21
+2019,regular,401117505,3,2019-09-14T23:00:00.000Z,False,Nevada,Mountain West,19,Weber State,Big Sky,13
+2019,regular,401114256,3,2019-09-14T23:00:00.000Z,False,Florida International,Conference USA,30,New Hampshire,CAA,17
+2019,regular,401127054,3,2019-09-14T23:00:00.000Z,False,Maine,CAA,23,Towson,CAA,45
+2019,regular,401128566,3,2019-09-14T23:00:00.000Z,False,Davidson,Pioneer,41,West Virginia Wesleyan,Mountain East,0
+2019,regular,401112451,3,2019-09-14T23:30:00.000Z,False,Virginia,ACC,31,Florida State,ACC,24
+2019,regular,401112130,3,2019-09-14T23:30:00.000Z,False,Purdue,Big Ten,13,TCU,Big 12,34
+2019,regular,401110790,3,2019-09-14T23:30:00.000Z,False,LSU,SEC,65,Northwestern State,Southland,14
+2019,regular,401114234,3,2019-09-14T23:30:00.000Z,False,Washington,Pac-12,52,Hawai'i,Mountain West,20
+2019,regular,401112449,3,2019-09-14T23:30:00.000Z,False,Syracuse,ACC,6,Clemson,ACC,41
+2019,regular,401121940,3,2019-09-14T23:30:00.000Z,False,Louisiana,Sun Belt,77,Texas Southern,SWAC,6
+2019,regular,401110793,3,2019-09-14T23:30:00.000Z,False,Missouri,SEC,50,Southeast Missouri State,OVC,0
+2019,regular,401112116,3,2019-09-15T00:00:00.000Z,False,UCLA,Pac-12,14,Oklahoma,Big 12,48
+2019,regular,401112240,3,2019-09-15T00:00:00.000Z,False,Nebraska,Big Ten,44,Northern Illinois,Mid-American,8
+2019,regular,401117868,3,2019-09-15T00:00:00.000Z,False,Tulane,American Athletic,58,Missouri State,MVFC,6
+2019,regular,401112136,3,2019-09-15T00:00:00.000Z,True,Rice,Conference USA,13,Texas,Big 12,48
+2019,regular,401114339,3,2019-09-15T00:00:00.000Z,False,New Mexico State,FBS Independents,10,San Diego State,Mountain West,31
+2019,regular,401126974,3,2019-09-15T00:05:00.000Z,False,Southern Utah,Big Sky,45,Stephen F. Austin,Southland,38
+2019,regular,401128507,3,2019-09-15T00:50:00.000Z,False,East Tennessee State,Southern,24,VMI,Southern,31
+2019,regular,401126962,3,2019-09-15T01:00:00.000Z,False,Sacramento State,Big Sky,50,Northern Colorado,Big Sky,0
+2019,regular,401126980,3,2019-09-15T02:00:00.000Z,False,UC Davis,Big Sky,41,Lehigh,Patriot,13
+2019,regular,401117503,3,2019-09-15T02:15:00.000Z,False,Boise State,Mountain West,45,Portland State,Big Sky,10
+2019,regular,401112141,3,2019-09-15T02:30:00.000Z,False,Arizona,Pac-12,28,Texas Tech,Big 12,14
+2019,regular,401114194,3,2019-09-15T02:45:00.000Z,False,Oregon,Pac-12,35,Montana,Big Sky,3
+2019,regular,401117869,4,2019-09-20T00:00:00.000Z,False,Tulane,American Athletic,38,Houston,American Athletic,31
+2019,regular,401114262,4,2019-09-21T00:00:00.000Z,False,Louisiana Tech,Conference USA,43,Florida International,Conference USA,31
+2019,regular,401117506,4,2019-09-21T01:00:00.000Z,False,Boise State,Mountain West,30,Air Force,Mountain West,19
+2019,regular,401114220,4,2019-09-21T01:00:00.000Z,False,USC,Pac-12,30,Utah,Pac-12,23
+2019,regular,401110799,4,2019-09-21T16:00:00.000Z,False,Florida,SEC,34,Tennessee,SEC,3
+2019,regular,401112462,4,2019-09-21T16:00:00.000Z,False,Syracuse,ACC,52,Western Michigan,Mid-American,33
+2019,regular,401112224,4,2019-09-21T16:00:00.000Z,False,Wisconsin,Big Ten,35,Michigan,Big Ten,14
+2019,regular,401112265,4,2019-09-21T16:00:00.000Z,False,Rutgers,Big Ten,16,Boston College,ACC,30
+2019,regular,401127065,4,2019-09-21T16:00:00.000Z,False,Colgate,Patriot,21,Maine,CAA,35
+2019,regular,401110797,4,2019-09-21T16:00:00.000Z,False,Alabama,SEC,49,Southern Miss,Conference USA,7
+2019,regular,401114327,4,2019-09-21T16:00:00.000Z,False,Army,FBS Independents,52,Morgan State,MEAC,21
+2019,regular,401112464,4,2019-09-21T16:00:00.000Z,False,Wake Forest,ACC,49,Elon,CAA,7
+2019,regular,401112087,4,2019-09-21T16:00:00.000Z,False,Iowa State,Big 12,72,UL Monroe,Sun Belt,20
+2019,regular,401110801,4,2019-09-21T16:00:00.000Z,False,Ole Miss,SEC,20,California,Pac-12,28
+2019,regular,401128592,4,2019-09-21T16:00:00.000Z,False,Marist,Pioneer,7,Cornell,Ivy,21
+2019,regular,401110805,4,2019-09-21T16:00:00.000Z,False,Vanderbilt,SEC,38,LSU,SEC,66
+2019,regular,401112160,4,2019-09-21T16:00:00.000Z,False,Indiana,Big Ten,38,UConn,American Athletic,3
+2019,regular,401112215,4,2019-09-21T16:00:00.000Z,False,Northwestern,Big Ten,10,Michigan State,Big Ten,31
+2019,regular,401136281,4,2019-09-21T17:00:00.000Z,False,Merrimack,NEC,76,Mayville State,,7
+2019,regular,401128575,4,2019-09-21T17:00:00.000Z,False,Dayton,Pioneer,31,Duquesne,NEC,35
+2019,regular,401128514,4,2019-09-21T17:00:00.000Z,False,Furman,Southern,45,Mercer,Southern,10
+2019,regular,401127023,4,2019-09-21T17:00:00.000Z,False,Presbyterian,Big South,10,Eastern Kentucky,OVC,35
+2019,regular,401128583,4,2019-09-21T17:00:00.000Z,False,Jacksonville,Pioneer,6,Dartmouth,Ivy,35
+2019,regular,401128637,4,2019-09-21T17:00:00.000Z,False,Yale,Ivy,23,Holy Cross,Patriot,10
+2019,regular,401127063,4,2019-09-21T17:00:00.000Z,False,Delaware,CAA,28,Pennsylvania,Ivy,27
+2019,regular,401128946,4,2019-09-21T17:00:00.000Z,False,Saint Francis,NEC,14,Columbia,Ivy,31
+2019,regular,401114355,4,2019-09-21T17:00:00.000Z,False,Massachusetts,FBS Independents,28,Coastal Carolina,Sun Belt,62
+2019,regular,401127270,4,2019-09-21T17:00:00.000Z,False,Indiana State,MVFC,16,Eastern Illinois,OVC,6
+2019,regular,401136614,4,2019-09-21T17:00:00.000Z,False,Long Island University,NEC,10,Sacred Heart,NEC,34
+2019,regular,401128528,4,2019-09-21T17:30:00.000Z,False,VMI,Southern,21,Robert Morris,NEC,31
+2019,regular,401128377,4,2019-09-21T18:00:00.000Z,False,Southeast Missouri State,OVC,56,West Virginia State,Mountain East,10
+2019,regular,401127418,4,2019-09-21T18:00:00.000Z,False,Bryant,NEC,30,Brown,Ivy,35
+2019,regular,401127414,4,2019-09-21T18:00:00.000Z,False,Delaware State,MEAC,9,Howard,MEAC,24
+2019,regular,401119268,4,2019-09-21T18:00:00.000Z,False,Ohio,Mid-American,25,Louisiana,Sun Belt,45
+2019,regular,401119269,4,2019-09-21T19:00:00.000Z,False,Akron,Mid-American,7,Troy,Sun Belt,35
+2019,regular,401119267,4,2019-09-21T19:00:00.000Z,False,Eastern Michigan,Mid-American,34,Central Connecticut,NEC,29
+2019,regular,401126913,4,2019-09-21T19:00:00.000Z,False,Idaho,Big Sky,35,Eastern Washington,Big Sky,27
+2019,regular,401126947,4,2019-09-21T19:00:00.000Z,False,Montana State,Big Sky,56,Norfolk State,MEAC,21
+2019,regular,401126939,4,2019-09-21T19:00:00.000Z,False,Montana,Big Sky,47,Monmouth,Big South,27
+2019,regular,401127250,4,2019-09-21T19:00:00.000Z,False,Missouri State,MVFC,24,Kennesaw State,Big South,35
+2019,regular,401128384,4,2019-09-21T19:00:00.000Z,False,Tennessee State,OVC,31,Arkansas-Pine Bluff,SWAC,37
+2019,regular,401126981,4,2019-09-21T19:30:00.000Z,False,North Dakota State,MVFC,27,UC Davis,Big Sky,16
+2019,regular,401112131,4,2019-09-21T19:30:00.000Z,False,TCU,Big 12,38,SMU,American Athletic,41
+2019,regular,401119266,4,2019-09-21T19:30:00.000Z,False,Kent State,Mid-American,62,Bowling Green,Mid-American,20
+2019,regular,401112457,4,2019-09-21T19:30:00.000Z,False,Florida State,ACC,35,Louisville,ACC,24
+2019,regular,401117870,4,2019-09-21T19:30:00.000Z,False,Buffalo,Mid-American,38,Temple,American Athletic,22
+2019,regular,401127062,4,2019-09-21T19:30:00.000Z,False,UAlbany,CAA,36,Lafayette,Patriot,7
+2019,regular,401112459,4,2019-09-21T19:30:00.000Z,False,North Carolina,ACC,31,App State,Sun Belt,34
+2019,regular,401112253,4,2019-09-21T19:30:00.000Z,False,Ohio State,Big Ten,76,Miami (OH),Mid-American,5
+2019,regular,401117509,4,2019-09-21T19:30:00.000Z,False,Tulsa,American Athletic,24,Wyoming,Mountain West,21
+2019,regular,401114235,4,2019-09-21T19:30:00.000Z,False,BYU,FBS Independents,19,Washington,Pac-12,45
+2019,regular,401110804,4,2019-09-21T19:30:00.000Z,False,Texas A&M,SEC,20,Auburn,SEC,28
+2019,regular,401112461,4,2019-09-21T19:30:00.000Z,False,Pittsburgh,ACC,35,UCF,American Athletic,34
+2019,regular,401114265,4,2019-09-21T19:30:00.000Z,False,UAB,Conference USA,35,South Alabama,Sun Belt,3
+2019,regular,401128611,4,2019-09-21T20:00:00.000Z,False,Truman State,Great Lakes,38,Valparaiso,Pioneer,7
+2019,regular,401110802,4,2019-09-21T20:00:00.000Z,False,Mississippi State,SEC,28,Kentucky,SEC,13
+2019,regular,401126963,4,2019-09-21T20:00:00.000Z,False,Northern Colorado,Big Sky,6,South Dakota,MVFC,14
+2019,regular,401128603,4,2019-09-21T20:00:00.000Z,False,San Diego,Pioneer,31,Harvard,Ivy,23
+2019,regular,401112458,4,2019-09-21T20:00:00.000Z,False,Miami,ACC,17,Central Michigan,Mid-American,12
+2019,regular,401127064,4,2019-09-21T20:00:00.000Z,False,Chattanooga,Southern,14,James Madison,CAA,37
+2019,regular,401110803,4,2019-09-21T20:00:00.000Z,False,Missouri,SEC,34,South Carolina,SEC,14
+2019,regular,401127301,4,2019-09-21T20:00:00.000Z,False,Western Illinois,MVFC,24,Tennessee Tech,OVC,38
+2019,regular,401127241,4,2019-09-21T20:00:00.000Z,False,North Carolina Central,MEAC,45,Elizabeth City State,CIAA,7
+2019,regular,401114340,4,2019-09-21T20:30:00.000Z,False,New Mexico,Mountain West,55,New Mexico State,FBS Independents,52
+2019,regular,401112099,4,2019-09-21T20:30:00.000Z,False,Kansas,Big 12,24,West Virginia,Big 12,29
+2019,regular,401128555,4,2019-09-21T21:00:00.000Z,False,Princeton,Ivy,49,Butler,Pioneer,7
+2019,regular,401126930,4,2019-09-21T21:00:00.000Z,False,Northern Iowa,MVFC,13,Idaho State,Big Sky,6
+2019,regular,401126967,4,2019-09-21T21:05:00.000Z,False,Portland State,Big Sky,59,Eastern Oregon,,9
+2019,regular,401128454,4,2019-09-21T22:00:00.000Z,False,Alcorn State,SWAC,45,Prairie View A&M,SWAC,41
+2019,regular,401127007,4,2019-09-21T22:00:00.000Z,False,Wofford,Southern,49,Gardner-Webb,Big South,10
+2019,regular,401127060,4,2019-09-21T22:00:00.000Z,False,New Hampshire,CAA,27,Rhode Island,CAA,24
+2019,regular,401127061,4,2019-09-21T22:00:00.000Z,False,Towson,CAA,45,Villanova,CAA,52
+2019,regular,401114349,4,2019-09-21T22:00:00.000Z,False,Liberty,FBS Independents,62,Hampton,Big South,27
+2019,regular,401126987,4,2019-09-21T22:00:00.000Z,False,Campbell,Big South,31,Davidson,Pioneer,29
+2019,regular,401126998,4,2019-09-21T22:00:00.000Z,False,The Citadel,Southern,22,Charleston Southern,Big South,13
+2019,regular,401128607,4,2019-09-21T22:00:00.000Z,False,Stetson,Pioneer,59,Western New England,Commonwealth Coast,28
+2019,regular,401116697,4,2019-09-21T22:00:00.000Z,False,East Carolina,American Athletic,19,William & Mary,CAA,7
+2019,regular,401128446,4,2019-09-21T22:00:00.000Z,False,Alabama State,SWAC,23,Grambling,SWAC,20
+2019,regular,401127066,4,2019-09-21T22:00:00.000Z,False,Stony Brook,CAA,45,Fordham,Patriot,10
+2019,regular,401114263,4,2019-09-21T22:00:00.000Z,False,Florida Atlantic,Conference USA,42,Wagner,NEC,7
+2019,regular,401127216,4,2019-09-21T22:00:00.000Z,False,Florida A&M,MEAC,27,Southern,SWAC,21
+2019,regular,401112460,4,2019-09-21T23:00:00.000Z,False,NC State,ACC,34,Ball State,Mid-American,23
+2019,regular,401112075,4,2019-09-21T23:00:00.000Z,False,Rice,Conference USA,13,Baylor,Big 12,21
+2019,regular,401121941,4,2019-09-21T23:00:00.000Z,False,Arkansas State,Sun Belt,41,Southern Illinois,MVFC,28
+2019,regular,401128694,4,2019-09-21T23:00:00.000Z,False,Houston Christian,Southland,48,Northwestern State,Southland,21
+2019,regular,401128703,4,2019-09-21T23:00:00.000Z,False,Sam Houston,Southland,45,Incarnate Word,Southland,6
+2019,regular,401112463,4,2019-09-21T23:00:00.000Z,False,Virginia,ACC,28,Old Dominion,Conference USA,17
+2019,regular,401127031,4,2019-09-21T23:00:00.000Z,False,Jacksonville State,OVC,30,North Alabama,Big South,12
+2019,regular,401128661,4,2019-09-21T23:00:00.000Z,False,Abilene Christian,Southland,17,McNeese,Southland,10
+2019,regular,401126975,4,2019-09-21T23:00:00.000Z,False,South Dakota State,MVFC,43,Southern Utah,Big Sky,7
+2019,regular,401127206,4,2019-09-21T23:00:00.000Z,False,Mississippi Valley State,SWAC,6,Bethune-Cookman,MEAC,22
+2019,regular,401128371,4,2019-09-21T23:00:00.000Z,False,Murray State,OVC,59,Morehead State,Pioneer,7
+2019,regular,401121942,4,2019-09-21T23:00:00.000Z,False,Texas State,Sun Belt,37,Georgia State,Sun Belt,34
+2019,regular,401128720,4,2019-09-21T23:00:00.000Z,False,Stephen F. Austin,Southland,30,Nicholls,Southland,48
+2019,regular,401128435,4,2019-09-21T23:00:00.000Z,False,Samford,Southern,55,Alabama A&M,SWAC,21
+2019,regular,401114195,4,2019-09-21T23:00:00.000Z,False,Stanford,Pac-12,6,Oregon,Pac-12,21
+2019,regular,401127430,4,2019-09-21T23:30:00.000Z,False,East Tennessee State,Southern,20,Austin Peay,OVC,14
+2019,regular,401112125,4,2019-09-21T23:30:00.000Z,False,Texas,Big 12,36,Oklahoma State,Big 12,30
+2019,regular,401126956,4,2019-09-21T23:30:00.000Z,False,Illinois State,MVFC,40,Northern Arizona,Big Sky,27
+2019,regular,401112456,4,2019-09-21T23:30:00.000Z,False,Clemson,ACC,52,Charlotte,Conference USA,10
+2019,regular,401110798,4,2019-09-21T23:30:00.000Z,False,Arkansas,SEC,24,San José State,Mountain West,31
+2019,regular,401114264,4,2019-09-21T23:30:00.000Z,False,North Texas,Conference USA,45,UTSA,Conference USA,3
+2019,regular,401114266,4,2019-09-22T00:00:00.000Z,False,UTEP,Conference USA,21,Nevada,Mountain West,37
+2019,regular,401112148,4,2019-09-22T00:00:00.000Z,False,Illinois,Big Ten,38,Nebraska,Big Ten,42
+2019,regular,401110800,4,2019-09-22T00:00:00.000Z,False,Georgia,SEC,23,Notre Dame,FBS Independents,17
+2019,regular,401128710,4,2019-09-22T00:00:00.000Z,False,SE Louisiana,Southland,45,Lamar,Southland,34
+2019,regular,401114155,4,2019-09-22T02:00:00.000Z,False,Arizona State,Pac-12,31,Colorado,Pac-12,34
+2019,regular,401117510,4,2019-09-22T02:00:00.000Z,False,Fresno State,Mountain West,34,Sacramento State,Big Sky,20
+2019,regular,401117507,4,2019-09-22T02:15:00.000Z,False,Colorado State,Mountain West,35,Toledo,Mid-American,41
+2019,regular,401114215,4,2019-09-22T02:30:00.000Z,False,Washington State,Pac-12,63,UCLA,Pac-12,67
+2019,regular,401117508,4,2019-09-22T02:30:00.000Z,False,San Diego State,Mountain West,17,Utah State,Mountain West,23
+2019,regular,401117511,4,2019-09-22T03:59:00.000Z,False,Hawai'i,Mountain West,35,Central Arkansas,Southland,16
+2019,regular,401127235,5,2019-09-26T23:30:00.000Z,False,North Carolina A&T,MEAC,37,Delaware State,MEAC,0
+2019,regular,401117871,5,2019-09-27T00:00:00.000Z,False,Memphis,American Athletic,35,Navy,American Athletic,23
+2019,regular,401128652,5,2019-09-27T23:00:00.000Z,False,Harvard,Ivy,42,Brown,Ivy,7
+2019,regular,401112465,5,2019-09-27T23:00:00.000Z,False,Virginia Tech,ACC,10,Duke,ACC,45
+2019,regular,401112204,5,2019-09-28T00:00:00.000Z,False,Maryland,Big Ten,0,Penn State,Big Ten,59
+2019,regular,401117512,5,2019-09-28T00:00:00.000Z,False,Air Force,Mountain West,41,San José State,Mountain West,24
+2019,regular,401114156,5,2019-09-28T02:30:00.000Z,False,California,Pac-12,17,Arizona State,Pac-12,24
+2019,regular,401112117,5,2019-09-28T16:00:00.000Z,False,Oklahoma,Big 12,55,Texas Tech,Big 12,16
+2019,regular,401112225,5,2019-09-28T16:00:00.000Z,False,Michigan,Big Ten,52,Rutgers,Big Ten,0
+2019,regular,401112193,5,2019-09-28T16:00:00.000Z,False,Iowa,Big Ten,48,Middle Tennessee,Conference USA,3
+2019,regular,401112100,5,2019-09-28T16:00:00.000Z,False,TCU,Big 12,51,Kansas,Big 12,14
+2019,regular,401119271,5,2019-09-28T16:00:00.000Z,False,Western Michigan,Mid-American,31,Central Michigan,Mid-American,15
+2019,regular,401119270,5,2019-09-28T16:00:00.000Z,False,Miami (OH),Mid-American,34,Buffalo,Mid-American,20
+2019,regular,401112247,5,2019-09-28T16:00:00.000Z,False,Wisconsin,Big Ten,24,Northwestern,Big Ten,15
+2019,regular,401136617,5,2019-09-28T16:00:00.000Z,False,Wagner,NEC,24,Long Island University,NEC,14
+2019,regular,401110807,5,2019-09-28T16:00:00.000Z,True,Arkansas,SEC,27,Texas A&M,SEC,31
+2019,regular,401117213,5,2019-09-28T16:00:00.000Z,False,Toledo,Mid-American,28,BYU,FBS Independents,21
+2019,regular,401112471,5,2019-09-28T16:00:00.000Z,False,Syracuse,ACC,41,Holy Cross,Patriot,3
+2019,regular,401110811,5,2019-09-28T16:00:00.000Z,False,Vanderbilt,SEC,24,Northern Illinois,Mid-American,18
+2019,regular,401112470,5,2019-09-28T16:30:00.000Z,False,Pittsburgh,ACC,17,Delaware,CAA,14
+2019,regular,401128649,5,2019-09-28T16:30:00.000Z,False,Lehigh,Patriot,10,Merrimack,NEC,3
+2019,regular,401127207,5,2019-09-28T17:00:00.000Z,False,Howard,MEAC,29,Bethune-Cookman,MEAC,37
+2019,regular,401128608,5,2019-09-28T17:00:00.000Z,False,Stetson,Pioneer,55,North Carolina Wesleyan,USA South,21
+2019,regular,401128508,5,2019-09-28T17:00:00.000Z,False,Furman,Southern,17,East Tennessee State,Southern,10
+2019,regular,401127419,5,2019-09-28T17:00:00.000Z,False,Bryant,NEC,6,Saint Francis,NEC,16
+2019,regular,401127071,5,2019-09-28T17:00:00.000Z,False,New Hampshire,CAA,23,Duquesne,NEC,6
+2019,regular,401127072,5,2019-09-28T17:00:00.000Z,False,Fordham,Patriot,23,Richmond,CAA,16
+2019,regular,401128593,5,2019-09-28T17:00:00.000Z,False,Marist,Pioneer,17,Drake,Pioneer,41
+2019,regular,401128584,5,2019-09-28T17:00:00.000Z,False,Jacksonville,Pioneer,42,Ave Maria University,,28
+2019,regular,401128631,5,2019-09-28T17:00:00.000Z,False,Columbia,Ivy,10,Georgetown,Patriot,24
+2019,regular,401128951,5,2019-09-28T17:00:00.000Z,False,Yale,Ivy,27,Cornell,Ivy,16
+2019,regular,401128529,5,2019-09-28T17:30:00.000Z,False,VMI,Southern,36,Wofford,Southern,51
+2019,regular,401127068,5,2019-09-28T18:00:00.000Z,False,Elon,CAA,10,James Madison,CAA,45
+2019,regular,401128612,5,2019-09-28T18:00:00.000Z,False,Valparaiso,Pioneer,13,Charleston (WV),Mountain East,19
+2019,regular,401127431,5,2019-09-28T19:00:00.000Z,False,Austin Peay,OVC,52,Jacksonville State,OVC,33
+2019,regular,401126948,5,2019-09-28T19:00:00.000Z,False,Montana State,Big Sky,49,Northern Arizona,Big Sky,31
+2019,regular,401128499,5,2019-09-28T19:00:00.000Z,False,Samford,Southern,61,The Citadel,Southern,55
+2019,regular,401128474,5,2019-09-28T19:00:00.000Z,True,Jackson State,SWAC,25,Kentucky State,SIAC,33
+2019,regular,401126922,5,2019-09-28T19:00:00.000Z,False,Northern Colorado,Big Sky,27,Idaho,Big Sky,24
+2019,regular,401112466,5,2019-09-28T19:30:00.000Z,False,Boston College,ACC,24,Wake Forest,ACC,27
+2019,regular,401114356,5,2019-09-28T19:30:00.000Z,False,Massachusetts,FBS Independents,37,Akron,Mid-American,29
+2019,regular,401128615,5,2019-09-28T19:30:00.000Z,False,Bucknell,Patriot,23,Princeton,Ivy,56
+2019,regular,401114267,5,2019-09-28T19:30:00.000Z,False,Charlotte,Conference USA,27,Florida Atlantic,Conference USA,45
+2019,regular,401112467,5,2019-09-28T19:30:00.000Z,False,North Carolina,ACC,20,Clemson,ACC,21
+2019,regular,401121943,5,2019-09-28T19:30:00.000Z,False,App State,Sun Belt,56,Coastal Carolina,Sun Belt,37
+2019,regular,401112161,5,2019-09-28T19:30:00.000Z,False,Michigan State,Big Ten,40,Indiana,Big Ten,31
+2019,regular,401114221,5,2019-09-28T19:30:00.000Z,False,Washington,Pac-12,28,USC,Pac-12,14
+2019,regular,401112472,5,2019-09-28T19:30:00.000Z,False,Notre Dame,FBS Independents,35,Virginia,ACC,20
+2019,regular,401110806,5,2019-09-28T19:30:00.000Z,False,Alabama,SEC,59,Ole Miss,SEC,31
+2019,regular,401112469,5,2019-09-28T19:30:00.000Z,False,Temple,American Athletic,24,Georgia Tech,ACC,2
+2019,regular,401112076,5,2019-09-28T19:30:00.000Z,False,Baylor,Big 12,23,Iowa State,Big 12,21
+2019,regular,401112232,5,2019-09-28T19:30:00.000Z,False,Purdue,Big Ten,31,Minnesota,Big Ten,38
+2019,regular,401128644,5,2019-09-28T19:30:00.000Z,False,Lafayette,Patriot,24,Pennsylvania,Ivy,28
+2019,regular,401127067,5,2019-09-28T19:30:00.000Z,False,UAlbany,CAA,39,William & Mary,CAA,31
+2019,regular,401127069,5,2019-09-28T19:30:00.000Z,False,Villanova,CAA,33,Maine,CAA,17
+2019,regular,401126940,5,2019-09-28T20:00:00.000Z,False,UC Davis,Big Sky,20,Montana,Big Sky,45
+2019,regular,401127217,5,2019-09-28T20:00:00.000Z,False,Norfolk State,MEAC,28,Florida A&M,MEAC,30
+2019,regular,401128491,5,2019-09-28T20:00:00.000Z,False,Chattanooga,Southern,60,Western Carolina,Southern,36
+2019,regular,401127024,5,2019-09-28T20:00:00.000Z,False,North Alabama,Big South,41,Presbyterian,Big South,21
+2019,regular,401117873,5,2019-09-28T20:00:00.000Z,False,South Florida,American Athletic,21,SMU,American Athletic,48
+2019,regular,401110809,5,2019-09-28T20:00:00.000Z,False,Florida,SEC,38,Towson,CAA,0
+2019,regular,401114269,5,2019-09-28T21:00:00.000Z,False,Marshall,Conference USA,14,Cincinnati,American Athletic,52
+2019,regular,401126914,5,2019-09-28T21:00:00.000Z,False,Eastern Washington,Big Sky,35,North Dakota,FCS Independents,20
+2019,regular,401128390,5,2019-09-28T21:00:00.000Z,False,Eastern Illinois,OVC,29,Tennessee Tech,OVC,40
+2019,regular,401128469,5,2019-09-28T21:00:00.000Z,False,Prairie View A&M,SWAC,42,Grambling,SWAC,36
+2019,regular,401126931,5,2019-09-28T21:05:00.000Z,False,Idaho State,Big Sky,51,Portland State,Big Sky,24
+2019,regular,401128623,5,2019-09-28T22:00:00.000Z,False,Dartmouth,Ivy,38,Colgate,Patriot,3
+2019,regular,401127306,5,2019-09-28T22:00:00.000Z,False,Youngstown State,MVFC,45,Robert Morris,NEC,10
+2019,regular,401128943,5,2019-09-28T22:00:00.000Z,False,Kennesaw State,Big South,31,Reinhardt,,7
+2019,regular,401127223,5,2019-09-28T22:00:00.000Z,False,Morgan State,MEAC,17,North Carolina Central,MEAC,27
+2019,regular,401128355,5,2019-09-28T22:00:00.000Z,False,Eastern Kentucky,OVC,42,Tennessee State,OVC,16
+2019,regular,401114350,5,2019-09-28T22:00:00.000Z,False,Liberty,FBS Independents,17,New Mexico,Mountain West,10
+2019,regular,401114271,5,2019-09-28T22:00:00.000Z,False,Old Dominion,Conference USA,21,East Carolina,American Athletic,24
+2019,regular,401121945,5,2019-09-28T22:00:00.000Z,False,Georgia Southern,Sun Belt,24,Louisiana,Sun Belt,37
+2019,regular,401121944,5,2019-09-28T22:00:00.000Z,False,Troy,Sun Belt,43,Arkansas State,Sun Belt,50
+2019,regular,401117872,5,2019-09-28T23:00:00.000Z,False,UCF,American Athletic,56,UConn,American Athletic,21
+2019,regular,401114272,5,2019-09-28T23:00:00.000Z,False,Southern Miss,Conference USA,31,UTEP,Conference USA,13
+2019,regular,401112108,5,2019-09-28T23:00:00.000Z,False,Oklahoma State,Big 12,26,Kansas State,Big 12,13
+2019,regular,401121946,5,2019-09-28T23:00:00.000Z,False,UL Monroe,Sun Belt,30,South Alabama,Sun Belt,17
+2019,regular,401114202,5,2019-09-28T23:00:00.000Z,False,Oregon State,Pac-12,28,Stanford,Pac-12,31
+2019,regular,401114268,5,2019-09-28T23:00:00.000Z,False,Rice,Conference USA,20,Louisiana Tech,Conference USA,23
+2019,regular,401114273,5,2019-09-28T23:00:00.000Z,False,Western Kentucky,Conference USA,20,UAB,Conference USA,13
+2019,regular,401110808,5,2019-09-28T23:00:00.000Z,False,Auburn,SEC,56,Mississippi State,SEC,23
+2019,regular,401128461,5,2019-09-28T23:00:00.000Z,False,Arkansas-Pine Bluff,SWAC,7,Southern,SWAC,31
+2019,regular,401128715,5,2019-09-28T23:00:00.000Z,False,McNeese,Southland,17,Sam Houston,Southland,28
+2019,regular,401126988,5,2019-09-28T23:00:00.000Z,False,Mercer,Southern,27,Campbell,Big South,34
+2019,regular,401128372,5,2019-09-28T23:00:00.000Z,False,UT Martin,OVC,40,Murray State,OVC,7
+2019,regular,401128726,5,2019-09-28T23:00:00.000Z,False,Northwestern State,Southland,27,SE Louisiana,Southland,44
+2019,regular,401128455,5,2019-09-28T23:00:00.000Z,False,Alcorn State,SWAC,45,Mississippi Valley State,SWAC,19
+2019,regular,401121947,5,2019-09-28T23:00:00.000Z,False,Texas State,Sun Belt,24,Nicholls,Southland,3
+2019,regular,401127070,5,2019-09-28T23:00:00.000Z,False,Rhode Island,CAA,27,Stony Brook,CAA,31
+2019,regular,401128436,5,2019-09-28T23:00:00.000Z,False,Alabama A&M,SWAC,63,Central State,SIAC,20
+2019,regular,401128695,5,2019-09-28T23:00:00.000Z,False,Houston Christian,Southland,68,Texas Southern,SWAC,31
+2019,regular,401128662,5,2019-09-28T23:00:00.000Z,False,Incarnate Word,Southland,31,Abilene Christian,Southland,24
+2019,regular,401128711,5,2019-09-28T23:00:00.000Z,False,Lamar,Southland,17,Stephen F. Austin,Southland,24
+2019,regular,401112241,5,2019-09-28T23:30:00.000Z,False,Nebraska,Big Ten,7,Ohio State,Big Ten,48
+2019,regular,401112468,5,2019-09-28T23:30:00.000Z,False,Florida State,ACC,31,NC State,ACC,13
+2019,regular,401110810,5,2019-09-28T23:30:00.000Z,False,South Carolina,SEC,24,Kentucky,SEC,7
+2019,regular,401117513,5,2019-09-28T23:30:00.000Z,False,Utah State,Mountain West,34,Colorado State,Mountain West,24
+2019,regular,401114341,5,2019-09-29T00:00:00.000Z,False,New Mexico State,FBS Independents,17,Fresno State,Mountain West,30
+2019,regular,401114270,5,2019-09-29T00:00:00.000Z,False,North Texas,Conference USA,25,Houston,American Athletic,46
+2019,regular,401117514,5,2019-09-29T00:00:00.000Z,False,Wyoming,Mountain West,53,UNLV,Mountain West,17
+2019,regular,401126984,5,2019-09-29T00:00:00.000Z,False,Weber State,Big Sky,29,Northern Iowa,MVFC,17
+2019,regular,401126903,5,2019-09-29T00:05:00.000Z,False,Southern Utah,Big Sky,21,Cal Poly,Big Sky,24
+2019,regular,401114226,5,2019-09-29T02:00:00.000Z,False,Utah,Pac-12,38,Washington State,Pac-12,13
+2019,regular,401114166,5,2019-09-29T02:30:00.000Z,False,Arizona,Pac-12,20,UCLA,Pac-12,17
+2019,regular,401117515,5,2019-09-29T02:30:00.000Z,False,Nevada,Mountain West,3,Hawai'i,Mountain West,54
+2019,regular,401121948,6,2019-10-03T23:30:00.000Z,False,South Alabama,Sun Belt,17,Georgia Southern,Sun Belt,20
+2019,regular,401117874,6,2019-10-04T00:00:00.000Z,False,East Carolina,American Athletic,17,Temple,American Athletic,27
+2019,regular,401128689,6,2019-10-04T23:00:00.000Z,False,Pennsylvania,Ivy,15,Dartmouth,Ivy,28
+2019,regular,401117875,6,2019-10-05T00:00:00.000Z,False,Cincinnati,American Athletic,27,UCF,American Athletic,24
+2019,regular,401117519,6,2019-10-05T02:00:00.000Z,False,San José State,Mountain West,32,New Mexico,Mountain West,21
+2019,regular,401112205,6,2019-10-05T16:00:00.000Z,False,Rutgers,Big Ten,7,Maryland,Big Ten,48
+2019,regular,401112101,6,2019-10-05T16:00:00.000Z,False,Kansas,Big 12,20,Oklahoma,Big 12,45
+2019,regular,401112194,6,2019-10-05T16:00:00.000Z,False,Michigan,Big Ten,10,Iowa,Big Ten,3
+2019,regular,401112260,6,2019-10-05T16:00:00.000Z,False,Penn State,Big Ten,35,Purdue,Big Ten,7
+2019,regular,401128576,6,2019-10-05T16:00:00.000Z,False,Dayton,Pioneer,56,Jacksonville,Pioneer,28
+2019,regular,401112269,6,2019-10-05T16:00:00.000Z,False,Wisconsin,Big Ten,48,Kent State,Mid-American,0
+2019,regular,401128556,6,2019-10-05T16:00:00.000Z,False,Stetson,Pioneer,30,Butler,Pioneer,27
+2019,regular,401114328,6,2019-10-05T16:00:00.000Z,False,Army,FBS Independents,33,Tulane,American Athletic,42
+2019,regular,401112126,6,2019-10-05T16:00:00.000Z,False,Texas Tech,Big 12,45,Oklahoma State,Big 12,35
+2019,regular,401117876,6,2019-10-05T16:00:00.000Z,False,UConn,American Athletic,22,South Florida,American Athletic,48
+2019,regular,401110813,6,2019-10-05T16:00:00.000Z,False,LSU,SEC,42,Utah State,Mountain West,6
+2019,regular,401136599,6,2019-10-05T16:00:00.000Z,False,Duquesne,NEC,21,Long Island University,NEC,14
+2019,regular,401112473,6,2019-10-05T16:30:00.000Z,False,Louisville,ACC,41,Boston College,ACC,39
+2019,regular,401127077,6,2019-10-05T16:30:00.000Z,False,Brown,Ivy,28,Rhode Island,CAA,31
+2019,regular,401128624,6,2019-10-05T17:00:00.000Z,False,Colgate,Patriot,14,Lehigh,Patriot,21
+2019,regular,401126989,6,2019-10-05T17:00:00.000Z,False,Campbell,Big South,28,Presbyterian,Big South,14
+2019,regular,401127261,6,2019-10-05T17:00:00.000Z,False,Illinois State,MVFC,3,North Dakota State,MVFC,37
+2019,regular,401128567,6,2019-10-05T17:00:00.000Z,False,Morehead State,Pioneer,31,Davidson,Pioneer,42
+2019,regular,401127420,6,2019-10-05T17:00:00.000Z,False,Merrimack,NEC,17,Bryant,NEC,24
+2019,regular,401128675,6,2019-10-05T17:00:00.000Z,False,Harvard,Ivy,62,Howard,MEAC,17
+2019,regular,401130356,6,2019-10-05T17:00:00.000Z,False,Yale,Ivy,48,Fordham,Patriot,24
+2019,regular,401128669,6,2019-10-05T17:00:00.000Z,False,Princeton,Ivy,21,Columbia,Ivy,10
+2019,regular,401127218,6,2019-10-05T18:00:00.000Z,False,Florida A&M,MEAC,28,North Carolina Central,MEAC,21
+2019,regular,401127230,6,2019-10-05T18:00:00.000Z,False,Norfolk State,MEAC,19,North Carolina A&T,MEAC,58
+2019,regular,401126982,6,2019-10-05T18:00:00.000Z,False,North Dakota,FCS Independents,38,UC Davis,Big Sky,36
+2019,regular,401128500,6,2019-10-05T18:00:00.000Z,False,The Citadel,Southern,21,VMI,Southern,34
+2019,regular,401128373,6,2019-10-05T18:00:00.000Z,False,Murray State,OVC,24,Eastern Illinois,OVC,17
+2019,regular,401127032,6,2019-10-05T18:00:00.000Z,False,Hampton,Big South,40,North Alabama,Big South,34
+2019,regular,401127075,6,2019-10-05T18:00:00.000Z,False,Richmond,CAA,23,UAlbany,CAA,20
+2019,regular,401128616,6,2019-10-05T18:00:00.000Z,False,Bucknell,Patriot,14,Holy Cross,Patriot,21
+2019,regular,401136593,6,2019-10-05T18:00:00.000Z,False,Sacred Heart,NEC,3,Central Connecticut,NEC,28
+2019,regular,401112088,6,2019-10-05T18:00:00.000Z,False,Iowa State,Big 12,49,TCU,Big 12,24
+2019,regular,401128437,6,2019-10-05T19:00:00.000Z,False,Alabama A&M,SWAC,35,Texas Southern,SWAC,28
+2019,regular,401128356,6,2019-10-05T19:00:00.000Z,False,Eastern Kentucky,OVC,28,UT Martin,OVC,38
+2019,regular,401119273,6,2019-10-05T19:00:00.000Z,False,Central Michigan,Mid-American,42,Eastern Michigan,Mid-American,16
+2019,regular,401128613,6,2019-10-05T19:00:00.000Z,False,Drake,Pioneer,35,Valparaiso,Pioneer,6
+2019,regular,401128632,6,2019-10-05T19:00:00.000Z,False,Cornell,Ivy,8,Georgetown,Patriot,14
+2019,regular,401127295,6,2019-10-05T19:00:00.000Z,False,South Dakota State,MVFC,28,Southern Illinois,MVFC,10
+2019,regular,401127271,6,2019-10-05T19:00:00.000Z,False,South Dakota,MVFC,38,Indiana State,MVFC,0
+2019,regular,401126932,6,2019-10-05T19:00:00.000Z,False,Montana,Big Sky,59,Idaho State,Big Sky,20
+2019,regular,401128515,6,2019-10-05T19:00:00.000Z,False,Samford,Southern,14,Furman,Southern,58
+2019,regular,401128447,6,2019-10-05T19:25:00.000Z,False,Alabama State,SWAC,7,Alcorn State,SWAC,35
+2019,regular,401127076,6,2019-10-05T19:30:00.000Z,False,New Hampshire,CAA,26,Elon,CAA,10
+2019,regular,401127008,6,2019-10-05T19:30:00.000Z,False,Western Carolina,Southern,21,Gardner-Webb,Big South,24
+2019,regular,401128509,6,2019-10-05T19:30:00.000Z,False,East Tennessee State,Southern,17,Wofford,Southern,35
+2019,regular,401127074,6,2019-10-05T19:30:00.000Z,False,William & Mary,CAA,28,Villanova,CAA,35
+2019,regular,401114275,6,2019-10-05T19:30:00.000Z,False,Middle Tennessee,Conference USA,24,Marshall,Conference USA,13
+2019,regular,401110812,6,2019-10-05T19:30:00.000Z,False,Florida,SEC,24,Auburn,SEC,13
+2019,regular,401114337,6,2019-10-05T19:30:00.000Z,False,Notre Dame,FBS Independents,52,Bowling Green,Mid-American,0
+2019,regular,401112149,6,2019-10-05T19:30:00.000Z,False,Minnesota,Big Ten,40,Illinois,Big Ten,17
+2019,regular,401112137,6,2019-10-05T19:30:00.000Z,False,West Virginia,Big 12,31,Texas,Big 12,42
+2019,regular,401119274,6,2019-10-05T19:30:00.000Z,False,Buffalo,Mid-American,20,Ohio,Mid-American,21
+2019,regular,401121949,6,2019-10-05T19:30:00.000Z,False,Georgia State,Sun Belt,52,Arkansas State,Sun Belt,38
+2019,regular,401112077,6,2019-10-05T19:30:00.000Z,False,Kansas State,Big 12,12,Baylor,Big 12,31
+2019,regular,401112476,6,2019-10-05T19:30:00.000Z,False,Miami,ACC,35,Virginia Tech,ACC,42
+2019,regular,401117516,6,2019-10-05T19:30:00.000Z,False,Navy,American Athletic,34,Air Force,Mountain West,25
+2019,regular,401119272,6,2019-10-05T19:30:00.000Z,False,Northern Illinois,Mid-American,20,Ball State,Mid-American,27
+2019,regular,401119275,6,2019-10-05T19:30:00.000Z,False,Toledo,Mid-American,31,Western Michigan,Mid-American,24
+2019,regular,401117877,6,2019-10-05T19:45:00.000Z,False,UL Monroe,Sun Belt,33,Memphis,American Athletic,52
+2019,regular,401112242,6,2019-10-05T20:00:00.000Z,False,Nebraska,Big Ten,13,Northwestern,Big Ten,10
+2019,regular,401110815,6,2019-10-05T20:00:00.000Z,False,Missouri,SEC,42,Troy,Sun Belt,10
+2019,regular,401128681,6,2019-10-05T20:00:00.000Z,False,Nicholls,Southland,34,Central Arkansas,Southland,14
+2019,regular,401127208,6,2019-10-05T20:00:00.000Z,False,Bethune-Cookman,MEAC,31,Morgan State,MEAC,20
+2019,regular,401128479,6,2019-10-05T20:00:00.000Z,False,Mississippi Valley State,SWAC,31,Virginia Lynchburg,,23
+2019,regular,401112475,6,2019-10-05T20:00:00.000Z,False,Georgia Tech,ACC,22,North Carolina,ACC,38
+2019,regular,401128730,6,2019-10-05T20:00:00.000Z,False,Stephen F. Austin,Southland,20,Sam Houston,Southland,31
+2019,regular,401127251,6,2019-10-05T20:00:00.000Z,False,Western Illinois,MVFC,31,Missouri State,MVFC,37
+2019,regular,401128492,6,2019-10-05T20:00:00.000Z,False,Mercer,Southern,17,Chattanooga,Southern,34
+2019,regular,401128462,6,2019-10-05T20:00:00.000Z,False,Arkansas-Pine Bluff,SWAC,45,Lane College,SIAC,38
+2019,regular,401114167,6,2019-10-05T20:30:00.000Z,False,Colorado,Pac-12,30,Arizona,Pac-12,35
+2019,regular,401127284,6,2019-10-05T21:00:00.000Z,False,Northern Iowa,MVFC,21,Youngstown State,MVFC,14
+2019,regular,401128716,6,2019-10-05T21:00:00.000Z,False,McNeese,Southland,38,SE Louisiana,Southland,34
+2019,regular,401128594,6,2019-10-05T21:00:00.000Z,False,San Diego,Pioneer,31,Marist,Pioneer,7
+2019,regular,401126923,6,2019-10-05T21:00:00.000Z,False,Idaho,Big Sky,35,Weber State,Big Sky,41
+2019,regular,401126968,6,2019-10-05T21:05:00.000Z,False,Portland State,Big Sky,52,Southern Utah,Big Sky,31
+2019,regular,401127073,6,2019-10-05T22:00:00.000Z,False,Stony Brook,CAA,38,James Madison,CAA,45
+2019,regular,401126999,6,2019-10-05T22:00:00.000Z,False,Charleston Southern,Big South,24,Savannah State,SIAC,19
+2019,regular,401114276,6,2019-10-05T22:00:00.000Z,False,Old Dominion,Conference USA,3,Western Kentucky,Conference USA,20
+2019,regular,401127016,6,2019-10-05T22:00:00.000Z,False,Wagner,NEC,14,Monmouth,Big South,16
+2019,regular,401128378,6,2019-10-05T23:00:00.000Z,False,Southeast Missouri State,OVC,43,Tennessee Tech,OVC,37
+2019,regular,401127248,6,2019-10-05T23:00:00.000Z,False,Delaware State,MEAC,24,South Carolina State,MEAC,38
+2019,regular,401128696,6,2019-10-05T23:00:00.000Z,False,Houston Christian,Southland,36,Incarnate Word,Southland,38
+2019,regular,401128470,6,2019-10-05T23:00:00.000Z,False,Jackson State,SWAC,21,Grambling,SWAC,44
+2019,regular,401128663,6,2019-10-05T23:00:00.000Z,False,Lamar,Southland,27,Abilene Christian,Southland,24
+2019,regular,401126957,6,2019-10-05T23:00:00.000Z,False,Northern Arizona,Big Sky,41,Northern Colorado,Big Sky,23
+2019,regular,401128364,6,2019-10-05T23:00:00.000Z,False,Jacksonville State,OVC,31,Tennessee State,OVC,23
+2019,regular,401114277,6,2019-10-05T23:00:00.000Z,False,UAB,Conference USA,35,Rice,Conference USA,20
+2019,regular,401110816,6,2019-10-05T23:00:00.000Z,False,Tennessee,SEC,14,Georgia,SEC,43
+2019,regular,401114274,6,2019-10-05T23:00:00.000Z,False,Florida International,Conference USA,44,Massachusetts,FBS Independents,0
+2019,regular,401112216,6,2019-10-05T23:30:00.000Z,False,Ohio State,Big Ten,34,Michigan State,Big Ten,10
+2019,regular,401110814,6,2019-10-05T23:30:00.000Z,False,Ole Miss,SEC,31,Vanderbilt,SEC,6
+2019,regular,401117878,6,2019-10-05T23:30:00.000Z,False,SMU,American Athletic,43,Tulsa,American Athletic,37
+2019,regular,401114278,6,2019-10-06T00:00:00.000Z,False,UTEP,Conference USA,16,UTSA,Conference USA,26
+2019,regular,401114177,6,2019-10-06T00:00:00.000Z,False,Oregon,Pac-12,17,California,Pac-12,7
+2019,regular,401112474,6,2019-10-06T00:00:00.000Z,False,Duke,ACC,30,Pittsburgh,ACC,33
+2019,regular,401114342,6,2019-10-06T00:00:00.000Z,False,New Mexico State,FBS Independents,13,Liberty,FBS Independents,20
+2019,regular,401126904,6,2019-10-06T00:00:00.000Z,False,Cal Poly,Big Sky,28,Montana State,Big Sky,34
+2019,regular,401126915,6,2019-10-06T01:00:00.000Z,False,Sacramento State,Big Sky,48,Eastern Washington,Big Sky,27
+2019,regular,401114203,6,2019-10-06T01:00:00.000Z,False,UCLA,Pac-12,31,Oregon State,Pac-12,48
+2019,regular,401117518,6,2019-10-06T02:00:00.000Z,False,Colorado State,Mountain West,10,San Diego State,Mountain West,24
+2019,regular,401114209,6,2019-10-06T02:30:00.000Z,False,Stanford,Pac-12,23,Washington,Pac-12,13
+2019,regular,401117517,6,2019-10-06T02:30:00.000Z,False,UNLV,Mountain West,13,Boise State,Mountain West,38
+2019,regular,401121950,7,2019-10-10T00:00:00.000Z,False,Louisiana,Sun Belt,7,App State,Sun Belt,17
+2019,regular,401127209,7,2019-10-10T22:00:00.000Z,False,North Carolina Central,MEAC,13,Bethune-Cookman,MEAC,27
+2019,regular,401112477,7,2019-10-11T00:00:00.000Z,False,NC State,ACC,16,Syracuse,ACC,10
+2019,regular,401121951,7,2019-10-11T01:15:00.000Z,False,Texas State,Sun Belt,14,UL Monroe,Sun Belt,24
+2019,regular,401128645,7,2019-10-11T23:00:00.000Z,False,Princeton,Ivy,28,Lafayette,Patriot,3
+2019,regular,401117522,7,2019-10-12T00:00:00.000Z,False,New Mexico,Mountain West,21,Colorado State,Mountain West,35
+2019,regular,401112478,7,2019-10-12T00:00:00.000Z,False,Miami,ACC,17,Virginia,ACC,9
+2019,regular,401114186,7,2019-10-12T02:00:00.000Z,False,Oregon,Pac-12,45,Colorado,Pac-12,3
+2019,regular,401127081,7,2019-10-12T16:00:00.000Z,False,Maine,CAA,17,Richmond,CAA,24
+2019,regular,401110817,7,2019-10-12T16:00:00.000Z,False,Georgia,SEC,17,South Carolina,SEC,20
+2019,regular,401136604,7,2019-10-12T16:00:00.000Z,False,Saint Francis,NEC,17,Robert Morris,NEC,20
+2019,regular,401110821,7,2019-10-12T16:00:00.000Z,False,Tennessee,SEC,20,Mississippi State,SEC,10
+2019,regular,401112162,7,2019-10-12T16:00:00.000Z,False,Indiana,Big Ten,35,Rutgers,Big Ten,0
+2019,regular,401119280,7,2019-10-12T16:00:00.000Z,False,Bowling Green,Mid-American,20,Toledo,Mid-American,7
+2019,regular,401112206,7,2019-10-12T16:00:00.000Z,False,Purdue,Big Ten,40,Maryland,Big Ten,14
+2019,regular,401119278,7,2019-10-12T16:00:00.000Z,False,Western Michigan,Mid-American,38,Miami (OH),Mid-American,16
+2019,regular,401117881,7,2019-10-12T16:00:00.000Z,False,Temple,American Athletic,30,Memphis,American Athletic,28
+2019,regular,401112118,7,2019-10-12T16:00:00.000Z,True,Texas,Big 12,27,Oklahoma,Big 12,34
+2019,regular,401112150,7,2019-10-12T16:00:00.000Z,False,Illinois,Big Ten,25,Michigan,Big Ten,42
+2019,regular,401112480,7,2019-10-12T16:30:00.000Z,False,Duke,ACC,41,Georgia Tech,ACC,23
+2019,regular,401128638,7,2019-10-12T16:30:00.000Z,False,Brown,Ivy,31,Holy Cross,Patriot,47
+2019,regular,401128617,7,2019-10-12T17:00:00.000Z,False,Colgate,Patriot,14,Bucknell,Patriot,32
+2019,regular,401128947,7,2019-10-12T17:00:00.000Z,False,Columbia,Ivy,14,Central Connecticut,NEC,24
+2019,regular,401127231,7,2019-10-12T17:00:00.000Z,False,Howard,MEAC,21,Norfolk State,MEAC,49
+2019,regular,401136609,7,2019-10-12T17:00:00.000Z,False,Pennsylvania,Ivy,38,Sacred Heart,NEC,24
+2019,regular,401128365,7,2019-10-12T17:00:00.000Z,False,Eastern Illinois,OVC,20,Jacksonville State,OVC,28
+2019,regular,401127421,7,2019-10-12T17:00:00.000Z,False,Bryant,NEC,27,Long Island University,NEC,22
+2019,regular,401128676,7,2019-10-12T17:00:00.000Z,False,Harvard,Ivy,35,Cornell,Ivy,22
+2019,regular,401127017,7,2019-10-12T17:00:00.000Z,False,Monmouth,Big South,45,Presbyterian,Big South,0
+2019,regular,401128568,7,2019-10-12T17:00:00.000Z,False,Davidson,Pioneer,17,San Diego,Pioneer,37
+2019,regular,401127224,7,2019-10-12T17:00:00.000Z,False,Morgan State,MEAC,34,Delaware State,MEAC,3
+2019,regular,401128557,7,2019-10-12T17:00:00.000Z,False,Butler,Pioneer,7,Drake,Pioneer,42
+2019,regular,401128585,7,2019-10-12T17:00:00.000Z,False,Jacksonville,Pioneer,22,Morehead State,Pioneer,30
+2019,regular,401127272,7,2019-10-12T17:00:00.000Z,False,Indiana State,MVFC,20,Western Illinois,MVFC,10
+2019,regular,401127009,7,2019-10-12T17:30:00.000Z,False,Gardner-Webb,Big South,35,Hampton,Big South,27
+2019,regular,401128690,7,2019-10-12T17:30:00.000Z,False,Dartmouth,Ivy,42,Yale,Ivy,10
+2019,regular,401127080,7,2019-10-12T17:30:00.000Z,False,James Madison,CAA,38,Villanova,CAA,24
+2019,regular,401128525,7,2019-10-12T17:30:00.000Z,False,VMI,Southern,48,Samford,Southern,41
+2019,regular,401127278,7,2019-10-12T18:00:00.000Z,False,North Dakota State,MVFC,46,Northern Iowa,MVFC,14
+2019,regular,401119276,7,2019-10-12T18:00:00.000Z,False,Eastern Michigan,Mid-American,23,Ball State,Mid-American,29
+2019,regular,401127079,7,2019-10-12T18:00:00.000Z,False,Elon,CAA,42,Delaware,CAA,7
+2019,regular,401127219,7,2019-10-12T18:00:00.000Z,False,South Carolina State,MEAC,38,Florida A&M,MEAC,42
+2019,regular,401128501,7,2019-10-12T18:00:00.000Z,False,The Citadel,Southern,35,Western Carolina,Southern,17
+2019,regular,401128463,7,2019-10-12T18:00:00.000Z,False,Arkansas-Pine Bluff,SWAC,38,Mississippi Valley State,SWAC,6
+2019,regular,401128633,7,2019-10-12T18:00:00.000Z,False,Georgetown,Patriot,27,Fordham,Patriot,30
+2019,regular,401128577,7,2019-10-12T18:00:00.000Z,False,Valparaiso,Pioneer,28,Dayton,Pioneer,41
+2019,regular,401114283,7,2019-10-12T18:30:00.000Z,False,Marshall,Conference USA,31,Old Dominion,Conference USA,17
+2019,regular,401114343,7,2019-10-12T19:00:00.000Z,False,Central Michigan,Mid-American,42,New Mexico State,FBS Independents,28
+2019,regular,401128448,7,2019-10-12T19:00:00.000Z,False,Jackson State,SWAC,16,Alabama State,SWAC,31
+2019,regular,401128456,7,2019-10-12T19:00:00.000Z,False,Alcorn State,SWAC,42,Savannah State,SIAC,17
+2019,regular,401128712,7,2019-10-12T19:00:00.000Z,False,Sam Houston,Southland,17,Lamar,Southland,20
+2019,regular,401128438,7,2019-10-12T19:00:00.000Z,False,Grambling,SWAC,23,Alabama A&M,SWAC,10
+2019,regular,401127000,7,2019-10-12T19:00:00.000Z,False,Kennesaw State,Big South,45,Charleston Southern,Big South,23
+2019,regular,401128945,7,2019-10-12T19:00:00.000Z,False,Texas Southern,SWAC,20,Missouri S&T,Great Lakes,23
+2019,regular,401128374,7,2019-10-12T19:00:00.000Z,False,Tennessee State,OVC,17,Murray State,OVC,31
+2019,regular,401127252,7,2019-10-12T19:00:00.000Z,False,Missouri State,MVFC,10,South Dakota,MVFC,45
+2019,regular,401127432,7,2019-10-12T19:00:00.000Z,False,Austin Peay,OVC,28,Southeast Missouri State,OVC,24
+2019,regular,401126933,7,2019-10-12T19:05:00.000Z,False,Idaho State,Big Sky,55,North Dakota,FCS Independents,20
+2019,regular,401117214,7,2019-10-12T19:30:00.000Z,False,South Florida,American Athletic,27,BYU,FBS Independents,23
+2019,regular,401119279,7,2019-10-12T19:30:00.000Z,False,Ohio,Mid-American,36,Northern Illinois,Mid-American,39
+2019,regular,401110822,7,2019-10-12T19:30:00.000Z,False,Texas A&M,SEC,28,Alabama,SEC,47
+2019,regular,401114157,7,2019-10-12T19:30:00.000Z,False,Arizona State,Pac-12,38,Washington State,Pac-12,34
+2019,regular,401112217,7,2019-10-12T19:30:00.000Z,False,Wisconsin,Big Ten,38,Michigan State,Big Ten,0
+2019,regular,401119277,7,2019-10-12T19:30:00.000Z,False,Akron,Mid-American,3,Kent State,Mid-American,26
+2019,regular,401117879,7,2019-10-12T19:30:00.000Z,False,Houston,American Athletic,23,Cincinnati,American Athletic,38
+2019,regular,401112479,7,2019-10-12T19:30:00.000Z,False,Clemson,ACC,45,Florida State,ACC,14
+2019,regular,401117880,7,2019-10-12T19:45:00.000Z,False,Tulane,American Athletic,49,UConn,American Athletic,7
+2019,regular,401112089,7,2019-10-12T20:00:00.000Z,False,West Virginia,Big 12,14,Iowa State,Big 12,38
+2019,regular,401110823,7,2019-10-12T20:00:00.000Z,False,Vanderbilt,SEC,10,UNLV,Mountain West,34
+2019,regular,401112078,7,2019-10-12T20:00:00.000Z,False,Baylor,Big 12,33,Texas Tech,Big 12,30
+2019,regular,401117524,7,2019-10-12T20:00:00.000Z,False,Nevada,Mountain West,41,San José State,Mountain West,38
+2019,regular,401114280,7,2019-10-12T20:00:00.000Z,False,Florida Atlantic,Conference USA,28,Middle Tennessee,Conference USA,13
+2019,regular,401128721,7,2019-10-12T20:00:00.000Z,False,Nicholls,Southland,45,Northwestern State,Southland,35
+2019,regular,401112482,7,2019-10-12T20:00:00.000Z,False,Virginia Tech,ACC,34,Rhode Island,CAA,17
+2019,regular,401126949,7,2019-10-12T20:00:00.000Z,False,Montana State,Big Sky,21,Sacramento State,Big Sky,34
+2019,regular,401127078,7,2019-10-12T20:00:00.000Z,False,Towson,CAA,21,UAlbany,CAA,38
+2019,regular,401126916,7,2019-10-12T20:05:00.000Z,False,Eastern Washington,Big Sky,54,Northern Colorado,Big Sky,21
+2019,regular,401128704,7,2019-10-12T21:00:00.000Z,False,SE Louisiana,Southland,21,Incarnate Word,Southland,27
+2019,regular,401128682,7,2019-10-12T21:00:00.000Z,False,Central Arkansas,Southland,40,McNeese,Southland,31
+2019,regular,401121952,7,2019-10-12T21:00:00.000Z,False,Coastal Carolina,Sun Belt,21,Georgia State,Sun Belt,31
+2019,regular,401126924,7,2019-10-12T21:05:00.000Z,False,Portland State,Big Sky,24,Idaho,Big Sky,0
+2019,regular,401127296,7,2019-10-12T22:00:00.000Z,False,Youngstown State,MVFC,28,South Dakota State,MVFC,38
+2019,regular,401127082,7,2019-10-12T22:00:00.000Z,False,Stony Brook,CAA,14,New Hampshire,CAA,20
+2019,regular,401114284,7,2019-10-12T22:00:00.000Z,False,UTSA,Conference USA,14,UAB,Conference USA,33
+2019,regular,401114282,7,2019-10-12T23:00:00.000Z,False,Southern Miss,Conference USA,45,North Texas,Conference USA,27
+2019,regular,401114281,7,2019-10-12T23:00:00.000Z,False,Louisiana Tech,Conference USA,69,Massachusetts,FBS Independents,21
+2019,regular,401114285,7,2019-10-12T23:00:00.000Z,False,Western Kentucky,Conference USA,17,Army,FBS Independents,8
+2019,regular,401110820,7,2019-10-12T23:00:00.000Z,False,Missouri,SEC,38,Ole Miss,SEC,27
+2019,regular,401117520,7,2019-10-12T23:00:00.000Z,False,Air Force,Mountain West,43,Fresno State,Mountain West,24
+2019,regular,401114279,7,2019-10-12T23:00:00.000Z,False,Florida International,Conference USA,48,Charlotte,Conference USA,23
+2019,regular,401128391,7,2019-10-12T23:00:00.000Z,False,Tennessee Tech,OVC,14,UT Martin,OVC,55
+2019,regular,401127262,7,2019-10-12T23:00:00.000Z,False,Southern Illinois,MVFC,7,Illinois State,MVFC,21
+2019,regular,401128664,7,2019-10-12T23:00:00.000Z,False,Abilene Christian,Southland,45,Houston Christian,Southland,20
+2019,regular,401128483,7,2019-10-12T23:00:00.000Z,False,Southern,SWAC,34,Prairie View A&M,SWAC,28
+2019,regular,401126905,7,2019-10-12T23:05:00.000Z,False,UC Davis,Big Sky,48,Cal Poly,Big Sky,24
+2019,regular,401112233,7,2019-10-12T23:30:00.000Z,False,Minnesota,Big Ten,34,Nebraska,Big Ten,7
+2019,regular,401110818,7,2019-10-12T23:30:00.000Z,False,Kentucky,SEC,24,Arkansas,SEC,20
+2019,regular,401112481,7,2019-10-12T23:30:00.000Z,False,Wake Forest,ACC,59,Louisville,ACC,62
+2019,regular,401117882,7,2019-10-12T23:30:00.000Z,False,Tulsa,American Athletic,17,Navy,American Athletic,45
+2019,regular,401114222,7,2019-10-12T23:30:00.000Z,False,Notre Dame,FBS Independents,30,USC,Pac-12,27
+2019,regular,401112195,7,2019-10-12T23:30:00.000Z,False,Iowa,Big Ten,12,Penn State,Big Ten,17
+2019,regular,401114204,7,2019-10-13T00:00:00.000Z,False,Oregon State,Pac-12,7,Utah,Pac-12,52
+2019,regular,401110819,7,2019-10-13T00:00:00.000Z,False,LSU,SEC,42,Florida,SEC,28
+2019,regular,401126976,7,2019-10-13T00:00:00.000Z,False,Weber State,Big Sky,29,Southern Utah,Big Sky,14
+2019,regular,401117521,7,2019-10-13T02:15:00.000Z,False,Boise State,Mountain West,59,Hawai'i,Mountain West,37
+2019,regular,401117523,7,2019-10-13T02:30:00.000Z,False,San Diego State,Mountain West,26,Wyoming,Mountain West,22
+2019,regular,401114168,7,2019-10-13T03:00:00.000Z,False,Arizona,Pac-12,27,Washington,Pac-12,51
+2019,regular,401121953,8,2019-10-17T00:00:00.000Z,False,Troy,Sun Belt,37,South Alabama,Sun Belt,13
+2019,regular,401128493,8,2019-10-17T23:00:00.000Z,False,Chattanooga,Southern,16,East Tennessee State,Southern,13
+2019,regular,401121954,8,2019-10-17T23:30:00.000Z,False,Arkansas State,Sun Belt,20,Louisiana,Sun Belt,37
+2019,regular,401114210,8,2019-10-18T01:00:00.000Z,False,Stanford,Pac-12,16,UCLA,Pac-12,34
+2019,regular,401114288,8,2019-10-18T22:30:00.000Z,False,Florida Atlantic,Conference USA,31,Marshall,Conference USA,36
+2019,regular,401112483,8,2019-10-18T23:00:00.000Z,False,Syracuse,ACC,20,Pittsburgh,ACC,27
+2019,regular,401112248,8,2019-10-19T00:30:00.000Z,False,Northwestern,Big Ten,3,Ohio State,Big Ten,52
+2019,regular,401117528,8,2019-10-19T02:00:00.000Z,False,Fresno State,Mountain West,56,UNLV,Mountain West,27
+2019,regular,401127225,8,2019-10-19T14:30:00.000Z,False,South Carolina State,MEAC,24,Morgan State,MEAC,10
+2019,regular,401119283,8,2019-10-19T16:00:00.000Z,False,Ohio,Mid-American,45,Kent State,Mid-American,38
+2019,regular,401110825,8,2019-10-19T16:00:00.000Z,False,Arkansas,SEC,10,Auburn,SEC,51
+2019,regular,401136605,8,2019-10-19T16:00:00.000Z,False,Wagner,NEC,13,Robert Morris,NEC,21
+2019,regular,401112090,8,2019-10-19T16:00:00.000Z,False,Texas Tech,Big 12,24,Iowa State,Big 12,34
+2019,regular,401112119,8,2019-10-19T16:00:00.000Z,False,Oklahoma,Big 12,52,West Virginia,Big 12,14
+2019,regular,401110829,8,2019-10-19T16:00:00.000Z,False,South Carolina,SEC,27,Florida,SEC,38
+2019,regular,401112484,8,2019-10-19T16:00:00.000Z,False,Boston College,ACC,45,NC State,ACC,24
+2019,regular,401117886,8,2019-10-19T16:00:00.000Z,False,UConn,American Athletic,17,Houston,American Athletic,24
+2019,regular,401128634,8,2019-10-19T16:00:00.000Z,False,Georgetown,Patriot,14,Lafayette,Patriot,10
+2019,regular,401136600,8,2019-10-19T16:00:00.000Z,False,Sacred Heart,NEC,6,Duquesne,NEC,20
+2019,regular,401112196,8,2019-10-19T16:00:00.000Z,False,Iowa,Big Ten,26,Purdue,Big Ten,20
+2019,regular,401112151,8,2019-10-19T16:00:00.000Z,False,Illinois,Big Ten,24,Wisconsin,Big Ten,23
+2019,regular,401112485,8,2019-10-19T16:00:00.000Z,False,Louisville,ACC,10,Clemson,ACC,45
+2019,regular,401128595,8,2019-10-19T16:00:00.000Z,False,Marist,Pioneer,7,Dartmouth,Ivy,49
+2019,regular,401112488,8,2019-10-19T16:00:00.000Z,False,Miami,ACC,21,Georgia Tech,ACC,28
+2019,regular,401128653,8,2019-10-19T16:30:00.000Z,False,Brown,Ivy,22,Princeton,Ivy,65
+2019,regular,401127273,8,2019-10-19T17:00:00.000Z,False,Indiana State,MVFC,23,South Dakota State,MVFC,42
+2019,regular,401128502,8,2019-10-19T17:00:00.000Z,False,Furman,Southern,10,The Citadel,Southern,27
+2019,regular,401136612,8,2019-10-19T17:00:00.000Z,False,Long Island University,NEC,0,Saint Francis,NEC,30
+2019,regular,401128569,8,2019-10-19T17:00:00.000Z,False,Jacksonville,Pioneer,19,Davidson,Pioneer,49
+2019,regular,401127010,8,2019-10-19T17:00:00.000Z,False,Monmouth,Big South,49,Gardner-Webb,Big South,28
+2019,regular,401127083,8,2019-10-19T17:00:00.000Z,False,Delaware,CAA,16,New Hampshire,CAA,10
+2019,regular,401128639,8,2019-10-19T17:00:00.000Z,False,Holy Cross,Patriot,21,Harvard,Ivy,31
+2019,regular,401128650,8,2019-10-19T17:00:00.000Z,False,Fordham,Patriot,27,Lehigh,Patriot,30
+2019,regular,401127422,8,2019-10-19T17:00:00.000Z,False,Central Connecticut,NEC,52,Bryant,NEC,14
+2019,regular,401128948,8,2019-10-19T17:30:00.000Z,False,Columbia,Ivy,44,Pennsylvania,Ivy,6
+2019,regular,401128532,8,2019-10-19T17:30:00.000Z,False,Wofford,Southern,59,Western Carolina,Southern,7
+2019,regular,401128625,8,2019-10-19T17:30:00.000Z,False,Cornell,Ivy,20,Colgate,Patriot,21
+2019,regular,401127415,8,2019-10-19T18:00:00.000Z,False,Delaware State,MEAC,21,Merrimack,NEC,30
+2019,regular,401128558,8,2019-10-19T18:00:00.000Z,False,Morehead State,Pioneer,31,Butler,Pioneer,20
+2019,regular,401119282,8,2019-10-19T18:00:00.000Z,False,Bowling Green,Mid-American,20,Central Michigan,Mid-American,38
+2019,regular,401127263,8,2019-10-19T18:00:00.000Z,False,Western Illinois,MVFC,14,Illinois State,MVFC,28
+2019,regular,401119285,8,2019-10-19T18:00:00.000Z,False,Ball State,Mid-American,52,Toledo,Mid-American,14
+2019,regular,401119284,8,2019-10-19T18:30:00.000Z,False,Miami (OH),Mid-American,27,Northern Illinois,Mid-American,24
+2019,regular,401114178,8,2019-10-19T18:30:00.000Z,False,California,Pac-12,17,Oregon State,Pac-12,21
+2019,regular,401127025,8,2019-10-19T18:30:00.000Z,False,Presbyterian,Big South,10,Kennesaw State,Big South,55
+2019,regular,401112109,8,2019-10-19T18:30:00.000Z,False,Kansas State,Big 12,24,TCU,Big 12,17
+2019,regular,401117526,8,2019-10-19T19:00:00.000Z,False,Wyoming,Mountain West,23,New Mexico,Mountain West,10
+2019,regular,401127299,8,2019-10-19T19:00:00.000Z,False,Southern Illinois,MVFC,35,Youngstown State,MVFC,10
+2019,regular,401121956,8,2019-10-19T19:00:00.000Z,False,Georgia Southern,Sun Belt,30,Coastal Carolina,Sun Belt,27
+2019,regular,401128357,8,2019-10-19T19:00:00.000Z,False,Murray State,OVC,27,Eastern Kentucky,OVC,34
+2019,regular,401126964,8,2019-10-19T19:00:00.000Z,False,Northern Colorado,Big Sky,30,Portland State,Big Sky,38
+2019,regular,401128484,8,2019-10-19T19:00:00.000Z,False,Prairie View A&M,SWAC,51,Virginia Lynchburg,,0
+2019,regular,401128475,8,2019-10-19T19:00:00.000Z,False,Mississippi Valley State,SWAC,28,Jackson State,SWAC,31
+2019,regular,401128944,8,2019-10-19T19:00:00.000Z,False,UT Martin,OVC,27,Eastern Illinois,OVC,18
+2019,regular,401128488,8,2019-10-19T19:00:00.000Z,False,Texas Southern,SWAC,21,Southern,SWAC,28
+2019,regular,401128521,8,2019-10-19T19:00:00.000Z,False,Mercer,Southern,34,VMI,Southern,27
+2019,regular,401128722,8,2019-10-19T19:00:00.000Z,False,Sam Houston,Southland,17,Nicholls,Southland,0
+2019,regular,401127084,8,2019-10-19T19:30:00.000Z,False,UAlbany,CAA,35,Rhode Island,CAA,28
+2019,regular,401127085,8,2019-10-19T19:30:00.000Z,False,William & Mary,CAA,10,James Madison,CAA,38
+2019,regular,401127253,8,2019-10-19T19:30:00.000Z,False,North Dakota State,MVFC,22,Missouri State,MVFC,0
+2019,regular,401117883,8,2019-10-19T19:30:00.000Z,False,Navy,American Athletic,35,South Florida,American Athletic,3
+2019,regular,401117887,8,2019-10-19T19:30:00.000Z,False,SMU,American Athletic,45,Temple,American Athletic,21
+2019,regular,401112489,8,2019-10-19T19:30:00.000Z,False,Virginia Tech,ACC,43,North Carolina,ACC,41
+2019,regular,401119281,8,2019-10-19T19:30:00.000Z,False,Akron,Mid-American,0,Buffalo,Mid-American,21
+2019,regular,401112163,8,2019-10-19T19:30:00.000Z,False,Maryland,Big Ten,28,Indiana,Big Ten,34
+2019,regular,401114196,8,2019-10-19T19:30:00.000Z,False,Washington,Pac-12,31,Oregon,Pac-12,35
+2019,regular,401114289,8,2019-10-19T19:30:00.000Z,False,Louisiana Tech,Conference USA,45,Southern Miss,Conference USA,30
+2019,regular,401117885,8,2019-10-19T19:30:00.000Z,False,Cincinnati,American Athletic,24,Tulsa,American Athletic,13
+2019,regular,401112234,8,2019-10-19T19:30:00.000Z,False,Rutgers,Big Ten,7,Minnesota,Big Ten,42
+2019,regular,401110828,8,2019-10-19T19:30:00.000Z,False,Mississippi State,SEC,13,LSU,SEC,36
+2019,regular,401112486,8,2019-10-19T19:30:00.000Z,False,Virginia,ACC,48,Duke,ACC,14
+2019,regular,401121955,8,2019-10-19T19:30:00.000Z,False,App State,Sun Belt,52,UL Monroe,Sun Belt,7
+2019,regular,401128578,8,2019-10-19T20:00:00.000Z,False,Stetson,Pioneer,38,Dayton,Pioneer,21
+2019,regular,401114291,8,2019-10-19T20:00:00.000Z,False,UAB,Conference USA,38,Old Dominion,Conference USA,14
+2019,regular,401128665,8,2019-10-19T20:00:00.000Z,False,Abilene Christian,Southland,31,Stephen F. Austin,Southland,24
+2019,regular,401114290,8,2019-10-19T20:00:00.000Z,False,North Texas,Conference USA,33,Middle Tennessee,Conference USA,30
+2019,regular,401114286,8,2019-10-19T20:00:00.000Z,False,Western Kentucky,Conference USA,30,Charlotte,Conference USA,14
+2019,regular,401112079,8,2019-10-19T20:00:00.000Z,False,Oklahoma State,Big 12,27,Baylor,Big 12,45
+2019,regular,401110830,8,2019-10-19T20:00:00.000Z,False,Vanderbilt,SEC,21,Missouri,SEC,14
+2019,regular,401128366,8,2019-10-19T20:00:00.000Z,False,Jacksonville State,OVC,21,Southeast Missouri State,OVC,24
+2019,regular,401127087,8,2019-10-19T20:00:00.000Z,False,Towson,CAA,56,Bucknell,Patriot,7
+2019,regular,401126990,8,2019-10-19T20:00:00.000Z,False,Campbell,Big South,31,Hampton,Big South,16
+2019,regular,401126958,8,2019-10-19T20:00:00.000Z,False,Weber State,Big Sky,51,Northern Arizona,Big Sky,28
+2019,regular,401128604,8,2019-10-19T21:00:00.000Z,False,San Diego,Pioneer,42,Valparaiso,Pioneer,17
+2019,regular,401128697,8,2019-10-19T21:00:00.000Z,False,McNeese,Southland,42,Houston Christian,Southland,27
+2019,regular,401128705,8,2019-10-19T21:00:00.000Z,False,Incarnate Word,Southland,35,Lamar,Southland,17
+2019,regular,401127285,8,2019-10-19T21:00:00.000Z,False,Northern Iowa,MVFC,42,South Dakota,MVFC,27
+2019,regular,401127433,8,2019-10-19T21:30:00.000Z,False,Tennessee State,OVC,26,Austin Peay,OVC,24
+2019,regular,401126925,8,2019-10-19T21:30:00.000Z,False,Idaho,Big Sky,45,Idaho State,Big Sky,21
+2019,regular,401114158,8,2019-10-19T22:00:00.000Z,False,Utah,Pac-12,21,Arizona State,Pac-12,3
+2019,regular,401114292,8,2019-10-19T22:00:00.000Z,False,UTSA,Conference USA,31,Rice,Conference USA,27
+2019,regular,401110826,8,2019-10-19T22:00:00.000Z,False,Georgia,SEC,21,Kentucky,SEC,0
+2019,regular,401127086,8,2019-10-19T22:00:00.000Z,False,Richmond,CAA,27,Yale,Ivy,28
+2019,regular,401114351,8,2019-10-19T22:00:00.000Z,False,Liberty,FBS Independents,59,Maine,CAA,44
+2019,regular,401114287,8,2019-10-19T23:00:00.000Z,False,Florida International,Conference USA,32,UTEP,Conference USA,17
+2019,regular,401117884,8,2019-10-19T23:00:00.000Z,False,UCF,American Athletic,41,East Carolina,American Athletic,28
+2019,regular,401119286,8,2019-10-19T23:00:00.000Z,False,Eastern Michigan,Mid-American,34,Western Michigan,Mid-American,27
+2019,regular,401117888,8,2019-10-19T23:00:00.000Z,False,Memphis,American Athletic,47,Tulane,American Athletic,17
+2019,regular,401114187,8,2019-10-19T23:00:00.000Z,False,Washington State,Pac-12,41,Colorado,Pac-12,10
+2019,regular,401114329,8,2019-10-19T23:00:00.000Z,False,Georgia State,Sun Belt,28,Army,FBS Independents,21
+2019,regular,401127210,8,2019-10-19T23:00:00.000Z,False,Bethune-Cookman,MEAC,35,Norfolk State,MEAC,22
+2019,regular,401127001,8,2019-10-19T23:00:00.000Z,False,North Alabama,Big South,20,Charleston Southern,Big South,25
+2019,regular,401128683,8,2019-10-19T23:00:00.000Z,False,Northwestern State,Southland,30,Central Arkansas,Southland,31
+2019,regular,401112102,8,2019-10-19T23:00:00.000Z,False,Texas,Big 12,50,Kansas,Big 12,48
+2019,regular,401117529,8,2019-10-19T23:00:00.000Z,False,San José State,Mountain West,17,San Diego State,Mountain West,27
+2019,regular,401112487,8,2019-10-19T23:30:00.000Z,False,Wake Forest,ACC,22,Florida State,ACC,20
+2019,regular,401112226,8,2019-10-19T23:30:00.000Z,False,Penn State,Big Ten,28,Michigan,Big Ten,21
+2019,regular,401110827,8,2019-10-19T23:30:00.000Z,False,Ole Miss,SEC,17,Texas A&M,SEC,24
+2019,regular,401126906,8,2019-10-20T00:05:00.000Z,False,Cal Poly,Big Sky,26,North Dakota,FCS Independents,30
+2019,regular,401126977,8,2019-10-20T00:05:00.000Z,False,Southern Utah,Big Sky,25,UC Davis,Big Sky,33
+2019,regular,401110824,8,2019-10-20T01:00:00.000Z,False,Alabama,SEC,35,Tennessee,SEC,13
+2019,regular,401126941,8,2019-10-20T01:00:00.000Z,False,Sacramento State,Big Sky,49,Montana,Big Sky,22
+2019,regular,401114169,8,2019-10-20T01:30:00.000Z,False,USC,Pac-12,41,Arizona,Pac-12,14
+2019,regular,401117527,8,2019-10-20T02:15:00.000Z,False,Utah State,Mountain West,36,Nevada,Mountain West,10
+2019,regular,401117215,8,2019-10-20T02:15:00.000Z,False,BYU,FBS Independents,28,Boise State,Mountain West,25
+2019,regular,401117525,8,2019-10-20T03:00:00.000Z,False,Hawai'i,Mountain West,26,Air Force,Mountain West,56
+2019,regular,401180853,9,2019-10-20T18:00:00.000Z,False,Florida A&M,MEAC,34,North Carolina A&T,MEAC,31
+2019,regular,401128476,9,2019-10-24T23:30:00.000Z,False,Prairie View A&M,SWAC,35,Jackson State,SWAC,38
+2019,regular,401117889,9,2019-10-24T23:30:00.000Z,False,Houston,American Athletic,31,SMU,American Athletic,34
+2019,regular,401128691,9,2019-10-25T22:00:00.000Z,False,Dartmouth,Ivy,59,Columbia,Ivy,24
+2019,regular,401114188,9,2019-10-26T01:00:00.000Z,False,Colorado,Pac-12,31,USC,Pac-12,35
+2019,regular,401136835,9,2019-10-26T16:00:00.000Z,False,Yale,Ivy,46,Pennsylvania,Ivy,41
+2019,regular,401127423,9,2019-10-26T16:00:00.000Z,False,Robert Morris,NEC,24,Bryant,NEC,20
+2019,regular,401112494,9,2019-10-26T16:00:00.000Z,False,Pittsburgh,ACC,12,Miami,ACC,16
+2019,regular,401112266,9,2019-10-26T16:00:00.000Z,False,Rutgers,Big Ten,44,Liberty,FBS Independents,34
+2019,regular,401112197,9,2019-10-26T16:00:00.000Z,False,Northwestern,Big Ten,0,Iowa,Big Ten,20
+2019,regular,401121957,9,2019-10-26T16:00:00.000Z,False,South Alabama,Sun Belt,3,App State,Sun Belt,30
+2019,regular,401119288,9,2019-10-26T16:00:00.000Z,False,Western Michigan,Mid-American,49,Bowling Green,Mid-American,10
+2019,regular,401110835,9,2019-10-26T16:00:00.000Z,False,Texas A&M,SEC,49,Mississippi State,SEC,30
+2019,regular,401128579,9,2019-10-26T16:00:00.000Z,False,Dayton,Pioneer,38,San Diego,Pioneer,50
+2019,regular,401112110,9,2019-10-26T16:00:00.000Z,False,Kansas State,Big 12,48,Oklahoma,Big 12,41
+2019,regular,401114330,9,2019-10-26T16:00:00.000Z,False,Army,FBS Independents,29,San José State,Mountain West,34
+2019,regular,401136610,9,2019-10-26T16:00:00.000Z,False,Saint Francis,NEC,33,Sacred Heart,NEC,36
+2019,regular,401112254,9,2019-10-26T16:00:00.000Z,False,Ohio State,Big Ten,38,Wisconsin,Big Ten,7
+2019,regular,401112152,9,2019-10-26T16:00:00.000Z,False,Purdue,Big Ten,6,Illinois,Big Ten,24
+2019,regular,401136594,9,2019-10-26T16:00:00.000Z,False,Central Connecticut,NEC,28,Long Island University,NEC,0
+2019,regular,401128635,9,2019-10-26T16:30:00.000Z,False,Lehigh,Patriot,27,Georgetown,Patriot,24
+2019,regular,401114298,9,2019-10-26T17:00:00.000Z,False,Rice,Conference USA,6,Southern Miss,Conference USA,20
+2019,regular,401127089,9,2019-10-26T17:00:00.000Z,False,Rhode Island,CAA,13,Elon,CAA,38
+2019,regular,401127091,9,2019-10-26T17:00:00.000Z,False,Maine,CAA,34,William & Mary,CAA,25
+2019,regular,401127237,9,2019-10-26T17:00:00.000Z,False,North Carolina A&T,MEAC,64,Howard,MEAC,6
+2019,regular,401127026,9,2019-10-26T17:00:00.000Z,False,Merrimack,NEC,24,Presbyterian,Big South,21
+2019,regular,401127088,9,2019-10-26T17:00:00.000Z,False,Delaware,CAA,25,Richmond,CAA,35
+2019,regular,401128511,9,2019-10-26T17:00:00.000Z,False,Samford,Southern,24,East Tennessee State,Southern,17
+2019,regular,401126950,9,2019-10-26T17:00:00.000Z,False,North Dakota,FCS Independents,16,Montana State,Big Sky,12
+2019,regular,401136601,9,2019-10-26T17:00:00.000Z,False,Duquesne,NEC,28,Wagner,NEC,24
+2019,regular,401128570,9,2019-10-26T17:00:00.000Z,False,Davidson,Pioneer,21,Marist,Pioneer,27
+2019,regular,401128670,9,2019-10-26T17:00:00.000Z,False,Princeton,Ivy,30,Harvard,Ivy,24
+2019,regular,401128626,9,2019-10-26T17:00:00.000Z,False,Holy Cross,Patriot,31,Colgate,Patriot,10
+2019,regular,401128609,9,2019-10-26T17:00:00.000Z,False,Valparaiso,Pioneer,19,Stetson,Pioneer,10
+2019,regular,401128559,9,2019-10-26T17:00:00.000Z,False,Butler,Pioneer,24,Jacksonville,Pioneer,14
+2019,regular,401128654,9,2019-10-26T17:30:00.000Z,False,Cornell,Ivy,37,Brown,Ivy,35
+2019,regular,401128494,9,2019-10-26T17:30:00.000Z,False,Wofford,Southern,35,Chattanooga,Southern,34
+2019,regular,401126991,9,2019-10-26T17:30:00.000Z,False,Gardner-Webb,Big South,47,Campbell,Big South,49
+2019,regular,401128599,9,2019-10-26T18:00:00.000Z,False,Drake,Pioneer,36,Morehead State,Pioneer,17
+2019,regular,401127242,9,2019-10-26T18:00:00.000Z,False,North Carolina Central,MEAC,30,Delaware State,MEAC,23
+2019,regular,401127037,9,2019-10-26T18:00:00.000Z,False,Hampton,Big South,56,Virginia Lynchburg,,6
+2019,regular,401128379,9,2019-10-26T18:00:00.000Z,False,Southeast Missouri State,OVC,17,UT Martin,OVC,10
+2019,regular,401128503,9,2019-10-26T18:00:00.000Z,False,The Citadel,Southern,35,Mercer,Southern,24
+2019,regular,401126917,9,2019-10-26T18:00:00.000Z,False,Montana,Big Sky,34,Eastern Washington,Big Sky,17
+2019,regular,401119292,9,2019-10-26T18:00:00.000Z,False,Ball State,Mid-American,21,Ohio,Mid-American,34
+2019,regular,401117533,9,2019-10-26T18:00:00.000Z,False,Wyoming,Mountain West,31,Nevada,Mountain West,3
+2019,regular,401127302,9,2019-10-26T18:00:00.000Z,False,Youngstown State,MVFC,59,Western Illinois,MVFC,14
+2019,regular,401127434,9,2019-10-26T18:30:00.000Z,False,Tennessee Tech,OVC,21,Austin Peay,OVC,58
+2019,regular,401114297,9,2019-10-26T18:30:00.000Z,False,Marshall,Conference USA,26,Western Kentucky,Conference USA,23
+2019,regular,401127279,9,2019-10-26T19:00:00.000Z,False,South Dakota State,MVFC,16,North Dakota State,MVFC,23
+2019,regular,401127254,9,2019-10-26T19:00:00.000Z,False,Missouri State,MVFC,6,Northern Iowa,MVFC,29
+2019,regular,401128457,9,2019-10-26T19:00:00.000Z,False,Alcorn State,SWAC,27,Southern,SWAC,13
+2019,regular,401114344,9,2019-10-26T19:00:00.000Z,False,Georgia Southern,Sun Belt,41,New Mexico State,FBS Independents,7
+2019,regular,401128358,9,2019-10-26T19:00:00.000Z,False,Eastern Illinois,OVC,6,Eastern Kentucky,OVC,33
+2019,regular,401128480,9,2019-10-26T19:00:00.000Z,False,Mississippi Valley State,SWAC,35,Texas Southern,SWAC,14
+2019,regular,401127033,9,2019-10-26T19:00:00.000Z,False,Kennesaw State,Big South,41,North Alabama,Big South,17
+2019,regular,401127220,9,2019-10-26T19:00:00.000Z,False,Morgan State,MEAC,12,Florida A&M,MEAC,24
+2019,regular,401128698,9,2019-10-26T19:00:00.000Z,False,Houston Christian,Southland,13,SE Louisiana,Southland,52
+2019,regular,401127264,9,2019-10-26T19:00:00.000Z,False,Illinois State,MVFC,24,Indiana State,MVFC,7
+2019,regular,401119287,9,2019-10-26T19:30:00.000Z,False,Northern Illinois,Mid-American,49,Akron,Mid-American,0
+2019,regular,401114170,9,2019-10-26T19:30:00.000Z,False,Stanford,Pac-12,41,Arizona,Pac-12,31
+2019,regular,401110833,9,2019-10-26T19:30:00.000Z,False,LSU,SEC,23,Auburn,SEC,20
+2019,regular,401112493,9,2019-10-26T19:30:00.000Z,False,Louisville,ACC,28,Virginia,ACC,21
+2019,regular,401114357,9,2019-10-26T19:30:00.000Z,False,Massachusetts,FBS Independents,35,UConn,American Athletic,56
+2019,regular,401119289,9,2019-10-26T19:30:00.000Z,False,Buffalo,Mid-American,43,Central Michigan,Mid-American,20
+2019,regular,401112207,9,2019-10-26T19:30:00.000Z,False,Minnesota,Big Ten,52,Maryland,Big Ten,10
+2019,regular,401117890,9,2019-10-26T19:30:00.000Z,False,Navy,American Athletic,41,Tulane,American Athletic,38
+2019,regular,401114293,9,2019-10-26T19:30:00.000Z,False,Charlotte,Conference USA,39,North Texas,Conference USA,38
+2019,regular,401127090,9,2019-10-26T19:30:00.000Z,False,James Madison,CAA,27,Towson,CAA,10
+2019,regular,401128439,9,2019-10-26T19:30:00.000Z,False,Alabama State,SWAC,41,Alabama A&M,SWAC,43
+2019,regular,401112132,9,2019-10-26T19:30:00.000Z,False,TCU,Big 12,37,Texas,Big 12,27
+2019,regular,401112091,9,2019-10-26T19:30:00.000Z,False,Iowa State,Big 12,27,Oklahoma State,Big 12,34
+2019,regular,401114294,9,2019-10-26T19:30:00.000Z,False,Middle Tennessee,Conference USA,50,Florida International,Conference USA,17
+2019,regular,401114295,9,2019-10-26T19:30:00.000Z,False,Old Dominion,Conference USA,3,Florida Atlantic,Conference USA,41
+2019,regular,401119290,9,2019-10-26T19:30:00.000Z,False,Toledo,Mid-American,37,Eastern Michigan,Mid-American,34
+2019,regular,401119291,9,2019-10-26T19:30:00.000Z,False,Kent State,Mid-American,16,Miami (OH),Mid-American,23
+2019,regular,401112218,9,2019-10-26T19:30:00.000Z,False,Michigan State,Big Ten,7,Penn State,Big Ten,28
+2019,regular,401112492,9,2019-10-26T19:30:00.000Z,False,Florida State,ACC,35,Syracuse,ACC,17
+2019,regular,401112164,9,2019-10-26T19:30:00.000Z,False,Nebraska,Big Ten,31,Indiana,Big Ten,38
+2019,regular,401127092,9,2019-10-26T19:30:00.000Z,False,Villanova,CAA,35,Stony Brook,CAA,36
+2019,regular,401128618,9,2019-10-26T19:30:00.000Z,False,Lafayette,Patriot,21,Bucknell,Patriot,17
+2019,regular,401128516,9,2019-10-26T19:30:00.000Z,False,Western Carolina,Southern,7,Furman,Southern,28
+2019,regular,401117892,9,2019-10-26T19:45:00.000Z,False,East Carolina,American Athletic,20,South Florida,American Athletic,45
+2019,regular,401117532,9,2019-10-26T20:00:00.000Z,False,New Mexico,Mountain West,31,Hawai'i,Mountain West,45
+2019,regular,401128666,9,2019-10-26T20:00:00.000Z,False,Nicholls,Southland,31,Abilene Christian,Southland,37
+2019,regular,401112491,9,2019-10-26T20:00:00.000Z,False,North Carolina,ACC,20,Duke,ACC,17
+2019,regular,401128717,9,2019-10-26T20:00:00.000Z,False,Stephen F. Austin,Southland,10,McNeese,Southland,33
+2019,regular,401110834,9,2019-10-26T20:00:00.000Z,False,Tennessee,SEC,41,South Carolina,SEC,21
+2019,regular,401127211,9,2019-10-26T20:00:00.000Z,False,Bethune-Cookman,MEAC,19,South Carolina State,MEAC,27
+2019,regular,401128367,9,2019-10-26T20:00:00.000Z,False,Jacksonville State,OVC,14,Murray State,OVC,12
+2019,regular,401128464,9,2019-10-26T20:00:00.000Z,False,Arkansas-Pine Bluff,SWAC,33,Grambling,SWAC,39
+2019,regular,401126934,9,2019-10-26T20:05:00.000Z,False,Southern Utah,Big Sky,59,Idaho State,Big Sky,34
+2019,regular,401127289,9,2019-10-26T21:00:00.000Z,False,South Dakota,MVFC,28,Southern Illinois,MVFC,48
+2019,regular,401128706,9,2019-10-26T21:00:00.000Z,False,Incarnate Word,Southland,41,Northwestern State,Southland,44
+2019,regular,401127002,9,2019-10-26T22:00:00.000Z,False,Charleston Southern,Big South,13,Monmouth,Big South,35
+2019,regular,401117893,9,2019-10-26T23:00:00.000Z,False,Tulsa,American Athletic,41,Memphis,American Athletic,42
+2019,regular,401121958,9,2019-10-26T23:00:00.000Z,False,Arkansas State,Sun Belt,38,Texas State,Sun Belt,14
+2019,regular,401128684,9,2019-10-26T23:00:00.000Z,False,Central Arkansas,Southland,29,Sam Houston,Southland,25
+2019,regular,401117891,9,2019-10-26T23:00:00.000Z,False,Temple,American Athletic,21,UCF,American Athletic,63
+2019,regular,401126959,9,2019-10-26T23:00:00.000Z,False,Northern Arizona,Big Sky,31,Portland State,Big Sky,29
+2019,regular,401112103,9,2019-10-26T23:00:00.000Z,False,Kansas,Big 12,37,Texas Tech,Big 12,34
+2019,regular,401121959,9,2019-10-26T23:00:00.000Z,False,Georgia State,Sun Belt,52,Troy,Sun Belt,33
+2019,regular,401110831,9,2019-10-26T23:00:00.000Z,False,Alabama,SEC,48,Arkansas,SEC,7
+2019,regular,401126983,9,2019-10-26T23:00:00.000Z,False,UC Davis,Big Sky,20,Weber State,Big Sky,36
+2019,regular,401114159,9,2019-10-26T23:30:00.000Z,False,UCLA,Pac-12,42,Arizona State,Pac-12,32
+2019,regular,401117531,9,2019-10-26T23:30:00.000Z,False,Fresno State,Mountain West,31,Colorado State,Mountain West,41
+2019,regular,401110832,9,2019-10-26T23:30:00.000Z,False,Kentucky,SEC,29,Missouri,SEC,7
+2019,regular,401112490,9,2019-10-26T23:30:00.000Z,False,Clemson,ACC,59,Boston College,ACC,7
+2019,regular,401112227,9,2019-10-26T23:30:00.000Z,False,Michigan,Big Ten,45,Notre Dame,FBS Independents,14
+2019,regular,401126907,9,2019-10-27T00:00:00.000Z,False,Cal Poly,Big Sky,14,Sacramento State,Big Sky,38
+2019,regular,401114296,9,2019-10-27T00:00:00.000Z,False,UTEP,Conference USA,21,Louisiana Tech,Conference USA,42
+2019,regular,401114179,9,2019-10-27T02:00:00.000Z,False,Utah,Pac-12,35,California,Pac-12,0
+2019,regular,401117530,9,2019-10-27T02:15:00.000Z,False,Air Force,Mountain West,31,Utah State,Mountain West,7
+2019,regular,401117534,9,2019-10-27T02:30:00.000Z,False,UNLV,Mountain West,17,San Diego State,Mountain West,20
+2019,regular,401114197,9,2019-10-27T02:30:00.000Z,False,Oregon,Pac-12,37,Washington State,Pac-12,35
+2019,regular,401121960,10,2019-11-01T00:00:00.000Z,False,App State,Sun Belt,21,Georgia Southern,Sun Belt,24
+2019,regular,401112080,10,2019-11-01T00:00:00.000Z,False,Baylor,Big 12,17,West Virginia,Big 12,14
+2019,regular,401128671,10,2019-11-01T22:00:00.000Z,False,Cornell,Ivy,7,Princeton,Ivy,21
+2019,regular,401117894,10,2019-11-02T00:00:00.000Z,False,UConn,American Athletic,10,Navy,American Athletic,56
+2019,regular,401112500,10,2019-11-02T16:00:00.000Z,False,Wake Forest,ACC,44,NC State,ACC,10
+2019,regular,401119295,10,2019-11-02T16:00:00.000Z,False,Central Michigan,Mid-American,48,Northern Illinois,Mid-American,10
+2019,regular,401112208,10,2019-11-02T16:00:00.000Z,False,Maryland,Big Ten,7,Michigan,Big Ten,38
+2019,regular,401114352,10,2019-11-02T16:00:00.000Z,False,Massachusetts,FBS Independents,21,Liberty,FBS Independents,63
+2019,regular,401110841,10,2019-11-02T16:00:00.000Z,False,Texas A&M,SEC,45,UTSA,Conference USA,14
+2019,regular,401119294,10,2019-11-02T16:00:00.000Z,False,Eastern Michigan,Mid-American,14,Buffalo,Mid-American,43
+2019,regular,401112243,10,2019-11-02T16:00:00.000Z,False,Purdue,Big Ten,31,Nebraska,Big Ten,27
+2019,regular,401117895,10,2019-11-02T16:00:00.000Z,False,UCF,American Athletic,44,Houston,American Athletic,29
+2019,regular,401114300,10,2019-11-02T16:00:00.000Z,False,Florida International,Conference USA,24,Old Dominion,Conference USA,17
+2019,regular,401112495,10,2019-11-02T16:00:00.000Z,False,Syracuse,ACC,27,Boston College,ACC,58
+2019,regular,401136602,10,2019-11-02T16:00:00.000Z,False,Duquesne,NEC,30,Saint Francis,NEC,21
+2019,regular,401128627,10,2019-11-02T16:00:00.000Z,False,Georgetown,Patriot,14,Colgate,Patriot,24
+2019,regular,401128560,10,2019-11-02T16:00:00.000Z,False,Marist,Pioneer,37,Butler,Pioneer,27
+2019,regular,401136606,10,2019-11-02T16:00:00.000Z,False,Robert Morris,NEC,28,Long Island University,NEC,17
+2019,regular,401136595,10,2019-11-02T16:00:00.000Z,False,Wagner,NEC,13,Central Connecticut,NEC,27
+2019,regular,401128949,10,2019-11-02T16:00:00.000Z,False,Yale,Ivy,45,Columbia,Ivy,10
+2019,regular,401128640,10,2019-11-02T16:30:00.000Z,False,Lehigh,Patriot,17,Holy Cross,Patriot,24
+2019,regular,401128646,10,2019-11-02T16:30:00.000Z,False,Lafayette,Patriot,38,Fordham,Patriot,34
+2019,regular,401136282,10,2019-11-02T17:00:00.000Z,False,Rhode Island,CAA,42,Merrimack,NEC,14
+2019,regular,401128655,10,2019-11-02T17:00:00.000Z,False,Pennsylvania,Ivy,38,Brown,Ivy,36
+2019,regular,401128580,10,2019-11-02T17:00:00.000Z,False,Morehead State,Pioneer,35,Dayton,Pioneer,49
+2019,regular,401128571,10,2019-11-02T17:00:00.000Z,False,Davidson,Pioneer,27,Valparaiso,Pioneer,21
+2019,regular,401127243,10,2019-11-02T17:00:00.000Z,False,Howard,MEAC,6,North Carolina Central,MEAC,28
+2019,regular,401127094,10,2019-11-02T17:00:00.000Z,False,New Hampshire,CAA,28,Villanova,CAA,20
+2019,regular,401127274,10,2019-11-02T17:00:00.000Z,False,Indiana State,MVFC,14,Southern Illinois,MVFC,23
+2019,regular,401127424,10,2019-11-02T17:00:00.000Z,False,Bryant,NEC,17,Sacred Heart,NEC,24
+2019,regular,401127265,10,2019-11-02T17:00:00.000Z,False,Illinois State,MVFC,10,Northern Iowa,MVFC,27
+2019,regular,401127027,10,2019-11-02T17:00:00.000Z,False,Hampton,Big South,40,Presbyterian,Big South,17
+2019,regular,401127435,10,2019-11-02T17:00:00.000Z,False,Eastern Kentucky,OVC,21,Austin Peay,OVC,28
+2019,regular,401128677,10,2019-11-02T17:00:00.000Z,False,Harvard,Ivy,6,Dartmouth,Ivy,9
+2019,regular,401128586,10,2019-11-02T17:00:00.000Z,False,Jacksonville,Pioneer,24,Stetson,Pioneer,27
+2019,regular,401127003,10,2019-11-02T17:30:00.000Z,False,Gardner-Webb,Big South,27,Charleston Southern,Big South,30
+2019,regular,401127238,10,2019-11-02T17:30:00.000Z,False,South Carolina State,MEAC,20,North Carolina A&T,MEAC,22
+2019,regular,401128530,10,2019-11-02T17:30:00.000Z,False,VMI,Southern,35,Western Carolina,Southern,43
+2019,regular,401128495,10,2019-11-02T18:00:00.000Z,False,Chattanooga,Southern,20,Furman,Southern,35
+2019,regular,401119293,10,2019-11-02T18:00:00.000Z,False,Bowling Green,Mid-American,35,Akron,Mid-American,6
+2019,regular,401126951,10,2019-11-02T18:00:00.000Z,False,Montana State,Big Sky,42,Southern Utah,Big Sky,7
+2019,regular,401127226,10,2019-11-02T18:00:00.000Z,False,Norfolk State,MEAC,48,Morgan State,MEAC,0
+2019,regular,401128449,10,2019-11-02T18:00:00.000Z,False,Mississippi Valley State,SWAC,0,Alabama State,SWAC,27
+2019,regular,401127097,10,2019-11-02T18:00:00.000Z,False,Towson,CAA,31,Delaware,CAA,24
+2019,regular,401128375,10,2019-11-02T18:00:00.000Z,False,Murray State,OVC,7,Tennessee Tech,OVC,17
+2019,regular,401127018,10,2019-11-02T18:00:00.000Z,False,Kennesaw State,Big South,21,Monmouth,Big South,45
+2019,regular,401127093,10,2019-11-02T18:00:00.000Z,False,Elon,CAA,29,William & Mary,CAA,31
+2019,regular,401127290,10,2019-11-02T18:00:00.000Z,False,Western Illinois,MVFC,38,South Dakota,MVFC,34
+2019,regular,401126992,10,2019-11-02T18:30:00.000Z,False,North Alabama,Big South,25,Campbell,Big South,24
+2019,regular,401112501,10,2019-11-02T18:30:00.000Z,False,Notre Dame,FBS Independents,21,Virginia Tech,ACC,20
+2019,regular,401128471,10,2019-11-02T19:00:00.000Z,False,Grambling,SWAC,55,Texas Southern,SWAC,20
+2019,regular,401128380,10,2019-11-02T19:00:00.000Z,False,Tennessee State,OVC,13,Southeast Missouri State,OVC,32
+2019,regular,401128368,10,2019-11-02T19:00:00.000Z,False,UT Martin,OVC,22,Jacksonville State,OVC,17
+2019,regular,401127255,10,2019-11-02T19:00:00.000Z,False,Missouri State,MVFC,14,South Dakota State,MVFC,35
+2019,regular,401127095,10,2019-11-02T19:00:00.000Z,False,Richmond,CAA,30,Stony Brook,CAA,10
+2019,regular,401121962,10,2019-11-02T19:00:00.000Z,False,Coastal Carolina,Sun Belt,36,Troy,Sun Belt,35
+2019,regular,401112104,10,2019-11-02T19:30:00.000Z,False,Kansas,Big 12,10,Kansas State,Big 12,38
+2019,regular,401128504,10,2019-11-02T19:30:00.000Z,False,East Tennessee State,Southern,27,The Citadel,Southern,31
+2019,regular,401114331,10,2019-11-02T19:30:00.000Z,False,Air Force,Mountain West,17,Army,FBS Independents,13
+2019,regular,401112153,10,2019-11-02T19:30:00.000Z,False,Illinois,Big Ten,38,Rutgers,Big Ten,10
+2019,regular,401112497,10,2019-11-02T19:30:00.000Z,False,Florida State,ACC,10,Miami,ACC,27
+2019,regular,401112127,10,2019-11-02T19:30:00.000Z,False,Oklahoma State,Big 12,34,TCU,Big 12,27
+2019,regular,401117538,10,2019-11-02T19:30:00.000Z,False,Colorado State,Mountain West,37,UNLV,Mountain West,17
+2019,regular,401114303,10,2019-11-02T19:30:00.000Z,False,North Texas,Conference USA,52,UTEP,Conference USA,26
+2019,regular,401127096,10,2019-11-02T19:30:00.000Z,False,UAlbany,CAA,31,Maine,CAA,47
+2019,regular,401114302,10,2019-11-02T19:30:00.000Z,False,Rice,Conference USA,7,Marshall,Conference USA,20
+2019,regular,401114299,10,2019-11-02T19:30:00.000Z,False,Charlotte,Conference USA,34,Middle Tennessee,Conference USA,20
+2019,regular,401121961,10,2019-11-02T19:30:00.000Z,False,UL Monroe,Sun Belt,41,Arkansas State,Sun Belt,48
+2019,regular,401110838,10,2019-11-02T19:30:00.000Z,True,Florida,SEC,17,Georgia,SEC,24
+2019,regular,401112498,10,2019-11-02T20:00:00.000Z,False,Georgia Tech,ACC,10,Pittsburgh,ACC,20
+2019,regular,401128685,10,2019-11-02T20:00:00.000Z,False,Lamar,Southland,17,Central Arkansas,Southland,45
+2019,regular,401112496,10,2019-11-02T20:00:00.000Z,False,Clemson,ACC,59,Wofford,Southern,14
+2019,regular,401117898,10,2019-11-02T20:00:00.000Z,False,Tulane,American Athletic,38,Tulsa,American Athletic,26
+2019,regular,401114227,10,2019-11-02T20:00:00.000Z,False,Washington,Pac-12,28,Utah,Pac-12,33
+2019,regular,401110836,10,2019-11-02T20:00:00.000Z,False,Arkansas,SEC,24,Mississippi State,SEC,54
+2019,regular,401127221,10,2019-11-02T20:00:00.000Z,False,Florida A&M,MEAC,52,Delaware State,MEAC,30
+2019,regular,401114301,10,2019-11-02T20:00:00.000Z,False,Western Kentucky,Conference USA,24,Florida Atlantic,Conference USA,35
+2019,regular,401126918,10,2019-11-02T20:05:00.000Z,False,Eastern Washington,Big Sky,66,Northern Arizona,Big Sky,38
+2019,regular,401114171,10,2019-11-02T20:30:00.000Z,False,Arizona,Pac-12,38,Oregon State,Pac-12,56
+2019,regular,401126935,10,2019-11-02T20:30:00.000Z,False,Idaho State,Big Sky,20,Northern Colorado,Big Sky,26
+2019,regular,401128707,10,2019-11-02T21:00:00.000Z,False,Incarnate Word,Southland,23,Nicholls,Southland,27
+2019,regular,401128718,10,2019-11-02T21:00:00.000Z,False,McNeese,Southland,30,Northwestern State,Southland,20
+2019,regular,401126908,10,2019-11-02T21:00:00.000Z,False,Idaho,Big Sky,21,Cal Poly,Big Sky,9
+2019,regular,401128731,10,2019-11-02T21:00:00.000Z,False,SE Louisiana,Southland,47,Stephen F. Austin,Southland,30
+2019,regular,401121963,10,2019-11-02T21:00:00.000Z,False,Louisiana,Sun Belt,31,Texas State,Sun Belt,3
+2019,regular,401128440,10,2019-11-02T21:00:00.000Z,False,Southern,SWAC,35,Alabama A&M,SWAC,31
+2019,regular,401128605,10,2019-11-02T21:00:00.000Z,False,San Diego,Pioneer,49,Drake,Pioneer,7
+2019,regular,401126942,10,2019-11-02T21:05:00.000Z,False,Portland State,Big Sky,23,Montana,Big Sky,38
+2019,regular,401127280,10,2019-11-02T22:00:00.000Z,False,Youngstown State,MVFC,17,North Dakota State,MVFC,56
+2019,regular,401117896,10,2019-11-02T23:00:00.000Z,False,East Carolina,American Athletic,43,Cincinnati,American Athletic,46
+2019,regular,401128465,10,2019-11-02T23:00:00.000Z,False,Jackson State,SWAC,21,Arkansas-Pine Bluff,SWAC,12
+2019,regular,401110837,10,2019-11-02T23:00:00.000Z,False,Auburn,SEC,20,Ole Miss,SEC,14
+2019,regular,401128522,10,2019-11-02T23:00:00.000Z,False,Mercer,Southern,36,Samford,Southern,33
+2019,regular,401110840,10,2019-11-02T23:00:00.000Z,False,Tennessee,SEC,30,UAB,Conference USA,7
+2019,regular,401112165,10,2019-11-02T23:00:00.000Z,False,Indiana,Big Ten,34,Northwestern,Big Ten,3
+2019,regular,401112499,10,2019-11-02T23:30:00.000Z,False,North Carolina,ACC,31,Virginia,ACC,38
+2019,regular,401110839,10,2019-11-02T23:30:00.000Z,False,South Carolina,SEC,24,Vanderbilt,SEC,7
+2019,regular,401117897,10,2019-11-02T23:30:00.000Z,False,Memphis,American Athletic,54,SMU,American Athletic,48
+2019,regular,401114198,10,2019-11-03T00:00:00.000Z,False,USC,Pac-12,24,Oregon,Pac-12,56
+2019,regular,401126971,10,2019-11-03T01:00:00.000Z,False,Sacramento State,Big Sky,17,Weber State,Big Sky,36
+2019,regular,401114189,10,2019-11-03T01:00:00.000Z,False,UCLA,Pac-12,31,Colorado,Pac-12,14
+2019,regular,401117216,10,2019-11-03T02:00:00.000Z,False,Utah State,Mountain West,14,BYU,FBS Independents,42
+2019,regular,401117536,10,2019-11-03T02:30:00.000Z,False,Nevada,Mountain West,21,New Mexico,Mountain West,10
+2019,regular,401117535,10,2019-11-03T02:30:00.000Z,False,San José State,Mountain West,42,Boise State,Mountain West,52
+2019,regular,401117537,10,2019-11-03T03:59:00.000Z,False,Hawai'i,Mountain West,38,Fresno State,Mountain West,41
+2019,regular,401119297,11,2019-11-06T00:00:00.000Z,False,Toledo,Mid-American,35,Kent State,Mid-American,33
+2019,regular,401119296,11,2019-11-06T01:00:00.000Z,False,Western Michigan,Mid-American,35,Ball State,Mid-American,31
+2019,regular,401119298,11,2019-11-07T01:00:00.000Z,False,Ohio,Mid-American,21,Miami (OH),Mid-American,24
+2019,regular,401121964,11,2019-11-08T00:30:00.000Z,False,Coastal Carolina,Sun Belt,7,Louisiana,Sun Belt,48
+2019,regular,401117899,11,2019-11-08T01:00:00.000Z,False,South Florida,American Athletic,7,Temple,American Athletic,17
+2019,regular,401117900,11,2019-11-09T00:00:00.000Z,False,Tulsa,American Athletic,34,UCF,American Athletic,31
+2019,regular,401114205,11,2019-11-09T03:30:00.000Z,False,Oregon State,Pac-12,7,Washington,Pac-12,19
+2019,regular,401112081,11,2019-11-09T17:00:00.000Z,False,TCU,Big 12,23,Baylor,Big 12,29
+2019,regular,401110844,11,2019-11-09T17:00:00.000Z,False,Florida,SEC,56,Vanderbilt,SEC,0
+2019,regular,401117902,11,2019-11-09T17:00:00.000Z,False,SMU,American Athletic,59,East Carolina,American Athletic,51
+2019,regular,401114332,11,2019-11-09T17:00:00.000Z,False,Army,FBS Independents,63,Massachusetts,FBS Independents,7
+2019,regular,401112142,11,2019-11-09T17:00:00.000Z,False,West Virginia,Big 12,17,Texas Tech,Big 12,38
+2019,regular,401112209,11,2019-11-09T17:00:00.000Z,False,Ohio State,Big Ten,73,Maryland,Big Ten,14
+2019,regular,401112502,11,2019-11-09T17:00:00.000Z,False,Boston College,ACC,31,Florida State,ACC,38
+2019,regular,401110843,11,2019-11-09T17:00:00.000Z,False,Arkansas,SEC,19,Western Kentucky,Conference USA,45
+2019,regular,401128606,11,2019-11-09T17:00:00.000Z,False,Stetson,Pioneer,7,San Diego,Pioneer,51
+2019,regular,401128561,11,2019-11-09T17:00:00.000Z,False,Butler,Pioneer,10,Davidson,Pioneer,52
+2019,regular,401112249,11,2019-11-09T17:00:00.000Z,False,Northwestern,Big Ten,22,Purdue,Big Ten,24
+2019,regular,401128641,11,2019-11-09T17:00:00.000Z,False,Holy Cross,Patriot,20,Lafayette,Patriot,23
+2019,regular,401112235,11,2019-11-09T17:00:00.000Z,False,Minnesota,Big Ten,31,Penn State,Big Ten,26
+2019,regular,401136611,11,2019-11-09T17:00:00.000Z,False,Sacred Heart,NEC,41,Wagner,NEC,7
+2019,regular,401127019,11,2019-11-09T17:00:00.000Z,False,Monmouth,Big South,49,North Alabama,Big South,38
+2019,regular,401136596,11,2019-11-09T17:00:00.000Z,False,Central Connecticut,NEC,38,Saint Francis,NEC,31
+2019,regular,401128656,11,2019-11-09T17:30:00.000Z,False,Brown,Ivy,35,Yale,Ivy,59
+2019,regular,401112504,11,2019-11-09T17:30:00.000Z,False,Virginia,ACC,33,Georgia Tech,ACC,28
+2019,regular,401136603,11,2019-11-09T18:00:00.000Z,False,Robert Morris,NEC,41,Duquesne,NEC,21
+2019,regular,401128628,11,2019-11-09T18:00:00.000Z,False,Colgate,Patriot,24,Fordham,Patriot,13
+2019,regular,401127098,11,2019-11-09T18:00:00.000Z,False,Villanova,CAA,35,Richmond,CAA,28
+2019,regular,401127227,11,2019-11-09T18:00:00.000Z,False,Morgan State,MEAC,22,North Carolina A&T,MEAC,16
+2019,regular,401128678,11,2019-11-09T18:00:00.000Z,False,Columbia,Ivy,17,Harvard,Ivy,10
+2019,regular,401127011,11,2019-11-09T18:00:00.000Z,False,Presbyterian,Big South,24,Gardner-Webb,Big South,14
+2019,regular,401128581,11,2019-11-09T18:00:00.000Z,False,Dayton,Pioneer,59,Marist,Pioneer,35
+2019,regular,401126993,11,2019-11-09T18:00:00.000Z,False,Campbell,Big South,35,Kennesaw State,Big South,38
+2019,regular,401128517,11,2019-11-09T18:00:00.000Z,False,Furman,Southern,60,VMI,Southern,21
+2019,regular,401127103,11,2019-11-09T18:00:00.000Z,False,William & Mary,CAA,55,Rhode Island,CAA,19
+2019,regular,401127100,11,2019-11-09T18:00:00.000Z,False,Delaware,CAA,17,UAlbany,CAA,21
+2019,regular,401128619,11,2019-11-09T18:00:00.000Z,False,Bucknell,Patriot,20,Lehigh,Patriot,10
+2019,regular,401128952,11,2019-11-09T18:30:00.000Z,False,Pennsylvania,Ivy,21,Cornell,Ivy,20
+2019,regular,401127249,11,2019-11-09T18:30:00.000Z,False,South Carolina State,MEAC,62,Howard,MEAC,21
+2019,regular,401128441,11,2019-11-09T19:00:00.000Z,False,Alabama A&M,SWAC,48,Jackson State,SWAC,43
+2019,regular,401128600,11,2019-11-09T19:00:00.000Z,False,Valparaiso,Pioneer,21,Morehead State,Pioneer,27
+2019,regular,401128587,11,2019-11-09T19:00:00.000Z,False,Drake,Pioneer,28,Jacksonville,Pioneer,14
+2019,regular,401127212,11,2019-11-09T19:00:00.000Z,False,Delaware State,MEAC,16,Bethune-Cookman,MEAC,13
+2019,regular,401126952,11,2019-11-09T19:00:00.000Z,False,Northern Colorado,Big Sky,14,Montana State,Big Sky,45
+2019,regular,401127099,11,2019-11-09T19:00:00.000Z,False,Stony Brook,CAA,14,Towson,CAA,31
+2019,regular,401128359,11,2019-11-09T19:00:00.000Z,False,Southeast Missouri State,OVC,38,Eastern Kentucky,OVC,31
+2019,regular,401127232,11,2019-11-09T19:00:00.000Z,False,North Carolina Central,MEAC,21,Norfolk State,MEAC,38
+2019,regular,401127101,11,2019-11-09T19:00:00.000Z,False,Elon,CAA,17,Maine,CAA,31
+2019,regular,401114307,11,2019-11-09T19:00:00.000Z,False,Old Dominion,Conference USA,23,UTSA,Conference USA,24
+2019,regular,401128369,11,2019-11-09T19:30:00.000Z,False,Tennessee Tech,OVC,37,Jacksonville State,OVC,27
+2019,regular,401128523,11,2019-11-09T20:00:00.000Z,False,Mercer,Southern,7,Wofford,Southern,41
+2019,regular,401128466,11,2019-11-09T20:00:00.000Z,False,Prairie View A&M,SWAC,37,Arkansas-Pine Bluff,SWAC,20
+2019,regular,401114190,11,2019-11-09T20:00:00.000Z,False,Colorado,Pac-12,16,Stanford,Pac-12,13
+2019,regular,401128496,11,2019-11-09T20:00:00.000Z,False,Samford,Southern,27,Chattanooga,Southern,35
+2019,regular,401114304,11,2019-11-09T20:00:00.000Z,False,UTEP,Conference USA,21,Charlotte,Conference USA,28
+2019,regular,401121967,11,2019-11-09T20:00:00.000Z,False,Texas State,Sun Belt,30,South Alabama,Sun Belt,28
+2019,regular,401128385,11,2019-11-09T20:00:00.000Z,False,Tennessee State,OVC,38,Eastern Illinois,OVC,49
+2019,regular,401127256,11,2019-11-09T20:00:00.000Z,False,Southern Illinois,MVFC,37,Missouri State,MVFC,14
+2019,regular,401128458,11,2019-11-09T20:00:00.000Z,False,Grambling,SWAC,19,Alcorn State,SWAC,16
+2019,regular,401127291,11,2019-11-09T20:00:00.000Z,False,South Dakota,MVFC,56,Youngstown State,MVFC,21
+2019,regular,401127266,11,2019-11-09T20:00:00.000Z,False,South Dakota State,MVFC,18,Illinois State,MVFC,27
+2019,regular,401128450,11,2019-11-09T20:00:00.000Z,False,Texas Southern,SWAC,21,Alabama State,SWAC,27
+2019,regular,401126926,11,2019-11-09T20:10:00.000Z,False,Montana,Big Sky,42,Idaho,Big Sky,17
+2019,regular,401110842,11,2019-11-09T20:30:00.000Z,False,Alabama,SEC,41,LSU,SEC,46
+2019,regular,401127102,11,2019-11-09T20:30:00.000Z,False,James Madison,CAA,54,New Hampshire,CAA,16
+2019,regular,401114308,11,2019-11-09T20:30:00.000Z,False,Southern Miss,Conference USA,37,UAB,Conference USA,2
+2019,regular,401114160,11,2019-11-09T20:30:00.000Z,False,Arizona State,Pac-12,26,USC,Pac-12,31
+2019,regular,401117901,11,2019-11-09T20:30:00.000Z,False,Cincinnati,American Athletic,48,UConn,American Athletic,3
+2019,regular,401128512,11,2019-11-09T20:30:00.000Z,False,Western Carolina,Southern,23,East Tennessee State,Southern,20
+2019,regular,401112154,11,2019-11-09T20:30:00.000Z,False,Michigan State,Big Ten,34,Illinois,Big Ten,37
+2019,regular,401112506,11,2019-11-09T20:30:00.000Z,False,Virginia Tech,ACC,36,Wake Forest,ACC,17
+2019,regular,401112505,11,2019-11-09T20:30:00.000Z,False,Miami,ACC,52,Louisville,ACC,27
+2019,regular,401128672,11,2019-11-09T20:30:00.000Z,False,Dartmouth,Ivy,27,Princeton,Ivy,10
+2019,regular,401121965,11,2019-11-09T20:30:00.000Z,False,Troy,Sun Belt,49,Georgia Southern,Sun Belt,28
+2019,regular,401127281,11,2019-11-09T20:30:00.000Z,False,North Dakota State,MVFC,57,Western Illinois,MVFC,21
+2019,regular,401112111,11,2019-11-09T20:30:00.000Z,False,Texas,Big 12,27,Kansas State,Big 12,24
+2019,regular,401127436,11,2019-11-09T21:00:00.000Z,False,Austin Peay,OVC,38,UT Martin,OVC,24
+2019,regular,401110847,11,2019-11-09T21:00:00.000Z,False,Ole Miss,SEC,41,New Mexico State,FBS Independents,3
+2019,regular,401128699,11,2019-11-09T21:00:00.000Z,False,Nicholls,Southland,48,Houston Christian,Southland,27
+2019,regular,401128686,11,2019-11-09T21:00:00.000Z,False,Central Arkansas,Southland,0,SE Louisiana,Southland,34
+2019,regular,401126985,11,2019-11-09T21:00:00.000Z,False,Weber State,Big Sky,30,North Dakota,FCS Independents,27
+2019,regular,401114306,11,2019-11-09T21:00:00.000Z,False,Louisiana Tech,Conference USA,52,North Texas,Conference USA,17
+2019,regular,401112198,11,2019-11-09T21:00:00.000Z,False,Wisconsin,Big Ten,24,Iowa,Big Ten,22
+2019,regular,401126960,11,2019-11-09T21:00:00.000Z,False,Northern Arizona,Big Sky,34,Sacramento State,Big Sky,38
+2019,regular,401128667,11,2019-11-09T21:00:00.000Z,False,Abilene Christian,Southland,10,Sam Houston,Southland,24
+2019,regular,401126919,11,2019-11-09T21:30:00.000Z,False,Idaho State,Big Sky,5,Eastern Washington,Big Sky,48
+2019,regular,401128708,11,2019-11-09T22:00:00.000Z,False,Stephen F. Austin,Southland,31,Incarnate Word,Southland,24
+2019,regular,401121966,11,2019-11-09T22:00:00.000Z,False,UL Monroe,Sun Belt,45,Georgia State,Sun Belt,31
+2019,regular,401127275,11,2019-11-09T22:00:00.000Z,False,Northern Iowa,MVFC,17,Indiana State,MVFC,9
+2019,regular,401128489,11,2019-11-09T22:00:00.000Z,False,Southern,SWAC,58,Virginia Lynchburg,,7
+2019,regular,401126969,11,2019-11-09T22:05:00.000Z,False,Portland State,Big Sky,28,UC Davis,Big Sky,45
+2019,regular,401127004,11,2019-11-09T23:00:00.000Z,False,Charleston Southern,Big South,27,Hampton,Big South,20
+2019,regular,401114305,11,2019-11-09T23:00:00.000Z,False,Florida Atlantic,Conference USA,37,Florida International,Conference USA,7
+2019,regular,401110845,11,2019-11-10T00:00:00.000Z,False,Georgia,SEC,27,Missouri,SEC,0
+2019,regular,401117540,11,2019-11-10T00:00:00.000Z,False,Fresno State,Mountain West,35,Utah State,Mountain West,37
+2019,regular,401114180,11,2019-11-10T00:00:00.000Z,False,California,Pac-12,33,Washington State,Pac-12,20
+2019,regular,401110848,11,2019-11-10T00:00:00.000Z,False,South Carolina,SEC,15,App State,Sun Belt,20
+2019,regular,401110846,11,2019-11-10T00:30:00.000Z,False,Kentucky,SEC,13,Tennessee,SEC,17
+2019,regular,401112503,11,2019-11-10T00:30:00.000Z,False,NC State,ACC,10,Clemson,ACC,55
+2019,regular,401128713,11,2019-11-10T00:30:00.000Z,False,Northwestern State,Southland,34,Lamar,Southland,13
+2019,regular,401114353,11,2019-11-10T00:30:00.000Z,False,BYU,FBS Independents,31,Liberty,FBS Independents,24
+2019,regular,401111654,11,2019-11-10T00:30:00.000Z,False,Duke,ACC,7,Notre Dame,FBS Independents,38
+2019,regular,401112092,11,2019-11-10T01:00:00.000Z,False,Oklahoma,Big 12,42,Iowa State,Big 12,41
+2019,regular,401117541,11,2019-11-10T03:15:00.000Z,False,Boise State,Mountain West,20,Wyoming,Mountain West,17
+2019,regular,401117542,11,2019-11-10T03:30:00.000Z,False,San Diego State,Mountain West,13,Nevada,Mountain West,17
+2019,regular,401117543,11,2019-11-10T04:00:00.000Z,False,Hawai'i,Mountain West,42,San José State,Mountain West,40
+2019,regular,401119299,12,2019-11-12T23:00:00.000Z,False,Akron,Mid-American,14,Eastern Michigan,Mid-American,42
+2019,regular,401119300,12,2019-11-12T23:30:00.000Z,False,Ohio,Mid-American,34,Western Michigan,Mid-American,37
+2019,regular,401119302,12,2019-11-14T01:00:00.000Z,False,Toledo,Mid-American,28,Northern Illinois,Mid-American,31
+2019,regular,401119301,12,2019-11-14T01:00:00.000Z,False,Miami (OH),Mid-American,44,Bowling Green,Mid-American,3
+2019,regular,401119303,12,2019-11-15T00:00:00.000Z,False,Kent State,Mid-American,30,Buffalo,Mid-American,27
+2019,regular,401112507,12,2019-11-15T01:00:00.000Z,False,Pittsburgh,ACC,34,North Carolina,ACC,27
+2019,regular,401114309,12,2019-11-16T00:00:00.000Z,False,Marshall,Conference USA,31,Louisiana Tech,Conference USA,10
+2019,regular,401136615,12,2019-11-16T00:00:00.000Z,False,Villanova,CAA,35,Long Island University,NEC,7
+2019,regular,401117547,12,2019-11-16T02:30:00.000Z,False,San Diego State,Mountain West,17,Fresno State,Mountain West,7
+2019,regular,401136597,12,2019-11-16T17:00:00.000Z,False,Central Connecticut,NEC,49,Robert Morris,NEC,28
+2019,regular,401112244,12,2019-11-16T17:00:00.000Z,False,Nebraska,Big Ten,21,Wisconsin,Big Ten,37
+2019,regular,401128651,12,2019-11-16T17:00:00.000Z,False,Sacred Heart,NEC,13,Lehigh,Patriot,6
+2019,regular,401128588,12,2019-11-16T17:00:00.000Z,False,Marist,Pioneer,45,Jacksonville,Pioneer,52
+2019,regular,401112133,12,2019-11-16T17:00:00.000Z,False,Texas Tech,Big 12,31,TCU,Big 12,33
+2019,regular,401110851,12,2019-11-16T17:00:00.000Z,False,Mississippi State,SEC,7,Alabama,SEC,38
+2019,regular,401110852,12,2019-11-16T17:00:00.000Z,False,Missouri,SEC,6,Florida,SEC,23
+2019,regular,401112250,12,2019-11-16T17:00:00.000Z,False,Northwestern,Big Ten,45,Massachusetts,FBS Independents,6
+2019,regular,401128572,12,2019-11-16T17:00:00.000Z,False,Stetson,Pioneer,14,Davidson,Pioneer,42
+2019,regular,401127105,12,2019-11-16T17:00:00.000Z,False,Maine,CAA,34,Rhode Island,CAA,30
+2019,regular,401117905,12,2019-11-16T17:00:00.000Z,False,Temple,American Athletic,29,Tulane,American Athletic,21
+2019,regular,401112166,12,2019-11-16T17:00:00.000Z,False,Penn State,Big Ten,34,Indiana,Big Ten,27
+2019,regular,401136613,12,2019-11-16T17:00:00.000Z,False,Saint Francis,NEC,42,Wagner,NEC,8
+2019,regular,401128679,12,2019-11-16T17:00:00.000Z,False,Harvard,Ivy,20,Pennsylvania,Ivy,24
+2019,regular,401128562,12,2019-11-16T17:00:00.000Z,False,Butler,Pioneer,24,Valparaiso,Pioneer,21
+2019,regular,401112219,12,2019-11-16T17:00:00.000Z,False,Michigan,Big Ten,44,Michigan State,Big Ten,10
+2019,regular,401112105,12,2019-11-16T17:00:00.000Z,False,Oklahoma State,Big 12,31,Kansas,Big 12,13
+2019,regular,401114333,12,2019-11-16T17:00:00.000Z,False,Army,FBS Independents,47,VMI,Southern,6
+2019,regular,401112510,12,2019-11-16T17:00:00.000Z,False,Florida State,ACC,49,Alabama State,SWAC,12
+2019,regular,401128629,12,2019-11-16T17:30:00.000Z,False,Lafayette,Patriot,0,Colgate,Patriot,16
+2019,regular,401127005,12,2019-11-16T18:00:00.000Z,False,Presbyterian,Big South,7,Charleston Southern,Big South,27
+2019,regular,401128673,12,2019-11-16T18:00:00.000Z,False,Princeton,Ivy,14,Yale,Ivy,51
+2019,regular,401127038,12,2019-11-16T18:00:00.000Z,False,Hampton,Big South,7,Kennesaw State,Big South,50
+2019,regular,401128620,12,2019-11-16T18:00:00.000Z,False,Bucknell,Patriot,20,Georgetown,Patriot,17
+2019,regular,401127425,12,2019-11-16T18:00:00.000Z,False,Bryant,NEC,20,Duquesne,NEC,16
+2019,regular,401127437,12,2019-11-16T18:00:00.000Z,False,Murray State,OVC,7,Austin Peay,OVC,42
+2019,regular,401127108,12,2019-11-16T18:00:00.000Z,False,Delaware,CAA,17,Stony Brook,CAA,10
+2019,regular,401127213,12,2019-11-16T18:00:00.000Z,False,North Carolina A&T,MEAC,47,Bethune-Cookman,MEAC,17
+2019,regular,401128381,12,2019-11-16T18:00:00.000Z,False,Eastern Illinois,OVC,12,Southeast Missouri State,OVC,26
+2019,regular,401128642,12,2019-11-16T18:00:00.000Z,False,Fordham,Patriot,27,Holy Cross,Patriot,49
+2019,regular,401128727,12,2019-11-16T18:00:00.000Z,False,Sam Houston,Southland,28,Northwestern State,Southland,31
+2019,regular,401128513,12,2019-11-16T18:00:00.000Z,False,East Tennessee State,Southern,38,Mercer,Southern,33
+2019,regular,401133684,12,2019-11-16T18:00:00.000Z,False,Merrimack,NEC,57,Franklin Pierce,Northeast 10,0
+2019,regular,401127276,12,2019-11-16T18:00:00.000Z,False,Indiana State,MVFC,24,Youngstown State,MVFC,17
+2019,regular,401114312,12,2019-11-16T18:00:00.000Z,False,UAB,Conference USA,37,UTEP,Conference USA,10
+2019,regular,401127107,12,2019-11-16T18:00:00.000Z,False,UAlbany,CAA,24,New Hampshire,CAA,17
+2019,regular,401127106,12,2019-11-16T18:00:00.000Z,False,William & Mary,CAA,10,Towson,CAA,31
+2019,regular,401126994,12,2019-11-16T18:00:00.000Z,False,Campbell,Big South,10,Monmouth,Big South,47
+2019,regular,401128657,12,2019-11-16T18:00:00.000Z,False,Columbia,Ivy,24,Brown,Ivy,48
+2019,regular,401128360,12,2019-11-16T18:00:00.000Z,False,Eastern Kentucky,OVC,22,Tennessee Tech,OVC,10
+2019,regular,401152635,12,2019-11-16T18:00:00.000Z,False,Morgan State,MEAC,59,Virginia Lynchburg,,26
+2019,regular,401127257,12,2019-11-16T18:00:00.000Z,False,Illinois State,MVFC,17,Missouri State,MVFC,12
+2019,regular,401128692,12,2019-11-16T18:30:00.000Z,False,Dartmouth,Ivy,17,Cornell,Ivy,20
+2019,regular,401128518,12,2019-11-16T18:30:00.000Z,False,Wofford,Southern,24,Furman,Southern,7
+2019,regular,401127012,12,2019-11-16T18:30:00.000Z,False,Gardner-Webb,Big South,30,North Alabama,Big South,34
+2019,regular,401127244,12,2019-11-16T19:00:00.000Z,False,North Carolina Central,MEAC,0,South Carolina State,MEAC,24
+2019,regular,401128526,12,2019-11-16T19:00:00.000Z,False,Western Carolina,Southern,13,Samford,Southern,31
+2019,regular,401128497,12,2019-11-16T19:00:00.000Z,False,Chattanooga,Southern,34,The Citadel,Southern,33
+2019,regular,401126965,12,2019-11-16T19:00:00.000Z,False,North Dakota,FCS Independents,45,Northern Colorado,Big Sky,38
+2019,regular,401128582,12,2019-11-16T19:00:00.000Z,False,Drake,Pioneer,29,Dayton,Pioneer,46
+2019,regular,401127300,12,2019-11-16T19:00:00.000Z,False,Western Illinois,MVFC,21,Southern Illinois,MVFC,45
+2019,regular,401128668,12,2019-11-16T19:00:00.000Z,False,Abilene Christian,Southland,14,SE Louisiana,Southland,35
+2019,regular,401127233,12,2019-11-16T19:00:00.000Z,False,Delaware State,MEAC,17,Norfolk State,MEAC,33
+2019,regular,401128472,12,2019-11-16T19:00:00.000Z,False,Mississippi Valley State,SWAC,0,Grambling,SWAC,40
+2019,regular,401114338,12,2019-11-16T19:30:00.000Z,False,Notre Dame,FBS Independents,52,Navy,American Athletic,20
+2019,regular,401128477,12,2019-11-16T20:00:00.000Z,False,Jackson State,SWAC,34,Southern,SWAC,40
+2019,regular,401128700,12,2019-11-16T20:00:00.000Z,False,Houston Christian,Southland,31,Lamar,Southland,26
+2019,regular,401126943,12,2019-11-16T20:00:00.000Z,False,Montana,Big Sky,35,Weber State,Big Sky,16
+2019,regular,401128386,12,2019-11-16T20:00:00.000Z,False,UT Martin,OVC,28,Tennessee State,OVC,17
+2019,regular,401121972,12,2019-11-16T20:00:00.000Z,False,Texas State,Sun Belt,27,Troy,Sun Belt,63
+2019,regular,401127286,12,2019-11-16T20:00:00.000Z,False,South Dakota State,MVFC,38,Northern Iowa,MVFC,7
+2019,regular,401128485,12,2019-11-16T20:00:00.000Z,False,Prairie View A&M,SWAC,41,Edward Waters,SIAC,14
+2019,regular,401128442,12,2019-11-16T20:00:00.000Z,False,Alcorn State,SWAC,34,Alabama A&M,SWAC,28
+2019,regular,401121969,12,2019-11-16T20:00:00.000Z,False,Arkansas State,Sun Belt,28,Coastal Carolina,Sun Belt,27
+2019,regular,401121970,12,2019-11-16T20:00:00.000Z,False,Georgia Southern,Sun Belt,51,UL Monroe,Sun Belt,29
+2019,regular,401117217,12,2019-11-16T20:00:00.000Z,False,BYU,FBS Independents,42,Idaho State,Big Sky,10
+2019,regular,401117904,12,2019-11-16T20:30:00.000Z,False,Houston,American Athletic,27,Memphis,American Athletic,45
+2019,regular,401127282,12,2019-11-16T20:30:00.000Z,False,North Dakota State,MVFC,49,South Dakota,MVFC,14
+2019,regular,401112511,12,2019-11-16T20:30:00.000Z,False,Georgia Tech,ACC,0,Virginia Tech,ACC,45
+2019,regular,401127104,12,2019-11-16T20:30:00.000Z,False,James Madison,CAA,48,Richmond,CAA,6
+2019,regular,401110854,12,2019-11-16T20:30:00.000Z,False,Vanderbilt,SEC,14,Kentucky,SEC,38
+2019,regular,401112508,12,2019-11-16T20:30:00.000Z,False,Clemson,ACC,52,Wake Forest,ACC,3
+2019,regular,401112093,12,2019-11-16T20:30:00.000Z,False,Iowa State,Big 12,23,Texas,Big 12,21
+2019,regular,401112112,12,2019-11-16T20:30:00.000Z,False,Kansas State,Big 12,20,West Virginia,Big 12,24
+2019,regular,401112255,12,2019-11-16T20:30:00.000Z,False,Rutgers,Big Ten,21,Ohio State,Big Ten,56
+2019,regular,401110849,12,2019-11-16T20:30:00.000Z,False,Auburn,SEC,14,Georgia,SEC,21
+2019,regular,401119304,12,2019-11-16T20:30:00.000Z,False,Ball State,Mid-American,44,Central Michigan,Mid-American,45
+2019,regular,401117548,12,2019-11-16T21:00:00.000Z,False,UNLV,Mountain West,7,Hawai'i,Mountain West,21
+2019,regular,401117546,12,2019-11-16T21:00:00.000Z,False,Utah State,Mountain West,26,Wyoming,Mountain West,21
+2019,regular,401112509,12,2019-11-16T21:00:00.000Z,False,Duke,ACC,6,Syracuse,ACC,49
+2019,regular,401112199,12,2019-11-16T21:00:00.000Z,False,Iowa,Big Ten,23,Minnesota,Big Ten,19
+2019,regular,401128687,12,2019-11-16T21:00:00.000Z,False,Central Arkansas,Southland,30,Stephen F. Austin,Southland,7
+2019,regular,401128719,12,2019-11-16T21:00:00.000Z,False,Nicholls,Southland,34,McNeese,Southland,20
+2019,regular,401127222,12,2019-11-16T21:00:00.000Z,False,Florida A&M,MEAC,39,Howard,MEAC,7
+2019,regular,401126961,12,2019-11-16T21:00:00.000Z,False,Southern Utah,Big Sky,31,Northern Arizona,Big Sky,30
+2019,regular,401114345,12,2019-11-16T21:00:00.000Z,False,New Mexico State,FBS Independents,41,Incarnate Word,Southland,28
+2019,regular,401114231,12,2019-11-16T21:30:00.000Z,False,Washington State,Pac-12,49,Stanford,Pac-12,22
+2019,regular,401114310,12,2019-11-16T21:30:00.000Z,False,Middle Tennessee,Conference USA,28,Rice,Conference USA,31
+2019,regular,401121971,12,2019-11-16T22:00:00.000Z,False,South Alabama,Sun Belt,27,Louisiana,Sun Belt,37
+2019,regular,401128601,12,2019-11-16T22:00:00.000Z,False,San Diego,Pioneer,52,Morehead State,Pioneer,20
+2019,regular,401126927,12,2019-11-16T22:00:00.000Z,False,Idaho,Big Sky,7,Sacramento State,Big Sky,31
+2019,regular,401114311,12,2019-11-16T23:00:00.000Z,False,UTSA,Conference USA,17,Southern Miss,Conference USA,36
+2019,regular,401117544,12,2019-11-17T00:00:00.000Z,False,Colorado State,Mountain West,21,Air Force,Mountain West,38
+2019,regular,401110850,12,2019-11-17T00:00:00.000Z,False,Ole Miss,SEC,37,LSU,SEC,58
+2019,regular,401117903,12,2019-11-17T00:00:00.000Z,False,South Florida,American Athletic,17,Cincinnati,American Athletic,20
+2019,regular,401126953,12,2019-11-17T00:00:00.000Z,False,UC Davis,Big Sky,17,Montana State,Big Sky,27
+2019,regular,401114161,12,2019-11-17T00:30:00.000Z,False,Oregon State,Pac-12,35,Arizona State,Pac-12,34
+2019,regular,401121968,12,2019-11-17T00:30:00.000Z,False,Georgia State,Sun Belt,27,App State,Sun Belt,56
+2019,regular,401110853,12,2019-11-17T00:30:00.000Z,False,Texas A&M,SEC,30,South Carolina,SEC,6
+2019,regular,401112512,12,2019-11-17T00:30:00.000Z,False,NC State,ACC,20,Louisville,ACC,34
+2019,regular,401112082,12,2019-11-17T00:30:00.000Z,False,Baylor,Big 12,31,Oklahoma,Big 12,34
+2019,regular,401114216,12,2019-11-17T01:00:00.000Z,False,Utah,Pac-12,49,UCLA,Pac-12,3
+2019,regular,401126909,12,2019-11-17T01:00:00.000Z,False,Cal Poly,Big Sky,41,Eastern Washington,Big Sky,42
+2019,regular,401117545,12,2019-11-17T03:15:00.000Z,False,Boise State,Mountain West,42,New Mexico,Mountain West,9
+2019,regular,401114172,12,2019-11-17T03:30:00.000Z,False,Oregon,Pac-12,34,Arizona,Pac-12,6
+2019,regular,401114181,12,2019-11-17T04:00:00.000Z,False,California,Pac-12,17,USC,Pac-12,41
+2019,regular,401127020,12,2019-11-23T17:00:00.000Z,False,Monmouth,Big South,48,Hampton,Big South,13
+2019,regular,401127013,12,2019-11-23T19:00:00.000Z,False,Kennesaw State,Big South,42,Gardner-Webb,Big South,14
+2019,regular,401126995,12,2019-11-23T20:30:00.000Z,False,Charleston Southern,Big South,41,Campbell,Big South,31
+2019,regular,401119305,13,2019-11-20T00:30:00.000Z,False,Northern Illinois,Mid-American,17,Eastern Michigan,Mid-American,45
+2019,regular,401119306,13,2019-11-20T00:30:00.000Z,False,Bowling Green,Mid-American,24,Ohio,Mid-American,66
+2019,regular,401119308,13,2019-11-21T00:30:00.000Z,False,Buffalo,Mid-American,49,Toledo,Mid-American,30
+2019,regular,401119307,13,2019-11-21T00:30:00.000Z,False,Miami (OH),Mid-American,20,Akron,Mid-American,17
+2019,regular,401128723,13,2019-11-22T00:00:00.000Z,False,SE Louisiana,Southland,27,Nicholls,Southland,28
+2019,regular,401128728,13,2019-11-22T00:00:00.000Z,False,Northwestern State,Southland,20,Stephen F. Austin,Southland,32
+2019,regular,401112513,13,2019-11-22T01:00:00.000Z,False,Georgia Tech,ACC,28,NC State,ACC,26
+2019,regular,401128688,13,2019-11-23T00:30:00.000Z,False,Incarnate Word,Southland,35,Central Arkansas,Southland,52
+2019,regular,401117550,13,2019-11-23T02:30:00.000Z,False,Wyoming,Mountain West,17,Colorado State,Mountain West,7
+2019,regular,401114358,13,2019-11-23T17:00:00.000Z,False,Massachusetts,FBS Independents,24,BYU,FBS Independents,56
+2019,regular,401136598,13,2019-11-23T17:00:00.000Z,False,Duquesne,NEC,10,Central Connecticut,NEC,43
+2019,regular,401128636,13,2019-11-23T17:00:00.000Z,False,Holy Cross,Patriot,24,Georgetown,Patriot,0
+2019,regular,401112155,13,2019-11-23T17:00:00.000Z,False,Iowa,Big Ten,19,Illinois,Big Ten,10
+2019,regular,401119309,13,2019-11-23T17:00:00.000Z,False,Kent State,Mid-American,41,Ball State,Mid-American,38
+2019,regular,401110855,13,2019-11-23T17:00:00.000Z,False,Alabama,SEC,66,Western Carolina,Southern,3
+2019,regular,401136616,13,2019-11-23T17:00:00.000Z,False,Long Island University,NEC,10,Merrimack,NEC,24
+2019,regular,401112236,13,2019-11-23T17:00:00.000Z,False,Northwestern,Big Ten,22,Minnesota,Big Ten,38
+2019,regular,401112220,13,2019-11-23T17:00:00.000Z,False,Rutgers,Big Ten,0,Michigan State,Big Ten,27
+2019,regular,401127112,13,2019-11-23T17:00:00.000Z,False,Rhode Island,CAA,21,James Madison,CAA,55
+2019,regular,401112094,13,2019-11-23T17:00:00.000Z,False,Iowa State,Big 12,41,Kansas,Big 12,31
+2019,regular,401128589,13,2019-11-23T17:00:00.000Z,True,Jacksonville,Pioneer,28,San Diego,Pioneer,47
+2019,regular,401112128,13,2019-11-23T17:00:00.000Z,False,West Virginia,Big 12,13,Oklahoma State,Big 12,20
+2019,regular,401136607,13,2019-11-23T17:00:00.000Z,False,Robert Morris,NEC,16,Sacred Heart,NEC,14
+2019,regular,401128680,13,2019-11-23T17:00:00.000Z,False,Yale,Ivy,50,Harvard,Ivy,43
+2019,regular,401117908,13,2019-11-23T17:00:00.000Z,False,UConn,American Athletic,24,East Carolina,American Athletic,31
+2019,regular,401112256,13,2019-11-23T17:00:00.000Z,False,Ohio State,Big Ten,28,Penn State,Big Ten,17
+2019,regular,401112520,13,2019-11-23T17:00:00.000Z,False,Virginia,ACC,55,Liberty,FBS Independents,27
+2019,regular,401127114,13,2019-11-23T17:00:00.000Z,False,Richmond,CAA,15,William & Mary,CAA,21
+2019,regular,401128505,13,2019-11-23T17:00:00.000Z,False,The Citadel,Southern,11,Wofford,Southern,31
+2019,regular,401117906,13,2019-11-23T17:00:00.000Z,False,Tulane,American Athletic,31,UCF,American Athletic,34
+2019,regular,401127426,13,2019-11-23T17:00:00.000Z,False,Wagner,NEC,10,Bryant,NEC,14
+2019,regular,401128658,13,2019-11-23T17:00:00.000Z,False,Brown,Ivy,23,Dartmouth,Ivy,29
+2019,regular,401127267,13,2019-11-23T17:00:00.000Z,False,Youngstown State,MVFC,21,Illinois State,MVFC,3
+2019,regular,401110856,13,2019-11-23T17:00:00.000Z,False,Auburn,SEC,52,Samford,Southern,0
+2019,regular,401128647,13,2019-11-23T17:30:00.000Z,False,Lehigh,Patriot,16,Lafayette,Patriot,17
+2019,regular,401128674,13,2019-11-23T18:00:00.000Z,False,Pennsylvania,Ivy,7,Princeton,Ivy,28
+2019,regular,401128701,13,2019-11-23T18:00:00.000Z,False,Sam Houston,Southland,37,Houston Christian,Southland,14
+2019,regular,401128573,13,2019-11-23T18:00:00.000Z,False,Davidson,Pioneer,28,Drake,Pioneer,31
+2019,regular,401128563,13,2019-11-23T18:00:00.000Z,False,Dayton,Pioneer,51,Butler,Pioneer,38
+2019,regular,401128498,13,2019-11-23T18:00:00.000Z,False,VMI,Southern,31,Chattanooga,Southern,24
+2019,regular,401128519,13,2019-11-23T18:00:00.000Z,False,Furman,Southern,64,Point University,,7
+2019,regular,401128621,13,2019-11-23T18:00:00.000Z,True,Fordham,Patriot,31,Bucknell,Patriot,14
+2019,regular,401127110,13,2019-11-23T18:00:00.000Z,False,Villanova,CAA,55,Delaware,CAA,33
+2019,regular,401127113,13,2019-11-23T18:00:00.000Z,False,New Hampshire,CAA,28,Maine,CAA,10
+2019,regular,401128602,13,2019-11-23T18:00:00.000Z,False,Morehead State,Pioneer,16,Stetson,Pioneer,31
+2019,regular,401127228,13,2019-11-23T18:00:00.000Z,False,Howard,MEAC,20,Morgan State,MEAC,15
+2019,regular,401127239,13,2019-11-23T18:00:00.000Z,False,North Carolina A&T,MEAC,54,North Carolina Central,MEAC,0
+2019,regular,401127234,13,2019-11-23T18:00:00.000Z,False,Norfolk State,MEAC,17,South Carolina State,MEAC,20
+2019,regular,401128950,13,2019-11-23T18:30:00.000Z,False,Cornell,Ivy,35,Columbia,Ivy,9
+2019,regular,401183793,13,2019-11-23T19:00:00.000Z,False,New Mexico,Mountain West,22,Air Force,Mountain West,44
+2019,regular,401127109,13,2019-11-23T19:00:00.000Z,False,Stony Brook,CAA,26,UAlbany,CAA,31
+2019,regular,401128361,13,2019-11-23T19:00:00.000Z,False,Jacksonville State,OVC,23,Eastern Kentucky,OVC,29
+2019,regular,401127111,13,2019-11-23T19:00:00.000Z,False,Towson,CAA,23,Elon,CAA,25
+2019,regular,401128376,13,2019-11-23T19:00:00.000Z,True,Southeast Missouri State,OVC,31,Murray State,OVC,24
+2019,regular,401128596,13,2019-11-23T19:00:00.000Z,False,Valparaiso,Pioneer,14,Marist,Pioneer,26
+2019,regular,401126978,13,2019-11-23T19:00:00.000Z,False,North Dakota,FCS Independents,36,Southern Utah,Big Sky,18
+2019,regular,401121976,13,2019-11-23T19:00:00.000Z,False,Georgia State,Sun Belt,28,South Alabama,Sun Belt,15
+2019,regular,401126944,13,2019-11-23T19:00:00.000Z,False,Montana State,Big Sky,48,Montana,Big Sky,14
+2019,regular,401127287,13,2019-11-23T19:00:00.000Z,False,Northern Iowa,MVFC,38,Western Illinois,MVFC,7
+2019,regular,401127416,13,2019-11-23T19:00:00.000Z,False,Delaware State,MEAC,21,Saint Francis,NEC,35
+2019,regular,401128443,13,2019-11-23T19:00:00.000Z,False,Alabama A&M,SWAC,30,Mississippi Valley State,SWAC,13
+2019,regular,401126910,13,2019-11-23T19:05:00.000Z,False,Northern Colorado,Big Sky,21,Cal Poly,Big Sky,28
+2019,regular,401112514,13,2019-11-23T19:30:00.000Z,False,Notre Dame,FBS Independents,40,Boston College,ACC,7
+2019,regular,401128387,13,2019-11-23T19:30:00.000Z,False,Tennessee Tech,OVC,27,Tennessee State,OVC,37
+2019,regular,401121973,13,2019-11-23T19:30:00.000Z,False,App State,Sun Belt,35,Texas State,Sun Belt,13
+2019,regular,401121974,13,2019-11-23T20:00:00.000Z,False,Arkansas State,Sun Belt,38,Georgia Southern,Sun Belt,33
+2019,regular,401127438,13,2019-11-23T20:00:00.000Z,False,Austin Peay,OVC,35,Eastern Illinois,OVC,7
+2019,regular,401127283,13,2019-11-23T20:00:00.000Z,False,Southern Illinois,MVFC,7,North Dakota State,MVFC,21
+2019,regular,401128459,13,2019-11-23T20:00:00.000Z,False,Jackson State,SWAC,6,Alcorn State,SWAC,41
+2019,regular,401127258,13,2019-11-23T20:00:00.000Z,False,Missouri State,MVFC,24,Indiana State,MVFC,51
+2019,regular,401127292,13,2019-11-23T20:00:00.000Z,False,South Dakota,MVFC,24,South Dakota State,MVFC,21
+2019,regular,401127214,13,2019-11-23T20:30:00.000Z,True,Bethune-Cookman,MEAC,31,Florida A&M,MEAC,27
+2019,regular,401112518,13,2019-11-23T20:30:00.000Z,False,North Carolina,ACC,56,Mercer,Southern,7
+2019,regular,401110862,13,2019-11-23T20:30:00.000Z,False,Vanderbilt,SEC,38,East Tennessee State,Southern,0
+2019,regular,401110858,13,2019-11-23T20:30:00.000Z,False,Kentucky,SEC,50,UT Martin,OVC,7
+2019,regular,401117911,13,2019-11-23T20:30:00.000Z,False,Navy,American Athletic,35,SMU,American Athletic,28
+2019,regular,401114318,13,2019-11-23T20:30:00.000Z,False,Southern Miss,Conference USA,10,Western Kentucky,Conference USA,28
+2019,regular,401112519,13,2019-11-23T20:30:00.000Z,False,Virginia Tech,ACC,28,Pittsburgh,ACC,0
+2019,regular,401114217,13,2019-11-23T20:30:00.000Z,False,USC,Pac-12,52,UCLA,Pac-12,35
+2019,regular,401114315,13,2019-11-23T20:30:00.000Z,False,UAB,Conference USA,20,Louisiana Tech,Conference USA,14
+2019,regular,401110857,13,2019-11-23T20:30:00.000Z,False,Georgia,SEC,19,Texas A&M,SEC,13
+2019,regular,401112083,13,2019-11-23T20:30:00.000Z,False,Baylor,Big 12,24,Texas,Big 12,10
+2019,regular,401112210,13,2019-11-23T20:30:00.000Z,False,Maryland,Big Ten,7,Nebraska,Big Ten,54
+2019,regular,401114313,13,2019-11-23T20:30:00.000Z,False,Charlotte,Conference USA,24,Marshall,Conference USA,13
+2019,regular,401112167,13,2019-11-23T20:30:00.000Z,False,Indiana,Big Ten,14,Michigan,Big Ten,39
+2019,regular,401114317,13,2019-11-23T20:30:00.000Z,False,Rice,Conference USA,20,North Texas,Conference USA,14
+2019,regular,401117909,13,2019-11-23T21:00:00.000Z,False,South Florida,American Athletic,10,Memphis,American Athletic,49
+2019,regular,401114182,13,2019-11-23T21:00:00.000Z,False,Stanford,Pac-12,20,California,Pac-12,24
+2019,regular,401112263,13,2019-11-23T21:00:00.000Z,False,Wisconsin,Big Ten,45,Purdue,Big Ten,24
+2019,regular,401128714,13,2019-11-23T21:00:00.000Z,False,Lamar,Southland,3,McNeese,Southland,27
+2019,regular,401117553,13,2019-11-23T21:00:00.000Z,False,UNLV,Mountain West,38,San José State,Mountain West,35
+2019,regular,401114319,13,2019-11-23T21:00:00.000Z,False,New Mexico State,FBS Independents,44,UTEP,Conference USA,35
+2019,regular,401112516,13,2019-11-23T21:00:00.000Z,False,Louisville,ACC,56,Syracuse,ACC,34
+2019,regular,401126928,13,2019-11-23T21:00:00.000Z,False,Northern Arizona,Big Sky,53,Idaho,Big Sky,60
+2019,regular,401126936,13,2019-11-23T21:00:00.000Z,False,Weber State,Big Sky,38,Idaho State,Big Sky,10
+2019,regular,401128467,13,2019-11-23T21:00:00.000Z,False,Arkansas-Pine Bluff,SWAC,45,Texas Southern,SWAC,13
+2019,regular,401126920,13,2019-11-23T21:05:00.000Z,False,Eastern Washington,Big Sky,53,Portland State,Big Sky,46
+2019,regular,401114316,13,2019-11-23T21:30:00.000Z,False,Middle Tennessee,Conference USA,38,Old Dominion,Conference USA,17
+2019,regular,401121977,13,2019-11-23T22:00:00.000Z,False,Louisiana,Sun Belt,53,Troy,Sun Belt,3
+2019,regular,401121975,13,2019-11-23T22:00:00.000Z,False,UL Monroe,Sun Belt,45,Coastal Carolina,Sun Belt,42
+2019,regular,401126972,13,2019-11-23T22:00:00.000Z,False,Sacramento State,Big Sky,27,UC Davis,Big Sky,17
+2019,regular,401114314,13,2019-11-23T23:00:00.000Z,False,UTSA,Conference USA,26,Florida Atlantic,Conference USA,40
+2019,regular,401112113,13,2019-11-24T00:00:00.000Z,False,Texas Tech,Big 12,27,Kansas State,Big 12,30
+2019,regular,401117907,13,2019-11-24T00:00:00.000Z,False,Cincinnati,American Athletic,15,Temple,American Athletic,13
+2019,regular,401110859,13,2019-11-24T00:00:00.000Z,False,LSU,SEC,56,Arkansas,SEC,20
+2019,regular,401112517,13,2019-11-24T00:00:00.000Z,False,Florida International,Conference USA,30,Miami,ACC,24
+2019,regular,401117910,13,2019-11-24T00:30:00.000Z,False,Tulsa,American Athletic,14,Houston,American Athletic,24
+2019,regular,401112515,13,2019-11-24T00:30:00.000Z,False,Wake Forest,ACC,39,Duke,ACC,27
+2019,regular,401110861,13,2019-11-24T00:30:00.000Z,False,Missouri,SEC,20,Tennessee,SEC,24
+2019,regular,401114162,13,2019-11-24T00:30:00.000Z,False,Arizona State,Pac-12,31,Oregon,Pac-12,28
+2019,regular,401110860,13,2019-11-24T00:30:00.000Z,False,Mississippi State,SEC,45,Abilene Christian,Southland,7
+2019,regular,401112120,13,2019-11-24T01:00:00.000Z,False,Oklahoma,Big 12,28,TCU,Big 12,24
+2019,regular,401114206,13,2019-11-24T02:00:00.000Z,False,Washington State,Pac-12,54,Oregon State,Pac-12,53
+2019,regular,401114191,13,2019-11-24T03:00:00.000Z,False,Colorado,Pac-12,20,Washington,Pac-12,14
+2019,regular,401114173,13,2019-11-24T03:00:00.000Z,False,Arizona,Pac-12,7,Utah,Pac-12,35
+2019,regular,401117551,13,2019-11-24T03:30:00.000Z,False,Fresno State,Mountain West,28,Nevada,Mountain West,35
+2019,regular,401117549,13,2019-11-24T03:30:00.000Z,False,Utah State,Mountain West,21,Boise State,Mountain West,56
+2019,regular,401117552,13,2019-11-24T04:00:00.000Z,False,Hawai'i,Mountain West,14,San Diego State,Mountain West,11
+2019,regular,401119310,14,2019-11-26T23:00:00.000Z,False,Akron,Mid-American,3,Ohio,Mid-American,52
+2019,regular,401119311,14,2019-11-27T00:00:00.000Z,False,Northern Illinois,Mid-American,17,Western Michigan,Mid-American,14
+2019,regular,401128451,14,2019-11-28T20:00:00.000Z,False,Alabama State,SWAC,17,Prairie View A&M,SWAC,20
+2019,regular,401110863,14,2019-11-29T00:30:00.000Z,False,Mississippi State,SEC,21,Ole Miss,SEC,20
+2019,regular,401119314,14,2019-11-29T17:00:00.000Z,False,Ball State,Mid-American,41,Miami (OH),Mid-American,27
+2019,regular,401119315,14,2019-11-29T17:00:00.000Z,False,Central Michigan,Mid-American,49,Toledo,Mid-American,7
+2019,regular,401112138,14,2019-11-29T17:00:00.000Z,False,Texas,Big 12,49,Texas Tech,Big 12,24
+2019,regular,401119312,14,2019-11-29T17:00:00.000Z,False,Buffalo,Mid-American,49,Bowling Green,Mid-American,7
+2019,regular,401119313,14,2019-11-29T17:00:00.000Z,False,Eastern Michigan,Mid-American,26,Kent State,Mid-American,34
+2019,regular,401112521,14,2019-11-29T17:00:00.000Z,False,Virginia,ACC,39,Virginia Tech,ACC,30
+2019,regular,401110864,14,2019-11-29T19:30:00.000Z,False,Arkansas,SEC,14,Missouri,SEC,24
+2019,regular,401112200,14,2019-11-29T19:30:00.000Z,False,Nebraska,Big Ten,24,Iowa,Big Ten,27
+2019,regular,401117913,14,2019-11-29T20:30:00.000Z,False,Memphis,American Athletic,34,Cincinnati,American Athletic,24
+2019,regular,401117554,14,2019-11-29T20:30:00.000Z,False,Colorado State,Mountain West,24,Boise State,Mountain West,31
+2019,regular,401114232,14,2019-11-29T21:00:00.000Z,False,Washington,Pac-12,31,Washington State,Pac-12,13
+2019,regular,401112134,14,2019-11-29T21:15:00.000Z,False,TCU,Big 12,17,West Virginia,Big 12,20
+2019,regular,401121979,14,2019-11-29T22:00:00.000Z,False,South Alabama,Sun Belt,34,Arkansas State,Sun Belt,30
+2019,regular,401121978,14,2019-11-29T23:00:00.000Z,False,Troy,Sun Belt,13,App State,Sun Belt,48
+2019,regular,401117912,14,2019-11-30T01:00:00.000Z,False,UCF,American Athletic,34,South Florida,American Athletic,7
+2019,regular,401117915,14,2019-11-30T17:00:00.000Z,False,East Carolina,American Athletic,24,Tulsa,American Athletic,49
+2019,regular,401121980,14,2019-11-30T17:00:00.000Z,False,Coastal Carolina,Sun Belt,24,Texas State,Sun Belt,21
+2019,regular,401112168,14,2019-11-30T17:00:00.000Z,False,Purdue,Big Ten,41,Indiana,Big Ten,44
+2019,regular,401186000,14,2019-11-30T17:00:00.000Z,False,Monmouth,Big South,44,Holy Cross,Patriot,27
+2019,regular,401110870,14,2019-11-30T17:00:00.000Z,False,South Carolina,SEC,3,Clemson,ACC,38
+2019,regular,401112156,14,2019-11-30T17:00:00.000Z,False,Illinois,Big Ten,10,Northwestern,Big Ten,29
+2019,regular,401112228,14,2019-11-30T17:00:00.000Z,False,Michigan,Big Ten,27,Ohio State,Big Ten,56
+2019,regular,401110867,14,2019-11-30T17:00:00.000Z,False,Georgia Tech,ACC,7,Georgia,SEC,52
+2019,regular,401110868,14,2019-11-30T17:00:00.000Z,False,Kentucky,SEC,45,Louisville,ACC,13
+2019,regular,401114321,14,2019-11-30T17:00:00.000Z,False,Marshall,Conference USA,30,Florida International,Conference USA,27
+2019,regular,401112525,14,2019-11-30T17:30:00.000Z,False,Syracuse,ACC,39,Wake Forest,ACC,30
+2019,regular,401185996,14,2019-11-30T18:00:00.000Z,False,Austin Peay,OVC,42,Furman,Southern,6
+2019,regular,401185995,14,2019-11-30T18:00:00.000Z,False,UAlbany,CAA,42,Central Connecticut,NEC,14
+2019,regular,401185994,14,2019-11-30T19:00:00.000Z,False,Southeast Missouri State,OVC,6,Illinois State,MVFC,24
+2019,regular,401114324,14,2019-11-30T19:00:00.000Z,False,Western Kentucky,Conference USA,31,Middle Tennessee,Conference USA,26
+2019,regular,401185999,14,2019-11-30T19:00:00.000Z,False,Northern Iowa,MVFC,17,San Diego,Pioneer,3
+2019,regular,401117556,14,2019-11-30T19:00:00.000Z,False,Air Force,Mountain West,20,Wyoming,Mountain West,6
+2019,regular,401114320,14,2019-11-30T19:00:00.000Z,False,Old Dominion,Conference USA,22,Charlotte,Conference USA,38
+2019,regular,401114346,14,2019-11-30T19:00:00.000Z,False,Liberty,FBS Independents,49,New Mexico State,FBS Independents,28
+2019,regular,401117558,14,2019-11-30T20:00:00.000Z,False,Nevada,Mountain West,30,UNLV,Mountain West,33
+2019,regular,401114326,14,2019-11-30T20:00:00.000Z,False,UTEP,Conference USA,16,Rice,Conference USA,30
+2019,regular,401114323,14,2019-11-30T20:30:00.000Z,False,Louisiana Tech,Conference USA,41,UTSA,Conference USA,27
+2019,regular,401117914,14,2019-11-30T20:30:00.000Z,False,Temple,American Athletic,49,UConn,American Athletic,17
+2019,regular,401112523,14,2019-11-30T20:30:00.000Z,False,Duke,ACC,27,Miami,ACC,17
+2019,regular,401112237,14,2019-11-30T20:30:00.000Z,False,Minnesota,Big Ten,17,Wisconsin,Big Ten,38
+2019,regular,401114322,14,2019-11-30T20:30:00.000Z,False,Florida Atlantic,Conference USA,34,Southern Miss,Conference USA,17
+2019,regular,401112084,14,2019-11-30T20:30:00.000Z,False,Kansas,Big 12,6,Baylor,Big 12,61
+2019,regular,401112522,14,2019-11-30T20:30:00.000Z,False,Pittsburgh,ACC,19,Boston College,ACC,26
+2019,regular,401110865,14,2019-11-30T20:30:00.000Z,False,Auburn,SEC,48,Alabama,SEC,45
+2019,regular,401112221,14,2019-11-30T20:30:00.000Z,False,Michigan State,Big Ten,19,Maryland,Big Ten,16
+2019,regular,401112261,14,2019-11-30T20:30:00.000Z,False,Penn State,Big Ten,27,Rutgers,Big Ten,6
+2019,regular,401114212,14,2019-11-30T21:00:00.000Z,False,Stanford,Pac-12,24,Notre Dame,FBS Independents,45
+2019,regular,401114199,14,2019-11-30T21:00:00.000Z,False,Oregon,Pac-12,24,Oregon State,Pac-12,10
+2019,regular,401117917,14,2019-11-30T21:00:00.000Z,False,SMU,American Athletic,37,Tulane,American Athletic,20
+2019,regular,401185998,14,2019-11-30T21:00:00.000Z,False,SE Louisiana,Southland,45,Villanova,CAA,44
+2019,regular,401185993,14,2019-11-30T21:00:00.000Z,False,Nicholls,Southland,24,North Dakota,FCS Independents,6
+2019,regular,401114325,14,2019-11-30T21:00:00.000Z,False,North Texas,Conference USA,21,UAB,Conference USA,26
+2019,regular,401110871,14,2019-11-30T21:00:00.000Z,False,Tennessee,SEC,28,Vanderbilt,SEC,10
+2019,regular,401185997,14,2019-11-30T21:00:00.000Z,False,Wofford,Southern,21,Kennesaw State,Big South,28
+2019,regular,401117555,14,2019-11-30T21:00:00.000Z,False,New Mexico,Mountain West,25,Utah State,Mountain West,38
+2019,regular,401128473,14,2019-11-30T22:00:00.000Z,True,Grambling,SWAC,28,Southern,SWAC,30
+2019,regular,401121981,14,2019-11-30T23:00:00.000Z,False,Georgia Southern,Sun Belt,38,Georgia State,Sun Belt,10
+2019,regular,401110869,14,2019-12-01T00:00:00.000Z,False,LSU,SEC,50,Texas A&M,SEC,7
+2019,regular,401117916,14,2019-12-01T00:00:00.000Z,False,Houston,American Athletic,41,Navy,American Athletic,56
+2019,regular,401112524,14,2019-12-01T00:00:00.000Z,False,NC State,ACC,10,North Carolina,ACC,41
+2019,regular,401112095,14,2019-12-01T00:00:00.000Z,False,Kansas State,Big 12,27,Iowa State,Big 12,17
+2019,regular,401121982,14,2019-12-01T00:30:00.000Z,False,Louisiana,Sun Belt,31,UL Monroe,Sun Belt,30
+2019,regular,401110866,14,2019-12-01T00:30:00.000Z,False,Florida,SEC,40,Florida State,ACC,17
+2019,regular,401114192,14,2019-12-01T00:30:00.000Z,False,Utah,Pac-12,45,Colorado,Pac-12,15
+2019,regular,401112121,14,2019-12-01T01:00:00.000Z,False,Oklahoma State,Big 12,16,Oklahoma,Big 12,34
+2019,regular,401117218,14,2019-12-01T02:00:00.000Z,False,San Diego State,Mountain West,13,BYU,FBS Independents,3
+2019,regular,401114163,14,2019-12-01T03:00:00.000Z,False,Arizona State,Pac-12,24,Arizona,Pac-12,14
+2019,regular,401117557,14,2019-12-01T03:30:00.000Z,False,San José State,Mountain West,17,Fresno State,Mountain West,16
+2019,regular,401114183,14,2019-12-01T03:30:00.000Z,False,UCLA,Pac-12,18,California,Pac-12,28
+2019,regular,401114334,14,2019-12-01T04:59:00.000Z,False,Hawai'i,Mountain West,52,Army,FBS Independents,31
+2019,regular,401132973,15,2019-12-07T01:00:00.000Z,True,Oregon,Pac-12,37,Utah,Pac-12,15
+2019,regular,401132982,15,2019-12-07T17:00:00.000Z,True,Central Michigan,Mid-American,21,Miami (OH),Mid-American,26
+2019,regular,401132974,15,2019-12-07T17:00:00.000Z,True,Oklahoma,Big 12,30,Baylor,Big 12,23
+2019,regular,401132984,15,2019-12-07T17:00:00.000Z,False,App State,Sun Belt,45,Louisiana,Sun Belt,38
+2019,regular,401187253,15,2019-12-07T18:00:00.000Z,False,James Madison,CAA,66,Monmouth,Big South,21
+2019,regular,401132980,15,2019-12-07T18:30:00.000Z,False,Florida Atlantic,Conference USA,49,UAB,Conference USA,6
+2019,regular,401187277,15,2019-12-07T19:00:00.000Z,False,South Dakota State,MVFC,10,Northern Iowa,MVFC,13
+2019,regular,401187252,15,2019-12-07T20:00:00.000Z,False,Montana State,Big Sky,47,UAlbany,CAA,21
+2019,regular,401187315,15,2019-12-07T20:00:00.000Z,False,Weber State,Big Sky,26,Kennesaw State,Big South,20
+2019,regular,401187316,15,2019-12-07T20:00:00.000Z,False,Montana,Big Sky,73,SE Louisiana,Southland,28
+2019,regular,401187276,15,2019-12-07T20:00:00.000Z,False,Central Arkansas,Southland,14,Illinois State,MVFC,24
+2019,regular,401187313,15,2019-12-07T20:30:00.000Z,False,North Dakota State,MVFC,37,Nicholls,Southland,13
+2019,regular,401132976,15,2019-12-07T20:30:00.000Z,False,Memphis,American Athletic,29,Cincinnati,American Athletic,24
+2019,regular,401132981,15,2019-12-07T21:00:00.000Z,True,LSU,SEC,37,Georgia,SEC,10
+2019,regular,401132979,15,2019-12-07T21:00:00.000Z,False,Boise State,Mountain West,31,Hawai'i,Mountain West,10
+2019,regular,401187336,15,2019-12-07T21:00:00.000Z,False,Alcorn State,SWAC,39,Southern,SWAC,24
+2019,regular,401132975,15,2019-12-08T00:30:00.000Z,True,Clemson,ACC,62,Virginia,ACC,17
+2019,regular,401132983,15,2019-12-08T01:00:00.000Z,True,Wisconsin,Big Ten,21,Ohio State,Big Ten,34
+2019,regular,401187314,15,2019-12-08T02:00:00.000Z,False,Sacramento State,Big Sky,28,Austin Peay,OVC,42
+2019,regular,401114335,15,2019-12-14T20:00:00.000Z,True,Navy,American Athletic,31,Army,FBS Independents,7
+2019,regular,401188397,16,2019-12-14T00:00:00.000Z,False,James Madison,CAA,17,Northern Iowa,MVFC,0
+2019,regular,401188398,16,2019-12-14T01:00:00.000Z,False,Montana State,Big Sky,24,Austin Peay,OVC,10
+2019,regular,401188399,16,2019-12-14T03:00:00.000Z,False,Weber State,Big Sky,17,Montana,Big Sky,10
+2019,regular,401188396,16,2019-12-14T17:00:00.000Z,False,North Dakota State,MVFC,9,Illinois State,MVFC,3
+2019,postseason,401135260,1,2019-12-20T19:00:00.000Z,True,Charlotte,Conference USA,9,Buffalo,Mid-American,31
+2019,postseason,401135261,1,2019-12-21T00:30:00.000Z,True,Kent State,Mid-American,51,Utah State,Mountain West,41
+2019,postseason,401189333,1,2019-12-21T01:00:00.000Z,True,North Central College,CCIW,41,Wisconsin Whitewater,Wisconsin,14
+2019,postseason,401188315,1,2019-12-21T17:00:00.000Z,True,North Carolina A&T,MEAC,64,Alcorn State,SWAC,44
+2019,postseason,401135263,1,2019-12-21T19:00:00.000Z,True,San Diego State,Mountain West,48,Central Michigan,Mid-American,11
+2019,postseason,401189293,1,2019-12-21T19:00:00.000Z,False,North Dakota State,MVFC,42,Montana State,Big Sky,14
+2019,postseason,401147693,1,2019-12-21T19:30:00.000Z,True,Georgia Southern,Sun Belt,16,Liberty,FBS Independents,23
+2019,postseason,401189334,1,2019-12-21T20:00:00.000Z,True,Minnesota State,Northern Sun,40,West Florida,Gulf South,48
+2019,postseason,401135264,1,2019-12-21T20:30:00.000Z,False,Florida Atlantic,Conference USA,52,SMU,American Athletic,28
+2019,postseason,401135265,1,2019-12-21T22:30:00.000Z,True,Arkansas State,Sun Belt,34,Florida International,Conference USA,26
+2019,postseason,401189294,1,2019-12-21T23:30:00.000Z,False,James Madison,CAA,30,Weber State,Big Sky,14
+2019,postseason,401135266,1,2019-12-22T00:30:00.000Z,True,Washington,Pac-12,38,Boise State,Mountain West,7
+2019,postseason,401135267,1,2019-12-22T02:00:00.000Z,True,UAB,Conference USA,17,App State,Sun Belt,31
+2019,postseason,401135268,1,2019-12-23T19:30:00.000Z,True,Marshall,Conference USA,25,UCF,American Athletic,48
+2019,postseason,401135269,1,2019-12-25T01:00:00.000Z,True,BYU,FBS Independents,34,Hawai'i,Mountain West,38
+2019,postseason,401135270,1,2019-12-26T21:00:00.000Z,True,Miami,ACC,0,Louisiana Tech,Conference USA,14
+2019,postseason,401135271,1,2019-12-27T01:00:00.000Z,True,Eastern Michigan,Mid-American,30,Pittsburgh,ACC,34
+2019,postseason,401135272,1,2019-12-27T17:00:00.000Z,True,Temple,American Athletic,13,North Carolina,ACC,55
+2019,postseason,401135273,1,2019-12-27T20:20:00.000Z,True,Wake Forest,ACC,21,Michigan State,Big Ten,27
+2019,postseason,401135274,1,2019-12-27T23:45:00.000Z,True,Texas A&M,SEC,24,Oklahoma State,Big 12,21
+2019,postseason,401136253,1,2019-12-28T01:00:00.000Z,True,Iowa,Big Ten,49,USC,Pac-12,24
+2019,postseason,401135275,1,2019-12-28T03:15:00.000Z,True,Washington State,Pac-12,21,Air Force,Mountain West,31
+2019,postseason,401135276,1,2019-12-28T17:00:00.000Z,True,Iowa State,Big 12,9,Notre Dame,FBS Independents,33
+2019,postseason,401135277,1,2019-12-28T17:00:00.000Z,True,Penn State,Big Ten,53,Memphis,American Athletic,39
+2019,postseason,401135278,1,2019-12-28T21:20:00.000Z,True,LSU,SEC,63,Oklahoma,Big 12,28
+2019,postseason,401135279,1,2019-12-29T01:20:00.000Z,True,Ohio State,Big Ten,23,Clemson,ACC,29
+2019,postseason,401135280,1,2019-12-30T17:30:00.000Z,True,Western Michigan,Mid-American,20,Western Kentucky,Conference USA,23
+2019,postseason,401135281,1,2019-12-30T21:00:00.000Z,True,Louisville,ACC,38,Mississippi State,SEC,28
+2019,postseason,401136254,1,2019-12-30T21:00:00.000Z,True,Illinois,Big Ten,20,California,Pac-12,35
+2019,postseason,401135282,1,2019-12-31T01:00:00.000Z,True,Virginia,ACC,28,Florida,SEC,36
+2019,postseason,401135283,1,2019-12-31T17:00:00.000Z,True,Kentucky,SEC,37,Virginia Tech,ACC,30
+2019,postseason,401136255,1,2019-12-31T19:00:00.000Z,True,Arizona State,Pac-12,20,Florida State,ACC,14
+2019,postseason,401135284,1,2019-12-31T20:45:00.000Z,True,Kansas State,Big 12,17,Navy,American Athletic,20
+2019,postseason,401147695,1,2019-12-31T21:30:00.000Z,True,Georgia State,Sun Belt,17,Wyoming,Mountain West,38
+2019,postseason,401135285,1,2020-01-01T00:30:00.000Z,True,Texas,Big 12,38,Utah,Pac-12,10
+2019,postseason,401135287,1,2020-01-01T18:00:00.000Z,True,Auburn,SEC,24,Minnesota,Big Ten,31
+2019,postseason,401135286,1,2020-01-01T18:00:00.000Z,True,Alabama,SEC,35,Michigan,Big Ten,16
+2019,postseason,401135288,1,2020-01-01T22:10:00.000Z,True,Wisconsin,Big Ten,27,Oregon,Pac-12,28
+2019,postseason,401135289,1,2020-01-02T01:45:00.000Z,True,Baylor,Big 12,14,Georgia,SEC,26
+2019,postseason,401135290,1,2020-01-02T20:00:00.000Z,True,Cincinnati,American Athletic,38,Boston College,ACC,6
+2019,postseason,401135291,1,2020-01-03T00:00:00.000Z,True,Tennessee,SEC,23,Indiana,Big Ten,22
+2019,postseason,401135292,1,2020-01-03T20:30:00.000Z,True,Nevada,Mountain West,21,Ohio,Mid-American,30
+2019,postseason,401135293,1,2020-01-04T16:30:00.000Z,True,Tulane,American Athletic,30,Southern Miss,Conference USA,13
+2019,postseason,401135294,1,2020-01-07T00:30:00.000Z,True,Miami (OH),Mid-American,17,Louisiana,Sun Belt,27
+2019,postseason,401198013,1,2020-01-11T17:00:00.000Z,True,North Dakota State,MVFC,28,James Madison,CAA,20
+2019,postseason,401135295,1,2020-01-14T01:00:00.000Z,True,LSU,SEC,42,Clemson,ACC,25
