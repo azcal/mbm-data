@@ -20,6 +20,7 @@ jobs:
         run: |
           git config user.name "mbm-data"
           git config user.email "mbm-data@users.noreply.github.com"
+          mkdir -p states cfbd
           git add states cfbd
           git commit -m "states $(date -u +%F)" || echo "nothing new"
           git pull --rebase && git push
