@@ -1,0 +1,28 @@
+name: cfbd-backfill
+on:
+  workflow_dispatch:
+    inputs:
+      from_year: { description: "first season", default: "2015" }
+      to_year:   { description: "last season",  default: "2025" }
+permissions:
+  contents: write
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install requests
+      - run: python cfbd_backfill.py
+        env:
+          CFBD_KEY: ${{ secrets.CFBD_KEY }}
+          FROM_YEAR: ${{ inputs.from_year }}
+          TO_YEAR: ${{ inputs.to_year }}
+      - name: commit
+        run: |
+          git config user.name "mbm-data"
+          git config user.email "mbm-data@users.noreply.github.com"
+          git add cfbd
+          git commit -m "cfbd backfill" || echo "nothing new"
+          git pull --rebase && git push
