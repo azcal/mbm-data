@@ -10,10 +10,27 @@ Rule (written 2026-09-03, do not edit mid-season):
   Pass at season end if, on at least 150 graded flags, hit rate >= pooled implied
   probability + 0.02 and ROI > 0. Fail: retired.
 
+Amendment 2026-09-03, before the first run: games with a market line of 9 or more points
+are excluded from both rules below. On the 2024-25 holdout the grid runs narrower than
+reality on big spreads (favourites of -9 or more teased to -3 hit 0.588 against a grid
+0.690). Excluded until the shape is refit with a spread-dependent width; mkt_line is
+logged on every row so the season's data can test that exclusion.
+
+Teaser rule (written 2026-09-03, do not edit mid-season):
+  Six-point teaser legs. From the same grid, a home leg is the home team's cover
+  probability at (market line + 6), an away leg the away team's at (away line + 6).
+  Half-point market lines only (no pushes). Flag legs the grid rates 0.74 or better.
+  Prices to demand: -120 or better on two-team, +160 or better on three-team (break-even
+  0.739 and 0.727 per leg). Graded per leg. Pass at season end if leg hit rate >= 0.74 on
+  at least 150 legs. Fail: retired.
+  Evidence: 2024-25 holdout, legs the grid rated >= 0.74 covered 0.761 (n=272); the static
+  Wong ranges covered 0.706 to 0.729 and no longer clear -130.
+
 Needs MODEL_REPO_TOKEN with read access to mbm-nfl (add it to the token's repository
 list). Set LOCAL_GRID=<path> and LOCAL_LOG=<path> for testing without GitHub.
 """
 import datetime as dt, glob, io, json, math, os, sys
+import numpy as np
 import pandas as pd
 import requests
 
@@ -24,6 +41,10 @@ TOKEN = os.environ.get("MODEL_REPO_TOKEN", "").strip()
 OWNER = json.load(open(os.path.join(HERE, "ledger.json"))).get("owner", "azcal")
 REPO, BRANCH = "mbm-nfl", "main"
 THRESHOLD, BAR_N, BAR_MARGIN = 0.03, 150, 0.02
+MAX_LINE = 9.0                      # big-spread exclusion, see the docstring
+TEASER_OUT = os.path.join(HERE, "ledger", "teaser_legs.csv")
+TEASER_MIN, TEASER_BAR, TEASER_N = 0.74, 0.74, 150
+TCOLS = ["snap_ts", "game_id", "date", "home", "away", "team", "side", "mkt_line", "teased_line", "p_leg", "result", "graded"]
 TEAMS = {"Arizona Cardinals": "ARI", "Atlanta Falcons": "ATL", "Baltimore Ravens": "BAL", "Buffalo Bills": "BUF",
          "Carolina Panthers": "CAR", "Chicago Bears": "CHI", "Cincinnati Bengals": "CIN", "Cleveland Browns": "CLE",
          "Dallas Cowboys": "DAL", "Denver Broncos": "DEN", "Detroit Lions": "DET", "Green Bay Packers": "GB",
@@ -42,6 +63,63 @@ def fetch(path):
     if r.status_code != 200:
         sys.exit(f"could not read {REPO}/{path} (HTTP {r.status_code}); is mbm-nfl on the token's repository list?")
     return pd.read_csv(io.StringIO(r.text), low_memory=False)
+
+
+
+
+def teaser_section(grid, log, started_ids):
+    """Six-point teaser legs from the grid. Flags on games that have not started, grades
+    the rest from the runner's margins. Returns lines for the post."""
+    if os.path.exists(TEASER_OUT):
+        t = pd.read_csv(TEASER_OUT, low_memory=False)
+        for c in ("result", "graded"):
+            t[c] = t[c].astype(object).where(t[c].notna(), "")
+    else:
+        t = pd.DataFrame(columns=TCOLS)
+    have = set(zip(t.game_id.astype(str), t.team))
+    g = grid.copy(); g["home_line"] = pd.to_numeric(g.home_line); g["mkt_line"] = pd.to_numeric(g.mkt_line)
+    new = []
+    for gid, gg in g.groupby("game_id"):
+        r0 = gg.iloc[0]; ml = float(r0.mkt_line)
+        if abs(ml) >= MAX_LINE or abs(ml * 2 - round(ml * 2)) > 1e-9 or ml == round(ml):
+            continue                                        # big spread, or a whole-number line (pushes)
+        if str(gid) in started_ids:
+            continue
+        home_leg = gg[np.isclose(gg.home_line, ml + 6)]
+        away_leg = gg[np.isclose(gg.home_line, ml - 6)]
+        for side, team, leg, col, teased in (("home", r0.home, home_leg, "p_home_cover", ml + 6),
+                                             ("away", r0.away, away_leg, "p_away_cover", -ml + 6)):
+            if leg.empty or (str(gid), team) in have:
+                continue
+            p = float(leg[col].iloc[0])
+            if p >= TEASER_MIN:
+                new.append(dict(snap_ts=r0.ts, game_id=gid, date=r0.date, home=r0.home, away=r0.away, team=team,
+                                side=side, mkt_line=ml, teased_line=round(teased, 1), p_leg=round(p, 4), result="", graded=""))
+                have.add((str(gid), team))
+    if new:
+        t = pd.concat([t, pd.DataFrame(new)], ignore_index=True)
+    res = {str(r.game_id): r.result for r in log.itertuples() if pd.notna(getattr(r, "result", None))}
+    graded = 0
+    for i, r in t[t.result.astype(str) == ""].iterrows():
+        m = res.get(str(r.game_id))
+        if m is None:
+            continue
+        tm = float(m) if r.side == "home" else -float(m)
+        cov = tm + float(r.teased_line)
+        t.loc[i, ["result", "graded"]] = ["win" if cov > 0 else "loss" if cov < 0 else "push", str(NOW.date())]
+        graded += 1
+    t = t[TCOLS]; t.to_csv(TEASER_OUT, index=False)
+    lines = [f"teaser legs: {len(new)} new, {graded} graded"]
+    for r in sorted(new, key=lambda r: -r["p_leg"]):
+        lines.append(f"  {r['away']} @ {r['home']}  {r['team']} {r['teased_line']:+g} (from {('+' if r['side']=='away' else '')}{(-r['mkt_line'] if r['side']=='away' else r['mkt_line']):+g})  leg {r['p_leg']:.3f}")
+    if new:
+        lines.append("  demand -120 or better on two-team, +160 or better on three-team; any two or three of the above")
+    d = t[t.result.isin(["win", "loss"])]
+    if len(d):
+        hit = (d.result == "win").mean()
+        lines.append(f"  legs so far: {len(d)}, hit {hit:.3f} vs break-even 0.739 | bar {TEASER_BAR} on {TEASER_N}: {'PASS so far' if hit >= TEASER_BAR else 'short'}, {len(d)}/{TEASER_N}")
+    return lines, bool(new or graded)
+
 
 
 def load_out():
@@ -83,6 +161,8 @@ def main():
         if hit is None:
             continue
         p, mkt_line, gid, date = hit
+        if abs(float(mkt_line)) >= MAX_LINE:
+            continue
         edge = p * float(best.price) - 1
         if edge >= THRESHOLD:
             new.append(dict(snap_ts=best.snap_ts, event_id=eid, game_id=gid, date=date, home=best.home_code, away=best.away_code,
@@ -118,9 +198,16 @@ def main():
             b = d[(d.implied >= lo) & (d.implied < hi)]
             if len(b) >= 10:
                 lines.append(f"  implied {lo:.2f}-{min(hi,1):.2f} n={len(b):>4} hit {(b.result=='win').mean():.3f} implied {b.implied.mean():.3f} ROI {b.pnl.mean():+.3f}")
+    started_ids = set()
+    for r in alt.drop_duplicates("event_id").itertuples():
+        if r.start <= NOW:
+            gm = grid[(grid.home == r.home_code) & (grid.away == r.away_code)]
+            started_ids |= {str(x) for x in gm.game_id.unique()}
+    tl, tact = teaser_section(grid, log, started_ids)
+    lines += tl
     print("\n".join(lines))
     hook = os.environ.get("DISCORD_WEBHOOK", "").strip()
-    if hook and (new or graded) and "--dry" not in sys.argv:
+    if hook and (new or graded or tact) and "--dry" not in sys.argv:
         requests.post(hook, json={"embeds": [{"title": "NFL alt-line rule (paper, 3% edge)", "description": "```\n" + "\n".join(lines)[:3800] + "\n```",
                                               "footer": {"text": "rule fixed 2026-09-03; pass = hit >= implied+0.02 and ROI>0 on 150"}}]}, timeout=30)
 
