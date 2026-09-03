@@ -186,6 +186,16 @@ def main():
             continue
         ops = openers(board, a); pairs = match_rows(board, log, ops)
         print(f"{board}: {len(ops)} archived events, {len(pairs)} matched to the model log")
+        if ops and not pairs:
+            dcol = b.get("date_col", "date")
+            dates = log[dcol].map(norm_date)
+            print(f"  diagnosis: model log has {len(log)} rows, dates {dates.min()} to {dates.max()}")
+            for eid, ev in list(ops.items())[:8]:
+                h, aw = ev["home"], ev["away"]
+                hc, ac = (team_code(board, h), team_code(board, aw)) if board != "mma" else (h, aw)
+                near = log[(pd.to_datetime(dates) - pd.Timestamp(ev["game_date"])).dt.days.abs() <= 1]
+                shown = ", ".join(f"{r.home}@{r.away}" if board != "mma" else f"{r.A} v {r.B}" for r in near.head(6).itertuples()) or "none"
+                print(f"  archive {ev['game_date']}: {h} -> {hc} vs {aw} -> {ac}; model rows within a day: {shown}")
         thr = b.get("threshold", CFG.get("threshold", 0.03))
         for eid, ev, r, flip in pairs:
             ph = p_home_of(board, r, flip)
