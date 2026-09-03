@@ -206,7 +206,8 @@ def main():
                 edge = p * price - 1
                 if key in have:
                     continue
-                if edge >= thr and result_of(board, r, flip) is None:
+                started = dt.datetime.fromisoformat(ev["commence"].replace("Z", "+00:00")) <= NOW
+                if edge >= thr and not started:
                     new_rows.append(dict(board=board, snap_ts=ev["snap_ts"], event_id=eid, commence=ev["commence"],
                                          game_date=ev["game_date"], home=ev["home"], away=ev["away"], side=side,
                                          team=ev["home"] if side == "home" else ev["away"], book=bk, price=round(price, 3),
