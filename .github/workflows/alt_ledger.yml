@@ -1,0 +1,29 @@
+name: alt-ledger
+# Sunday 17:05 UTC (after the alt snapshot) to flag, Tuesday 16:05 UTC to grade.
+on:
+  schedule:
+    - cron: "5 17 * * 0"
+    - cron: "5 16 * * 2"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  alt_ledger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install requests pandas
+      - run: python alt_ledger.py
+        env:
+          MODEL_REPO_TOKEN: ${{ secrets.MODEL_REPO_TOKEN }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      - name: commit
+        run: |
+          git config user.name "mbm-data"
+          git config user.email "mbm-data@users.noreply.github.com"
+          mkdir -p ledger
+          git add ledger
+          git commit -m "alt ledger $(date -u +%F)" || echo "nothing new"
+          git pull --rebase && git push
