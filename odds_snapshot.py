@@ -42,10 +42,20 @@ def in_season(sc):
     return (a <= md <= b) if a <= b else (md >= a or md <= b)
 
 
+def tick_hour():
+    """The hour the cron MEANT to fire, not the hour it actually ran. GitHub delays scheduled
+    jobs by minutes to an hour at busy times, which would otherwise make a 15:05 tick miss a
+    15-hour schedule. odds.yml passes the matching cron line in TICK_CRON."""
+    cron = os.environ.get("TICK_CRON", "").split()
+    if len(cron) >= 2 and cron[1].isdigit():
+        return int(cron[1])
+    return NOW.hour
+
+
 def due(sport, sc):
     if os.environ.get("FORCE_SPORT") == sport:
         return True
-    return NOW.weekday() in sc["days"] and NOW.hour in sc["utc_hours"] and in_season(sc)
+    return NOW.weekday() in sc["days"] and tick_hour() in sc["utc_hours"] and in_season(sc)
 
 
 def snapshot(sport, sc):
@@ -93,7 +103,8 @@ def main():
             snapshot(sport, sc); ran += 1
     os.makedirs(os.path.dirname(USAGE), exist_ok=True)
     json.dump(U, open(USAGE, "w"), indent=1)
-    print(f"tick {NOW.isoformat(timespec='minutes')}: {ran} sport(s) snapshotted, {remaining()} credits left this month")
+    print(f"tick {NOW.isoformat(timespec='minutes')} (scheduled hour {tick_hour()} UTC, weekday {NOW.weekday()}): "
+          f"{ran} sport(s) snapshotted, {remaining()} credits left this month")
 
 
 if __name__ == "__main__":
