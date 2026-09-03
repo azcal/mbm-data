@@ -25,6 +25,7 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           FORCE_SPORT: ${{ inputs.force_sport }}
+          TICK_CRON: ${{ github.event.schedule }}
       - name: commit
         run: |
           git config user.name "mbm-data"
