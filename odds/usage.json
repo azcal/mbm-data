@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
- "remaining": 429,
- "used": 71,
+ "remaining": 426,
+ "used": 74,
  "calls": [
   {
    "ts": "2026-09-02T16:03:34+00:00",
@@ -86,6 +86,12 @@
    "sport": "mma_mixed_martial_arts",
    "status": 200,
    "cost": "1"
+  },
+  {
+   "ts": "2026-09-06T00:51:37+00:00",
+   "sport": "americanfootball_nfl",
+   "status": 200,
+   "cost": "3"
   }
  ]
 }
