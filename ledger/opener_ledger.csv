@@ -1,2 +1,13 @@
 board,snap_ts,event_id,commence,game_date,home,away,side,team,book,price,implied,p_model,p_cons,edge,n_books,result,pnl,graded
 mma,2026-09-05T23:45:34+00:00,b7d74355fe55dde1803fa84c96828776,2026-09-08T22:00:00Z,2026-09-08,Won Il Kwon,Apollo Gomes,home,Won Il Kwon,betonlineag,1.95,0.5128,0.5929,0.4895,0.1561,1,,,
+mma,2026-09-05T23:45:34+00:00,1c075185d91e84c1317a9f6bdad39e6b,2026-09-12T22:15:00Z,2026-09-12,Manon Fiorot,Alexa Grasso,away,Alexa Grasso,bovada,2.85,0.3509,0.3962,0.3419,0.1291,7,,,
+mma,2026-09-05T23:45:34+00:00,369a6cc5d46b96d484aef96b10975f61,2026-09-13T00:00:00Z,2026-09-12,Drakkar Klose,Thomas Gantt,home,Drakkar Klose,pinnacle,4.96,0.2016,0.6672,0.199,2.3091,5,,,
+mma,2026-09-05T23:45:34+00:00,55c4492479c6bd10aacd993219179119,2026-09-12T20:45:00Z,2026-09-12,Tim Elliott,Edgar Chairez,away,Edgar Chairez,pinnacle,1.51,0.6623,0.7331,0.6481,0.107,8,,,
+mma,2026-09-05T23:45:34+00:00,6e6cb994b418806cf161af83bf19c97b,2026-09-12T23:45:00Z,2026-09-12,Jean Silva,Jose Delgado,away,Jose Delgado,pinnacle,4.45,0.2247,0.4201,0.2231,0.8695,8,,,
+mma,2026-09-05T23:45:34+00:00,82ab63fc7383b2b739a01100f09e0b11,2026-09-13T00:00:00Z,2026-09-12,J.J. Aldrich,Regina Tarin,home,J.J. Aldrich,pinnacle,3.18,0.3145,0.4756,0.3182,0.5124,7,,,
+mma,2026-09-05T23:45:34+00:00,a6c08d78970d712f2fc421fa3b69382f,2026-09-12T23:15:00Z,2026-09-12,Brandon Moreno,Joseph Morales,home,Brandon Moreno,betonlineag,2.16,0.463,0.5677,0.4479,0.2261,8,,,
+mma,2026-09-05T23:45:34+00:00,b0da40c6c04b2fa69ee5d46c509d160f,2026-09-12T22:45:00Z,2026-09-12,Tommy McMillen,Marwan Rahiki,away,Marwan Rahiki,pinnacle,2.39,0.4184,0.5061,0.4232,0.2097,8,,,
+mma,2026-09-05T23:45:34+00:00,b34ea4f97b4f5e0269662aac3000de4a,2026-09-12T21:45:00Z,2026-09-12,Waldo Cortes-Acosta,Curtis Blaydes,away,Curtis Blaydes,betonlineag,2.77,0.361,0.4065,0.3613,0.1259,8,,,
+mma,2026-09-05T23:45:34+00:00,b7208db4dd497f87e102ddb22295ffce,2026-09-12T20:15:00Z,2026-09-12,Yousri Belgaroui,Djorden Santos,away,Djorden Santos,pinnacle,6.08,0.1645,0.3683,0.1597,1.2395,8,,,
+mma,2026-09-05T23:45:34+00:00,fc0f5ecf0f53e7bb434ee19e0dc77226,2026-09-12T19:15:00Z,2026-09-12,Rafa Garcia,Zhu Rong,home,Rafa Garcia,betonlineag,2.53,0.3953,0.7016,0.3983,0.7751,8,,,
+mma,2026-09-05T23:45:34+00:00,fd52af3d1430f8caff510dfdb66597c3,2026-09-12T20:30:00Z,2026-09-12,Ignacio Bahamondes,Muslim Salikhov,away,Muslim Salikhov,betmgm,5.25,0.1905,0.3089,0.193,0.6219,8,,,
