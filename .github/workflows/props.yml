@@ -1,0 +1,36 @@
+name: props-track
+# Sunday 16:20 UTC snapshot (early-window games), 16:45 UTC flag; Tuesday 16:15 UTC grade.
+on:
+  schedule:
+    - cron: "20 16 * * 0"
+    - cron: "45 16 * * 0"
+    - cron: "15 16 * * 2"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  props:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install requests pandas numpy pyarrow
+      - run: |
+          if [ "${{ github.event.schedule }}" = "20 16 * * 0" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then python props_snapshot.py; fi
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+      - run: |
+          if [ "${{ github.event.schedule }}" != "20 16 * * 0" ]; then python props_ledger.py; fi
+        env:
+          MODEL_REPO_TOKEN: ${{ secrets.MODEL_REPO_TOKEN }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      - name: commit
+        run: |
+          git config user.name "mbm-data"
+          git config user.email "mbm-data@users.noreply.github.com"
+          mkdir -p odds ledger
+          git add odds ledger
+          git commit -m "props $(date -u +%F)" || echo "nothing new"
+          git pull --rebase && git push
