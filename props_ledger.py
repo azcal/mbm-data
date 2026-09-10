@@ -31,6 +31,65 @@ TEAMS = {"Arizona Cardinals": "ARI", "Atlanta Falcons": "ATL", "Baltimore Ravens
          "Tampa Bay Buccaneers": "TB", "Tennessee Titans": "TEN", "Washington Commanders": "WAS"}
 COLS = ["snap_ts", "event_id", "season", "week", "date", "team", "player", "market", "side", "line", "book", "price", "implied", "p_model",
         "median", "result", "actual", "pnl", "graded"]
+HIST = os.path.join(HERE, "ledger", "props_grid_history.csv")
+
+
+def grid_grade(grid):
+    """Full-grid grading, every projected player, not just flags. Sunday: append the grid to
+    the history. Tuesday: for completed weeks, find each player's actual yards and catches,
+    locate them in the model's own distribution, and report coverage: middle 50% should hold
+    half, the 10-90 band four in five, the median should split outcomes evenly. Split by tier
+    (top 10% by projected targets) and by week, which is where a tier bias would show."""
+    keep = ["season", "week", "team", "opp", "name", "pos", "inj", "proj_targets", "med_yds", "med_rec"] + [f"p_over_{int(x)}" for x in YGRID] + [f"p_rec_{k}" for k in range(1, 11)]
+    keep = [c for c in keep if c in grid.columns]
+    hist = pd.read_csv(HIST, low_memory=False) if os.path.exists(HIST) else pd.DataFrame(columns=keep + ["act_yds", "act_rec", "pct_yds", "pct_rec"])
+    g = grid[keep].copy()
+    key = lambda d: d.season.astype(str) + "|" + d.week.astype(str) + "|" + d.name.astype(str) + "|" + d.team.astype(str)
+    newrows = g[~key(g).isin(set(key(hist)))] if len(hist) else g
+    if len(newrows):
+        for c in ("act_yds", "act_rec", "pct_yds", "pct_rec"):
+            newrows[c] = np.nan
+        hist = pd.concat([hist, newrows], ignore_index=True)
+    # grade ungraded rows for completed weeks
+    pend = hist[hist.act_yds.isna()]
+    lines = []
+    for season in sorted(set(pd.to_numeric(pend.season, errors="coerce").dropna().astype(int))):
+        r = requests.get(f"https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_{season}.parquet", timeout=120)
+        if r.status_code != 200 or len(r.content) < 100:
+            continue
+        st = pd.read_parquet(io.BytesIO(r.content)); st = st[st.season_type == "REG"]
+        st["key"] = st.player_display_name.map(norm) + "|" + st.team + "|" + st.week.astype(str)
+        stat = {r_.key: (float(r_.receiving_yards), float(r_.receptions)) for r_ in st.itertuples()}
+        done = set(st.week.unique())
+        for i, rw in pend[pd.to_numeric(pend.season, errors="coerce") == season].iterrows():
+            wk = int(rw.week)
+            if wk not in done:
+                continue
+            s_ = stat.get(f"{rw['name']}|{rw.team}|{wk}")
+            if s_ is None:
+                hist.loc[i, ["act_yds", "act_rec"]] = [-1, -1]; continue          # did not play
+            ps = np.array([rw[f"p_over_{int(x)}"] for x in YGRID], float)
+            pct_y = 1 - float(np.interp(s_[0], YGRID, ps))
+            k = int(s_[1]); pr = float(rw.get(f"p_rec_{k}", 1.0)) if k >= 1 else 1.0; pr_next = float(rw.get(f"p_rec_{k+1}", 0.0)) if k + 1 <= 10 else 0.0
+            pct_r = 1 - (pr + pr_next) / 2                                          # mid-rank for a discrete count
+            hist.loc[i, ["act_yds", "act_rec", "pct_yds", "pct_rec"]] = [s_[0], s_[1], round(pct_y, 3), round(pct_r, 3)]
+    hist.to_csv(HIST, index=False)
+    d = hist[hist.pct_yds.notna() & (hist.act_yds >= 0)].copy()
+    if len(d) >= 20:
+        d["proj_targets"] = pd.to_numeric(d.proj_targets); d["week"] = pd.to_numeric(d.week)
+        thr = d.groupby(["season", "week"]).proj_targets.transform(lambda s: s.quantile(0.9))
+        d["tier"] = np.where(d.proj_targets >= thr, "top10%", "rest")
+        lines.append(f"full-grid grade: {len(d)} player-games. middle-50% coverage {np.mean((d.pct_yds>.25)&(d.pct_yds<.75)):.2f} (want .50), "
+                     f"10-90 coverage {np.mean((d.pct_yds>.10)&(d.pct_yds<.90)):.2f} (want .80), over-median {np.mean(d.pct_yds<.5):.2f} (want .50)")
+        for tier in ("top10%", "rest"):
+            b = d[d.tier == tier]
+            if len(b) >= 10:
+                lines.append(f"  {tier:<7} n={len(b):>4} over-median {np.mean(b.pct_yds<.5):.2f}  middle-50 {np.mean((b.pct_yds>.25)&(b.pct_yds<.75)):.2f}  catches over-median {np.mean(b.pct_rec<.5):.2f}")
+        for lo, hi, lab in ((1, 2, "wk1-2"), (3, 4, "wk3-4"), (5, 30, "wk5+")):
+            b = d[(d.week >= lo) & (d.week <= hi)]
+            if len(b) >= 10:
+                lines.append(f"  {lab:<7} n={len(b):>4} over-median {np.mean(b.pct_yds<.5):.2f}  middle-50 {np.mean((b.pct_yds>.25)&(b.pct_yds<.75)):.2f}")
+    return lines
 norm = lambda s: re.sub(r"[^a-z]", "", str(s).lower())
 
 
@@ -83,6 +142,8 @@ def main():
             row = gk.get(f"{norm(player)}|{hc}") or gk.get(f"{norm(player)}|{ac}")
             if row is None:
                 continue
+            if str(getattr(row, "inj", "")) not in ("", "nan"):
+                continue                                   # Questionable/Doubtful/Out: no flags, by policy
             p = p_side(row._asdict(), market, side, float(line))
             edge = p * float(best.price) - 1
             if edge >= THRESHOLD:
@@ -133,6 +194,10 @@ def main():
                 lines.append(f"  {mk.replace('player_','')}: n={len(b)} hit {(b.result=='win').mean():.3f} implied {b.implied.mean():.3f} ROI {b.pnl.mean():+.3f}")
         v = (out.result == "void").sum()
         lines.append(f"  voided (did not play): {v}")
+    try:
+        gl = grid_grade(grid); lines += gl; graded += len(gl)
+    except Exception as ex:
+        lines.append(f"full-grid grade skipped: {type(ex).__name__}: {ex}")
     print("\n".join(lines))
     hook = os.environ.get("DISCORD_WEBHOOK", "").strip()
     if hook and (new or graded) and "--dry" not in sys.argv:
