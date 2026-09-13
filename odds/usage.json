@@ -1,6 +1,6 @@
 {
  "month": "2026-09",
- "remaining": 282,
+ "remaining": 276,
  "used": 218,
  "calls": [
   {
@@ -284,6 +284,42 @@
    "sport": "americanfootball_nfl",
    "status": 200,
    "cost": "3"
+  },
+  {
+   "ts": "2026-09-13T18:53:15+00:00",
+   "sport": "alt_americanfootball_nfl",
+   "status": 200,
+   "cost": "1"
+  },
+  {
+   "ts": "2026-09-13T18:53:15+00:00",
+   "sport": "alt_americanfootball_nfl",
+   "status": 200,
+   "cost": "1"
+  },
+  {
+   "ts": "2026-09-13T18:53:15+00:00",
+   "sport": "alt_americanfootball_nfl",
+   "status": 200,
+   "cost": "1"
+  },
+  {
+   "ts": "2026-09-13T18:53:15+00:00",
+   "sport": "alt_americanfootball_nfl",
+   "status": 200,
+   "cost": "1"
+  },
+  {
+   "ts": "2026-09-13T18:53:15+00:00",
+   "sport": "alt_americanfootball_nfl",
+   "status": 200,
+   "cost": "1"
+  },
+  {
+   "ts": "2026-09-13T18:53:15+00:00",
+   "sport": "alt_americanfootball_nfl",
+   "status": 200,
+   "cost": "1"
   }
  ]
 }
