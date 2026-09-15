@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
- "remaining": 250,
- "used": 250,
+ "remaining": 247,
+ "used": 253,
  "calls": [
   {
    "ts": "2026-09-02T16:03:34+00:00",
@@ -356,6 +356,12 @@
    "sport": "basketball_wnba",
    "status": 200,
    "cost": "2"
+  },
+  {
+   "ts": "2026-09-15T01:23:13+00:00",
+   "sport": "americanfootball_nfl",
+   "status": 200,
+   "cost": "3"
   }
  ]
 }
