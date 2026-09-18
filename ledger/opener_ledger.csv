@@ -28,8 +28,11 @@ mma,2026-09-05T23:45:34+00:00,9c81899bd5c97424298cb75824aa9b39,2026-09-20T02:45:
 mma,2026-09-05T23:45:34+00:00,aa7a874d175da620f7fa265b29b064c3,2026-09-20T00:15:00Z,2026-09-19,Marlon Vera,Charles Jourdain,home,Marlon Vera,pinnacle,3.02,0.3311,0.4673,0.3205,0.4112,4,,,
 mma,2026-09-05T23:45:34+00:00,bc257ce1122b16fe0efc528b5f527954,2026-09-19T22:15:00Z,2026-09-19,Casey O'Neill,Eduarda Moura,away,Eduarda Moura,betonlineag,2.5,0.4,0.4153,0.397,0.0384,4,,,
 mma,2026-09-05T23:45:34+00:00,f00933726f831e1aea9060837d70c555,2026-09-20T01:15:00Z,2026-09-19,Alonzo Menifield,Iwo Baraniewski,home,Alonzo Menifield,pinnacle,3.17,0.3155,0.3507,0.3105,0.1118,4,,,
-wnba,2026-09-03T16:08:25+00:00,0fd1d4ee6d6e720e030e8cefb6a5a591,2026-09-17T23:30:00Z,2026-09-17,Atlanta Dream,Connecticut Sun,away,Connecticut Sun,fanduel,8.9,0.1124,0.2461,0.1189,1.1906,3,,,
-wnba,2026-09-03T16:08:25+00:00,58a4c915db23d78435f89d1505f13d99,2026-09-18T02:00:00Z,2026-09-17,Portland Fire,Phoenix Mercury,home,Portland Fire,betrivers,2.0,0.5,0.5344,0.4778,0.0688,3,,,
-wnba,2026-09-03T16:08:25+00:00,61b156ccbfae6cde6e02dfc0684905de,2026-09-18T00:00:00Z,2026-09-17,Dallas Wings,Los Angeles Sparks,away,Los Angeles Sparks,betrivers,3.55,0.2817,0.3247,0.2723,0.1526,3,,,
-wnba,2026-09-03T16:08:25+00:00,b9b0b24665156d1d63dfbe7e8d13682b,2026-09-18T02:00:00Z,2026-09-17,Seattle Storm,Las Vegas Aces,home,Seattle Storm,betrivers,3.95,0.2532,0.5612,0.248,1.2168,3,,,
-wnba,2026-09-03T16:08:25+00:00,e1345bc3242e9236f8524205bb759ad3,2026-09-18T00:00:00Z,2026-09-17,Chicago Sky,Washington Mystics,home,Chicago Sky,betrivers,2.45,0.4082,0.472,0.4076,0.1564,3,,,
+wnba,2026-09-03T16:08:25+00:00,0fd1d4ee6d6e720e030e8cefb6a5a591,2026-09-17T23:30:00Z,2026-09-17,Atlanta Dream,Connecticut Sun,away,Connecticut Sun,fanduel,8.9,0.1124,0.2461,0.1189,1.1906,3,loss,-1.0,2026-09-18
+wnba,2026-09-03T16:08:25+00:00,58a4c915db23d78435f89d1505f13d99,2026-09-18T02:00:00Z,2026-09-17,Portland Fire,Phoenix Mercury,home,Portland Fire,betrivers,2.0,0.5,0.5344,0.4778,0.0688,3,loss,-1.0,2026-09-18
+wnba,2026-09-03T16:08:25+00:00,61b156ccbfae6cde6e02dfc0684905de,2026-09-18T00:00:00Z,2026-09-17,Dallas Wings,Los Angeles Sparks,away,Los Angeles Sparks,betrivers,3.55,0.2817,0.3247,0.2723,0.1526,3,loss,-1.0,2026-09-18
+wnba,2026-09-03T16:08:25+00:00,b9b0b24665156d1d63dfbe7e8d13682b,2026-09-18T02:00:00Z,2026-09-17,Seattle Storm,Las Vegas Aces,home,Seattle Storm,betrivers,3.95,0.2532,0.5612,0.248,1.2168,3,loss,-1.0,2026-09-18
+wnba,2026-09-03T16:08:25+00:00,e1345bc3242e9236f8524205bb759ad3,2026-09-18T00:00:00Z,2026-09-17,Chicago Sky,Washington Mystics,home,Chicago Sky,betrivers,2.45,0.4082,0.472,0.4076,0.1564,3,loss,-1.0,2026-09-18
+wnba,2026-09-03T16:08:25+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,2026-09-18,Golden State Valkyries,Portland Fire,away,Portland Fire,fanduel,7.1,0.1408,0.257,0.1358,0.825,3,,,
+wnba,2026-09-03T16:08:25+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,2026-09-18,Toronto Tempo,Indiana Fever,home,Toronto Tempo,draftkings,5.7,0.1754,0.4287,0.1679,1.4435,3,,,
+wnba,2026-09-03T16:08:25+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,2026-09-18,Minnesota Lynx,New York Liberty,away,New York Liberty,betrivers,3.1,0.3226,0.3663,0.308,0.1355,3,,,
