@@ -5397,3 +5397,143 @@ snap_ts,event_id,commence,home,away,book,book_update,market,outcome,point,price
 2026-09-18T00:03:19+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,pinnacle,2026-09-18T00:03:15Z,h2h,Portland Fire,,6.61
 2026-09-18T00:03:19+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,pinnacle,2026-09-18T00:03:15Z,spreads,Golden State Valkyries,-12.5,1.87
 2026-09-18T00:03:19+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,pinnacle,2026-09-18T00:03:15Z,spreads,Portland Fire,12.5,1.95
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,fanduel,2026-09-18T18:06:20Z,h2h,Indiana Fever,,1.06
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,fanduel,2026-09-18T18:06:20Z,h2h,Toronto Tempo,,8.9
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,fanduel,2026-09-18T18:06:20Z,spreads,Indiana Fever,-14.5,1.85
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,fanduel,2026-09-18T18:06:20Z,spreads,Toronto Tempo,14.5,1.96
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,draftkings,2026-09-18T18:05:28Z,h2h,Indiana Fever,,1.07
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,draftkings,2026-09-18T18:05:28Z,h2h,Toronto Tempo,,9.5
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,draftkings,2026-09-18T18:05:28Z,spreads,Indiana Fever,-15.5,1.95
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,draftkings,2026-09-18T18:05:28Z,spreads,Toronto Tempo,15.5,1.87
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betrivers,2026-09-18T18:06:20Z,h2h,Indiana Fever,,1.06
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betrivers,2026-09-18T18:06:20Z,h2h,Toronto Tempo,,9.0
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betrivers,2026-09-18T18:06:20Z,spreads,Indiana Fever,-15.5,1.95
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betrivers,2026-09-18T18:06:20Z,spreads,Toronto Tempo,15.5,1.83
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betmgm,2026-09-18T18:06:20Z,h2h,Indiana Fever,,1.1
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betmgm,2026-09-18T18:06:20Z,h2h,Toronto Tempo,,7.5
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betmgm,2026-09-18T18:06:20Z,spreads,Indiana Fever,-15.5,1.95
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betmgm,2026-09-18T18:06:20Z,spreads,Toronto Tempo,15.5,1.8
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,lowvig,2026-09-18T18:06:20Z,h2h,Indiana Fever,,1.09
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,lowvig,2026-09-18T18:06:20Z,h2h,Toronto Tempo,,8.09
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,lowvig,2026-09-18T18:06:20Z,spreads,Indiana Fever,-15.0,1.88
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,lowvig,2026-09-18T18:06:20Z,spreads,Toronto Tempo,15.0,1.97
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,bovada,2026-09-18T18:02:09Z,h2h,Indiana Fever,,1.07
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,bovada,2026-09-18T18:02:09Z,h2h,Toronto Tempo,,8.75
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,bovada,2026-09-18T18:02:09Z,spreads,Indiana Fever,-15.5,1.87
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,bovada,2026-09-18T18:02:09Z,spreads,Toronto Tempo,15.5,1.95
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betonlineag,2026-09-18T18:06:21Z,h2h,Indiana Fever,,1.09
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betonlineag,2026-09-18T18:06:21Z,h2h,Toronto Tempo,,8.09
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betonlineag,2026-09-18T18:06:21Z,spreads,Indiana Fever,-15.0,1.87
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betonlineag,2026-09-18T18:06:21Z,spreads,Toronto Tempo,15.0,1.95
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betus,2026-09-18T18:05:29Z,h2h,Indiana Fever,,1.1
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betus,2026-09-18T18:05:29Z,h2h,Toronto Tempo,,7.5
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betus,2026-09-18T18:05:29Z,spreads,Indiana Fever,-15.0,1.91
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,betus,2026-09-18T18:05:29Z,spreads,Toronto Tempo,15.0,1.91
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,pinnacle,2026-09-18T18:06:20Z,h2h,Indiana Fever,,1.09
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,pinnacle,2026-09-18T18:06:20Z,h2h,Toronto Tempo,,8.47
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,pinnacle,2026-09-18T18:06:20Z,spreads,Indiana Fever,-15.5,1.92
+2026-09-18T18:06:39+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30:00Z,Toronto Tempo,Indiana Fever,pinnacle,2026-09-18T18:06:20Z,spreads,Toronto Tempo,15.5,1.93
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,fanduel,2026-09-18T18:06:20Z,h2h,Minnesota Lynx,,1.4
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,fanduel,2026-09-18T18:06:20Z,h2h,New York Liberty,,2.98
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,fanduel,2026-09-18T18:06:20Z,spreads,Minnesota Lynx,-6.5,1.88
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,fanduel,2026-09-18T18:06:20Z,spreads,New York Liberty,6.5,1.94
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,draftkings,2026-09-18T18:05:28Z,h2h,Minnesota Lynx,,1.41
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,draftkings,2026-09-18T18:05:28Z,h2h,New York Liberty,,3.0
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,draftkings,2026-09-18T18:05:28Z,spreads,Minnesota Lynx,-6.5,1.91
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,draftkings,2026-09-18T18:05:28Z,spreads,New York Liberty,6.5,1.91
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betrivers,2026-09-18T18:06:20Z,h2h,Minnesota Lynx,,1.4
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betrivers,2026-09-18T18:06:20Z,h2h,New York Liberty,,2.95
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betrivers,2026-09-18T18:06:20Z,spreads,Minnesota Lynx,-6.5,1.89
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betrivers,2026-09-18T18:06:20Z,spreads,New York Liberty,6.5,1.89
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,bovada,2026-09-18T18:02:09Z,h2h,Minnesota Lynx,,1.43
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,bovada,2026-09-18T18:02:09Z,h2h,New York Liberty,,2.95
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,bovada,2026-09-18T18:02:09Z,spreads,Minnesota Lynx,-6.0,1.87
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,bovada,2026-09-18T18:02:09Z,spreads,New York Liberty,6.0,1.95
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betmgm,2026-09-18T18:06:20Z,h2h,Minnesota Lynx,,1.4
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betmgm,2026-09-18T18:06:20Z,h2h,New York Liberty,,3.0
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betmgm,2026-09-18T18:06:20Z,spreads,Minnesota Lynx,-6.5,1.87
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betmgm,2026-09-18T18:06:20Z,spreads,New York Liberty,6.5,1.95
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,lowvig,2026-09-18T18:06:20Z,h2h,Minnesota Lynx,,1.42
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,lowvig,2026-09-18T18:06:20Z,h2h,New York Liberty,,3.0
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,lowvig,2026-09-18T18:06:20Z,spreads,Minnesota Lynx,-6.5,1.93
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,lowvig,2026-09-18T18:06:20Z,spreads,New York Liberty,6.5,1.93
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betonlineag,2026-09-18T18:06:21Z,h2h,Minnesota Lynx,,1.42
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betonlineag,2026-09-18T18:06:21Z,h2h,New York Liberty,,3.0
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betonlineag,2026-09-18T18:06:21Z,spreads,Minnesota Lynx,-6.5,1.91
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betonlineag,2026-09-18T18:06:21Z,spreads,New York Liberty,6.5,1.91
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betus,2026-09-18T18:05:29Z,h2h,Minnesota Lynx,,1.42
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betus,2026-09-18T18:05:29Z,h2h,New York Liberty,,3.0
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betus,2026-09-18T18:05:29Z,spreads,Minnesota Lynx,-6.5,1.91
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,betus,2026-09-18T18:05:29Z,spreads,New York Liberty,6.5,1.91
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,pinnacle,2026-09-18T18:06:20Z,h2h,Minnesota Lynx,,1.43
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,pinnacle,2026-09-18T18:06:20Z,h2h,New York Liberty,,2.95
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,pinnacle,2026-09-18T18:06:20Z,spreads,Minnesota Lynx,-6.5,1.99
+2026-09-18T18:06:39+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,Minnesota Lynx,New York Liberty,pinnacle,2026-09-18T18:06:20Z,spreads,New York Liberty,6.5,1.86
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,fanduel,2026-09-18T18:06:20Z,h2h,Golden State Valkyries,,1.11
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,fanduel,2026-09-18T18:06:20Z,h2h,Portland Fire,,6.9
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,fanduel,2026-09-18T18:06:20Z,spreads,Golden State Valkyries,-12.5,1.87
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,fanduel,2026-09-18T18:06:20Z,spreads,Portland Fire,12.5,1.95
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,draftkings,2026-09-18T18:05:28Z,h2h,Golden State Valkyries,,1.11
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,draftkings,2026-09-18T18:05:28Z,h2h,Portland Fire,,7.0
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,draftkings,2026-09-18T18:05:28Z,spreads,Golden State Valkyries,-13.5,1.93
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,draftkings,2026-09-18T18:05:28Z,spreads,Portland Fire,13.5,1.89
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betrivers,2026-09-18T18:06:20Z,h2h,Golden State Valkyries,,1.11
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betrivers,2026-09-18T18:06:20Z,h2h,Portland Fire,,6.75
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betrivers,2026-09-18T18:06:20Z,spreads,Golden State Valkyries,-12.5,1.85
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betrivers,2026-09-18T18:06:20Z,spreads,Portland Fire,12.5,1.94
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,bovada,2026-09-18T18:02:09Z,h2h,Golden State Valkyries,,1.12
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,bovada,2026-09-18T18:02:09Z,h2h,Portland Fire,,6.5
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,bovada,2026-09-18T18:02:09Z,spreads,Golden State Valkyries,-12.5,1.91
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,bovada,2026-09-18T18:02:09Z,spreads,Portland Fire,12.5,1.91
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betmgm,2026-09-18T18:06:20Z,h2h,Golden State Valkyries,,1.12
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betmgm,2026-09-18T18:06:20Z,h2h,Portland Fire,,6.5
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betmgm,2026-09-18T18:06:20Z,spreads,Golden State Valkyries,-13.5,1.91
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betmgm,2026-09-18T18:06:20Z,spreads,Portland Fire,13.5,1.91
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,lowvig,2026-09-18T18:06:20Z,h2h,Golden State Valkyries,,1.12
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,lowvig,2026-09-18T18:06:20Z,h2h,Portland Fire,,6.86
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,lowvig,2026-09-18T18:06:20Z,spreads,Golden State Valkyries,-13.5,1.97
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,lowvig,2026-09-18T18:06:20Z,spreads,Portland Fire,13.5,1.88
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betonlineag,2026-09-18T18:06:21Z,h2h,Golden State Valkyries,,1.12
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betonlineag,2026-09-18T18:06:21Z,h2h,Portland Fire,,6.86
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betonlineag,2026-09-18T18:06:21Z,spreads,Golden State Valkyries,-13.5,1.95
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betonlineag,2026-09-18T18:06:21Z,spreads,Portland Fire,13.5,1.87
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betus,2026-09-18T18:05:29Z,h2h,Golden State Valkyries,,1.11
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betus,2026-09-18T18:05:29Z,h2h,Portland Fire,,7.0
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betus,2026-09-18T18:05:29Z,spreads,Golden State Valkyries,-13.5,1.91
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,betus,2026-09-18T18:05:29Z,spreads,Portland Fire,13.5,1.91
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,pinnacle,2026-09-18T18:06:20Z,h2h,Golden State Valkyries,,1.11
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,pinnacle,2026-09-18T18:06:20Z,h2h,Portland Fire,,7.38
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,pinnacle,2026-09-18T18:06:20Z,spreads,Golden State Valkyries,-13.5,1.93
+2026-09-18T18:06:39+00:00,210b4fbc56666cf336d052bf027af277,2026-09-19T02:00:00Z,Golden State Valkyries,Portland Fire,pinnacle,2026-09-18T18:06:20Z,spreads,Portland Fire,13.5,1.92
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,fanduel,2026-09-18T18:06:20Z,h2h,Dallas Wings,,1.27
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,fanduel,2026-09-18T18:06:20Z,h2h,Phoenix Mercury,,3.85
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,fanduel,2026-09-18T18:06:20Z,spreads,Dallas Wings,-8.5,1.91
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,fanduel,2026-09-18T18:06:20Z,spreads,Phoenix Mercury,8.5,1.91
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,lowvig,2026-09-18T18:06:20Z,spreads,Dallas Wings,-8.0,1.93
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,lowvig,2026-09-18T18:06:20Z,spreads,Phoenix Mercury,8.0,1.93
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,betonlineag,2026-09-18T18:06:21Z,spreads,Dallas Wings,-8.0,1.91
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,betonlineag,2026-09-18T18:06:21Z,spreads,Phoenix Mercury,8.0,1.91
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,draftkings,2026-09-18T18:05:28Z,h2h,Dallas Wings,,1.33
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,draftkings,2026-09-18T18:05:28Z,h2h,Phoenix Mercury,,3.45
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,draftkings,2026-09-18T18:05:28Z,spreads,Dallas Wings,-7.5,1.87
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,draftkings,2026-09-18T18:05:28Z,spreads,Phoenix Mercury,7.5,1.95
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,betrivers,2026-09-18T18:06:20Z,h2h,Dallas Wings,,1.26
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,betrivers,2026-09-18T18:06:20Z,h2h,Phoenix Mercury,,3.9
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,betrivers,2026-09-18T18:06:20Z,spreads,Dallas Wings,-8.5,1.88
+2026-09-18T18:06:39+00:00,5aa705ef92d8d72e14171ffb359d1e7a,2026-09-19T17:00:00Z,Dallas Wings,Phoenix Mercury,betrivers,2026-09-18T18:06:20Z,spreads,Phoenix Mercury,8.5,1.91
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,fanduel,2026-09-18T18:06:20Z,h2h,Atlanta Dream,,1.15
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,fanduel,2026-09-18T18:06:20Z,h2h,Chicago Sky,,5.4
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,fanduel,2026-09-18T18:06:20Z,spreads,Atlanta Dream,-11.5,1.91
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,fanduel,2026-09-18T18:06:20Z,spreads,Chicago Sky,11.5,1.91
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,lowvig,2026-09-18T18:06:20Z,spreads,Atlanta Dream,-11.5,1.93
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,lowvig,2026-09-18T18:06:20Z,spreads,Chicago Sky,11.5,1.93
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,betonlineag,2026-09-18T18:06:21Z,spreads,Atlanta Dream,-11.5,1.91
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,betonlineag,2026-09-18T18:06:21Z,spreads,Chicago Sky,11.5,1.91
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,draftkings,2026-09-18T18:05:28Z,h2h,Atlanta Dream,,1.19
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,draftkings,2026-09-18T18:05:28Z,h2h,Chicago Sky,,4.9
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,draftkings,2026-09-18T18:05:28Z,spreads,Atlanta Dream,-10.5,1.87
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,draftkings,2026-09-18T18:05:28Z,spreads,Chicago Sky,10.5,1.95
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,betrivers,2026-09-18T18:06:20Z,h2h,Atlanta Dream,,1.15
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,betrivers,2026-09-18T18:06:20Z,h2h,Chicago Sky,,5.4
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,betrivers,2026-09-18T18:06:20Z,spreads,Atlanta Dream,-11.5,1.88
+2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,Atlanta Dream,Chicago Sky,betrivers,2026-09-18T18:06:20Z,spreads,Chicago Sky,11.5,1.92
