@@ -5979,3 +5979,185 @@ snap_ts,event_id,commence,home,away,book,book_update,market,outcome,point,price
 2026-09-20T00:03:14+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betrivers,2026-09-20T00:03:01Z,spreads,Portland Fire,-0.5,1.94
 2026-09-20T00:03:14+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,bovada,2026-09-20T00:00:54Z,spreads,Los Angeles Sparks,-1.5,1.95
 2026-09-20T00:03:14+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,bovada,2026-09-20T00:00:54Z,spreads,Portland Fire,1.5,1.87
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,fanduel,2026-09-20T18:02:00Z,h2h,Connecticut Sun,,31.0
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,fanduel,2026-09-20T18:02:00Z,h2h,Minnesota Lynx,,1.0
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,fanduel,2026-09-20T18:02:00Z,spreads,Connecticut Sun,19.5,1.93
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,fanduel,2026-09-20T18:02:00Z,spreads,Minnesota Lynx,-19.5,1.82
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,draftkings,2026-09-20T18:02:00Z,h2h,Connecticut Sun,,36.0
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,draftkings,2026-09-20T18:02:00Z,h2h,Minnesota Lynx,,1.0
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,draftkings,2026-09-20T18:02:00Z,spreads,Connecticut Sun,18.5,1.87
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,draftkings,2026-09-20T18:02:00Z,spreads,Minnesota Lynx,-18.5,1.87
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,mybookieag,2026-09-20T17:59:31Z,spreads,Connecticut Sun,20.5,1.9
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,mybookieag,2026-09-20T17:59:31Z,spreads,Minnesota Lynx,-20.5,1.9
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,betrivers,2026-09-20T18:02:00Z,spreads,Connecticut Sun,19.5,1.85
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,betrivers,2026-09-20T18:02:00Z,spreads,Minnesota Lynx,-19.5,1.83
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,betmgm,2026-09-20T18:01:18Z,h2h,Connecticut Sun,,31.0
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,betmgm,2026-09-20T18:01:18Z,h2h,Minnesota Lynx,,1.01
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,betmgm,2026-09-20T18:01:18Z,spreads,Connecticut Sun,18.5,1.91
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,betmgm,2026-09-20T18:01:18Z,spreads,Minnesota Lynx,-18.5,1.85
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,bovada,2026-09-20T18:01:02Z,spreads,Connecticut Sun,20.0,1.91
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,bovada,2026-09-20T18:01:02Z,spreads,Minnesota Lynx,-20.0,1.83
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,pinnacle,2026-09-20T18:02:00Z,spreads,Connecticut Sun,24.0,1.86
+2026-09-20T18:02:17+00:00,985b33ad431d0209502462783e6fe75a,2026-09-20T17:05:00Z,Connecticut Sun,Minnesota Lynx,pinnacle,2026-09-20T18:02:00Z,spreads,Minnesota Lynx,-24.0,1.88
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,fanduel,2026-09-20T18:02:00Z,h2h,New York Liberty,,1.08
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,fanduel,2026-09-20T18:02:00Z,h2h,Toronto Tempo,,8.3
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,fanduel,2026-09-20T18:02:00Z,spreads,New York Liberty,-15.5,1.96
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,fanduel,2026-09-20T18:02:00Z,spreads,Toronto Tempo,15.5,1.85
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,draftkings,2026-09-20T18:02:00Z,h2h,New York Liberty,,1.08
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,draftkings,2026-09-20T18:02:00Z,h2h,Toronto Tempo,,8.5
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,draftkings,2026-09-20T18:02:00Z,spreads,New York Liberty,-15.5,1.95
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,draftkings,2026-09-20T18:02:00Z,spreads,Toronto Tempo,15.5,1.87
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betonlineag,2026-09-20T18:00:56Z,h2h,New York Liberty,,1.09
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betonlineag,2026-09-20T18:00:56Z,h2h,Toronto Tempo,,8.09
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betonlineag,2026-09-20T18:00:56Z,spreads,New York Liberty,-15.0,1.93
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betonlineag,2026-09-20T18:00:56Z,spreads,Toronto Tempo,15.0,1.89
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,lowvig,2026-09-20T18:02:01Z,h2h,New York Liberty,,1.09
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,lowvig,2026-09-20T18:02:01Z,h2h,Toronto Tempo,,8.09
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,lowvig,2026-09-20T18:02:01Z,spreads,New York Liberty,-15.0,1.94
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,lowvig,2026-09-20T18:02:01Z,spreads,Toronto Tempo,15.0,1.91
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betus,2026-09-20T18:02:00Z,h2h,New York Liberty,,1.09
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betus,2026-09-20T18:02:00Z,h2h,Toronto Tempo,,8.0
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betus,2026-09-20T18:02:00Z,spreads,New York Liberty,-15.0,1.91
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betus,2026-09-20T18:02:00Z,spreads,Toronto Tempo,15.0,1.91
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,mybookieag,2026-09-20T18:01:40Z,h2h,New York Liberty,,1.08
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,mybookieag,2026-09-20T18:01:40Z,h2h,Toronto Tempo,,8.1
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,mybookieag,2026-09-20T18:01:40Z,spreads,New York Liberty,-15.0,1.91
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,mybookieag,2026-09-20T18:01:40Z,spreads,Toronto Tempo,15.0,1.91
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betrivers,2026-09-20T18:02:00Z,h2h,New York Liberty,,1.07
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betrivers,2026-09-20T18:02:00Z,h2h,Toronto Tempo,,8.5
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betrivers,2026-09-20T18:02:00Z,spreads,New York Liberty,-15.5,1.91
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betrivers,2026-09-20T18:02:00Z,spreads,Toronto Tempo,15.5,1.88
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betmgm,2026-09-20T18:01:18Z,h2h,New York Liberty,,1.07
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betmgm,2026-09-20T18:01:18Z,h2h,Toronto Tempo,,9.0
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betmgm,2026-09-20T18:01:18Z,spreads,New York Liberty,-15.5,1.95
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,betmgm,2026-09-20T18:01:18Z,spreads,Toronto Tempo,15.5,1.87
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,pinnacle,2026-09-20T18:02:00Z,h2h,New York Liberty,,1.09
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,pinnacle,2026-09-20T18:02:00Z,h2h,Toronto Tempo,,8.46
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,pinnacle,2026-09-20T18:02:00Z,spreads,New York Liberty,-15.0,1.93
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,pinnacle,2026-09-20T18:02:00Z,spreads,Toronto Tempo,15.0,1.93
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,bovada,2026-09-20T18:01:02Z,h2h,New York Liberty,,1.08
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,bovada,2026-09-20T18:01:02Z,h2h,Toronto Tempo,,8.0
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,bovada,2026-09-20T18:01:02Z,spreads,New York Liberty,-15.0,1.91
+2026-09-20T18:02:17+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,Toronto Tempo,New York Liberty,bovada,2026-09-20T18:01:02Z,spreads,Toronto Tempo,15.0,1.91
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,fanduel,2026-09-20T18:02:00Z,h2h,Indiana Fever,,1.43
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,fanduel,2026-09-20T18:02:00Z,h2h,Washington Mystics,,2.86
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,fanduel,2026-09-20T18:02:00Z,spreads,Indiana Fever,-6.5,1.95
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,fanduel,2026-09-20T18:02:00Z,spreads,Washington Mystics,6.5,1.87
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,draftkings,2026-09-20T18:02:00Z,h2h,Indiana Fever,,1.41
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,draftkings,2026-09-20T18:02:00Z,h2h,Washington Mystics,,3.0
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,draftkings,2026-09-20T18:02:00Z,spreads,Indiana Fever,-6.5,1.93
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,draftkings,2026-09-20T18:02:00Z,spreads,Washington Mystics,6.5,1.89
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,lowvig,2026-09-20T18:02:01Z,h2h,Indiana Fever,,1.4
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,lowvig,2026-09-20T18:02:01Z,h2h,Washington Mystics,,3.07
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,lowvig,2026-09-20T18:02:01Z,spreads,Indiana Fever,-6.5,1.93
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,lowvig,2026-09-20T18:02:01Z,spreads,Washington Mystics,6.5,1.93
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betonlineag,2026-09-20T18:00:56Z,h2h,Indiana Fever,,1.4
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betonlineag,2026-09-20T18:00:56Z,h2h,Washington Mystics,,3.07
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betonlineag,2026-09-20T18:00:56Z,spreads,Indiana Fever,-6.5,1.91
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betonlineag,2026-09-20T18:00:56Z,spreads,Washington Mystics,6.5,1.91
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betus,2026-09-20T18:02:00Z,h2h,Indiana Fever,,1.4
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betus,2026-09-20T18:02:00Z,h2h,Washington Mystics,,3.05
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betus,2026-09-20T18:02:00Z,spreads,Indiana Fever,-6.5,1.91
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betus,2026-09-20T18:02:00Z,spreads,Washington Mystics,6.5,1.91
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,mybookieag,2026-09-20T18:01:40Z,h2h,Indiana Fever,,1.39
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,mybookieag,2026-09-20T18:01:40Z,h2h,Washington Mystics,,3.02
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,mybookieag,2026-09-20T18:01:40Z,spreads,Indiana Fever,-6.5,1.91
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,mybookieag,2026-09-20T18:01:40Z,spreads,Washington Mystics,6.5,1.91
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betrivers,2026-09-20T18:02:00Z,h2h,Indiana Fever,,1.4
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betrivers,2026-09-20T18:02:00Z,h2h,Washington Mystics,,2.95
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betrivers,2026-09-20T18:02:00Z,spreads,Indiana Fever,-6.5,1.93
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betrivers,2026-09-20T18:02:00Z,spreads,Washington Mystics,6.5,1.85
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betmgm,2026-09-20T18:01:18Z,h2h,Indiana Fever,,1.4
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betmgm,2026-09-20T18:01:18Z,h2h,Washington Mystics,,3.0
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betmgm,2026-09-20T18:01:18Z,spreads,Indiana Fever,-6.5,1.91
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,betmgm,2026-09-20T18:01:18Z,spreads,Washington Mystics,6.5,1.91
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,bovada,2026-09-20T18:01:02Z,h2h,Indiana Fever,,1.42
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,bovada,2026-09-20T18:01:02Z,h2h,Washington Mystics,,3.0
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,bovada,2026-09-20T18:01:02Z,spreads,Indiana Fever,-6.0,1.87
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,bovada,2026-09-20T18:01:02Z,spreads,Washington Mystics,6.0,1.95
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,pinnacle,2026-09-20T18:02:00Z,h2h,Indiana Fever,,1.42
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,pinnacle,2026-09-20T18:02:00Z,h2h,Washington Mystics,,2.98
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,pinnacle,2026-09-20T18:02:00Z,spreads,Indiana Fever,-6.5,1.98
+2026-09-20T18:02:17+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,Indiana Fever,Washington Mystics,pinnacle,2026-09-20T18:02:00Z,spreads,Washington Mystics,6.5,1.87
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,fanduel,2026-09-20T18:02:00Z,h2h,Los Angeles Sparks,,1.88
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,fanduel,2026-09-20T18:02:00Z,h2h,Portland Fire,,1.94
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,fanduel,2026-09-20T18:02:00Z,spreads,Los Angeles Sparks,-1.5,1.98
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,fanduel,2026-09-20T18:02:00Z,spreads,Portland Fire,1.5,1.83
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,draftkings,2026-09-20T18:02:00Z,h2h,Los Angeles Sparks,,1.91
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,draftkings,2026-09-20T18:02:00Z,h2h,Portland Fire,,1.91
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,draftkings,2026-09-20T18:02:00Z,spreads,Los Angeles Sparks,-1.5,2.0
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,draftkings,2026-09-20T18:02:00Z,spreads,Portland Fire,1.5,1.83
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betonlineag,2026-09-20T18:00:56Z,h2h,Los Angeles Sparks,,1.93
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betonlineag,2026-09-20T18:00:56Z,h2h,Portland Fire,,1.88
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betonlineag,2026-09-20T18:00:56Z,spreads,Los Angeles Sparks,-1.0,1.95
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betonlineag,2026-09-20T18:00:56Z,spreads,Portland Fire,1.0,1.87
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,lowvig,2026-09-20T18:02:01Z,h2h,Los Angeles Sparks,,1.93
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,lowvig,2026-09-20T18:02:01Z,h2h,Portland Fire,,1.88
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,lowvig,2026-09-20T18:02:01Z,spreads,Los Angeles Sparks,-1.0,1.97
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,lowvig,2026-09-20T18:02:01Z,spreads,Portland Fire,1.0,1.88
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betus,2026-09-20T18:02:00Z,h2h,Los Angeles Sparks,,1.87
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betus,2026-09-20T18:02:00Z,h2h,Portland Fire,,1.95
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betus,2026-09-20T18:02:00Z,spreads,Los Angeles Sparks,-1.0,1.95
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betus,2026-09-20T18:02:00Z,spreads,Portland Fire,1.0,1.87
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betrivers,2026-09-20T18:02:00Z,h2h,Los Angeles Sparks,,1.83
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betrivers,2026-09-20T18:02:00Z,h2h,Portland Fire,,1.95
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betrivers,2026-09-20T18:02:00Z,spreads,Los Angeles Sparks,0.5,1.83
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betrivers,2026-09-20T18:02:00Z,spreads,Portland Fire,-0.5,1.95
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betmgm,2026-09-20T18:01:18Z,h2h,Los Angeles Sparks,,1.87
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,betmgm,2026-09-20T18:01:18Z,h2h,Portland Fire,,1.95
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,mybookieag,2026-09-20T18:01:40Z,h2h,Los Angeles Sparks,,1.85
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,mybookieag,2026-09-20T18:01:40Z,h2h,Portland Fire,,1.95
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,mybookieag,2026-09-20T18:01:40Z,spreads,Los Angeles Sparks,-1.0,1.91
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,mybookieag,2026-09-20T18:01:40Z,spreads,Portland Fire,1.0,1.91
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,bovada,2026-09-20T18:01:02Z,h2h,Los Angeles Sparks,,1.87
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,bovada,2026-09-20T18:01:02Z,h2h,Portland Fire,,1.95
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,bovada,2026-09-20T18:01:02Z,spreads,Los Angeles Sparks,-1.0,1.91
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,bovada,2026-09-20T18:01:02Z,spreads,Portland Fire,1.0,1.91
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,pinnacle,2026-09-20T18:02:00Z,h2h,Los Angeles Sparks,,1.87
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,pinnacle,2026-09-20T18:02:00Z,h2h,Portland Fire,,1.98
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,pinnacle,2026-09-20T18:02:00Z,spreads,Los Angeles Sparks,-1.0,1.93
+2026-09-20T18:02:17+00:00,8726f2ed8395700bdb7019e83adc12da,2026-09-20T23:00:00Z,Los Angeles Sparks,Portland Fire,pinnacle,2026-09-20T18:02:00Z,spreads,Portland Fire,1.0,1.92
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,fanduel,2026-09-20T18:02:00Z,h2h,Las Vegas Aces,,1.05
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,fanduel,2026-09-20T18:02:00Z,h2h,Seattle Storm,,10.2
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,fanduel,2026-09-20T18:02:00Z,spreads,Las Vegas Aces,-16.5,1.89
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,fanduel,2026-09-20T18:02:00Z,spreads,Seattle Storm,16.5,1.93
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,mybookieag,2026-09-20T18:01:40Z,h2h,Las Vegas Aces,,1.06
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,mybookieag,2026-09-20T18:01:40Z,h2h,Seattle Storm,,9.8
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,mybookieag,2026-09-20T18:01:40Z,spreads,Las Vegas Aces,-16.5,1.91
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,mybookieag,2026-09-20T18:01:40Z,spreads,Seattle Storm,16.5,1.91
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,draftkings,2026-09-20T18:02:00Z,h2h,Las Vegas Aces,,1.06
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,draftkings,2026-09-20T18:02:00Z,h2h,Seattle Storm,,11.0
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,draftkings,2026-09-20T18:02:00Z,spreads,Las Vegas Aces,-16.5,1.89
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,draftkings,2026-09-20T18:02:00Z,spreads,Seattle Storm,16.5,1.93
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,bovada,2026-09-20T18:01:02Z,h2h,Las Vegas Aces,,1.06
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,bovada,2026-09-20T18:01:02Z,h2h,Seattle Storm,,9.5
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,bovada,2026-09-20T18:01:02Z,spreads,Las Vegas Aces,-16.5,1.95
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,bovada,2026-09-20T18:01:02Z,spreads,Seattle Storm,16.5,1.87
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,lowvig,2026-09-20T18:02:01Z,h2h,Las Vegas Aces,,1.06
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,lowvig,2026-09-20T18:02:01Z,h2h,Seattle Storm,,10.45
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,lowvig,2026-09-20T18:02:01Z,spreads,Las Vegas Aces,-17.0,1.96
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,lowvig,2026-09-20T18:02:01Z,spreads,Seattle Storm,17.0,1.89
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betonlineag,2026-09-20T18:00:56Z,h2h,Las Vegas Aces,,1.06
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betonlineag,2026-09-20T18:00:56Z,h2h,Seattle Storm,,10.45
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betonlineag,2026-09-20T18:00:56Z,spreads,Las Vegas Aces,-17.0,1.94
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betonlineag,2026-09-20T18:00:56Z,spreads,Seattle Storm,17.0,1.88
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betrivers,2026-09-20T18:02:00Z,h2h,Las Vegas Aces,,1.05
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betrivers,2026-09-20T18:02:00Z,h2h,Seattle Storm,,10.0
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betrivers,2026-09-20T18:02:00Z,spreads,Las Vegas Aces,-16.5,1.87
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betrivers,2026-09-20T18:02:00Z,spreads,Seattle Storm,16.5,1.93
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betmgm,2026-09-20T18:01:18Z,h2h,Las Vegas Aces,,1.05
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betmgm,2026-09-20T18:01:18Z,h2h,Seattle Storm,,11.0
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betmgm,2026-09-20T18:01:18Z,spreads,Las Vegas Aces,-16.5,1.91
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betmgm,2026-09-20T18:01:18Z,spreads,Seattle Storm,16.5,1.91
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,pinnacle,2026-09-20T18:02:00Z,h2h,Las Vegas Aces,,1.06
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,pinnacle,2026-09-20T18:02:00Z,h2h,Seattle Storm,,11.36
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,pinnacle,2026-09-20T18:02:00Z,spreads,Las Vegas Aces,-16.5,1.89
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,pinnacle,2026-09-20T18:02:00Z,spreads,Seattle Storm,16.5,1.96
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betus,2026-09-20T18:02:00Z,h2h,Las Vegas Aces,,1.06
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betus,2026-09-20T18:02:00Z,h2h,Seattle Storm,,10.1
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betus,2026-09-20T18:02:00Z,spreads,Las Vegas Aces,-16.5,1.91
+2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,Las Vegas Aces,Seattle Storm,betus,2026-09-20T18:02:00Z,spreads,Seattle Storm,16.5,1.91
+2026-09-20T18:02:17+00:00,fed9526885a35567f78caa67030b71b6,2026-09-22T02:00:00Z,Phoenix Mercury,Dallas Wings,fanduel,2026-09-20T18:02:00Z,h2h,Dallas Wings,,1.43
+2026-09-20T18:02:17+00:00,fed9526885a35567f78caa67030b71b6,2026-09-22T02:00:00Z,Phoenix Mercury,Dallas Wings,fanduel,2026-09-20T18:02:00Z,h2h,Phoenix Mercury,,2.86
+2026-09-20T18:02:17+00:00,fed9526885a35567f78caa67030b71b6,2026-09-22T02:00:00Z,Phoenix Mercury,Dallas Wings,fanduel,2026-09-20T18:02:00Z,spreads,Dallas Wings,-6.5,1.95
+2026-09-20T18:02:17+00:00,fed9526885a35567f78caa67030b71b6,2026-09-22T02:00:00Z,Phoenix Mercury,Dallas Wings,fanduel,2026-09-20T18:02:00Z,spreads,Phoenix Mercury,6.5,1.87
