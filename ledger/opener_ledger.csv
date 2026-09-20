@@ -20,14 +20,14 @@ mma,2026-09-12T23:54:51+00:00,8a75618a5ae2f757636b76957025cabe,2026-09-15T23:00:
 mma,2026-09-05T23:45:34+00:00,05b660335ff8c2960dd384c9739654f7,2026-09-20T02:15:00Z,2026-09-19,Patricio Pitbull,Dooho Choi,home,Patricio Pitbull,pinnacle,3.12,0.3205,0.654,0.3136,1.0406,4,,,
 mma,2026-09-05T23:45:34+00:00,097259d4c82c4ae646995fc8d665c410,2026-09-20T03:15:00Z,2026-09-19,Joshua Van,Alexandre Pantoja,home,Joshua Van,betonlineag,1.87,0.5348,0.7037,0.517,0.3159,5,win,0.87,2026-09-15
 mma,2026-09-05T23:45:34+00:00,21b05997d2987720b8f0e79d765b4a1d,2026-09-20T01:45:00Z,2026-09-19,Renato Moicano,Brian Ortega,away,Brian Ortega,betonlineag,2.69,0.3717,0.4959,0.363,0.3339,4,win,1.69,2026-09-15
-mma,2026-09-05T23:45:34+00:00,35495c892bf6e3997d2725df4ca003df,2026-09-19T23:45:00Z,2026-09-19,Tai Tuivasa,Robelis Despaigne,home,Tai Tuivasa,betonlineag,6.05,0.1653,0.5587,0.1645,2.38,5,,,
-mma,2026-09-05T23:45:34+00:00,430372943e1a714088d294f9501e2c06,2026-09-20T00:45:00Z,2026-09-19,Gable Steveson,Sean Sharaf,away,Sean Sharaf,pinnacle,9.59,0.1043,0.2128,0.1063,1.0406,5,,,
-mma,2026-09-05T23:45:34+00:00,72bc9fad0569290a723199450ccce949,2026-09-19T22:45:00Z,2026-09-19,Giga Chikadze,Joanderson Brito,home,Giga Chikadze,draftkings,3.75,0.2667,0.3029,0.2569,0.1359,4,,,
-mma,2026-09-05T23:45:34+00:00,90384c76e624bee791627fb9a4594e68,2026-09-19T23:15:00Z,2026-09-19,Edmen Shahbazyan,Brunno Ferreira,away,Brunno Ferreira,draftkings,2.36,0.4237,0.5103,0.407,0.2043,4,,,
-mma,2026-09-05T23:45:34+00:00,9c81899bd5c97424298cb75824aa9b39,2026-09-20T02:45:00Z,2026-09-19,Arman Tsarukyan,Mauricio Ruffy,away,Mauricio Ruffy,betonlineag,3.91,0.2558,0.3507,0.249,0.3713,5,,,
-mma,2026-09-05T23:45:34+00:00,aa7a874d175da620f7fa265b29b064c3,2026-09-20T00:15:00Z,2026-09-19,Marlon Vera,Charles Jourdain,home,Marlon Vera,pinnacle,3.02,0.3311,0.4673,0.3205,0.4112,4,,,
-mma,2026-09-05T23:45:34+00:00,bc257ce1122b16fe0efc528b5f527954,2026-09-19T22:15:00Z,2026-09-19,Casey O'Neill,Eduarda Moura,away,Eduarda Moura,betonlineag,2.5,0.4,0.4153,0.397,0.0384,4,,,
-mma,2026-09-05T23:45:34+00:00,f00933726f831e1aea9060837d70c555,2026-09-20T01:15:00Z,2026-09-19,Alonzo Menifield,Iwo Baraniewski,home,Alonzo Menifield,pinnacle,3.17,0.3155,0.3507,0.3105,0.1118,4,,,
+mma,2026-09-05T23:45:34+00:00,35495c892bf6e3997d2725df4ca003df,2026-09-19T23:45:00Z,2026-09-19,Tai Tuivasa,Robelis Despaigne,home,Tai Tuivasa,betonlineag,6.05,0.1653,0.5587,0.1645,2.38,5,loss,-1.0,2026-09-20
+mma,2026-09-05T23:45:34+00:00,430372943e1a714088d294f9501e2c06,2026-09-20T00:45:00Z,2026-09-19,Gable Steveson,Sean Sharaf,away,Sean Sharaf,pinnacle,9.59,0.1043,0.2128,0.1063,1.0406,5,win,8.59,2026-09-20
+mma,2026-09-05T23:45:34+00:00,72bc9fad0569290a723199450ccce949,2026-09-19T22:45:00Z,2026-09-19,Giga Chikadze,Joanderson Brito,home,Giga Chikadze,draftkings,3.75,0.2667,0.3029,0.2569,0.1359,4,loss,-1.0,2026-09-20
+mma,2026-09-05T23:45:34+00:00,90384c76e624bee791627fb9a4594e68,2026-09-19T23:15:00Z,2026-09-19,Edmen Shahbazyan,Brunno Ferreira,away,Brunno Ferreira,draftkings,2.36,0.4237,0.5103,0.407,0.2043,4,loss,-1.0,2026-09-20
+mma,2026-09-05T23:45:34+00:00,9c81899bd5c97424298cb75824aa9b39,2026-09-20T02:45:00Z,2026-09-19,Arman Tsarukyan,Mauricio Ruffy,away,Mauricio Ruffy,betonlineag,3.91,0.2558,0.3507,0.249,0.3713,5,loss,-1.0,2026-09-20
+mma,2026-09-05T23:45:34+00:00,aa7a874d175da620f7fa265b29b064c3,2026-09-20T00:15:00Z,2026-09-19,Marlon Vera,Charles Jourdain,home,Marlon Vera,pinnacle,3.02,0.3311,0.4673,0.3205,0.4112,4,win,2.02,2026-09-20
+mma,2026-09-05T23:45:34+00:00,bc257ce1122b16fe0efc528b5f527954,2026-09-19T22:15:00Z,2026-09-19,Casey O'Neill,Eduarda Moura,away,Eduarda Moura,betonlineag,2.5,0.4,0.4153,0.397,0.0384,4,loss,-1.0,2026-09-20
+mma,2026-09-05T23:45:34+00:00,f00933726f831e1aea9060837d70c555,2026-09-20T01:15:00Z,2026-09-19,Alonzo Menifield,Iwo Baraniewski,home,Alonzo Menifield,pinnacle,3.17,0.3155,0.3507,0.3105,0.1118,4,win,2.17,2026-09-20
 wnba,2026-09-03T16:08:25+00:00,0fd1d4ee6d6e720e030e8cefb6a5a591,2026-09-17T23:30:00Z,2026-09-17,Atlanta Dream,Connecticut Sun,away,Connecticut Sun,fanduel,8.9,0.1124,0.2461,0.1189,1.1906,3,loss,-1.0,2026-09-18
 wnba,2026-09-03T16:08:25+00:00,58a4c915db23d78435f89d1505f13d99,2026-09-18T02:00:00Z,2026-09-17,Portland Fire,Phoenix Mercury,home,Portland Fire,betrivers,2.0,0.5,0.5344,0.4778,0.0688,3,loss,-1.0,2026-09-18
 wnba,2026-09-03T16:08:25+00:00,61b156ccbfae6cde6e02dfc0684905de,2026-09-18T00:00:00Z,2026-09-17,Dallas Wings,Los Angeles Sparks,away,Los Angeles Sparks,betrivers,3.55,0.2817,0.3247,0.2723,0.1526,3,loss,-1.0,2026-09-18
@@ -38,5 +38,8 @@ wnba,2026-09-03T16:08:25+00:00,51b44290d72300d77ead7df090c22d65,2026-09-18T23:30
 wnba,2026-09-03T16:08:25+00:00,59427f7421ecc3b391be7eff1de65f33,2026-09-18T23:30:00Z,2026-09-18,Minnesota Lynx,New York Liberty,away,New York Liberty,betrivers,3.1,0.3226,0.3663,0.308,0.1355,3,win,2.1,2026-09-19
 mma,2026-09-19T00:08:01+00:00,2c47e541ab2e5fa5cef2e7d8b563d484,2026-09-19T23:15:00Z,2026-09-19,Ozzy Diaz,Ryan Gandra,home,Ozzy Diaz,bovada,5.25,0.1905,0.3488,0.1879,0.8312,6,,,
 mma,2026-09-19T00:08:01+00:00,afc7707dd4b3e8b31f226e1933142afc,2026-09-19T23:45:00Z,2026-09-19,Joo Sang Yoo,Michael Aswell,away,Michael Aswell,pinnacle,2.81,0.3559,0.6059,0.3535,0.7027,6,,,
-wnba,2026-09-19T17:48:54+00:00,00d53fd81f55fa7700f603927b6ef153,2026-09-20T01:00:00Z,2026-09-19,Golden State Valkyries,Seattle Storm,away,Seattle Storm,fanduel,7.5,0.1333,0.2408,0.1367,0.8062,10,,,
-wnba,2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,2026-09-19,Atlanta Dream,Chicago Sky,away,Chicago Sky,betrivers,5.4,0.1852,0.2473,0.1756,0.3355,3,,,
+wnba,2026-09-19T17:48:54+00:00,00d53fd81f55fa7700f603927b6ef153,2026-09-20T01:00:00Z,2026-09-19,Golden State Valkyries,Seattle Storm,away,Seattle Storm,fanduel,7.5,0.1333,0.2408,0.1367,0.8062,10,loss,-1.0,2026-09-20
+wnba,2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,2026-09-19,Atlanta Dream,Chicago Sky,away,Chicago Sky,betrivers,5.4,0.1852,0.2473,0.1756,0.3355,3,loss,-1.0,2026-09-20
+wnba,2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,2026-09-20,Las Vegas Aces,Seattle Storm,away,Seattle Storm,pinnacle,11.36,0.088,0.2541,0.0927,1.8865,10,,,
+wnba,2026-09-19T17:48:54+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,2026-09-20,Indiana Fever,Washington Mystics,away,Washington Mystics,fanduel,2.76,0.3623,0.4614,0.3444,0.2733,1,,,
+wnba,2026-09-19T17:48:54+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,2026-09-20,Toronto Tempo,New York Liberty,home,Toronto Tempo,fanduel,6.9,0.1449,0.3684,0.1404,1.5419,2,,,
