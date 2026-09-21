@@ -41,5 +41,5 @@ mma,2026-09-19T00:08:01+00:00,afc7707dd4b3e8b31f226e1933142afc,2026-09-19T23:45:
 wnba,2026-09-19T17:48:54+00:00,00d53fd81f55fa7700f603927b6ef153,2026-09-20T01:00:00Z,2026-09-19,Golden State Valkyries,Seattle Storm,away,Seattle Storm,fanduel,7.5,0.1333,0.2408,0.1367,0.8062,10,loss,-1.0,2026-09-20
 wnba,2026-09-18T18:06:39+00:00,28158ba1fe81fc5ed8f7a1381c9b8616,2026-09-19T23:00:00Z,2026-09-19,Atlanta Dream,Chicago Sky,away,Chicago Sky,betrivers,5.4,0.1852,0.2473,0.1756,0.3355,3,loss,-1.0,2026-09-20
 wnba,2026-09-20T18:02:17+00:00,3e24d2abcde1c0d739a9e5db5e8ef8a3,2026-09-21T01:00:00Z,2026-09-20,Las Vegas Aces,Seattle Storm,away,Seattle Storm,pinnacle,11.36,0.088,0.2541,0.0927,1.8865,10,,,
-wnba,2026-09-19T17:48:54+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,2026-09-20,Indiana Fever,Washington Mystics,away,Washington Mystics,fanduel,2.76,0.3623,0.4614,0.3444,0.2733,1,,,
-wnba,2026-09-19T17:48:54+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,2026-09-20,Toronto Tempo,New York Liberty,home,Toronto Tempo,fanduel,6.9,0.1449,0.3684,0.1404,1.5419,2,,,
+wnba,2026-09-19T17:48:54+00:00,564193fa8760cb452a4676715f27c3c9,2026-09-20T20:00:00Z,2026-09-20,Indiana Fever,Washington Mystics,away,Washington Mystics,fanduel,2.76,0.3623,0.4614,0.3444,0.2733,1,win,1.76,2026-09-21
+wnba,2026-09-19T17:48:54+00:00,82b68fd1f9f7f9fb442481d3154dff65,2026-09-20T19:00:00Z,2026-09-20,Toronto Tempo,New York Liberty,home,Toronto Tempo,fanduel,6.9,0.1449,0.3684,0.1404,1.5419,2,loss,-1.0,2026-09-21
