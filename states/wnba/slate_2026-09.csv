@@ -95,3 +95,5 @@ snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_
 2026-09-20,401857203,2026-09-20T20:00Z,WSH @ IND,pre,False,IND,5,0,WSH,16,0,False
 2026-09-20,401857204,2026-09-20T23:00Z,POR @ LA,pre,False,LA,6,0,POR,132052,0,False
 2026-09-20,401857205,2026-09-21T01:00Z,SEA @ LV,pre,False,LV,17,0,SEA,14,0,False
+2026-09-21,401857206,2026-09-22T00:00Z,ATL @ NY,pre,False,NY,9,0,ATL,20,0,False
+2026-09-21,401857207,2026-09-22T02:00Z,DAL @ PHX,pre,False,PHX,11,0,DAL,3,0,False
