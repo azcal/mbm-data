@@ -1,2 +1,3 @@
 snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_id,away_score,neutral
 2026-10-01,401918022,2026-10-02T01:00Z,IND @ LV,pre,False,LV,17,0,IND,5,0,False
+2026-10-02,401918294,2026-10-03T01:00Z,DAL @ GS,pre,False,GS,129689,0,DAL,3,0,False
