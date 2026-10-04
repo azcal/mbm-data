@@ -3,3 +3,5 @@ snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_
 2026-10-02,401918294,2026-10-03T01:00Z,DAL @ GS,pre,False,GS,129689,0,DAL,3,0,False
 2026-10-03,401918295,2026-10-04T18:00Z,NY @ ATL,pre,False,ATL,20,0,NY,9,0,False
 2026-10-03,401918296,2026-10-04T20:00Z,LV @ GS,pre,False,GS,129689,0,LV,17,0,False
+2026-10-04,401918295,2026-10-04T18:00Z,NY @ ATL,in,False,ATL,20,32,NY,9,36,False
+2026-10-04,401918296,2026-10-04T20:00Z,LV @ GS,pre,False,GS,129689,0,LV,17,0,False
