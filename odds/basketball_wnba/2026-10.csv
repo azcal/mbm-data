@@ -653,3 +653,75 @@ snap_ts,event_id,commence,home,away,book,book_update,market,outcome,point,price
 2026-10-04T18:32:20+00:00,20925a36b67b16ad3ab7e3e508f04057,2026-10-04T20:00:00Z,Golden State Valkyries,Las Vegas Aces,betus,2026-10-04T18:31:29Z,h2h,Las Vegas Aces,,1.83
 2026-10-04T18:32:20+00:00,20925a36b67b16ad3ab7e3e508f04057,2026-10-04T20:00:00Z,Golden State Valkyries,Las Vegas Aces,betus,2026-10-04T18:31:29Z,spreads,Golden State Valkyries,1.0,1.91
 2026-10-04T18:32:20+00:00,20925a36b67b16ad3ab7e3e508f04057,2026-10-04T20:00:00Z,Golden State Valkyries,Las Vegas Aces,betus,2026-10-04T18:31:29Z,spreads,Las Vegas Aces,-1.0,1.91
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,draftkings,2026-10-05T00:41:32Z,h2h,Atlanta Dream,,1.68
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,draftkings,2026-10-05T00:41:32Z,h2h,New York Liberty,,2.24
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,draftkings,2026-10-05T00:41:32Z,spreads,Atlanta Dream,-3.5,1.91
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,draftkings,2026-10-05T00:41:32Z,spreads,New York Liberty,3.5,1.91
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,fanduel,2026-10-05T00:42:57Z,h2h,Atlanta Dream,,1.68
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,fanduel,2026-10-05T00:42:57Z,h2h,New York Liberty,,2.2
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,fanduel,2026-10-05T00:42:57Z,spreads,Atlanta Dream,-3.5,1.98
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,fanduel,2026-10-05T00:42:57Z,spreads,New York Liberty,3.5,1.83
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,mybookieag,2026-10-05T00:42:00Z,h2h,Atlanta Dream,,1.65
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,mybookieag,2026-10-05T00:42:00Z,h2h,New York Liberty,,2.24
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,mybookieag,2026-10-05T00:42:00Z,spreads,Atlanta Dream,-3.0,1.91
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,mybookieag,2026-10-05T00:42:00Z,spreads,New York Liberty,3.0,1.91
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betmgm,2026-10-05T00:42:42Z,h2h,Atlanta Dream,,1.65
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betmgm,2026-10-05T00:42:42Z,h2h,New York Liberty,,2.3
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betmgm,2026-10-05T00:42:42Z,spreads,Atlanta Dream,-3.5,1.95
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betmgm,2026-10-05T00:42:42Z,spreads,New York Liberty,3.5,1.87
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,lowvig,2026-10-05T00:42:15Z,h2h,Atlanta Dream,,1.67
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,lowvig,2026-10-05T00:42:15Z,h2h,New York Liberty,,2.3
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,lowvig,2026-10-05T00:42:15Z,spreads,Atlanta Dream,-3.5,1.93
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,lowvig,2026-10-05T00:42:15Z,spreads,New York Liberty,3.5,1.93
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betonlineag,2026-10-05T00:42:56Z,h2h,Atlanta Dream,,1.67
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betonlineag,2026-10-05T00:42:56Z,h2h,New York Liberty,,2.3
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betonlineag,2026-10-05T00:42:56Z,spreads,Atlanta Dream,-3.5,1.91
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betonlineag,2026-10-05T00:42:56Z,spreads,New York Liberty,3.5,1.91
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betus,2026-10-05T00:42:56Z,h2h,Atlanta Dream,,1.69
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betus,2026-10-05T00:42:56Z,h2h,New York Liberty,,2.25
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betus,2026-10-05T00:42:56Z,spreads,Atlanta Dream,-3.5,1.91
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betus,2026-10-05T00:42:56Z,spreads,New York Liberty,3.5,1.91
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betrivers,2026-10-05T00:42:56Z,h2h,Atlanta Dream,,1.68
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betrivers,2026-10-05T00:42:56Z,h2h,New York Liberty,,2.18
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betrivers,2026-10-05T00:42:56Z,spreads,Atlanta Dream,-3.5,1.91
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,betrivers,2026-10-05T00:42:56Z,spreads,New York Liberty,3.5,1.88
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,bovada,2026-10-05T00:38:06Z,h2h,Atlanta Dream,,1.69
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,bovada,2026-10-05T00:38:06Z,h2h,New York Liberty,,2.25
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,bovada,2026-10-05T00:38:06Z,spreads,Atlanta Dream,-3.5,1.95
+2026-10-05T00:43:02+00:00,6608125b38823d94d6eef41f1717d86c,2026-10-07T23:30:00Z,Atlanta Dream,New York Liberty,bovada,2026-10-05T00:38:06Z,spreads,New York Liberty,3.5,1.87
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,draftkings,2026-10-05T00:41:32Z,h2h,Golden State Valkyries,,1.85
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,draftkings,2026-10-05T00:41:32Z,h2h,Las Vegas Aces,,1.98
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,draftkings,2026-10-05T00:41:32Z,spreads,Golden State Valkyries,-1.5,1.95
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,draftkings,2026-10-05T00:41:32Z,spreads,Las Vegas Aces,1.5,1.87
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,fanduel,2026-10-05T00:42:57Z,h2h,Golden State Valkyries,,1.87
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,fanduel,2026-10-05T00:42:57Z,h2h,Las Vegas Aces,,1.95
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,fanduel,2026-10-05T00:42:57Z,spreads,Golden State Valkyries,-1.5,1.98
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,fanduel,2026-10-05T00:42:57Z,spreads,Las Vegas Aces,1.5,1.83
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betmgm,2026-10-05T00:42:42Z,h2h,Golden State Valkyries,,1.87
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betmgm,2026-10-05T00:42:42Z,h2h,Las Vegas Aces,,1.95
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betmgm,2026-10-05T00:42:42Z,spreads,Golden State Valkyries,-1.5,1.95
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betmgm,2026-10-05T00:42:42Z,spreads,Las Vegas Aces,1.5,1.87
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,mybookieag,2026-10-05T00:42:00Z,h2h,Golden State Valkyries,,1.85
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,mybookieag,2026-10-05T00:42:00Z,h2h,Las Vegas Aces,,1.96
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,mybookieag,2026-10-05T00:42:00Z,spreads,Golden State Valkyries,-1.0,1.91
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,mybookieag,2026-10-05T00:42:00Z,spreads,Las Vegas Aces,1.0,1.91
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betonlineag,2026-10-05T00:42:56Z,h2h,Golden State Valkyries,,1.83
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betonlineag,2026-10-05T00:42:56Z,h2h,Las Vegas Aces,,2.0
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betonlineag,2026-10-05T00:42:56Z,spreads,Golden State Valkyries,-1.5,1.91
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betonlineag,2026-10-05T00:42:56Z,spreads,Las Vegas Aces,1.5,1.91
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,lowvig,2026-10-05T00:42:15Z,h2h,Golden State Valkyries,,1.83
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,lowvig,2026-10-05T00:42:15Z,h2h,Las Vegas Aces,,2.0
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,lowvig,2026-10-05T00:42:15Z,spreads,Golden State Valkyries,-1.5,1.93
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,lowvig,2026-10-05T00:42:15Z,spreads,Las Vegas Aces,1.5,1.93
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,bovada,2026-10-05T00:38:06Z,h2h,Golden State Valkyries,,1.83
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,bovada,2026-10-05T00:38:06Z,h2h,Las Vegas Aces,,2.0
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,bovada,2026-10-05T00:38:06Z,spreads,Golden State Valkyries,-1.5,1.95
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,bovada,2026-10-05T00:38:06Z,spreads,Las Vegas Aces,1.5,1.87
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betus,2026-10-05T00:42:56Z,h2h,Golden State Valkyries,,1.83
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betus,2026-10-05T00:42:56Z,h2h,Las Vegas Aces,,2.0
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betus,2026-10-05T00:42:56Z,spreads,Golden State Valkyries,-1.5,1.91
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betus,2026-10-05T00:42:56Z,spreads,Las Vegas Aces,1.5,1.91
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betrivers,2026-10-05T00:42:56Z,h2h,Golden State Valkyries,,1.85
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betrivers,2026-10-05T00:42:56Z,h2h,Las Vegas Aces,,1.94
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betrivers,2026-10-05T00:42:56Z,spreads,Golden State Valkyries,-1.5,1.91
+2026-10-05T00:43:02+00:00,67cfb783c5290b2ff1c47303c87e9cf1,2026-10-08T01:30:00Z,Golden State Valkyries,Las Vegas Aces,betrivers,2026-10-05T00:42:56Z,spreads,Las Vegas Aces,1.5,1.88
