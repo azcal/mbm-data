@@ -78,8 +78,8 @@ wnba,2026-10-03T18:33:46+00:00,20925a36b67b16ad3ab7e3e508f04057,2026-10-04T20:00
 wnba,2026-10-01T20:10:21+00:00,6a7ee2306730957c5814778800f57859,2026-10-04T19:00:00Z,2026-10-04,Atlanta Dream,New York Liberty,home,Atlanta Dream,bovada,1.67,0.5988,0.6943,0.5919,0.1596,7,win,0.67,2026-10-05
 nhl,2026-10-05T00:43:02+00:00,3a95439904d3d0af12970bb0c8e66a3a,2026-10-07T02:40:00Z,2026-10-06,Los Angeles Kings,Florida Panthers,home,Los Angeles Kings,draftkings,2.05,0.4878,0.5517,0.4675,0.1311,1,,,
 nhl,2026-10-05T00:43:02+00:00,3b7b6520b0bc91f44cf9c9575d7e29f7,2026-10-06T23:10:00Z,2026-10-06,Montréal Canadiens,Carolina Hurricanes,away,Carolina Hurricanes,draftkings,1.85,0.5405,0.5933,0.517,0.0977,1,,,
-nhl,2026-10-05T00:43:02+00:00,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,2026-10-05,Pittsburgh Penguins,Winnipeg Jets,home,Pittsburgh Penguins,bovada,1.59,0.6289,0.6942,0.6079,0.1038,6,,,
-nhl,2026-10-05T00:43:02+00:00,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,2026-10-05,Boston Bruins,Ottawa Senators,away,Ottawa Senators,betus,1.91,0.5236,0.5902,0.5084,0.1272,10,,,
+nhl,2026-10-05T00:43:02+00:00,3da179dc46d7f7a5f06637fcd97ce367,2026-10-05T23:40:00Z,2026-10-05,Pittsburgh Penguins,Winnipeg Jets,home,Pittsburgh Penguins,bovada,1.59,0.6289,0.6942,0.6079,0.1038,6,loss,-1.0,2026-10-06
+nhl,2026-10-05T00:43:02+00:00,65b60049b3c77a94c346f74d8b897e4b,2026-10-05T23:40:00Z,2026-10-05,Boston Bruins,Ottawa Senators,away,Ottawa Senators,betus,1.91,0.5236,0.5902,0.5084,0.1272,10,win,0.91,2026-10-06
 nhl,2026-10-05T00:43:02+00:00,8f3354586afd82f29d465e8634c3d905,2026-10-05T01:10:00Z,2026-10-04,Vancouver Canucks,Vegas Golden Knights,home,Vancouver Canucks,betrivers,3.55,0.2817,0.2983,0.2809,0.0591,10,loss,-1.0,2026-10-05
 nhl,2026-10-05T00:43:02+00:00,e77f5de1229c03c1338f5cf3eb6797ba,2026-10-07T00:10:00Z,2026-10-06,Chicago Blackhawks,St Louis Blues,away,St Louis Blues,draftkings,1.87,0.5348,0.5976,0.5105,0.1176,1,,,
 mma,2026-10-03T01:02:42+00:00,0d0024c22885cf7dda47d4c44146c574,2026-10-11T00:00:00Z,2026-10-10,Ernesta Kareckaite,Melissa Gatto,home,Ernesta Kareckaite,betonlineag,2.4,0.4167,0.4466,0.403,0.0719,3,,,
@@ -91,3 +91,8 @@ mma,2026-10-03T01:02:42+00:00,a2ca46633a2a8f5f299bcfdbf74e1113,2026-10-11T00:00:
 mma,2026-10-03T01:02:42+00:00,cc5bb147c12089e320b3ea4700c73ff2,2026-10-11T00:00:00Z,2026-10-10,Andre Fili,Kai Kamaka,away,Kai Kamaka,betonlineag,2.34,0.4274,0.6939,0.4139,0.6238,3,,,
 mma,2026-10-03T01:02:42+00:00,ce7ddca9b475c56a5a312b8e563bba12,2026-10-11T00:00:00Z,2026-10-10,Lupita Godinez,Ketlen Souza,away,Ketlen Souza,betonlineag,2.8,0.3571,0.4893,0.3458,0.3701,3,,,
 mma,2026-10-03T01:02:42+00:00,d493d51082ad931bd9d1f360f00be8dd,2026-10-11T00:00:00Z,2026-10-10,Julius Walker,Gerald Meerschaert,away,Gerald Meerschaert,betonlineag,3.07,0.3257,0.4287,0.3146,0.3161,3,,,
+nhl,2026-10-06T02:10:22+00:00,057cbe42c7df314de9ef60d00db04222,2026-10-06T23:10:00Z,2026-10-06,Buffalo Sabres,Minnesota Wild,home,Buffalo Sabres,fanduel,1.94,0.5155,0.5684,0.5,0.1026,10,,,
+nhl,2026-10-06T02:10:22+00:00,2c216d3aae0eeb236312763bf1ca61db,2026-10-06T23:10:00Z,2026-10-06,Detroit Red Wings,Ottawa Senators,home,Detroit Red Wings,betrivers,1.96,0.5102,0.5465,0.5,0.0711,5,,,
+nhl,2026-10-05T00:43:02+00:00,8112572f236320d4d4c99b6eb0989b94,2026-10-07T23:40:00Z,2026-10-07,Washington Capitals,Pittsburgh Penguins,away,Pittsburgh Penguins,draftkings,2.42,0.4132,0.4673,0.3965,0.1308,1,,,
+nhl,2026-10-06T02:10:22+00:00,ab12d4dc632ea010114de1409ca7a64b,2026-10-06T23:40:00Z,2026-10-06,New York Rangers,New York Islanders,away,New York Islanders,betonlineag,2.34,0.4274,0.5207,0.4239,0.2184,10,,,
+nhl,2026-10-06T02:10:22+00:00,b9036900ce6fd27ce3095db6c5481f29,2026-10-06T23:10:00Z,2026-10-06,Toronto Maple Leafs,Nashville Predators,away,Nashville Predators,betonlineag,2.34,0.4274,0.5159,0.4195,0.2071,10,,,
