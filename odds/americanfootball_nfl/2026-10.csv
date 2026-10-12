@@ -12775,3 +12775,713 @@ snap_ts,event_id,commence,home,away,book,book_update,market,outcome,point,price
 2026-10-11T20:11:30+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,2026-10-11T20:00:43Z,spreads,Los Angeles Rams,-3.0,1.83
 2026-10-11T20:11:30+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,2026-10-11T20:00:43Z,totals,Over,54.0,1.87
 2026-10-11T20:11:30+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,2026-10-11T20:00:43Z,totals,Under,54.0,1.95
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,draftkings,2026-10-12T02:17:56Z,h2h,Atlanta Falcons,,1.68
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,draftkings,2026-10-12T02:17:56Z,h2h,Baltimore Ravens,,2.11
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,draftkings,2026-10-12T02:17:56Z,spreads,Atlanta Falcons,-1.5,1.84
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,draftkings,2026-10-12T02:17:56Z,spreads,Baltimore Ravens,1.5,1.9
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,draftkings,2026-10-12T02:17:56Z,totals,Over,48.5,1.88
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,draftkings,2026-10-12T02:17:56Z,totals,Under,48.5,1.86
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,fanduel,2026-10-12T02:17:42Z,h2h,Atlanta Falcons,,1.62
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,fanduel,2026-10-12T02:17:42Z,h2h,Baltimore Ravens,,2.26
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,fanduel,2026-10-12T02:17:42Z,spreads,Atlanta Falcons,-2.5,1.89
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,fanduel,2026-10-12T02:17:42Z,spreads,Baltimore Ravens,2.5,1.85
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,fanduel,2026-10-12T02:17:42Z,totals,Over,49.5,1.89
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,fanduel,2026-10-12T02:17:42Z,totals,Under,49.5,1.85
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,mybookieag,2026-10-12T02:17:28Z,h2h,Atlanta Falcons,,1.25
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,mybookieag,2026-10-12T02:17:28Z,h2h,Baltimore Ravens,,3.5
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,mybookieag,2026-10-12T02:17:28Z,spreads,Atlanta Falcons,-5.5,1.9
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,mybookieag,2026-10-12T02:17:28Z,spreads,Baltimore Ravens,5.5,1.8
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,mybookieag,2026-10-12T02:17:28Z,totals,Over,43.5,1.9
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,mybookieag,2026-10-12T02:17:28Z,totals,Under,43.5,1.8
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,betrivers,2026-10-12T02:17:42Z,h2h,Atlanta Falcons,,1.7
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,betrivers,2026-10-12T02:17:42Z,h2h,Baltimore Ravens,,2.14
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,betrivers,2026-10-12T02:17:42Z,spreads,Atlanta Falcons,-2.0,1.85
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,betrivers,2026-10-12T02:17:42Z,spreads,Baltimore Ravens,2.0,1.88
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,betrivers,2026-10-12T02:17:42Z,totals,Over,49.0,1.88
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,betrivers,2026-10-12T02:17:42Z,totals,Under,49.0,1.88
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,betmgm,2026-10-12T02:17:29Z,spreads,Atlanta Falcons,-1.5,1.83
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,betmgm,2026-10-12T02:17:29Z,spreads,Baltimore Ravens,1.5,1.93
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,betmgm,2026-10-12T02:17:29Z,totals,Over,49.5,1.93
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,betmgm,2026-10-12T02:17:29Z,totals,Under,49.5,1.83
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,bovada,2026-10-12T02:14:59Z,h2h,Atlanta Falcons,,1.29
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,bovada,2026-10-12T02:14:59Z,h2h,Baltimore Ravens,,3.5
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,bovada,2026-10-12T02:14:59Z,spreads,Atlanta Falcons,-6.0,1.87
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,bovada,2026-10-12T02:14:59Z,spreads,Baltimore Ravens,6.0,1.87
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,bovada,2026-10-12T02:14:59Z,totals,Over,43.0,1.87
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,bovada,2026-10-12T02:14:59Z,totals,Under,43.0,1.87
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-12T02:17:56Z,h2h,Atlanta Falcons,,1.44
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-12T02:17:56Z,h2h,Baltimore Ravens,,2.81
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-12T02:17:56Z,spreads,Atlanta Falcons,-4.0,1.91
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-12T02:17:56Z,spreads,Baltimore Ravens,4.0,1.91
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-12T02:17:56Z,totals,Over,44.0,2.06
+2026-10-12T02:18:02+00:00,86457f91112732f21ad4bb7d37bd291c,2026-10-12T00:23:29Z,Atlanta Falcons,Baltimore Ravens,pinnacle,2026-10-12T02:17:56Z,totals,Under,44.0,1.75
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,h2h,Buffalo Bills,,2.5
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,h2h,Los Angeles Rams,,1.56
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,spreads,Buffalo Bills,3.5,1.87
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,spreads,Los Angeles Rams,-3.5,1.95
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,totals,Over,54.5,1.87
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,totals,Under,54.5,1.95
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,h2h,Buffalo Bills,,2.48
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,h2h,Los Angeles Rams,,1.57
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,spreads,Buffalo Bills,3.5,1.85
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,spreads,Los Angeles Rams,-3.5,1.96
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,totals,Over,54.5,1.91
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,totals,Under,54.5,1.91
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,h2h,Buffalo Bills,,2.5
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,h2h,Los Angeles Rams,,1.54
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,spreads,Buffalo Bills,3.0,2.0
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,spreads,Los Angeles Rams,-3.0,1.83
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,totals,Over,54.5,1.91
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,totals,Under,54.5,1.91
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betus,2026-10-12T02:17:42Z,h2h,Buffalo Bills,,2.5
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betus,2026-10-12T02:17:42Z,h2h,Los Angeles Rams,,1.57
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betus,2026-10-12T02:17:42Z,spreads,Buffalo Bills,3.5,1.87
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betus,2026-10-12T02:17:42Z,spreads,Los Angeles Rams,-3.5,1.95
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betus,2026-10-12T02:17:42Z,totals,Over,54.5,1.91
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betus,2026-10-12T02:17:42Z,totals,Under,54.5,1.91
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,2026-10-12T02:17:14Z,h2h,Buffalo Bills,,2.52
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,2026-10-12T02:17:14Z,h2h,Los Angeles Rams,,1.58
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,2026-10-12T02:17:14Z,spreads,Buffalo Bills,3.5,1.91
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,2026-10-12T02:17:14Z,spreads,Los Angeles Rams,-3.5,2.0
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,2026-10-12T02:17:14Z,totals,Over,54.5,1.93
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,lowvig,2026-10-12T02:17:14Z,totals,Under,54.5,1.93
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,2026-10-12T02:17:56Z,h2h,Buffalo Bills,,2.52
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,2026-10-12T02:17:56Z,h2h,Los Angeles Rams,,1.58
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,2026-10-12T02:17:56Z,spreads,Buffalo Bills,3.5,1.87
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,2026-10-12T02:17:56Z,spreads,Los Angeles Rams,-3.5,1.95
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,2026-10-12T02:17:56Z,totals,Over,54.5,1.91
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betonlineag,2026-10-12T02:17:56Z,totals,Under,54.5,1.91
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,h2h,Buffalo Bills,,2.45
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,h2h,Los Angeles Rams,,1.56
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,spreads,Buffalo Bills,3.5,1.85
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,spreads,Los Angeles Rams,-3.5,1.96
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,totals,Over,54.0,1.89
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,totals,Under,54.0,1.92
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,h2h,Buffalo Bills,,2.5
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,h2h,Los Angeles Rams,,1.54
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,spreads,Buffalo Bills,3.5,1.87
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,spreads,Los Angeles Rams,-3.5,1.98
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,totals,Over,54.5,1.91
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,totals,Under,54.5,1.93
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T02:17:56Z,h2h,Buffalo Bills,,2.53
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T02:17:56Z,h2h,Los Angeles Rams,,1.57
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T02:17:56Z,spreads,Buffalo Bills,3.0,2.02
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T02:17:56Z,spreads,Los Angeles Rams,-3.0,1.87
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T02:17:56Z,totals,Over,54.5,1.98
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,pinnacle,2026-10-12T02:17:56Z,totals,Under,54.5,1.88
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,2026-10-12T02:10:33Z,h2h,Buffalo Bills,,2.5
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,2026-10-12T02:10:33Z,h2h,Los Angeles Rams,,1.57
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,2026-10-12T02:10:33Z,spreads,Buffalo Bills,3.0,2.0
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,2026-10-12T02:10:33Z,spreads,Los Angeles Rams,-3.0,1.83
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,2026-10-12T02:10:33Z,totals,Over,54.0,1.87
+2026-10-12T02:18:02+00:00,e6d00eedd87d367e510314bd8cab8f6f,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,bovada,2026-10-12T02:10:33Z,totals,Under,54.0,1.95
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,draftkings,2026-10-12T02:17:56Z,h2h,Denver Broncos,,2.24
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,draftkings,2026-10-12T02:17:56Z,h2h,Seattle Seahawks,,1.68
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,draftkings,2026-10-12T02:17:56Z,spreads,Denver Broncos,3.0,1.87
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,draftkings,2026-10-12T02:17:56Z,spreads,Seattle Seahawks,-3.0,1.95
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,draftkings,2026-10-12T02:17:56Z,totals,Over,42.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,draftkings,2026-10-12T02:17:56Z,totals,Under,42.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betus,2026-10-12T02:17:42Z,h2h,Denver Broncos,,2.34
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betus,2026-10-12T02:17:42Z,h2h,Seattle Seahawks,,1.65
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betus,2026-10-12T02:17:42Z,spreads,Denver Broncos,3.0,1.87
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betus,2026-10-12T02:17:42Z,spreads,Seattle Seahawks,-3.0,1.95
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betus,2026-10-12T02:17:42Z,totals,Over,42.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betus,2026-10-12T02:17:42Z,totals,Under,42.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,fanduel,2026-10-12T02:17:42Z,h2h,Denver Broncos,,2.3
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,fanduel,2026-10-12T02:17:42Z,h2h,Seattle Seahawks,,1.65
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,fanduel,2026-10-12T02:17:42Z,spreads,Denver Broncos,3.0,1.88
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,fanduel,2026-10-12T02:17:42Z,spreads,Seattle Seahawks,-3.0,1.94
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,fanduel,2026-10-12T02:17:42Z,totals,Over,42.5,1.85
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,fanduel,2026-10-12T02:17:42Z,totals,Under,42.5,1.96
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,lowvig,2026-10-12T02:17:14Z,h2h,Denver Broncos,,2.35
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,lowvig,2026-10-12T02:17:14Z,h2h,Seattle Seahawks,,1.65
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,lowvig,2026-10-12T02:17:14Z,spreads,Denver Broncos,3.0,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,lowvig,2026-10-12T02:17:14Z,spreads,Seattle Seahawks,-3.0,2.0
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,lowvig,2026-10-12T02:17:14Z,totals,Over,42.5,1.93
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,lowvig,2026-10-12T02:17:14Z,totals,Under,42.5,1.93
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betonlineag,2026-10-12T02:17:56Z,h2h,Denver Broncos,,2.35
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betonlineag,2026-10-12T02:17:56Z,h2h,Seattle Seahawks,,1.65
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betonlineag,2026-10-12T02:17:56Z,spreads,Denver Broncos,3.0,1.87
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betonlineag,2026-10-12T02:17:56Z,spreads,Seattle Seahawks,-3.0,1.95
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betonlineag,2026-10-12T02:17:56Z,totals,Over,42.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betonlineag,2026-10-12T02:17:56Z,totals,Under,42.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betrivers,2026-10-12T02:17:42Z,h2h,Denver Broncos,,2.14
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betrivers,2026-10-12T02:17:42Z,h2h,Seattle Seahawks,,1.67
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betrivers,2026-10-12T02:17:42Z,spreads,Denver Broncos,2.5,1.94
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betrivers,2026-10-12T02:17:42Z,spreads,Seattle Seahawks,-2.5,1.87
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betrivers,2026-10-12T02:17:42Z,totals,Over,42.5,1.92
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betrivers,2026-10-12T02:17:42Z,totals,Under,42.5,1.89
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,mybookieag,2026-10-12T02:17:28Z,h2h,Denver Broncos,,2.26
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,mybookieag,2026-10-12T02:17:28Z,h2h,Seattle Seahawks,,1.62
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,mybookieag,2026-10-12T02:17:28Z,spreads,Denver Broncos,2.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,mybookieag,2026-10-12T02:17:28Z,spreads,Seattle Seahawks,-2.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,mybookieag,2026-10-12T02:17:28Z,totals,Over,42.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,mybookieag,2026-10-12T02:17:28Z,totals,Under,42.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betmgm,2026-10-12T02:17:29Z,h2h,Denver Broncos,,2.3
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betmgm,2026-10-12T02:17:29Z,h2h,Seattle Seahawks,,1.65
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betmgm,2026-10-12T02:17:29Z,spreads,Denver Broncos,3.0,1.89
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betmgm,2026-10-12T02:17:29Z,spreads,Seattle Seahawks,-3.0,1.95
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betmgm,2026-10-12T02:17:29Z,totals,Over,42.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,betmgm,2026-10-12T02:17:29Z,totals,Under,42.5,1.93
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-12T02:17:56Z,h2h,Denver Broncos,,2.45
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-12T02:17:56Z,h2h,Seattle Seahawks,,1.61
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-12T02:17:56Z,spreads,Denver Broncos,2.5,2.14
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-12T02:17:56Z,spreads,Seattle Seahawks,-2.5,1.78
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-12T02:17:56Z,totals,Over,42.5,1.93
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,pinnacle,2026-10-12T02:17:56Z,totals,Under,42.5,1.92
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,bovada,2026-10-12T02:10:33Z,h2h,Denver Broncos,,2.45
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,bovada,2026-10-12T02:10:33Z,h2h,Seattle Seahawks,,1.59
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,bovada,2026-10-12T02:10:33Z,spreads,Denver Broncos,3.0,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,bovada,2026-10-12T02:10:33Z,spreads,Seattle Seahawks,-3.0,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,bovada,2026-10-12T02:10:33Z,totals,Over,42.5,1.91
+2026-10-12T02:18:02+00:00,855f58fad5f0f14b239f4f63df27998b,2026-10-16T00:15:00Z,Denver Broncos,Seattle Seahawks,bovada,2026-10-12T02:10:33Z,totals,Under,42.5,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,draftkings,2026-10-12T02:17:56Z,h2h,Houston Texans,,2.24
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,draftkings,2026-10-12T02:17:56Z,h2h,Jacksonville Jaguars,,1.68
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,draftkings,2026-10-12T02:17:56Z,spreads,Houston Texans,3.0,1.85
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,draftkings,2026-10-12T02:17:56Z,spreads,Jacksonville Jaguars,-3.0,1.98
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,draftkings,2026-10-12T02:17:56Z,totals,Over,43.5,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,draftkings,2026-10-12T02:17:56Z,totals,Under,43.5,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,fanduel,2026-10-12T02:17:42Z,h2h,Houston Texans,,2.3
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,fanduel,2026-10-12T02:17:42Z,h2h,Jacksonville Jaguars,,1.65
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,fanduel,2026-10-12T02:17:42Z,spreads,Houston Texans,2.5,2.0
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,fanduel,2026-10-12T02:17:42Z,spreads,Jacksonville Jaguars,-2.5,1.82
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,fanduel,2026-10-12T02:17:42Z,totals,Over,43.5,1.85
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,fanduel,2026-10-12T02:17:42Z,totals,Under,43.5,1.96
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betmgm,2026-10-12T02:17:29Z,h2h,Houston Texans,,2.25
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betmgm,2026-10-12T02:17:29Z,h2h,Jacksonville Jaguars,,1.67
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betmgm,2026-10-12T02:17:29Z,spreads,Houston Texans,2.5,1.98
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betmgm,2026-10-12T02:17:29Z,spreads,Jacksonville Jaguars,-2.5,1.85
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betmgm,2026-10-12T02:17:29Z,totals,Over,44.0,1.95
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betmgm,2026-10-12T02:17:29Z,totals,Under,44.0,1.87
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betus,2026-10-12T02:17:42Z,spreads,Houston Texans,3.0,1.8
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betus,2026-10-12T02:17:42Z,spreads,Jacksonville Jaguars,-3.0,2.05
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betus,2026-10-12T02:17:42Z,totals,Over,44.0,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betus,2026-10-12T02:17:42Z,totals,Under,44.0,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,mybookieag,2026-10-12T02:17:28Z,h2h,Houston Texans,,2.22
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,mybookieag,2026-10-12T02:17:28Z,h2h,Jacksonville Jaguars,,1.64
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,mybookieag,2026-10-12T02:17:28Z,spreads,Houston Texans,3.0,1.83
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,mybookieag,2026-10-12T02:17:28Z,spreads,Jacksonville Jaguars,-3.0,2.0
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,mybookieag,2026-10-12T02:17:28Z,totals,Over,43.5,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,mybookieag,2026-10-12T02:17:28Z,totals,Under,43.5,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,bovada,2026-10-12T02:10:33Z,h2h,Houston Texans,,2.25
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,bovada,2026-10-12T02:10:33Z,h2h,Jacksonville Jaguars,,1.69
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,bovada,2026-10-12T02:10:33Z,spreads,Houston Texans,2.5,1.95
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,bovada,2026-10-12T02:10:33Z,spreads,Jacksonville Jaguars,-2.5,1.87
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,bovada,2026-10-12T02:10:33Z,totals,Over,44.0,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,bovada,2026-10-12T02:10:33Z,totals,Under,44.0,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,lowvig,2026-10-12T02:17:14Z,spreads,Houston Texans,3.0,1.86
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,lowvig,2026-10-12T02:17:14Z,spreads,Jacksonville Jaguars,-3.0,2.05
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,lowvig,2026-10-12T02:17:14Z,totals,Over,44.0,1.95
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,lowvig,2026-10-12T02:17:14Z,totals,Under,44.0,1.92
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betonlineag,2026-10-12T02:17:56Z,spreads,Houston Texans,3.0,1.83
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betonlineag,2026-10-12T02:17:56Z,spreads,Jacksonville Jaguars,-3.0,2.0
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betonlineag,2026-10-12T02:17:56Z,totals,Over,44.0,1.93
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betonlineag,2026-10-12T02:17:56Z,totals,Under,44.0,1.89
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betrivers,2026-10-12T02:17:42Z,h2h,Houston Texans,,2.3
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betrivers,2026-10-12T02:17:42Z,h2h,Jacksonville Jaguars,,1.64
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betrivers,2026-10-12T02:17:42Z,spreads,Houston Texans,3.0,1.85
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betrivers,2026-10-12T02:17:42Z,spreads,Jacksonville Jaguars,-3.0,1.96
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betrivers,2026-10-12T02:17:42Z,totals,Over,43.5,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,betrivers,2026-10-12T02:17:42Z,totals,Under,43.5,1.91
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,2026-10-12T02:17:56Z,h2h,Houston Texans,,2.27
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,2026-10-12T02:17:56Z,h2h,Jacksonville Jaguars,,1.7
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,2026-10-12T02:17:56Z,spreads,Houston Texans,3.0,1.81
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,2026-10-12T02:17:56Z,spreads,Jacksonville Jaguars,-3.0,2.1
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,2026-10-12T02:17:56Z,totals,Over,43.5,1.88
+2026-10-12T02:18:02+00:00,57418b2cf5aca558b3c98eafac1e264a,2026-10-18T13:30:00Z,Jacksonville Jaguars,Houston Texans,pinnacle,2026-10-12T02:17:56Z,totals,Under,43.5,1.96
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,draftkings,2026-10-12T02:17:56Z,h2h,Carolina Panthers,,2.02
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,draftkings,2026-10-12T02:17:56Z,h2h,Philadelphia Eagles,,1.82
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,draftkings,2026-10-12T02:17:56Z,spreads,Carolina Panthers,1.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,draftkings,2026-10-12T02:17:56Z,spreads,Philadelphia Eagles,-1.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,draftkings,2026-10-12T02:17:56Z,totals,Over,42.5,1.93
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,draftkings,2026-10-12T02:17:56Z,totals,Under,42.5,1.89
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betus,2026-10-12T02:17:42Z,spreads,Carolina Panthers,1.0,1.95
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betus,2026-10-12T02:17:42Z,spreads,Philadelphia Eagles,-1.0,1.87
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betus,2026-10-12T02:17:42Z,totals,Over,42.0,1.95
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betus,2026-10-12T02:17:42Z,totals,Under,42.0,1.87
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,fanduel,2026-10-12T02:17:42Z,h2h,Carolina Panthers,,2.02
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,fanduel,2026-10-12T02:17:42Z,h2h,Philadelphia Eagles,,1.83
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,fanduel,2026-10-12T02:17:42Z,spreads,Carolina Panthers,1.5,1.88
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,fanduel,2026-10-12T02:17:42Z,spreads,Philadelphia Eagles,-1.5,1.94
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,fanduel,2026-10-12T02:17:42Z,totals,Over,42.5,1.89
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,fanduel,2026-10-12T02:17:42Z,totals,Under,42.5,1.93
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,lowvig,2026-10-12T02:17:14Z,spreads,Carolina Panthers,1.5,1.95
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,lowvig,2026-10-12T02:17:14Z,spreads,Philadelphia Eagles,-1.5,1.95
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,lowvig,2026-10-12T02:17:14Z,totals,Over,42.0,1.96
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,lowvig,2026-10-12T02:17:14Z,totals,Under,42.0,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betonlineag,2026-10-12T02:17:56Z,spreads,Carolina Panthers,1.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betonlineag,2026-10-12T02:17:56Z,spreads,Philadelphia Eagles,-1.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betonlineag,2026-10-12T02:17:56Z,totals,Over,42.0,1.93
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betonlineag,2026-10-12T02:17:56Z,totals,Under,42.0,1.88
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betrivers,2026-10-12T02:17:42Z,h2h,Carolina Panthers,,2.0
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betrivers,2026-10-12T02:17:42Z,h2h,Philadelphia Eagles,,1.82
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betrivers,2026-10-12T02:17:42Z,spreads,Carolina Panthers,1.5,1.88
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betrivers,2026-10-12T02:17:42Z,spreads,Philadelphia Eagles,-1.5,1.93
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betrivers,2026-10-12T02:17:42Z,totals,Over,42.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betrivers,2026-10-12T02:17:42Z,totals,Under,42.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,mybookieag,2026-10-12T02:17:28Z,h2h,Carolina Panthers,,2.0
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,mybookieag,2026-10-12T02:17:28Z,h2h,Philadelphia Eagles,,1.79
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,mybookieag,2026-10-12T02:17:28Z,spreads,Carolina Panthers,2.0,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,mybookieag,2026-10-12T02:17:28Z,spreads,Philadelphia Eagles,-2.0,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,mybookieag,2026-10-12T02:17:28Z,totals,Over,42.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,mybookieag,2026-10-12T02:17:28Z,totals,Under,42.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betmgm,2026-10-12T02:17:29Z,h2h,Carolina Panthers,,2.0
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betmgm,2026-10-12T02:17:29Z,h2h,Philadelphia Eagles,,1.83
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betmgm,2026-10-12T02:17:29Z,spreads,Carolina Panthers,1.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betmgm,2026-10-12T02:17:29Z,spreads,Philadelphia Eagles,-1.5,1.93
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betmgm,2026-10-12T02:17:29Z,totals,Over,42.5,1.93
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,betmgm,2026-10-12T02:17:29Z,totals,Under,42.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-12T02:17:56Z,h2h,Carolina Panthers,,2.11
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-12T02:17:56Z,h2h,Philadelphia Eagles,,1.8
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-12T02:17:56Z,spreads,Carolina Panthers,1.5,1.95
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-12T02:17:56Z,spreads,Philadelphia Eagles,-1.5,1.93
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-12T02:17:56Z,totals,Over,43.0,2.02
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,pinnacle,2026-10-12T02:17:56Z,totals,Under,43.0,1.85
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,bovada,2026-10-12T02:10:33Z,h2h,Carolina Panthers,,2.1
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,bovada,2026-10-12T02:10:33Z,h2h,Philadelphia Eagles,,1.77
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,bovada,2026-10-12T02:10:33Z,spreads,Carolina Panthers,1.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,bovada,2026-10-12T02:10:33Z,spreads,Philadelphia Eagles,-1.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,bovada,2026-10-12T02:10:33Z,totals,Over,42.5,1.91
+2026-10-12T02:18:02+00:00,caca2d752fe1a1779029082e95332fcc,2026-10-18T17:00:00Z,Philadelphia Eagles,Carolina Panthers,bovada,2026-10-12T02:10:33Z,totals,Under,42.5,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,draftkings,2026-10-12T02:17:56Z,h2h,Indianapolis Colts,,1.33
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,draftkings,2026-10-12T02:17:56Z,h2h,Tennessee Titans,,3.45
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,draftkings,2026-10-12T02:17:56Z,spreads,Indianapolis Colts,-7.0,1.95
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,draftkings,2026-10-12T02:17:56Z,spreads,Tennessee Titans,7.0,1.87
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,draftkings,2026-10-12T02:17:56Z,totals,Over,44.5,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,draftkings,2026-10-12T02:17:56Z,totals,Under,44.5,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betus,2026-10-12T02:17:42Z,spreads,Indianapolis Colts,-7.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betus,2026-10-12T02:17:42Z,spreads,Tennessee Titans,7.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betus,2026-10-12T02:17:42Z,totals,Over,44.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betus,2026-10-12T02:17:42Z,totals,Under,44.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fanduel,2026-10-12T02:17:42Z,h2h,Indianapolis Colts,,1.3
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fanduel,2026-10-12T02:17:42Z,h2h,Tennessee Titans,,3.65
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fanduel,2026-10-12T02:17:42Z,spreads,Indianapolis Colts,-6.5,1.87
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fanduel,2026-10-12T02:17:42Z,spreads,Tennessee Titans,6.5,1.95
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fanduel,2026-10-12T02:17:42Z,totals,Over,43.5,1.87
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,fanduel,2026-10-12T02:17:42Z,totals,Under,43.5,1.95
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betonlineag,2026-10-12T02:17:56Z,spreads,Indianapolis Colts,-6.5,1.83
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betonlineag,2026-10-12T02:17:56Z,spreads,Tennessee Titans,6.5,2.0
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betonlineag,2026-10-12T02:17:56Z,totals,Over,44.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betonlineag,2026-10-12T02:17:56Z,totals,Under,44.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,lowvig,2026-10-12T02:17:14Z,spreads,Indianapolis Colts,-6.5,1.86
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,lowvig,2026-10-12T02:17:14Z,spreads,Tennessee Titans,6.5,2.05
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,lowvig,2026-10-12T02:17:14Z,totals,Over,44.0,1.93
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,lowvig,2026-10-12T02:17:14Z,totals,Under,44.0,1.93
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betrivers,2026-10-12T02:17:42Z,h2h,Indianapolis Colts,,1.32
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betrivers,2026-10-12T02:17:42Z,h2h,Tennessee Titans,,3.5
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betrivers,2026-10-12T02:17:42Z,spreads,Indianapolis Colts,-6.5,1.87
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betrivers,2026-10-12T02:17:42Z,spreads,Tennessee Titans,6.5,1.94
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betrivers,2026-10-12T02:17:42Z,totals,Over,43.5,1.92
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betrivers,2026-10-12T02:17:42Z,totals,Under,43.5,1.89
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,mybookieag,2026-10-12T02:17:28Z,h2h,Indianapolis Colts,,1.3
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,mybookieag,2026-10-12T02:17:28Z,h2h,Tennessee Titans,,3.44
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,mybookieag,2026-10-12T02:17:28Z,spreads,Indianapolis Colts,-7.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,mybookieag,2026-10-12T02:17:28Z,spreads,Tennessee Titans,7.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,mybookieag,2026-10-12T02:17:28Z,totals,Over,44.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,mybookieag,2026-10-12T02:17:28Z,totals,Under,44.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betmgm,2026-10-12T02:17:29Z,h2h,Indianapolis Colts,,1.31
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betmgm,2026-10-12T02:17:29Z,h2h,Tennessee Titans,,3.6
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betmgm,2026-10-12T02:17:29Z,spreads,Indianapolis Colts,-7.0,1.95
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betmgm,2026-10-12T02:17:29Z,spreads,Tennessee Titans,7.0,1.87
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betmgm,2026-10-12T02:17:29Z,totals,Over,44.0,1.93
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,betmgm,2026-10-12T02:17:29Z,totals,Under,44.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-12T02:17:56Z,h2h,Indianapolis Colts,,1.31
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-12T02:17:56Z,h2h,Tennessee Titans,,3.69
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-12T02:17:56Z,spreads,Indianapolis Colts,-7.0,1.97
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-12T02:17:56Z,spreads,Tennessee Titans,7.0,1.92
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-12T02:17:56Z,totals,Over,44.0,1.93
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,pinnacle,2026-10-12T02:17:56Z,totals,Under,44.0,1.93
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,bovada,2026-10-12T02:10:33Z,h2h,Indianapolis Colts,,1.3
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,bovada,2026-10-12T02:10:33Z,h2h,Tennessee Titans,,3.65
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,bovada,2026-10-12T02:10:33Z,spreads,Indianapolis Colts,-7.0,1.95
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,bovada,2026-10-12T02:10:33Z,spreads,Tennessee Titans,7.0,1.87
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,bovada,2026-10-12T02:10:33Z,totals,Over,44.0,1.91
+2026-10-12T02:18:02+00:00,84aa9e190e625d7e9cd67e1f157a45b4,2026-10-18T17:00:00Z,Indianapolis Colts,Tennessee Titans,bovada,2026-10-12T02:10:33Z,totals,Under,44.0,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,draftkings,2026-10-12T02:17:56Z,h2h,New England Patriots,,1.28
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,draftkings,2026-10-12T02:17:56Z,h2h,New York Jets,,3.8
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,draftkings,2026-10-12T02:17:56Z,spreads,New England Patriots,-7.0,1.87
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,draftkings,2026-10-12T02:17:56Z,spreads,New York Jets,7.0,1.95
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,draftkings,2026-10-12T02:17:56Z,totals,Over,44.5,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,draftkings,2026-10-12T02:17:56Z,totals,Under,44.5,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,2026-10-12T02:17:42Z,h2h,New England Patriots,,1.27
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,2026-10-12T02:17:42Z,h2h,New York Jets,,4.0
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,2026-10-12T02:17:42Z,spreads,New England Patriots,-7.5,1.95
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,2026-10-12T02:17:42Z,spreads,New York Jets,7.5,1.87
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,2026-10-12T02:17:42Z,totals,Over,44.5,1.95
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,fanduel,2026-10-12T02:17:42Z,totals,Under,44.5,1.87
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,lowvig,2026-10-12T02:17:14Z,spreads,New England Patriots,-7.5,2.01
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,lowvig,2026-10-12T02:17:14Z,spreads,New York Jets,7.5,1.89
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,lowvig,2026-10-12T02:17:14Z,totals,Over,44.5,1.93
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,lowvig,2026-10-12T02:17:14Z,totals,Under,44.5,1.93
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betonlineag,2026-10-12T02:17:56Z,spreads,New England Patriots,-7.5,1.96
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betonlineag,2026-10-12T02:17:56Z,spreads,New York Jets,7.5,1.86
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betonlineag,2026-10-12T02:17:56Z,totals,Over,44.5,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betonlineag,2026-10-12T02:17:56Z,totals,Under,44.5,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betus,2026-10-12T02:17:42Z,spreads,New England Patriots,-7.5,1.95
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betus,2026-10-12T02:17:42Z,spreads,New York Jets,7.5,1.87
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betus,2026-10-12T02:17:42Z,totals,Over,44.5,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betus,2026-10-12T02:17:42Z,totals,Under,44.5,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betrivers,2026-10-12T02:17:42Z,h2h,New England Patriots,,1.28
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betrivers,2026-10-12T02:17:42Z,h2h,New York Jets,,3.8
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betrivers,2026-10-12T02:17:42Z,spreads,New England Patriots,-7.0,1.87
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betrivers,2026-10-12T02:17:42Z,spreads,New York Jets,7.0,1.94
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betrivers,2026-10-12T02:17:42Z,totals,Over,43.5,1.92
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betrivers,2026-10-12T02:17:42Z,totals,Under,43.5,1.89
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,mybookieag,2026-10-12T02:17:28Z,h2h,New England Patriots,,1.27
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,mybookieag,2026-10-12T02:17:28Z,h2h,New York Jets,,3.65
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,mybookieag,2026-10-12T02:17:28Z,spreads,New England Patriots,-7.0,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,mybookieag,2026-10-12T02:17:28Z,spreads,New York Jets,7.0,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,mybookieag,2026-10-12T02:17:28Z,totals,Over,44.5,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,mybookieag,2026-10-12T02:17:28Z,totals,Under,44.5,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betmgm,2026-10-12T02:17:29Z,h2h,New England Patriots,,1.29
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betmgm,2026-10-12T02:17:29Z,h2h,New York Jets,,3.8
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betmgm,2026-10-12T02:17:29Z,spreads,New England Patriots,-7.0,1.85
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betmgm,2026-10-12T02:17:29Z,spreads,New York Jets,7.0,2.0
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betmgm,2026-10-12T02:17:29Z,totals,Over,44.5,1.93
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,betmgm,2026-10-12T02:17:29Z,totals,Under,44.5,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-12T02:17:56Z,h2h,New England Patriots,,1.3
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-12T02:17:56Z,h2h,New York Jets,,3.76
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-12T02:17:56Z,spreads,New England Patriots,-7.5,2.07
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-12T02:17:56Z,spreads,New York Jets,7.5,1.83
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-12T02:17:56Z,totals,Over,44.5,1.94
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,pinnacle,2026-10-12T02:17:56Z,totals,Under,44.5,1.93
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,bovada,2026-10-12T02:10:33Z,h2h,New England Patriots,,1.29
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,bovada,2026-10-12T02:10:33Z,h2h,New York Jets,,3.7
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,bovada,2026-10-12T02:10:33Z,spreads,New England Patriots,-7.0,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,bovada,2026-10-12T02:10:33Z,spreads,New York Jets,7.0,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,bovada,2026-10-12T02:10:33Z,totals,Over,44.5,1.91
+2026-10-12T02:18:02+00:00,0b0b582b32b09ab6ff6664ffae0c9653,2026-10-18T17:00:00Z,New England Patriots,New York Jets,bovada,2026-10-12T02:10:33Z,totals,Under,44.5,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,draftkings,2026-10-12T02:17:56Z,h2h,New Orleans Saints,,2.05
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,draftkings,2026-10-12T02:17:56Z,h2h,New York Giants,,1.8
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,draftkings,2026-10-12T02:17:56Z,spreads,New Orleans Saints,1.5,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,draftkings,2026-10-12T02:17:56Z,spreads,New York Giants,-1.5,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,draftkings,2026-10-12T02:17:56Z,totals,Over,45.5,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,draftkings,2026-10-12T02:17:56Z,totals,Under,45.5,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betus,2026-10-12T02:17:42Z,spreads,New Orleans Saints,1.0,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betus,2026-10-12T02:17:42Z,spreads,New York Giants,-1.0,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betus,2026-10-12T02:17:42Z,totals,Over,45.0,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betus,2026-10-12T02:17:42Z,totals,Under,45.0,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fanduel,2026-10-12T02:17:42Z,h2h,New Orleans Saints,,1.96
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fanduel,2026-10-12T02:17:42Z,h2h,New York Giants,,1.89
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fanduel,2026-10-12T02:17:42Z,spreads,New Orleans Saints,1.5,1.83
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fanduel,2026-10-12T02:17:42Z,spreads,New York Giants,-1.5,1.98
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fanduel,2026-10-12T02:17:42Z,totals,Over,44.5,1.85
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,fanduel,2026-10-12T02:17:42Z,totals,Under,44.5,1.96
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betonlineag,2026-10-12T02:17:56Z,spreads,New Orleans Saints,1.0,1.85
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betonlineag,2026-10-12T02:17:56Z,spreads,New York Giants,-1.0,1.97
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betonlineag,2026-10-12T02:17:56Z,totals,Over,45.0,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betonlineag,2026-10-12T02:17:56Z,totals,Under,45.0,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,lowvig,2026-10-12T02:17:14Z,spreads,New Orleans Saints,1.0,1.88
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,lowvig,2026-10-12T02:17:14Z,spreads,New York Giants,-1.0,2.02
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,lowvig,2026-10-12T02:17:14Z,totals,Over,45.0,1.93
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,lowvig,2026-10-12T02:17:14Z,totals,Under,45.0,1.93
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betrivers,2026-10-12T02:17:42Z,h2h,New Orleans Saints,,1.87
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betrivers,2026-10-12T02:17:42Z,h2h,New York Giants,,1.95
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betrivers,2026-10-12T02:17:42Z,spreads,New Orleans Saints,-1.0,1.92
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betrivers,2026-10-12T02:17:42Z,spreads,New York Giants,1.0,1.89
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betrivers,2026-10-12T02:17:42Z,totals,Over,45.0,1.92
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betrivers,2026-10-12T02:17:42Z,totals,Under,45.0,1.89
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,mybookieag,2026-10-12T02:17:28Z,h2h,New Orleans Saints,,1.96
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,mybookieag,2026-10-12T02:17:28Z,h2h,New York Giants,,1.82
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,mybookieag,2026-10-12T02:17:28Z,spreads,New Orleans Saints,1.5,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,mybookieag,2026-10-12T02:17:28Z,spreads,New York Giants,-1.5,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,mybookieag,2026-10-12T02:17:28Z,totals,Over,45.0,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,mybookieag,2026-10-12T02:17:28Z,totals,Under,45.0,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betmgm,2026-10-12T02:17:29Z,h2h,New Orleans Saints,,1.98
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betmgm,2026-10-12T02:17:29Z,h2h,New York Giants,,1.85
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betmgm,2026-10-12T02:17:29Z,spreads,New Orleans Saints,1.0,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betmgm,2026-10-12T02:17:29Z,spreads,New York Giants,-1.0,1.93
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betmgm,2026-10-12T02:17:29Z,totals,Over,45.0,1.91
+2026-10-12T02:18:02+00:00,1cf74afd313e9fd300e1462012b174cb,2026-10-18T17:00:00Z,New York Giants,New Orleans Saints,betmgm,2026-10-12T02:17:29Z,totals,Under,45.0,1.93
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,draftkings,2026-10-12T02:17:56Z,h2h,Pittsburgh Steelers,,1.65
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,draftkings,2026-10-12T02:17:56Z,h2h,Tampa Bay Buccaneers,,2.3
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,draftkings,2026-10-12T02:17:56Z,spreads,Pittsburgh Steelers,-3.0,1.98
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,draftkings,2026-10-12T02:17:56Z,spreads,Tampa Bay Buccaneers,3.0,1.85
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,draftkings,2026-10-12T02:17:56Z,totals,Over,40.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,draftkings,2026-10-12T02:17:56Z,totals,Under,40.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betus,2026-10-12T02:17:42Z,spreads,Pittsburgh Steelers,-1.5,1.83
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betus,2026-10-12T02:17:42Z,spreads,Tampa Bay Buccaneers,1.5,2.0
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betus,2026-10-12T02:17:42Z,totals,Over,40.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betus,2026-10-12T02:17:42Z,totals,Under,40.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,fanduel,2026-10-12T02:17:42Z,h2h,Pittsburgh Steelers,,1.72
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,fanduel,2026-10-12T02:17:42Z,h2h,Tampa Bay Buccaneers,,2.18
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,fanduel,2026-10-12T02:17:42Z,spreads,Pittsburgh Steelers,-2.5,1.87
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,fanduel,2026-10-12T02:17:42Z,spreads,Tampa Bay Buccaneers,2.5,1.95
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,fanduel,2026-10-12T02:17:42Z,totals,Over,40.5,1.96
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,fanduel,2026-10-12T02:17:42Z,totals,Under,40.5,1.85
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,lowvig,2026-10-12T02:17:14Z,spreads,Pittsburgh Steelers,-2.5,1.86
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,lowvig,2026-10-12T02:17:14Z,spreads,Tampa Bay Buccaneers,2.5,2.05
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,lowvig,2026-10-12T02:17:14Z,totals,Over,40.5,1.93
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,lowvig,2026-10-12T02:17:14Z,totals,Under,40.5,1.93
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betonlineag,2026-10-12T02:17:56Z,spreads,Pittsburgh Steelers,-2.5,1.83
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betonlineag,2026-10-12T02:17:56Z,spreads,Tampa Bay Buccaneers,2.5,2.0
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betonlineag,2026-10-12T02:17:56Z,totals,Over,40.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betonlineag,2026-10-12T02:17:56Z,totals,Under,40.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betrivers,2026-10-12T02:17:42Z,h2h,Pittsburgh Steelers,,1.71
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betrivers,2026-10-12T02:17:42Z,h2h,Tampa Bay Buccaneers,,2.17
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betrivers,2026-10-12T02:17:42Z,spreads,Pittsburgh Steelers,-2.5,1.88
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betrivers,2026-10-12T02:17:42Z,spreads,Tampa Bay Buccaneers,2.5,1.93
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betrivers,2026-10-12T02:17:42Z,totals,Over,40.5,1.93
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betrivers,2026-10-12T02:17:42Z,totals,Under,40.5,1.88
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,mybookieag,2026-10-12T02:17:28Z,h2h,Pittsburgh Steelers,,1.69
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,mybookieag,2026-10-12T02:17:28Z,h2h,Tampa Bay Buccaneers,,2.14
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,mybookieag,2026-10-12T02:17:28Z,spreads,Pittsburgh Steelers,-2.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,mybookieag,2026-10-12T02:17:28Z,spreads,Tampa Bay Buccaneers,2.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,mybookieag,2026-10-12T02:17:28Z,totals,Over,40.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,mybookieag,2026-10-12T02:17:28Z,totals,Under,40.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betmgm,2026-10-12T02:17:29Z,h2h,Pittsburgh Steelers,,1.69
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betmgm,2026-10-12T02:17:29Z,h2h,Tampa Bay Buccaneers,,2.25
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betmgm,2026-10-12T02:17:29Z,spreads,Pittsburgh Steelers,-2.5,1.85
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betmgm,2026-10-12T02:17:29Z,spreads,Tampa Bay Buccaneers,2.5,1.98
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betmgm,2026-10-12T02:17:29Z,totals,Over,40.5,1.93
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,betmgm,2026-10-12T02:17:29Z,totals,Under,40.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-12T02:17:56Z,h2h,Pittsburgh Steelers,,1.68
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-12T02:17:56Z,h2h,Tampa Bay Buccaneers,,2.31
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-12T02:17:56Z,spreads,Pittsburgh Steelers,-2.5,1.85
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-12T02:17:56Z,spreads,Tampa Bay Buccaneers,2.5,2.04
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-12T02:17:56Z,totals,Over,40.5,1.93
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,pinnacle,2026-10-12T02:17:56Z,totals,Under,40.5,1.93
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,bovada,2026-10-12T02:10:33Z,h2h,Pittsburgh Steelers,,1.67
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,bovada,2026-10-12T02:10:33Z,h2h,Tampa Bay Buccaneers,,2.3
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,bovada,2026-10-12T02:10:33Z,spreads,Pittsburgh Steelers,-2.5,1.83
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,bovada,2026-10-12T02:10:33Z,spreads,Tampa Bay Buccaneers,2.5,2.0
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,bovada,2026-10-12T02:10:33Z,totals,Over,40.5,1.91
+2026-10-12T02:18:02+00:00,27f3994841ce8081c0b7349cf3d1e3d7,2026-10-18T17:00:00Z,Tampa Bay Buccaneers,Pittsburgh Steelers,bovada,2026-10-12T02:10:33Z,totals,Under,40.5,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,draftkings,2026-10-12T02:17:56Z,h2h,Arizona Cardinals,,5.7
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,draftkings,2026-10-12T02:17:56Z,h2h,Los Angeles Rams,,1.15
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,draftkings,2026-10-12T02:17:56Z,spreads,Arizona Cardinals,12.5,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,draftkings,2026-10-12T02:17:56Z,spreads,Los Angeles Rams,-12.5,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,draftkings,2026-10-12T02:17:56Z,totals,Over,52.5,1.95
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,draftkings,2026-10-12T02:17:56Z,totals,Under,52.5,1.87
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,fanduel,2026-10-12T02:17:42Z,h2h,Arizona Cardinals,,6.9
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,fanduel,2026-10-12T02:17:42Z,h2h,Los Angeles Rams,,1.12
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,fanduel,2026-10-12T02:17:42Z,spreads,Arizona Cardinals,12.5,1.93
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,fanduel,2026-10-12T02:17:42Z,spreads,Los Angeles Rams,-12.5,1.89
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,fanduel,2026-10-12T02:17:42Z,totals,Over,51.5,1.87
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,fanduel,2026-10-12T02:17:42Z,totals,Under,51.5,1.95
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,lowvig,2026-10-12T02:17:14Z,spreads,Arizona Cardinals,13.0,1.95
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,lowvig,2026-10-12T02:17:14Z,spreads,Los Angeles Rams,-13.0,1.95
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,lowvig,2026-10-12T02:17:14Z,totals,Over,52.0,1.93
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,lowvig,2026-10-12T02:17:14Z,totals,Under,52.0,1.93
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betonlineag,2026-10-12T02:17:56Z,spreads,Arizona Cardinals,13.0,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betonlineag,2026-10-12T02:17:56Z,spreads,Los Angeles Rams,-13.0,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betonlineag,2026-10-12T02:17:56Z,totals,Over,52.0,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betonlineag,2026-10-12T02:17:56Z,totals,Under,52.0,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betrivers,2026-10-12T02:17:42Z,h2h,Arizona Cardinals,,6.25
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betrivers,2026-10-12T02:17:42Z,h2h,Los Angeles Rams,,1.13
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betrivers,2026-10-12T02:17:42Z,spreads,Arizona Cardinals,11.0,1.92
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betrivers,2026-10-12T02:17:42Z,spreads,Los Angeles Rams,-11.0,1.89
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betrivers,2026-10-12T02:17:42Z,totals,Over,51.5,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betrivers,2026-10-12T02:17:42Z,totals,Under,51.5,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,mybookieag,2026-10-12T02:17:28Z,h2h,Arizona Cardinals,,6.0
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,mybookieag,2026-10-12T02:17:28Z,h2h,Los Angeles Rams,,1.12
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,mybookieag,2026-10-12T02:17:28Z,spreads,Arizona Cardinals,13.0,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,mybookieag,2026-10-12T02:17:28Z,spreads,Los Angeles Rams,-13.0,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,mybookieag,2026-10-12T02:17:28Z,totals,Over,52.0,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,mybookieag,2026-10-12T02:17:28Z,totals,Under,52.0,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betmgm,2026-10-12T02:17:29Z,h2h,Arizona Cardinals,,6.5
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betmgm,2026-10-12T02:17:29Z,h2h,Los Angeles Rams,,1.13
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betmgm,2026-10-12T02:17:29Z,spreads,Arizona Cardinals,12.5,1.93
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betmgm,2026-10-12T02:17:29Z,spreads,Los Angeles Rams,-12.5,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betmgm,2026-10-12T02:17:29Z,totals,Over,52.0,1.91
+2026-10-12T02:18:02+00:00,3729ac6d2a66b642850caf2044cdc658,2026-10-18T20:05:00Z,Los Angeles Rams,Arizona Cardinals,betmgm,2026-10-12T02:17:29Z,totals,Under,52.0,1.93
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,h2h,Buffalo Bills,,1.39
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,h2h,Las Vegas Raiders,,3.1
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,spreads,Buffalo Bills,-6.0,1.93
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,spreads,Las Vegas Raiders,6.0,1.89
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,totals,Over,53.5,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,draftkings,2026-10-12T02:17:56Z,totals,Under,53.5,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,h2h,Buffalo Bills,,1.36
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,h2h,Las Vegas Raiders,,3.25
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,spreads,Buffalo Bills,-5.5,1.87
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,spreads,Las Vegas Raiders,5.5,1.95
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,totals,Over,52.5,1.87
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,fanduel,2026-10-12T02:17:42Z,totals,Under,52.5,1.95
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,lowvig,2026-10-12T02:17:14Z,spreads,Buffalo Bills,-6.0,1.95
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,lowvig,2026-10-12T02:17:14Z,spreads,Las Vegas Raiders,6.0,1.95
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,lowvig,2026-10-12T02:17:14Z,totals,Over,53.5,1.93
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,lowvig,2026-10-12T02:17:14Z,totals,Under,53.5,1.93
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betonlineag,2026-10-12T02:17:56Z,spreads,Buffalo Bills,-6.0,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betonlineag,2026-10-12T02:17:56Z,spreads,Las Vegas Raiders,6.0,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betonlineag,2026-10-12T02:17:56Z,totals,Over,53.5,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betonlineag,2026-10-12T02:17:56Z,totals,Under,53.5,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,h2h,Buffalo Bills,,1.35
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,h2h,Las Vegas Raiders,,3.25
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,spreads,Buffalo Bills,-5.5,1.88
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,spreads,Las Vegas Raiders,5.5,1.93
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,totals,Over,52.5,1.93
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betrivers,2026-10-12T02:17:42Z,totals,Under,52.5,1.88
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,h2h,Buffalo Bills,,1.38
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,h2h,Las Vegas Raiders,,2.96
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,spreads,Buffalo Bills,-6.0,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,spreads,Las Vegas Raiders,6.0,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,totals,Over,53.5,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,mybookieag,2026-10-12T02:17:28Z,totals,Under,53.5,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,h2h,Buffalo Bills,,1.36
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,h2h,Las Vegas Raiders,,3.2
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,spreads,Buffalo Bills,-6.0,1.93
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,spreads,Las Vegas Raiders,6.0,1.91
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,totals,Over,53.5,1.93
+2026-10-12T02:18:02+00:00,45b2690b350ed45145c7a716b18e8e66,2026-10-18T20:25:00Z,Las Vegas Raiders,Buffalo Bills,betmgm,2026-10-12T02:17:29Z,totals,Under,53.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,draftkings,2026-10-12T02:17:56Z,h2h,Kansas City Chiefs,,1.26
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,draftkings,2026-10-12T02:17:56Z,h2h,Los Angeles Chargers,,4.0
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,draftkings,2026-10-12T02:17:56Z,spreads,Kansas City Chiefs,-8.5,1.95
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,draftkings,2026-10-12T02:17:56Z,spreads,Los Angeles Chargers,8.5,1.87
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,draftkings,2026-10-12T02:17:56Z,totals,Over,43.5,1.89
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,draftkings,2026-10-12T02:17:56Z,totals,Under,43.5,1.93
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betus,2026-10-12T02:17:42Z,spreads,Kansas City Chiefs,-7.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betus,2026-10-12T02:17:42Z,spreads,Los Angeles Chargers,7.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betus,2026-10-12T02:17:42Z,totals,Over,43.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betus,2026-10-12T02:17:42Z,totals,Under,43.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,fanduel,2026-10-12T02:17:42Z,h2h,Kansas City Chiefs,,1.21
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,fanduel,2026-10-12T02:17:42Z,h2h,Los Angeles Chargers,,4.7
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,fanduel,2026-10-12T02:17:42Z,spreads,Kansas City Chiefs,-8.5,1.95
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,fanduel,2026-10-12T02:17:42Z,spreads,Los Angeles Chargers,8.5,1.87
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,fanduel,2026-10-12T02:17:42Z,totals,Over,43.5,1.85
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,fanduel,2026-10-12T02:17:42Z,totals,Under,43.5,1.96
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,lowvig,2026-10-12T02:17:14Z,spreads,Kansas City Chiefs,-8.0,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,lowvig,2026-10-12T02:17:14Z,spreads,Los Angeles Chargers,8.0,2.0
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,lowvig,2026-10-12T02:17:14Z,totals,Over,43.5,1.93
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,lowvig,2026-10-12T02:17:14Z,totals,Under,43.5,1.93
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betonlineag,2026-10-12T02:17:56Z,spreads,Kansas City Chiefs,-8.0,1.87
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betonlineag,2026-10-12T02:17:56Z,spreads,Los Angeles Chargers,8.0,1.95
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betonlineag,2026-10-12T02:17:56Z,totals,Over,43.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betonlineag,2026-10-12T02:17:56Z,totals,Under,43.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betrivers,2026-10-12T02:17:42Z,h2h,Kansas City Chiefs,,1.23
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betrivers,2026-10-12T02:17:42Z,h2h,Los Angeles Chargers,,4.25
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betrivers,2026-10-12T02:17:42Z,spreads,Kansas City Chiefs,-7.5,1.88
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betrivers,2026-10-12T02:17:42Z,spreads,Los Angeles Chargers,7.5,1.92
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betrivers,2026-10-12T02:17:42Z,totals,Over,44.0,1.94
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betrivers,2026-10-12T02:17:42Z,totals,Under,44.0,1.88
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,mybookieag,2026-10-12T02:17:28Z,h2h,Kansas City Chiefs,,1.23
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,mybookieag,2026-10-12T02:17:28Z,h2h,Los Angeles Chargers,,4.1
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,mybookieag,2026-10-12T02:17:28Z,spreads,Kansas City Chiefs,-8.0,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,mybookieag,2026-10-12T02:17:28Z,spreads,Los Angeles Chargers,8.0,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,mybookieag,2026-10-12T02:17:28Z,totals,Over,43.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,mybookieag,2026-10-12T02:17:28Z,totals,Under,43.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betmgm,2026-10-12T02:17:29Z,h2h,Kansas City Chiefs,,1.24
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betmgm,2026-10-12T02:17:29Z,h2h,Los Angeles Chargers,,4.33
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betmgm,2026-10-12T02:17:29Z,spreads,Kansas City Chiefs,-8.0,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betmgm,2026-10-12T02:17:29Z,spreads,Los Angeles Chargers,8.0,1.93
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betmgm,2026-10-12T02:17:29Z,totals,Over,43.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,betmgm,2026-10-12T02:17:29Z,totals,Under,43.5,1.93
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,2026-10-12T02:17:56Z,h2h,Kansas City Chiefs,,1.24
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,2026-10-12T02:17:56Z,h2h,Los Angeles Chargers,,4.31
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,2026-10-12T02:17:56Z,spreads,Kansas City Chiefs,-8.0,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,2026-10-12T02:17:56Z,spreads,Los Angeles Chargers,8.0,1.98
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,2026-10-12T02:17:56Z,totals,Over,43.5,1.94
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,pinnacle,2026-10-12T02:17:56Z,totals,Under,43.5,1.93
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,bovada,2026-10-12T02:10:33Z,h2h,Kansas City Chiefs,,1.23
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,bovada,2026-10-12T02:10:33Z,h2h,Los Angeles Chargers,,4.2
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,bovada,2026-10-12T02:10:33Z,spreads,Kansas City Chiefs,-8.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,bovada,2026-10-12T02:10:33Z,spreads,Los Angeles Chargers,8.5,1.91
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,bovada,2026-10-12T02:10:33Z,totals,Over,43.5,1.95
+2026-10-12T02:18:02+00:00,20fefae8c296247460ba5773caa42218,2026-10-18T20:25:00Z,Kansas City Chiefs,Los Angeles Chargers,bovada,2026-10-12T02:10:33Z,totals,Under,43.5,1.87
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,draftkings,2026-10-12T02:17:56Z,h2h,Dallas Cowboys,,1.95
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,draftkings,2026-10-12T02:17:56Z,h2h,Green Bay Packers,,1.87
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,draftkings,2026-10-12T02:17:56Z,spreads,Dallas Cowboys,1.5,1.83
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,draftkings,2026-10-12T02:17:56Z,spreads,Green Bay Packers,-1.5,2.0
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,draftkings,2026-10-12T02:17:56Z,totals,Over,52.5,1.95
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,draftkings,2026-10-12T02:17:56Z,totals,Under,52.5,1.87
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betus,2026-10-12T02:17:42Z,spreads,Dallas Cowboys,1.0,1.95
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betus,2026-10-12T02:17:42Z,spreads,Green Bay Packers,-1.0,1.87
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betus,2026-10-12T02:17:42Z,totals,Over,52.5,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betus,2026-10-12T02:17:42Z,totals,Under,52.5,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fanduel,2026-10-12T02:17:42Z,h2h,Dallas Cowboys,,1.89
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fanduel,2026-10-12T02:17:42Z,h2h,Green Bay Packers,,1.96
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fanduel,2026-10-12T02:17:42Z,spreads,Dallas Cowboys,-1.5,1.96
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fanduel,2026-10-12T02:17:42Z,spreads,Green Bay Packers,1.5,1.85
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fanduel,2026-10-12T02:17:42Z,totals,Over,52.5,1.94
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,fanduel,2026-10-12T02:17:42Z,totals,Under,52.5,1.88
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,lowvig,2026-10-12T02:17:14Z,spreads,Dallas Cowboys,1.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,lowvig,2026-10-12T02:17:14Z,spreads,Green Bay Packers,-1.0,2.0
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,lowvig,2026-10-12T02:17:14Z,totals,Over,52.5,1.93
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,lowvig,2026-10-12T02:17:14Z,totals,Under,52.5,1.93
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betonlineag,2026-10-12T02:17:56Z,spreads,Dallas Cowboys,1.0,1.87
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betonlineag,2026-10-12T02:17:56Z,spreads,Green Bay Packers,-1.0,1.95
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betonlineag,2026-10-12T02:17:56Z,totals,Over,52.5,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betonlineag,2026-10-12T02:17:56Z,totals,Under,52.5,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betrivers,2026-10-12T02:17:42Z,h2h,Dallas Cowboys,,1.85
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betrivers,2026-10-12T02:17:42Z,h2h,Green Bay Packers,,1.95
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betrivers,2026-10-12T02:17:42Z,spreads,Dallas Cowboys,-1.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betrivers,2026-10-12T02:17:42Z,spreads,Green Bay Packers,1.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betrivers,2026-10-12T02:17:42Z,totals,Over,52.5,1.89
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betrivers,2026-10-12T02:17:42Z,totals,Under,52.5,1.92
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,mybookieag,2026-10-12T02:17:28Z,h2h,Dallas Cowboys,,1.94
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,mybookieag,2026-10-12T02:17:28Z,h2h,Green Bay Packers,,1.83
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,mybookieag,2026-10-12T02:17:28Z,spreads,Dallas Cowboys,1.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,mybookieag,2026-10-12T02:17:28Z,spreads,Green Bay Packers,-1.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,mybookieag,2026-10-12T02:17:28Z,totals,Over,52.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,mybookieag,2026-10-12T02:17:28Z,totals,Under,52.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betmgm,2026-10-12T02:17:29Z,h2h,Dallas Cowboys,,1.93
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betmgm,2026-10-12T02:17:29Z,h2h,Green Bay Packers,,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betmgm,2026-10-12T02:17:29Z,spreads,Dallas Cowboys,1.0,1.87
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betmgm,2026-10-12T02:17:29Z,spreads,Green Bay Packers,-1.0,1.95
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betmgm,2026-10-12T02:17:29Z,totals,Over,52.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,betmgm,2026-10-12T02:17:29Z,totals,Under,52.0,1.93
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-12T02:17:56Z,h2h,Dallas Cowboys,,1.96
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-12T02:17:56Z,h2h,Green Bay Packers,,1.93
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-12T02:17:56Z,spreads,Dallas Cowboys,-1.0,2.03
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-12T02:17:56Z,spreads,Green Bay Packers,1.0,1.86
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-12T02:17:56Z,totals,Over,52.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,pinnacle,2026-10-12T02:17:56Z,totals,Under,52.0,1.96
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,bovada,2026-10-12T02:10:33Z,h2h,Dallas Cowboys,,1.95
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,bovada,2026-10-12T02:10:33Z,h2h,Green Bay Packers,,1.87
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,bovada,2026-10-12T02:10:33Z,spreads,Dallas Cowboys,1.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,bovada,2026-10-12T02:10:33Z,spreads,Green Bay Packers,-1.0,1.91
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,bovada,2026-10-12T02:10:33Z,totals,Over,52.5,1.95
+2026-10-12T02:18:02+00:00,82fd5a159fa130e67abab93a9537f70b,2026-10-19T00:20:00Z,Green Bay Packers,Dallas Cowboys,bovada,2026-10-12T02:10:33Z,totals,Under,52.5,1.87
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,2026-10-12T02:17:56Z,h2h,San Francisco 49ers,,1.24
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,2026-10-12T02:17:56Z,h2h,Washington Commanders,,4.3
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,2026-10-12T02:17:56Z,spreads,San Francisco 49ers,-7.5,1.93
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,2026-10-12T02:17:56Z,spreads,Washington Commanders,7.5,1.89
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,2026-10-12T02:17:56Z,totals,Over,50.5,1.85
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,draftkings,2026-10-12T02:17:56Z,totals,Under,50.5,1.98
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betus,2026-10-12T02:17:42Z,spreads,San Francisco 49ers,-8.0,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betus,2026-10-12T02:17:42Z,spreads,Washington Commanders,8.0,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betus,2026-10-12T02:17:42Z,totals,Over,51.0,1.95
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betus,2026-10-12T02:17:42Z,totals,Under,51.0,1.87
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,2026-10-12T02:17:42Z,h2h,San Francisco 49ers,,1.24
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,2026-10-12T02:17:42Z,h2h,Washington Commanders,,4.3
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,2026-10-12T02:17:42Z,spreads,San Francisco 49ers,-7.5,1.95
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,2026-10-12T02:17:42Z,spreads,Washington Commanders,7.5,1.87
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,2026-10-12T02:17:42Z,totals,Over,51.5,1.96
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,fanduel,2026-10-12T02:17:42Z,totals,Under,51.5,1.85
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,lowvig,2026-10-12T02:17:14Z,spreads,San Francisco 49ers,-7.5,1.95
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,lowvig,2026-10-12T02:17:14Z,spreads,Washington Commanders,7.5,1.95
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,lowvig,2026-10-12T02:17:14Z,totals,Over,51.0,1.98
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,lowvig,2026-10-12T02:17:14Z,totals,Under,51.0,1.88
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betonlineag,2026-10-12T02:17:56Z,spreads,San Francisco 49ers,-7.5,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betonlineag,2026-10-12T02:17:56Z,spreads,Washington Commanders,7.5,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betonlineag,2026-10-12T02:17:56Z,totals,Over,51.0,1.95
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betonlineag,2026-10-12T02:17:56Z,totals,Under,51.0,1.87
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,2026-10-12T02:17:42Z,h2h,San Francisco 49ers,,1.24
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,2026-10-12T02:17:42Z,h2h,Washington Commanders,,4.2
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,2026-10-12T02:17:42Z,spreads,San Francisco 49ers,-7.5,1.93
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,2026-10-12T02:17:42Z,spreads,Washington Commanders,7.5,1.88
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,2026-10-12T02:17:42Z,totals,Over,50.5,1.92
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betrivers,2026-10-12T02:17:42Z,totals,Under,50.5,1.89
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,mybookieag,2026-10-12T02:17:28Z,h2h,San Francisco 49ers,,1.23
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,mybookieag,2026-10-12T02:17:28Z,h2h,Washington Commanders,,4.0
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,mybookieag,2026-10-12T02:17:28Z,spreads,San Francisco 49ers,-7.5,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,mybookieag,2026-10-12T02:17:28Z,spreads,Washington Commanders,7.5,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,mybookieag,2026-10-12T02:17:28Z,totals,Over,50.5,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,mybookieag,2026-10-12T02:17:28Z,totals,Under,50.5,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,2026-10-12T02:17:29Z,h2h,San Francisco 49ers,,1.25
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,2026-10-12T02:17:29Z,h2h,Washington Commanders,,4.2
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,2026-10-12T02:17:29Z,spreads,San Francisco 49ers,-7.5,1.93
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,2026-10-12T02:17:29Z,spreads,Washington Commanders,7.5,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,2026-10-12T02:17:29Z,totals,Over,51.0,1.93
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,betmgm,2026-10-12T02:17:29Z,totals,Under,51.0,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-12T02:17:56Z,h2h,San Francisco 49ers,,1.27
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-12T02:17:56Z,h2h,Washington Commanders,,3.98
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-12T02:17:56Z,spreads,San Francisco 49ers,-7.5,1.94
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-12T02:17:56Z,spreads,Washington Commanders,7.5,1.94
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-12T02:17:56Z,totals,Over,50.5,1.89
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,pinnacle,2026-10-12T02:17:56Z,totals,Under,50.5,1.97
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,bovada,2026-10-12T02:10:33Z,h2h,San Francisco 49ers,,1.26
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,bovada,2026-10-12T02:10:33Z,h2h,Washington Commanders,,3.9
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,bovada,2026-10-12T02:10:33Z,spreads,San Francisco 49ers,-7.5,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,bovada,2026-10-12T02:10:33Z,spreads,Washington Commanders,7.5,1.91
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,bovada,2026-10-12T02:10:33Z,totals,Over,51.0,1.95
+2026-10-12T02:18:02+00:00,f122527f003276d3bca19efa48c902c1,2026-10-20T00:15:00Z,San Francisco 49ers,Washington Commanders,bovada,2026-10-12T02:10:33Z,totals,Under,51.0,1.87
