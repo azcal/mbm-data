@@ -121,4 +121,5 @@ nhl,2026-10-10T01:39:16+00:00,7895b6bd10de620acba34059d4ad4e09,2026-10-10T23:10:
 nhl,2026-10-10T01:39:16+00:00,7ff1567200cc7c7c7d901f32f81ad4d4,2026-10-11T02:10:00Z,2026-10-10,Calgary Flames,Anaheim Ducks,home,Calgary Flames,betrivers,2.1,0.4762,0.5183,0.4634,0.0885,5,loss,-1.0,2026-10-11
 nhl,2026-10-10T01:39:16+00:00,a0b4b7224d0d849d54511cd9a4780531,2026-10-10T23:10:00Z,2026-10-10,Ottawa Senators,Nashville Predators,home,Ottawa Senators,mybookieag,1.63,0.6135,0.6501,0.595,0.0597,10,loss,-1.0,2026-10-11
 nhl,2026-10-10T01:39:16+00:00,b75f9f59f0f845e2ba7dc5f8e5b3e35d,2026-10-10T23:10:00Z,2026-10-10,Montréal Canadiens,Detroit Red Wings,away,Detroit Red Wings,fanduel,2.84,0.3521,0.4058,0.3412,0.1524,5,win,1.84,2026-10-11
-nhl,2026-10-11T00:48:51+00:00,a49ddd8a44071e340299ae7f22b4f359,2026-10-11T23:10:00Z,2026-10-11,Philadelphia Flyers,Carolina Hurricanes,away,Carolina Hurricanes,betrivers,1.61,0.6211,0.6743,0.6,0.0856,5,,,
+nhl,2026-10-11T00:48:51+00:00,a49ddd8a44071e340299ae7f22b4f359,2026-10-11T23:10:00Z,2026-10-11,Philadelphia Flyers,Carolina Hurricanes,away,Carolina Hurricanes,betrivers,1.61,0.6211,0.6743,0.6,0.0856,5,win,0.61,2026-10-12
+nhl,2026-10-12T01:10:35+00:00,e85cb8fcbbddd2332b24db4bfe564345,2026-10-12T17:10:00Z,2026-10-12,Buffalo Sabres,Florida Panthers,home,Buffalo Sabres,pinnacle,1.94,0.5155,0.5786,0.5,0.1225,9,,,
