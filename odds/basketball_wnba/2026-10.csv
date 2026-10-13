@@ -1625,3 +1625,43 @@ snap_ts,event_id,commence,home,away,book,book_update,market,outcome,point,price
 2026-10-12T22:24:32+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,pinnacle,2026-10-12T22:24:05Z,h2h,Golden State Valkyries,,1.65
 2026-10-12T22:24:32+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,pinnacle,2026-10-12T22:24:05Z,spreads,Atlanta Dream,2.5,1.96
 2026-10-12T22:24:32+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,pinnacle,2026-10-12T22:24:05Z,spreads,Golden State Valkyries,-2.5,1.86
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,draftkings,2026-10-13T02:56:49Z,h2h,Atlanta Dream,,2.2
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,draftkings,2026-10-13T02:56:49Z,h2h,Golden State Valkyries,,1.7
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,draftkings,2026-10-13T02:56:49Z,spreads,Atlanta Dream,2.5,1.89
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,draftkings,2026-10-13T02:56:49Z,spreads,Golden State Valkyries,-2.5,1.93
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,fanduel,2026-10-13T02:57:21Z,h2h,Atlanta Dream,,2.2
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,fanduel,2026-10-13T02:57:21Z,h2h,Golden State Valkyries,,1.68
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,fanduel,2026-10-13T02:57:21Z,spreads,Atlanta Dream,2.5,1.94
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,fanduel,2026-10-13T02:57:21Z,spreads,Golden State Valkyries,-2.5,1.88
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betmgm,2026-10-13T02:57:03Z,h2h,Atlanta Dream,,2.3
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betmgm,2026-10-13T02:57:03Z,h2h,Golden State Valkyries,,1.65
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betmgm,2026-10-13T02:57:03Z,spreads,Atlanta Dream,2.5,1.91
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betmgm,2026-10-13T02:57:03Z,spreads,Golden State Valkyries,-2.5,1.91
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betrivers,2026-10-13T02:56:54Z,h2h,Atlanta Dream,,2.2
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betrivers,2026-10-13T02:56:54Z,h2h,Golden State Valkyries,,1.67
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betrivers,2026-10-13T02:56:54Z,spreads,Atlanta Dream,2.5,1.88
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betrivers,2026-10-13T02:56:54Z,spreads,Golden State Valkyries,-2.5,1.92
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betonlineag,2026-10-13T02:56:49Z,h2h,Atlanta Dream,,2.33
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betonlineag,2026-10-13T02:56:49Z,h2h,Golden State Valkyries,,1.65
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betonlineag,2026-10-13T02:56:49Z,spreads,Atlanta Dream,2.5,1.97
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betonlineag,2026-10-13T02:56:49Z,spreads,Golden State Valkyries,-2.5,1.85
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,lowvig,2026-10-13T02:56:34Z,h2h,Atlanta Dream,,2.33
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,lowvig,2026-10-13T02:56:34Z,h2h,Golden State Valkyries,,1.65
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,lowvig,2026-10-13T02:56:34Z,spreads,Atlanta Dream,2.5,1.99
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,lowvig,2026-10-13T02:56:34Z,spreads,Golden State Valkyries,-2.5,1.87
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betus,2026-10-13T02:56:48Z,h2h,Atlanta Dream,,2.35
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betus,2026-10-13T02:56:48Z,h2h,Golden State Valkyries,,1.65
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betus,2026-10-13T02:56:48Z,spreads,Atlanta Dream,3.0,1.91
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,betus,2026-10-13T02:56:48Z,spreads,Golden State Valkyries,-3.0,1.91
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,bovada,2026-10-13T02:56:18Z,h2h,Atlanta Dream,,2.2
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,bovada,2026-10-13T02:56:18Z,h2h,Golden State Valkyries,,1.71
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,bovada,2026-10-13T02:56:18Z,spreads,Atlanta Dream,2.5,1.91
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,bovada,2026-10-13T02:56:18Z,spreads,Golden State Valkyries,-2.5,1.91
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,mybookieag,2026-10-13T02:56:18Z,h2h,Atlanta Dream,,2.23
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,mybookieag,2026-10-13T02:56:18Z,h2h,Golden State Valkyries,,1.66
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,mybookieag,2026-10-13T02:56:18Z,spreads,Atlanta Dream,2.5,1.91
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,mybookieag,2026-10-13T02:56:18Z,spreads,Golden State Valkyries,-2.5,1.91
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,pinnacle,2026-10-13T02:57:19Z,h2h,Atlanta Dream,,2.28
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,pinnacle,2026-10-13T02:57:19Z,h2h,Golden State Valkyries,,1.65
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,pinnacle,2026-10-13T02:57:19Z,spreads,Atlanta Dream,2.5,1.96
+2026-10-13T02:57:39+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,Golden State Valkyries,Atlanta Dream,pinnacle,2026-10-13T02:57:19Z,spreads,Golden State Valkyries,-2.5,1.86
