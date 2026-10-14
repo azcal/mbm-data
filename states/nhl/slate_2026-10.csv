@@ -96,3 +96,5 @@ snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_
 2026-10-13,401892501,2026-10-14T01:45Z,CGY @ ANA,pre,False,ANA,25,0,CGY,3,0,False
 2026-10-13,401892502,2026-10-14T02:30Z,EDM @ LA,pre,False,LA,8,0,EDM,6,0,False
 2026-10-13,401892503,2026-10-14T03:00Z,BOS @ SJ,pre,False,SJ,18,0,BOS,1,0,False
+2026-10-14,401892504,2026-10-14T23:30Z,MTL @ WSH,pre,False,WSH,23,0,MTL,10,0,False
+2026-10-14,401892505,2026-10-15T00:30Z,DAL @ COL,pre,False,COL,17,0,DAL,9,0,False
