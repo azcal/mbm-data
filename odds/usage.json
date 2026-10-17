@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
- "remaining": 99,
- "used": 401,
+ "remaining": 93,
+ "used": 407,
  "calls": [
   {
    "ts": "2026-10-01T01:11:53+00:00",
@@ -488,6 +488,12 @@
    "sport": "soccer_epl",
    "status": 200,
    "cost": "1"
+  },
+  {
+   "ts": "2026-10-17T17:47:00+00:00",
+   "sport": "americanfootball_ncaaf",
+   "status": 200,
+   "cost": "2"
   }
  ]
 }
