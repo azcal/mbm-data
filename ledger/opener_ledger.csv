@@ -155,8 +155,8 @@ nhl,2026-10-15T00:25:36+00:00,3fa8e135779ec383bce2be440d4ae030,2026-10-15T23:10:
 nhl,2026-10-15T00:25:36+00:00,6c6bbf8c46c5896d1498ab1cdc5b8be9,2026-10-15T23:10:00Z,2026-10-15,Florida Panthers,Vancouver Canucks,away,Vancouver Canucks,bovada,3.6,0.2778,0.3292,0.2812,0.1852,9,win,2.6,2026-10-16
 nhl,2026-10-15T00:25:36+00:00,9f4363f363411cc75eafb6124bef94a7,2026-10-16T00:10:00Z,2026-10-15,Chicago Blackhawks,Winnipeg Jets,away,Winnipeg Jets,betonlineag,1.8,0.5556,0.5882,0.5422,0.0587,10,loss,-1.0,2026-10-16
 nhl,2026-10-15T00:25:36+00:00,beffe22ff3d46b84b1b4e36b0970ccba,2026-10-15T23:40:00Z,2026-10-15,Detroit Red Wings,Philadelphia Flyers,home,Detroit Red Wings,betrivers,1.77,0.565,0.6204,0.5627,0.098,9,loss,-1.0,2026-10-16
-nhl,2026-10-16T00:14:31+00:00,343be4cf732ddd9fd0a058953456d811,2026-10-17T01:10:00Z,2026-10-16,Colorado Avalanche,Pittsburgh Penguins,away,Pittsburgh Penguins,betrivers,2.9,0.3448,0.3801,0.3442,0.1022,9,,,
-nhl,2026-10-16T00:14:31+00:00,7c44228f4c2e89133b34a3c70bfb30c5,2026-10-17T02:10:00Z,2026-10-16,Anaheim Ducks,Boston Bruins,home,Anaheim Ducks,betmgm,2.0,0.5,0.5869,0.4812,0.1737,8,,,
+nhl,2026-10-16T00:14:31+00:00,343be4cf732ddd9fd0a058953456d811,2026-10-17T01:10:00Z,2026-10-16,Colorado Avalanche,Pittsburgh Penguins,away,Pittsburgh Penguins,betrivers,2.9,0.3448,0.3801,0.3442,0.1022,9,loss,-1.0,2026-10-17
+nhl,2026-10-16T00:14:31+00:00,7c44228f4c2e89133b34a3c70bfb30c5,2026-10-17T02:10:00Z,2026-10-16,Anaheim Ducks,Boston Bruins,home,Anaheim Ducks,betmgm,2.0,0.5,0.5869,0.4812,0.1737,8,loss,-1.0,2026-10-17
 wnba,2026-10-10T19:08:54+00:00,fd0477adb898dbbdf52c129d0ea6c15e,2026-10-17T19:30:00Z,2026-10-17,Golden State Valkyries,Atlanta Dream,home,Golden State Valkyries,betmgm,1.74,0.5747,0.6242,0.5634,0.086,8,,,
 nhl,2026-10-17T00:16:57+00:00,397fc11daab60801858ad82037395ae3,2026-10-17T22:10:00Z,2026-10-17,Florida Panthers,Seattle Kraken,away,Seattle Kraken,betrivers,2.63,0.3802,0.393,0.3759,0.0336,8,,,
 nhl,2026-10-17T00:16:57+00:00,72d1180c19caf72334666cf7ccf93c48,2026-10-17T23:10:00Z,2026-10-17,Toronto Maple Leafs,New York Islanders,away,New York Islanders,betonlineag,2.19,0.4566,0.5788,0.4441,0.2676,8,,,
