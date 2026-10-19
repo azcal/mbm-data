@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
- "remaining": 42,
- "used": 458,
+ "remaining": 34,
+ "used": 466,
  "calls": [
   {
    "ts": "2026-10-01T01:11:53+00:00",
@@ -560,6 +560,12 @@
    "sport": "icehockey_nhl",
    "status": 200,
    "cost": "1"
+  },
+  {
+   "ts": "2026-10-19T20:24:17+00:00",
+   "sport": "americanfootball_ncaaf",
+   "status": 200,
+   "cost": "2"
   }
  ]
 }
