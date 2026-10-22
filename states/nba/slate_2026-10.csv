@@ -91,3 +91,5 @@ snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_
 2026-10-21,401909092,2026-10-22T02:00Z,GS @ LAL,pre,False,LAL,13,0,GS,9,0,False
 2026-10-21,401909841,2026-10-22T02:00Z,PHX @ POR,pre,False,POR,22,0,PHX,21,0,False
 2026-10-21,401909842,2026-10-22T02:30Z,SAC @ LAC,pre,False,LAC,12,0,SAC,23,0,False
+2026-10-22,401909093,2026-10-22T23:00Z,CLE @ PHI,pre,False,PHI,20,0,CLE,5,0,False
+2026-10-22,401909094,2026-10-23T01:30Z,DEN @ OKC,pre,False,OKC,25,0,DEN,7,0,False
