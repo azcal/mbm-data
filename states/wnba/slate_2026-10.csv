@@ -29,3 +29,4 @@ snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_
 2026-10-21,401918307,2026-10-22T00:00Z,GS @ ATL,pre,False,ATL,20,0,GS,129689,0,False
 2026-10-22,401918308,2026-10-24T17:00Z,GS @ ATL,pre,False,ATL,20,0,GS,129689,0,False
 2026-10-23,401918308,2026-10-24T17:00Z,GS @ ATL,pre,False,ATL,20,0,GS,129689,0,False
+2026-10-24,401918308,2026-10-24T17:00Z,GS @ ATL,in,False,ATL,20,26,GS,129689,42,False
