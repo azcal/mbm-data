@@ -1,0 +1,6 @@
+snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_id,away_score,neutral
+2026-11-01,401892624,2026-11-01T18:00Z,WPG @ CAR,in,False,CAR,7,5,WPG,28,0,False
+2026-11-01,401892625,2026-11-01T20:30Z,MIN @ WSH,pre,False,WSH,23,0,MIN,30,0,False
+2026-11-01,401892626,2026-11-01T21:00Z,UTA @ PHI,pre,False,PHI,15,0,UTA,129764,0,False
+2026-11-01,401892627,2026-11-01T23:00Z,EDM @ NYR,pre,False,NYR,13,0,EDM,6,0,False
+2026-11-01,401892628,2026-11-02T01:00Z,OTT @ ANA,pre,False,ANA,25,0,OTT,14,0,False

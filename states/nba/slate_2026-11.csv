@@ -1,0 +1,5 @@
+snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_id,away_score,neutral
+2026-11-01,401909903,2026-11-01T20:30Z,BOS @ ORL,pre,False,ORL,19,0,BOS,2,0,False
+2026-11-01,401909904,2026-11-01T22:00Z,BKN @ IND,pre,False,IND,11,0,BKN,17,0,False
+2026-11-01,401909905,2026-11-02T01:30Z,LAC @ GS,pre,False,GS,9,0,LAC,12,0,False
+2026-11-01,401909906,2026-11-02T02:00Z,TOR @ LAL,pre,False,LAL,13,0,TOR,28,0,False
