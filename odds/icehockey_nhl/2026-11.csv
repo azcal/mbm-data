@@ -155,3 +155,95 @@ snap_ts,event_id,commence,home,away,book,book_update,market,outcome,point,price
 2026-11-01T00:56:30+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:00:00Z,Anaheim Ducks,Ottawa Senators,bovada,2026-11-01T00:55:57Z,h2h,Ottawa Senators,,1.83
 2026-11-01T00:56:30+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:00:00Z,Anaheim Ducks,Ottawa Senators,pinnacle,2026-11-01T00:56:15Z,h2h,Anaheim Ducks,,2.04
 2026-11-01T00:56:30+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:00:00Z,Anaheim Ducks,Ottawa Senators,pinnacle,2026-11-01T00:56:15Z,h2h,Ottawa Senators,,1.85
+2026-11-02T01:25:51+00:00,d8dd95fa4fc001a1ea9f6629a8c8ffee,2026-11-01T23:10:00Z,New York Rangers,Edmonton Oilers,fanduel,2026-11-02T01:25:04Z,h2h,Edmonton Oilers,,1.0
+2026-11-02T01:25:51+00:00,d8dd95fa4fc001a1ea9f6629a8c8ffee,2026-11-01T23:10:00Z,New York Rangers,Edmonton Oilers,fanduel,2026-11-02T01:25:04Z,h2h,New York Rangers,,36.0
+2026-11-02T01:25:51+00:00,d8dd95fa4fc001a1ea9f6629a8c8ffee,2026-11-01T23:10:00Z,New York Rangers,Edmonton Oilers,draftkings,2026-11-02T01:25:27Z,h2h,Edmonton Oilers,,1.0
+2026-11-02T01:25:51+00:00,d8dd95fa4fc001a1ea9f6629a8c8ffee,2026-11-01T23:10:00Z,New York Rangers,Edmonton Oilers,draftkings,2026-11-02T01:25:27Z,h2h,New York Rangers,,41.0
+2026-11-02T01:25:51+00:00,d8dd95fa4fc001a1ea9f6629a8c8ffee,2026-11-01T23:10:00Z,New York Rangers,Edmonton Oilers,betmgm,2026-11-02T01:24:18Z,h2h,Edmonton Oilers,,1.01
+2026-11-02T01:25:51+00:00,d8dd95fa4fc001a1ea9f6629a8c8ffee,2026-11-01T23:10:00Z,New York Rangers,Edmonton Oilers,betmgm,2026-11-02T01:24:18Z,h2h,New York Rangers,,19.5
+2026-11-02T01:25:51+00:00,d8dd95fa4fc001a1ea9f6629a8c8ffee,2026-11-01T23:10:00Z,New York Rangers,Edmonton Oilers,pinnacle,2026-11-02T01:25:27Z,h2h,Edmonton Oilers,,1.07
+2026-11-02T01:25:51+00:00,d8dd95fa4fc001a1ea9f6629a8c8ffee,2026-11-01T23:10:00Z,New York Rangers,Edmonton Oilers,pinnacle,2026-11-02T01:25:27Z,h2h,New York Rangers,,10.06
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,fanduel,2026-11-02T01:25:04Z,h2h,Anaheim Ducks,,4.3
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,fanduel,2026-11-02T01:25:04Z,h2h,Ottawa Senators,,1.21
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,draftkings,2026-11-02T01:25:27Z,h2h,Anaheim Ducks,,4.1
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,draftkings,2026-11-02T01:25:27Z,h2h,Ottawa Senators,,1.22
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,mybookieag,2026-11-02T01:23:31Z,h2h,Anaheim Ducks,,4.2
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,mybookieag,2026-11-02T01:23:31Z,h2h,Ottawa Senators,,1.22
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,betmgm,2026-11-02T01:24:18Z,h2h,Anaheim Ducks,,4.1
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,betmgm,2026-11-02T01:24:18Z,h2h,Ottawa Senators,,1.24
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,bovada,2026-11-02T01:25:08Z,h2h,Anaheim Ducks,,4.2
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,bovada,2026-11-02T01:25:08Z,h2h,Ottawa Senators,,1.21
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,pinnacle,2026-11-02T01:25:27Z,h2h,Anaheim Ducks,,2.09
+2026-11-02T01:25:51+00:00,a5203c5f9248aa3653feba547eabd4b8,2026-11-02T01:10:00Z,Anaheim Ducks,Ottawa Senators,pinnacle,2026-11-02T01:25:27Z,h2h,Ottawa Senators,,1.79
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,draftkings,2026-11-02T01:25:27Z,h2h,Boston Bruins,,1.93
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,draftkings,2026-11-02T01:25:27Z,h2h,Vegas Golden Knights,,1.89
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,lowvig,2026-11-02T01:25:05Z,h2h,Boston Bruins,,1.95
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,lowvig,2026-11-02T01:25:05Z,h2h,Vegas Golden Knights,,1.92
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,betonlineag,2026-11-02T01:25:51Z,h2h,Boston Bruins,,1.95
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,betonlineag,2026-11-02T01:25:51Z,h2h,Vegas Golden Knights,,1.92
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,fanduel,2026-11-02T01:25:04Z,h2h,Boston Bruins,,1.94
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,fanduel,2026-11-02T01:25:04Z,h2h,Vegas Golden Knights,,1.88
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,betus,2026-11-02T01:25:51Z,h2h,Boston Bruins,,1.91
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,betus,2026-11-02T01:25:51Z,h2h,Vegas Golden Knights,,1.91
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,betrivers,2026-11-02T01:25:29Z,h2h,Boston Bruins,,1.95
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,betrivers,2026-11-02T01:25:29Z,h2h,Vegas Golden Knights,,1.88
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,pinnacle,2026-11-02T01:25:27Z,h2h,Boston Bruins,,1.96
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,pinnacle,2026-11-02T01:25:27Z,h2h,Vegas Golden Knights,,1.93
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,bovada,2026-11-02T01:25:08Z,h2h,Boston Bruins,,1.93
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,bovada,2026-11-02T01:25:08Z,h2h,Vegas Golden Knights,,1.89
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,betmgm,2026-11-02T01:24:18Z,h2h,Boston Bruins,,1.95
+2026-11-02T01:25:51+00:00,01847028adef1eda81745cd36f240fc5,2026-11-03T00:10:00Z,Boston Bruins,Vegas Golden Knights,betmgm,2026-11-02T01:24:18Z,h2h,Vegas Golden Knights,,1.87
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,draftkings,2026-11-02T01:25:27Z,h2h,Detroit Red Wings,,2.45
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,draftkings,2026-11-02T01:25:27Z,h2h,Florida Panthers,,1.57
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,lowvig,2026-11-02T01:25:05Z,h2h,Detroit Red Wings,,2.49
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,lowvig,2026-11-02T01:25:05Z,h2h,Florida Panthers,,1.59
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,betonlineag,2026-11-02T01:25:51Z,h2h,Detroit Red Wings,,2.49
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,betonlineag,2026-11-02T01:25:51Z,h2h,Florida Panthers,,1.59
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,fanduel,2026-11-02T01:25:04Z,h2h,Detroit Red Wings,,2.46
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,fanduel,2026-11-02T01:25:04Z,h2h,Florida Panthers,,1.57
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,betus,2026-11-02T01:25:51Z,h2h,Detroit Red Wings,,2.46
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,betus,2026-11-02T01:25:51Z,h2h,Florida Panthers,,1.59
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,betrivers,2026-11-02T01:25:29Z,h2h,Detroit Red Wings,,2.55
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,betrivers,2026-11-02T01:25:29Z,h2h,Florida Panthers,,1.53
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,bovada,2026-11-02T01:25:08Z,h2h,Detroit Red Wings,,2.47
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,bovada,2026-11-02T01:25:08Z,h2h,Florida Panthers,,1.58
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,pinnacle,2026-11-02T01:25:27Z,h2h,Detroit Red Wings,,2.48
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,pinnacle,2026-11-02T01:25:27Z,h2h,Florida Panthers,,1.59
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,betmgm,2026-11-02T01:24:18Z,h2h,Detroit Red Wings,,2.45
+2026-11-02T01:25:51+00:00,d5983dfd10f862eb0e497aa9a9e412f3,2026-11-03T00:10:00Z,Florida Panthers,Detroit Red Wings,betmgm,2026-11-02T01:24:18Z,h2h,Florida Panthers,,1.56
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,draftkings,2026-11-02T01:25:27Z,h2h,Chicago Blackhawks,,2.9
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,draftkings,2026-11-02T01:25:27Z,h2h,Colorado Avalanche,,1.43
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,lowvig,2026-11-02T01:25:05Z,h2h,Chicago Blackhawks,,3.0
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,lowvig,2026-11-02T01:25:05Z,h2h,Colorado Avalanche,,1.43
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,betonlineag,2026-11-02T01:25:51Z,h2h,Chicago Blackhawks,,3.0
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,betonlineag,2026-11-02T01:25:51Z,h2h,Colorado Avalanche,,1.43
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,fanduel,2026-11-02T01:25:04Z,h2h,Chicago Blackhawks,,3.05
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,fanduel,2026-11-02T01:25:04Z,h2h,Colorado Avalanche,,1.39
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,betus,2026-11-02T01:25:51Z,h2h,Chicago Blackhawks,,2.95
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,betus,2026-11-02T01:25:51Z,h2h,Colorado Avalanche,,1.43
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,betrivers,2026-11-02T01:25:29Z,h2h,Chicago Blackhawks,,3.05
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,betrivers,2026-11-02T01:25:29Z,h2h,Colorado Avalanche,,1.4
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,pinnacle,2026-11-02T01:25:27Z,h2h,Chicago Blackhawks,,3.0
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,pinnacle,2026-11-02T01:25:27Z,h2h,Colorado Avalanche,,1.43
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,bovada,2026-11-02T01:25:08Z,h2h,Chicago Blackhawks,,2.95
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,bovada,2026-11-02T01:25:08Z,h2h,Colorado Avalanche,,1.43
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,betmgm,2026-11-02T01:24:18Z,h2h,Chicago Blackhawks,,2.95
+2026-11-02T01:25:51+00:00,6c7ab45fd7ba80a0baccb7861cbe0fbe,2026-11-03T01:10:00Z,Chicago Blackhawks,Colorado Avalanche,betmgm,2026-11-02T01:24:18Z,h2h,Colorado Avalanche,,1.43
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,draftkings,2026-11-02T01:25:27Z,h2h,Calgary Flames,,2.14
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,draftkings,2026-11-02T01:25:27Z,h2h,San Jose Sharks,,1.74
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,lowvig,2026-11-02T01:25:05Z,h2h,Calgary Flames,,2.18
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,lowvig,2026-11-02T01:25:05Z,h2h,San Jose Sharks,,1.75
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,betonlineag,2026-11-02T01:25:51Z,h2h,Calgary Flames,,2.18
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,betonlineag,2026-11-02T01:25:51Z,h2h,San Jose Sharks,,1.75
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,fanduel,2026-11-02T01:25:04Z,h2h,Calgary Flames,,2.16
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,fanduel,2026-11-02T01:25:04Z,h2h,San Jose Sharks,,1.71
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,betus,2026-11-02T01:25:51Z,h2h,Calgary Flames,,2.15
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,betus,2026-11-02T01:25:51Z,h2h,San Jose Sharks,,1.74
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,betrivers,2026-11-02T01:25:29Z,h2h,Calgary Flames,,2.17
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,betrivers,2026-11-02T01:25:29Z,h2h,San Jose Sharks,,1.72
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,pinnacle,2026-11-02T01:25:27Z,h2h,Calgary Flames,,2.2
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,pinnacle,2026-11-02T01:25:27Z,h2h,San Jose Sharks,,1.74
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,bovada,2026-11-02T01:25:08Z,h2h,Calgary Flames,,2.17
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,bovada,2026-11-02T01:25:08Z,h2h,San Jose Sharks,,1.73
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,betmgm,2026-11-02T01:24:18Z,h2h,Calgary Flames,,2.15
+2026-11-02T01:25:51+00:00,8f768a5bd143ea549d68e5c1885023e6,2026-11-03T02:10:00Z,San Jose Sharks,Calgary Flames,betmgm,2026-11-02T01:24:18Z,h2h,San Jose Sharks,,1.71
