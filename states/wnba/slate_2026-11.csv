@@ -2,3 +2,4 @@ snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_
 2026-11-01,401918311,2026-11-01T00:00Z,ATL @ GS,post,True,GS,129689,68,ATL,20,63,False
 2026-11-02,401918311,2026-11-01T00:00Z,ATL @ GS,post,True,GS,129689,68,ATL,20,63,False
 2026-11-03,401918311,2026-11-01T00:00Z,ATL @ GS,post,True,GS,129689,68,ATL,20,63,False
+2026-11-04,401918311,2026-11-01T00:00Z,ATL @ GS,post,True,GS,129689,68,ATL,20,63,False
