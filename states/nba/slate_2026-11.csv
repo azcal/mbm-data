@@ -46,3 +46,5 @@ snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_
 2026-11-04,401909933,2026-11-05T02:30Z,DAL @ SA,pre,False,SA,24,0,DAL,6,0,False
 2026-11-04,401909934,2026-11-05T03:00Z,LAL @ SAC,pre,False,SAC,23,0,LAL,13,0,False
 2026-11-04,401909935,2026-11-05T03:30Z,MIA @ LAC,pre,False,LAC,12,0,MIA,14,0,False
+2026-11-05,401909936,2026-11-06T02:00Z,ORL @ PHX,pre,False,PHX,21,0,ORL,19,0,False
+2026-11-05,401909937,2026-11-06T03:00Z,MIA @ GS,pre,False,GS,9,0,MIA,14,0,False
