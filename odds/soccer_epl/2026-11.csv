@@ -293,3 +293,336 @@ snap_ts,event_id,commence,home,away,book,book_update,market,outcome,point,price
 2026-11-01T17:05:14+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,mybookieag,2026-11-01T17:05:05Z,h2h,Liverpool,,1.78
 2026-11-01T17:05:14+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,mybookieag,2026-11-01T17:05:05Z,h2h,Manchester United,,3.9
 2026-11-01T17:05:14+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,mybookieag,2026-11-01T17:05:05Z,h2h,Draw,,3.8
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,mybookieag,2026-11-07T16:46:56Z,h2h,Arsenal,,1.03
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,mybookieag,2026-11-07T16:46:56Z,h2h,Hull City,,200.0
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,9.25
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,fanduel,2026-11-07T16:48:13Z,h2h,Arsenal,,1.02
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,fanduel,2026-11-07T16:48:13Z,h2h,Hull City,,251.0
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,fanduel,2026-11-07T16:48:13Z,h2h,Draw,,13.0
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,betmgm,2026-11-07T16:47:44Z,h2h,Arsenal,,1.02
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,betmgm,2026-11-07T16:47:44Z,h2h,Hull City,,151.0
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,betmgm,2026-11-07T16:47:44Z,h2h,Draw,,15.5
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,draftkings,2026-11-07T16:47:21Z,h2h,Arsenal,,1.03
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,draftkings,2026-11-07T16:47:21Z,h2h,Hull City,,91.0
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,13.0
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,bovada,2026-11-07T16:48:18Z,h2h,Arsenal,,1.01
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,bovada,2026-11-07T16:48:18Z,h2h,Hull City,,501.0
+2026-11-07T16:48:36+00:00,842fcc5b9feb8c63054a661ad1fc8926,2026-11-07T15:00:00Z,Arsenal,Hull City,bovada,2026-11-07T16:48:18Z,h2h,Draw,,21.0
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,betmgm,2026-11-07T16:47:44Z,h2h,Fulham,,5.75
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,betmgm,2026-11-07T16:47:44Z,h2h,Newcastle United,,7.75
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,betmgm,2026-11-07T16:47:44Z,h2h,Draw,,1.31
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,fanduel,2026-11-07T16:48:13Z,h2h,Fulham,,6.5
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,fanduel,2026-11-07T16:48:13Z,h2h,Newcastle United,,8.5
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,fanduel,2026-11-07T16:48:13Z,h2h,Draw,,1.21
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,mybookieag,2026-11-07T16:46:56Z,h2h,Fulham,,3.85
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,mybookieag,2026-11-07T16:46:56Z,h2h,Newcastle United,,5.5
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,1.4
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,pinnacle,2026-11-07T16:48:13Z,h2h,Fulham,,3.75
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,pinnacle,2026-11-07T16:48:13Z,h2h,Newcastle United,,5.35
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,1.67
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,draftkings,2026-11-07T16:47:21Z,h2h,Fulham,,6.0
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,draftkings,2026-11-07T16:47:21Z,h2h,Newcastle United,,8.5
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,1.29
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,bovada,2026-11-07T16:48:18Z,h2h,Fulham,,6.5
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,bovada,2026-11-07T16:48:18Z,h2h,Newcastle United,,9.5
+2026-11-07T16:48:36+00:00,3903e98a54db0f2cc23095407fe9dad8,2026-11-07T15:00:00Z,Fulham,Newcastle United,bovada,2026-11-07T16:48:18Z,h2h,Draw,,1.25
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,fanduel,2026-11-07T16:48:13Z,h2h,Manchester City,,1.67
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,fanduel,2026-11-07T16:48:13Z,h2h,Nottingham Forest,,4.9
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,fanduel,2026-11-07T16:48:13Z,h2h,Draw,,4.0
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,mybookieag,2026-11-07T16:46:56Z,h2h,Manchester City,,1.65
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,mybookieag,2026-11-07T16:46:56Z,h2h,Nottingham Forest,,4.8
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,4.1
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betmgm,2026-11-07T16:47:44Z,h2h,Manchester City,,1.71
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betmgm,2026-11-07T16:47:44Z,h2h,Nottingham Forest,,4.4
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betmgm,2026-11-07T16:47:44Z,h2h,Draw,,4.0
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,pinnacle,2026-11-07T16:48:13Z,h2h,Manchester City,,1.68
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,pinnacle,2026-11-07T16:48:13Z,h2h,Nottingham Forest,,5.15
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,4.15
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,draftkings,2026-11-07T16:47:21Z,h2h,Manchester City,,1.69
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,draftkings,2026-11-07T16:47:21Z,h2h,Nottingham Forest,,4.9
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,4.0
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betrivers,2026-11-07T16:47:44Z,h2h,Manchester City,,1.62
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betrivers,2026-11-07T16:47:44Z,h2h,Nottingham Forest,,5.2
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,4.2
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,bovada,2026-11-07T16:48:18Z,h2h,Manchester City,,1.7
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,bovada,2026-11-07T16:48:18Z,h2h,Nottingham Forest,,4.8
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,bovada,2026-11-07T16:48:18Z,h2h,Draw,,4.0
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betus,2026-11-07T16:48:14Z,h2h,Manchester City,,1.67
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betus,2026-11-07T16:48:14Z,h2h,Nottingham Forest,,5.0
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betus,2026-11-07T16:48:14Z,h2h,Draw,,4.05
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,lowvig,2026-11-07T16:48:15Z,h2h,Manchester City,,1.69
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,lowvig,2026-11-07T16:48:15Z,h2h,Nottingham Forest,,4.9
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,lowvig,2026-11-07T16:48:15Z,h2h,Draw,,4.15
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betonlineag,2026-11-07T16:47:44Z,h2h,Manchester City,,1.69
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betonlineag,2026-11-07T16:47:44Z,h2h,Nottingham Forest,,4.9
+2026-11-07T16:48:36+00:00,59c5f635cfe11613c07e9a5520ced5c1,2026-11-07T17:30:00Z,Nottingham Forest,Manchester City,betonlineag,2026-11-07T16:47:44Z,h2h,Draw,,4.15
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,fanduel,2026-11-07T16:48:13Z,h2h,Bournemouth,,1.87
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,fanduel,2026-11-07T16:48:13Z,h2h,Ipswich Town,,4.0
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,fanduel,2026-11-07T16:48:13Z,h2h,Draw,,3.6
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,mybookieag,2026-11-07T16:46:56Z,h2h,Bournemouth,,1.92
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,mybookieag,2026-11-07T16:46:56Z,h2h,Ipswich Town,,3.75
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,3.7
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,pinnacle,2026-11-07T16:48:13Z,h2h,Bournemouth,,1.92
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,pinnacle,2026-11-07T16:48:13Z,h2h,Ipswich Town,,4.09
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,3.75
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betmgm,2026-11-07T16:47:44Z,h2h,Bournemouth,,1.93
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betmgm,2026-11-07T16:47:44Z,h2h,Ipswich Town,,3.6
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betmgm,2026-11-07T16:47:44Z,h2h,Draw,,3.75
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,draftkings,2026-11-07T16:47:21Z,h2h,Bournemouth,,1.91
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,draftkings,2026-11-07T16:47:21Z,h2h,Ipswich Town,,3.85
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,3.75
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betrivers,2026-11-07T16:47:44Z,h2h,Bournemouth,,1.85
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betrivers,2026-11-07T16:47:44Z,h2h,Ipswich Town,,3.95
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,3.85
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,bovada,2026-11-07T16:48:18Z,h2h,Bournemouth,,1.91
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,bovada,2026-11-07T16:48:18Z,h2h,Ipswich Town,,3.85
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,bovada,2026-11-07T16:48:18Z,h2h,Draw,,3.75
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betus,2026-11-07T16:48:14Z,h2h,Bournemouth,,1.91
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betus,2026-11-07T16:48:14Z,h2h,Ipswich Town,,3.9
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betus,2026-11-07T16:48:14Z,h2h,Draw,,3.7
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,lowvig,2026-11-07T16:48:15Z,h2h,Bournemouth,,1.93
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,lowvig,2026-11-07T16:48:15Z,h2h,Ipswich Town,,4.0
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,lowvig,2026-11-07T16:48:15Z,h2h,Draw,,3.73
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betonlineag,2026-11-07T16:47:44Z,h2h,Bournemouth,,1.93
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betonlineag,2026-11-07T16:47:44Z,h2h,Ipswich Town,,4.0
+2026-11-07T16:48:36+00:00,79ed3df594d7b352ef027128b1ba5d0a,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,betonlineag,2026-11-07T16:47:44Z,h2h,Draw,,3.73
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,mybookieag,2026-11-07T16:46:56Z,h2h,Brentford,,3.7
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,mybookieag,2026-11-07T16:46:56Z,h2h,Brighton and Hove Albion,,1.88
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,3.85
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,fanduel,2026-11-07T16:48:13Z,h2h,Brentford,,3.9
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,fanduel,2026-11-07T16:48:13Z,h2h,Brighton and Hove Albion,,1.87
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,fanduel,2026-11-07T16:48:13Z,h2h,Draw,,3.8
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betmgm,2026-11-07T16:47:44Z,h2h,Brentford,,3.5
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betmgm,2026-11-07T16:47:44Z,h2h,Brighton and Hove Albion,,1.91
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betmgm,2026-11-07T16:47:44Z,h2h,Draw,,3.8
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,pinnacle,2026-11-07T16:48:13Z,h2h,Brentford,,3.91
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,pinnacle,2026-11-07T16:48:13Z,h2h,Brighton and Hove Albion,,1.91
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,3.95
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,draftkings,2026-11-07T16:47:21Z,h2h,Brentford,,3.8
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,draftkings,2026-11-07T16:47:21Z,h2h,Brighton and Hove Albion,,1.91
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,3.9
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betrivers,2026-11-07T16:47:44Z,h2h,Brentford,,3.85
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betrivers,2026-11-07T16:47:44Z,h2h,Brighton and Hove Albion,,1.88
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,3.85
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,bovada,2026-11-07T16:48:18Z,h2h,Brentford,,3.75
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,bovada,2026-11-07T16:48:18Z,h2h,Brighton and Hove Albion,,1.91
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,bovada,2026-11-07T16:48:18Z,h2h,Draw,,3.9
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betus,2026-11-07T16:48:14Z,h2h,Brentford,,3.85
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betus,2026-11-07T16:48:14Z,h2h,Brighton and Hove Albion,,1.87
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betus,2026-11-07T16:48:14Z,h2h,Draw,,3.9
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,lowvig,2026-11-07T16:48:15Z,h2h,Brentford,,4.07
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,lowvig,2026-11-07T16:48:15Z,h2h,Brighton and Hove Albion,,1.85
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,lowvig,2026-11-07T16:48:15Z,h2h,Draw,,4.02
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betonlineag,2026-11-07T16:47:44Z,h2h,Brentford,,4.07
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betonlineag,2026-11-07T16:47:44Z,h2h,Brighton and Hove Albion,,1.85
+2026-11-07T16:48:36+00:00,8e3ca98e29be84dd4a882ed05f50fa79,2026-11-08T14:00:00Z,Brighton and Hove Albion,Brentford,betonlineag,2026-11-07T16:47:44Z,h2h,Draw,,4.02
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,fanduel,2026-11-07T16:48:13Z,h2h,Chelsea,,1.95
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,fanduel,2026-11-07T16:48:13Z,h2h,Sunderland,,3.8
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,fanduel,2026-11-07T16:48:13Z,h2h,Draw,,3.6
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,mybookieag,2026-11-07T16:46:56Z,h2h,Chelsea,,1.96
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,mybookieag,2026-11-07T16:46:56Z,h2h,Sunderland,,3.7
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,3.6
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,pinnacle,2026-11-07T16:48:13Z,h2h,Chelsea,,1.99
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,pinnacle,2026-11-07T16:48:13Z,h2h,Sunderland,,3.8
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,3.76
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betmgm,2026-11-07T16:47:44Z,h2h,Chelsea,,1.98
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betmgm,2026-11-07T16:47:44Z,h2h,Sunderland,,3.6
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betmgm,2026-11-07T16:47:44Z,h2h,Draw,,3.6
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,draftkings,2026-11-07T16:47:21Z,h2h,Chelsea,,1.95
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,draftkings,2026-11-07T16:47:21Z,h2h,Sunderland,,3.8
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,3.7
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betrivers,2026-11-07T16:47:44Z,h2h,Chelsea,,1.93
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betrivers,2026-11-07T16:47:44Z,h2h,Sunderland,,3.75
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,3.7
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,bovada,2026-11-07T16:48:18Z,h2h,Chelsea,,1.95
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,bovada,2026-11-07T16:48:18Z,h2h,Sunderland,,3.75
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,bovada,2026-11-07T16:48:18Z,h2h,Draw,,3.7
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betus,2026-11-07T16:48:14Z,h2h,Chelsea,,1.95
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betus,2026-11-07T16:48:14Z,h2h,Sunderland,,3.7
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betus,2026-11-07T16:48:14Z,h2h,Draw,,3.7
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betonlineag,2026-11-07T16:47:44Z,h2h,Chelsea,,2.0
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betonlineag,2026-11-07T16:47:44Z,h2h,Sunderland,,3.7
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,betonlineag,2026-11-07T16:47:44Z,h2h,Draw,,3.77
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,lowvig,2026-11-07T16:48:15Z,h2h,Chelsea,,2.0
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,lowvig,2026-11-07T16:48:15Z,h2h,Sunderland,,3.7
+2026-11-07T16:48:36+00:00,3a4608abdf257d2a0024b944757d9dc9,2026-11-08T14:00:00Z,Sunderland,Chelsea,lowvig,2026-11-07T16:48:15Z,h2h,Draw,,3.77
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,mybookieag,2026-11-07T16:46:56Z,h2h,Crystal Palace,,5.3
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,mybookieag,2026-11-07T16:46:56Z,h2h,Liverpool,,1.56
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,4.4
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,fanduel,2026-11-07T16:48:13Z,h2h,Crystal Palace,,5.8
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,fanduel,2026-11-07T16:48:13Z,h2h,Liverpool,,1.54
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,fanduel,2026-11-07T16:48:13Z,h2h,Draw,,4.4
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,pinnacle,2026-11-07T16:48:13Z,h2h,Crystal Palace,,5.83
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,pinnacle,2026-11-07T16:48:13Z,h2h,Liverpool,,1.56
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,4.51
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,draftkings,2026-11-07T16:47:21Z,h2h,Crystal Palace,,5.5
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,draftkings,2026-11-07T16:47:21Z,h2h,Liverpool,,1.56
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,4.4
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betmgm,2026-11-07T16:47:44Z,h2h,Crystal Palace,,5.0
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betmgm,2026-11-07T16:47:44Z,h2h,Liverpool,,1.57
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betmgm,2026-11-07T16:47:44Z,h2h,Draw,,4.33
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betrivers,2026-11-07T16:47:44Z,h2h,Crystal Palace,,5.75
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betrivers,2026-11-07T16:47:44Z,h2h,Liverpool,,1.53
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,4.5
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,bovada,2026-11-07T16:48:18Z,h2h,Crystal Palace,,5.4
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,bovada,2026-11-07T16:48:18Z,h2h,Liverpool,,1.58
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,bovada,2026-11-07T16:48:18Z,h2h,Draw,,4.4
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betus,2026-11-07T16:48:14Z,h2h,Crystal Palace,,5.5
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betus,2026-11-07T16:48:14Z,h2h,Liverpool,,1.57
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betus,2026-11-07T16:48:14Z,h2h,Draw,,4.4
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betonlineag,2026-11-07T16:47:44Z,h2h,Crystal Palace,,5.6
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betonlineag,2026-11-07T16:47:44Z,h2h,Liverpool,,1.58
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,betonlineag,2026-11-07T16:47:44Z,h2h,Draw,,4.44
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,lowvig,2026-11-07T16:48:15Z,h2h,Crystal Palace,,5.6
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,lowvig,2026-11-07T16:48:15Z,h2h,Liverpool,,1.58
+2026-11-07T16:48:36+00:00,0cfbab01e152f81e34f9014e02c7eb79,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,lowvig,2026-11-07T16:48:15Z,h2h,Draw,,4.44
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,mybookieag,2026-11-07T16:46:56Z,h2h,Aston Villa,,3.08
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,mybookieag,2026-11-07T16:46:56Z,h2h,Manchester United,,2.16
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,3.65
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,fanduel,2026-11-07T16:48:13Z,h2h,Aston Villa,,3.1
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,fanduel,2026-11-07T16:48:13Z,h2h,Manchester United,,2.15
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,fanduel,2026-11-07T16:48:13Z,h2h,Draw,,3.7
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,pinnacle,2026-11-07T16:48:13Z,h2h,Aston Villa,,3.25
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,pinnacle,2026-11-07T16:48:13Z,h2h,Manchester United,,2.14
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,3.88
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,draftkings,2026-11-07T16:47:21Z,h2h,Aston Villa,,3.2
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,draftkings,2026-11-07T16:47:21Z,h2h,Manchester United,,2.15
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,3.75
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betmgm,2026-11-07T16:47:44Z,h2h,Aston Villa,,3.1
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betmgm,2026-11-07T16:47:44Z,h2h,Manchester United,,2.1
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betmgm,2026-11-07T16:47:44Z,h2h,Draw,,3.75
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betrivers,2026-11-07T16:47:44Z,h2h,Aston Villa,,3.15
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betrivers,2026-11-07T16:47:44Z,h2h,Manchester United,,2.17
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,3.65
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,bovada,2026-11-07T16:48:18Z,h2h,Aston Villa,,3.2
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,bovada,2026-11-07T16:48:18Z,h2h,Manchester United,,2.1
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,bovada,2026-11-07T16:48:18Z,h2h,Draw,,3.75
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betus,2026-11-07T16:48:14Z,h2h,Aston Villa,,3.2
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betus,2026-11-07T16:48:14Z,h2h,Manchester United,,2.1
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betus,2026-11-07T16:48:14Z,h2h,Draw,,3.8
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betonlineag,2026-11-07T16:47:44Z,h2h,Aston Villa,,3.14
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betonlineag,2026-11-07T16:47:44Z,h2h,Manchester United,,2.21
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betonlineag,2026-11-07T16:47:44Z,h2h,Draw,,3.77
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,lowvig,2026-11-07T16:48:15Z,h2h,Aston Villa,,3.14
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,lowvig,2026-11-07T16:48:15Z,h2h,Manchester United,,2.21
+2026-11-07T16:48:36+00:00,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,lowvig,2026-11-07T16:48:15Z,h2h,Draw,,3.77
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,betrivers,2026-11-07T16:47:44Z,h2h,Fulham,,6.5
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,betrivers,2026-11-07T16:47:44Z,h2h,Manchester City,,1.48
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,4.8
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,pinnacle,2026-11-07T16:48:13Z,h2h,Fulham,,6.33
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,pinnacle,2026-11-07T16:48:13Z,h2h,Manchester City,,1.43
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,5.07
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,draftkings,2026-11-07T16:47:21Z,h2h,Fulham,,6.0
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,draftkings,2026-11-07T16:47:21Z,h2h,Manchester City,,1.43
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,4.9
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,mybookieag,2026-11-07T16:46:56Z,h2h,Fulham,,6.0
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,mybookieag,2026-11-07T16:46:56Z,h2h,Manchester City,,1.42
+2026-11-07T16:48:36+00:00,6ef39b0fd8839f6e93a3de32523e9807,2026-11-21T12:30:00Z,Manchester City,Fulham,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,4.8
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,betrivers,2026-11-07T16:47:44Z,h2h,Aston Villa,,1.78
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,betrivers,2026-11-07T16:47:44Z,h2h,Sunderland,,4.5
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,4.0
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,pinnacle,2026-11-07T16:48:13Z,h2h,Aston Villa,,1.71
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,pinnacle,2026-11-07T16:48:13Z,h2h,Sunderland,,4.69
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,3.96
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,draftkings,2026-11-07T16:47:21Z,h2h,Aston Villa,,1.71
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,draftkings,2026-11-07T16:47:21Z,h2h,Sunderland,,4.5
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,3.85
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,mybookieag,2026-11-07T16:46:56Z,h2h,Aston Villa,,1.72
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,mybookieag,2026-11-07T16:46:56Z,h2h,Sunderland,,4.3
+2026-11-07T16:48:36+00:00,b8d6ab6ecc8bb356c6335d3f417d0ecf,2026-11-21T15:00:00Z,Aston Villa,Sunderland,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,3.7
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,betrivers,2026-11-07T16:47:44Z,h2h,Bournemouth,,2.0
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,betrivers,2026-11-07T16:47:44Z,h2h,Nottingham Forest,,3.85
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,3.65
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,pinnacle,2026-11-07T16:48:13Z,h2h,Bournemouth,,2.0
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,pinnacle,2026-11-07T16:48:13Z,h2h,Nottingham Forest,,3.67
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,3.63
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,draftkings,2026-11-07T16:47:21Z,h2h,Bournemouth,,1.95
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,draftkings,2026-11-07T16:47:21Z,h2h,Nottingham Forest,,3.6
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,3.55
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,mybookieag,2026-11-07T16:46:56Z,h2h,Bournemouth,,2.01
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,mybookieag,2026-11-07T16:46:56Z,h2h,Nottingham Forest,,3.44
+2026-11-07T16:48:36+00:00,cf68da11fa604c13fc9ef3219fad0314,2026-11-21T15:00:00Z,Bournemouth,Nottingham Forest,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,3.42
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,betrivers,2026-11-07T16:47:44Z,h2h,Chelsea,,1.83
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,betrivers,2026-11-07T16:47:44Z,h2h,Leeds United,,4.35
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,3.85
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,pinnacle,2026-11-07T16:48:13Z,h2h,Chelsea,,1.81
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,pinnacle,2026-11-07T16:48:13Z,h2h,Leeds United,,4.2
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,3.83
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,draftkings,2026-11-07T16:47:21Z,h2h,Chelsea,,1.8
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,draftkings,2026-11-07T16:47:21Z,h2h,Leeds United,,4.0
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,3.75
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,mybookieag,2026-11-07T16:46:56Z,h2h,Chelsea,,1.78
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,mybookieag,2026-11-07T16:46:56Z,h2h,Leeds United,,4.1
+2026-11-07T16:48:36+00:00,ac6cf70520a83c0949b4003bde53c709,2026-11-21T15:00:00Z,Chelsea,Leeds United,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,3.65
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,betrivers,2026-11-07T16:47:44Z,h2h,Coventry City,,2.23
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,betrivers,2026-11-07T16:47:44Z,h2h,Crystal Palace,,3.05
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,3.6
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,pinnacle,2026-11-07T16:48:13Z,h2h,Coventry City,,2.43
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,pinnacle,2026-11-07T16:48:13Z,h2h,Crystal Palace,,2.85
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,3.51
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,draftkings,2026-11-07T16:47:21Z,h2h,Coventry City,,2.35
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,draftkings,2026-11-07T16:47:21Z,h2h,Crystal Palace,,2.85
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,3.45
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,mybookieag,2026-11-07T16:46:56Z,h2h,Coventry City,,2.32
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,mybookieag,2026-11-07T16:46:56Z,h2h,Crystal Palace,,2.79
+2026-11-07T16:48:36+00:00,9f38413bdad666e2d2dfcc574dd12e66,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,3.44
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,betrivers,2026-11-07T16:47:44Z,h2h,Ipswich Town,,5.75
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,betrivers,2026-11-07T16:47:44Z,h2h,Tottenham Hotspur,,1.57
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,4.4
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,pinnacle,2026-11-07T16:48:13Z,h2h,Ipswich Town,,6.11
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,pinnacle,2026-11-07T16:48:13Z,h2h,Tottenham Hotspur,,1.49
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,4.57
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,draftkings,2026-11-07T16:47:21Z,h2h,Ipswich Town,,6.0
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,draftkings,2026-11-07T16:47:21Z,h2h,Tottenham Hotspur,,1.48
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,4.5
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,mybookieag,2026-11-07T16:46:56Z,h2h,Ipswich Town,,5.8
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,mybookieag,2026-11-07T16:46:56Z,h2h,Tottenham Hotspur,,1.46
+2026-11-07T16:48:36+00:00,e67ee3a6f93bb90b8aefcf3dd204477c,2026-11-21T15:00:00Z,Tottenham Hotspur,Ipswich Town,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,4.5
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,betrivers,2026-11-07T16:47:44Z,h2h,Arsenal,,1.56
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,betrivers,2026-11-07T16:47:44Z,h2h,Newcastle United,,5.8
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,4.2
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,pinnacle,2026-11-07T16:48:13Z,h2h,Arsenal,,1.58
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,pinnacle,2026-11-07T16:48:13Z,h2h,Newcastle United,,5.48
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,4.2
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,draftkings,2026-11-07T16:47:21Z,h2h,Arsenal,,1.57
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,draftkings,2026-11-07T16:47:21Z,h2h,Newcastle United,,5.25
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,4.1
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,mybookieag,2026-11-07T16:46:56Z,h2h,Arsenal,,1.56
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,mybookieag,2026-11-07T16:46:56Z,h2h,Newcastle United,,5.1
+2026-11-07T16:48:36+00:00,71bf9fe98c3e3be39cd1d059f8d71ae8,2026-11-21T17:30:00Z,Newcastle United,Arsenal,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,4.1
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,betrivers,2026-11-07T16:47:44Z,h2h,Brighton and Hove Albion,,1.5
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,betrivers,2026-11-07T16:47:44Z,h2h,Hull City,,6.25
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,4.5
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,pinnacle,2026-11-07T16:48:13Z,h2h,Brighton and Hove Albion,,1.54
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,pinnacle,2026-11-07T16:48:13Z,h2h,Hull City,,5.72
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,4.38
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,draftkings,2026-11-07T16:47:21Z,h2h,Brighton and Hove Albion,,1.53
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,draftkings,2026-11-07T16:47:21Z,h2h,Hull City,,5.5
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,4.3
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,mybookieag,2026-11-07T16:46:56Z,h2h,Brighton and Hove Albion,,1.52
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,mybookieag,2026-11-07T16:46:56Z,h2h,Hull City,,5.4
+2026-11-07T16:48:36+00:00,230a356290e1a358e9dd2f7fa23de3b9,2026-11-22T14:00:00Z,Hull City,Brighton and Hove Albion,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,4.2
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,fanduel,2026-11-07T16:48:13Z,h2h,Liverpool,,1.69
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,fanduel,2026-11-07T16:48:13Z,h2h,Manchester United,,4.4
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,fanduel,2026-11-07T16:48:13Z,h2h,Draw,,4.0
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,mybookieag,2026-11-07T16:46:56Z,h2h,Liverpool,,1.8
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,mybookieag,2026-11-07T16:46:56Z,h2h,Manchester United,,3.8
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,mybookieag,2026-11-07T16:46:56Z,h2h,Draw,,3.8
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,betrivers,2026-11-07T16:47:44Z,h2h,Liverpool,,1.83
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,betrivers,2026-11-07T16:47:44Z,h2h,Manchester United,,4.0
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,3.9
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,pinnacle,2026-11-07T16:48:13Z,h2h,Liverpool,,1.83
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,pinnacle,2026-11-07T16:48:13Z,h2h,Manchester United,,3.98
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,3.96
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,draftkings,2026-11-07T16:47:21Z,h2h,Liverpool,,1.8
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,draftkings,2026-11-07T16:47:21Z,h2h,Manchester United,,3.9
+2026-11-07T16:48:36+00:00,4c08b213ed416e8f41e038f42a42b962,2026-11-22T16:30:00Z,Liverpool,Manchester United,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,3.9
+2026-11-07T16:48:36+00:00,aa77e2a08a1a003b0bbb62a5f8e8ae42,2026-11-23T20:00:00Z,Brentford,Everton,betrivers,2026-11-07T16:47:44Z,h2h,Brentford,,1.82
+2026-11-07T16:48:36+00:00,aa77e2a08a1a003b0bbb62a5f8e8ae42,2026-11-23T20:00:00Z,Brentford,Everton,betrivers,2026-11-07T16:47:44Z,h2h,Everton,,4.1
+2026-11-07T16:48:36+00:00,aa77e2a08a1a003b0bbb62a5f8e8ae42,2026-11-23T20:00:00Z,Brentford,Everton,betrivers,2026-11-07T16:47:44Z,h2h,Draw,,3.85
+2026-11-07T16:48:36+00:00,aa77e2a08a1a003b0bbb62a5f8e8ae42,2026-11-23T20:00:00Z,Brentford,Everton,pinnacle,2026-11-07T16:48:13Z,h2h,Brentford,,1.81
+2026-11-07T16:48:36+00:00,aa77e2a08a1a003b0bbb62a5f8e8ae42,2026-11-23T20:00:00Z,Brentford,Everton,pinnacle,2026-11-07T16:48:13Z,h2h,Everton,,4.22
+2026-11-07T16:48:36+00:00,aa77e2a08a1a003b0bbb62a5f8e8ae42,2026-11-23T20:00:00Z,Brentford,Everton,pinnacle,2026-11-07T16:48:13Z,h2h,Draw,,3.84
+2026-11-07T16:48:36+00:00,aa77e2a08a1a003b0bbb62a5f8e8ae42,2026-11-23T20:00:00Z,Brentford,Everton,draftkings,2026-11-07T16:47:21Z,h2h,Brentford,,1.83
+2026-11-07T16:48:36+00:00,aa77e2a08a1a003b0bbb62a5f8e8ae42,2026-11-23T20:00:00Z,Brentford,Everton,draftkings,2026-11-07T16:47:21Z,h2h,Everton,,3.95
+2026-11-07T16:48:36+00:00,aa77e2a08a1a003b0bbb62a5f8e8ae42,2026-11-23T20:00:00Z,Brentford,Everton,draftkings,2026-11-07T16:47:21Z,h2h,Draw,,3.7
