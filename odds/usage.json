@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
- "remaining": 232,
- "used": 268,
+ "remaining": 220,
+ "used": 280,
  "calls": [
   {
    "ts": "2026-11-01T00:56:30+00:00",
@@ -360,6 +360,24 @@
   {
    "ts": "2026-11-13T02:31:20+00:00",
    "sport": "icehockey_nhl",
+   "status": 200,
+   "cost": "1"
+  },
+  {
+   "ts": "2026-11-14T02:12:28+00:00",
+   "sport": "basketball_nba",
+   "status": 200,
+   "cost": "2"
+  },
+  {
+   "ts": "2026-11-14T02:12:28+00:00",
+   "sport": "icehockey_nhl",
+   "status": 200,
+   "cost": "1"
+  },
+  {
+   "ts": "2026-11-14T02:12:28+00:00",
+   "sport": "mma_mixed_martial_arts",
    "status": 200,
    "cost": "1"
   }
