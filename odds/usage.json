@@ -1,6 +1,6 @@
 {
  "month": "2026-11",
- "remaining": 167,
+ "remaining": 164,
  "used": 333,
  "calls": [
   {
@@ -422,6 +422,24 @@
    "sport": "americanfootball_nfl",
    "status": 200,
    "cost": "3"
+  },
+  {
+   "ts": "2026-11-15T21:09:43+00:00",
+   "sport": "alt_americanfootball_nfl",
+   "status": 200,
+   "cost": "1"
+  },
+  {
+   "ts": "2026-11-15T21:09:43+00:00",
+   "sport": "alt_americanfootball_nfl",
+   "status": 200,
+   "cost": "1"
+  },
+  {
+   "ts": "2026-11-15T21:09:43+00:00",
+   "sport": "alt_americanfootball_nfl",
+   "status": 200,
+   "cost": "1"
   }
  ]
 }
