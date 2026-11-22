@@ -340,16 +340,16 @@ nba,2026-11-16T01:48:30+00:00,77094bf6e4d9bf58f3cb98b6a4fb3b22,2026-11-17T01:10:
 nba,2026-11-16T01:48:30+00:00,7c2ac54a119f461bf8fc1a23da536f29,2026-11-17T00:10:00Z,2026-11-16,Boston Celtics,Orlando Magic,away,Orlando Magic,fanduel,4.5,0.2222,0.257,0.219,0.1566,4,win,3.5,2026-11-17
 nba,2026-11-16T01:48:30+00:00,b9dd15890ac45468b3e3ec1092f67c18,2026-11-17T01:10:00Z,2026-11-16,Minnesota Timberwolves,Portland Trail Blazers,home,Minnesota Timberwolves,draftkings,1.75,0.5714,0.6295,0.558,0.1016,4,win,0.75,2026-11-17
 nhl,2026-11-16T01:48:30+00:00,f5973475196770206d4e81300ca54634,2026-11-17T02:30:00Z,2026-11-16,Utah Mammoth,Vancouver Canucks,away,Vancouver Canucks,betrivers,3.75,0.2667,0.2925,0.2595,0.0969,8,win,2.75,2026-11-17
-mma,2026-11-14T02:12:28+00:00,0b6d5a32985b31eda832be4154e10fe5,2026-11-21T17:00:00Z,2026-11-21,Kyoji Horiguchi,Asu Almabaev,away,Asu Almabaev,draftkings,2.7,0.3704,0.5943,0.3568,0.6047,2,,,
-mma,2026-11-14T02:12:28+00:00,3252a6edf971e56a6d153f473f6b6edd,2026-11-21T17:00:00Z,2026-11-21,Diyar Nurgozhay,Alik Lorenz,away,Alik Lorenz,betonlineag,3.2,0.3125,0.3761,0.3013,0.2036,1,,,
-mma,2026-11-14T02:12:28+00:00,48c97941350cd548c5a6667dc0018546,2026-11-21T17:00:00Z,2026-11-21,Nikolas Motta,Dom Mar Fan,home,Nikolas Motta,betonlineag,2.24,0.4464,0.4804,0.43,0.0761,1,,,
-mma,2026-11-14T02:12:28+00:00,6571e7bc729a887110c0869b14c3582c,2026-11-21T17:00:00Z,2026-11-21,Aleksandre Topuria,Santiago Luna,away,Santiago Luna,betonlineag,2.97,0.3367,0.6623,0.325,0.9671,1,,,
-mma,2026-11-14T02:12:28+00:00,8f01dcdee59eec582ccf12e049833989,2026-11-21T17:00:00Z,2026-11-21,Jared Cannonier,Ikram Aliskerov,home,Jared Cannonier,betonlineag,3.84,0.2604,0.3332,0.2517,0.2796,2,,,
-mma,2026-11-07T01:45:56+00:00,981c56f62e02e086779c0b14c97afcf9,2026-11-21T17:00:00Z,2026-11-21,Jiri Prochazka,Navajo Stirling,away,Navajo Stirling,betonlineag,1.71,0.5848,0.6773,0.5615,0.1582,2,,,
-mma,2026-11-14T02:12:28+00:00,ca5d034598b83c81aa267bea9b3334a4,2026-11-21T17:00:00Z,2026-11-21,Aljamain Sterling,Kevin Vallejos,away,Kevin Vallejos,betrivers,1.85,0.5405,0.5639,0.5471,0.0433,4,,,
-mma,2026-11-14T02:12:28+00:00,d55740629555c012eedd01b8f75d3b69,2026-11-21T17:00:00Z,2026-11-21,Daniel Hooker,Brian Ortega,away,Brian Ortega,betonlineag,2.36,0.4237,0.5444,0.407,0.2847,2,,,
-mma,2026-11-14T02:12:28+00:00,e0fe6ef8d4d50031f2ff78a26b9b6945,2026-11-21T17:00:00Z,2026-11-21,Shamil Gaziev,Tallison Teixeira,away,Tallison Teixeira,betonlineag,2.85,0.3509,0.5974,0.3364,0.7025,2,,,
-mma,2026-11-14T02:12:28+00:00,f489c8a46fa7baeab80d1bace1b0f067,2026-11-21T17:00:00Z,2026-11-21,Jake Matthews,Tahir Abdullayev,away,Tahir Abdullayev,betonlineag,2.45,0.4082,0.4217,0.395,0.0332,2,,,
+mma,2026-11-14T02:12:28+00:00,0b6d5a32985b31eda832be4154e10fe5,2026-11-21T17:00:00Z,2026-11-21,Kyoji Horiguchi,Asu Almabaev,away,Asu Almabaev,draftkings,2.7,0.3704,0.5943,0.3568,0.6047,2,loss,-1.0,2026-11-22
+mma,2026-11-14T02:12:28+00:00,3252a6edf971e56a6d153f473f6b6edd,2026-11-21T17:00:00Z,2026-11-21,Diyar Nurgozhay,Alik Lorenz,away,Alik Lorenz,betonlineag,3.2,0.3125,0.3761,0.3013,0.2036,1,loss,-1.0,2026-11-22
+mma,2026-11-14T02:12:28+00:00,48c97941350cd548c5a6667dc0018546,2026-11-21T17:00:00Z,2026-11-21,Nikolas Motta,Dom Mar Fan,home,Nikolas Motta,betonlineag,2.24,0.4464,0.4804,0.43,0.0761,1,loss,-1.0,2026-11-22
+mma,2026-11-14T02:12:28+00:00,6571e7bc729a887110c0869b14c3582c,2026-11-21T17:00:00Z,2026-11-21,Aleksandre Topuria,Santiago Luna,away,Santiago Luna,betonlineag,2.97,0.3367,0.6623,0.325,0.9671,1,win,1.97,2026-11-22
+mma,2026-11-14T02:12:28+00:00,8f01dcdee59eec582ccf12e049833989,2026-11-21T17:00:00Z,2026-11-21,Jared Cannonier,Ikram Aliskerov,home,Jared Cannonier,betonlineag,3.84,0.2604,0.3332,0.2517,0.2796,2,loss,-1.0,2026-11-22
+mma,2026-11-07T01:45:56+00:00,981c56f62e02e086779c0b14c97afcf9,2026-11-21T17:00:00Z,2026-11-21,Jiri Prochazka,Navajo Stirling,away,Navajo Stirling,betonlineag,1.71,0.5848,0.6773,0.5615,0.1582,2,win,0.71,2026-11-22
+mma,2026-11-14T02:12:28+00:00,ca5d034598b83c81aa267bea9b3334a4,2026-11-21T17:00:00Z,2026-11-21,Aljamain Sterling,Kevin Vallejos,away,Kevin Vallejos,betrivers,1.85,0.5405,0.5639,0.5471,0.0433,4,win,0.85,2026-11-22
+mma,2026-11-14T02:12:28+00:00,d55740629555c012eedd01b8f75d3b69,2026-11-21T17:00:00Z,2026-11-21,Daniel Hooker,Brian Ortega,away,Brian Ortega,betonlineag,2.36,0.4237,0.5444,0.407,0.2847,2,loss,-1.0,2026-11-22
+mma,2026-11-14T02:12:28+00:00,e0fe6ef8d4d50031f2ff78a26b9b6945,2026-11-21T17:00:00Z,2026-11-21,Shamil Gaziev,Tallison Teixeira,away,Tallison Teixeira,betonlineag,2.85,0.3509,0.5974,0.3364,0.7025,2,win,1.85,2026-11-22
+mma,2026-11-14T02:12:28+00:00,f489c8a46fa7baeab80d1bace1b0f067,2026-11-21T17:00:00Z,2026-11-21,Jake Matthews,Tahir Abdullayev,away,Tahir Abdullayev,betonlineag,2.45,0.4082,0.4217,0.395,0.0332,2,win,1.45,2026-11-22
 nba,2026-11-17T04:25:01+00:00,69f0b70d1185e537c5ae4be43ebf2c9f,2026-11-18T01:10:00Z,2026-11-17,San Antonio Spurs,Detroit Pistons,away,Detroit Pistons,fanduel,3.9,0.2564,0.3455,0.2554,0.3474,10,win,2.9,2026-11-18
 nba,2026-11-17T04:25:01+00:00,bed6147c75f3706f25e25f5bdfeaf1ec,2026-11-18T04:10:00Z,2026-11-17,Los Angeles Lakers,Charlotte Hornets,away,Charlotte Hornets,betrivers,3.85,0.2597,0.2803,0.2667,0.079,10,loss,-1.0,2026-11-18
 nba,2026-11-17T04:25:01+00:00,e7343c795f16a5a2a6fd93dbc58499a6,2026-11-18T03:40:00Z,2026-11-17,Los Angeles Clippers,Utah Jazz,home,Los Angeles Clippers,draftkings,1.46,0.6849,0.7579,0.6632,0.1066,10,loss,-1.0,2026-11-18
@@ -393,4 +393,9 @@ nhl,2026-11-21T03:05:09+00:00,6b3ca9f550a96d09fdd079e3c7e1158a,2026-11-22T00:00:
 nhl,2026-11-21T03:05:09+00:00,6d5c13d697e753014382cb88c02b8d0a,2026-11-22T00:00:00Z,2026-11-21,Detroit Red Wings,New York Islanders,home,Detroit Red Wings,betonlineag,2.1,0.4762,0.5097,0.4778,0.0704,10,,,
 nhl,2026-11-21T03:05:09+00:00,d393852cc4dc6ab621ca0cd1f6ccaccc,2026-11-21T23:00:00Z,2026-11-21,Nashville Predators,Pittsburgh Penguins,away,Pittsburgh Penguins,betrivers,2.23,0.4484,0.4756,0.4456,0.0606,10,,,
 nhl,2026-11-21T03:05:09+00:00,e491b0b72df0e6f41b1bf7f9c349a136,2026-11-22T00:00:00Z,2026-11-21,Ottawa Senators,Los Angeles Kings,away,Los Angeles Kings,pinnacle,2.52,0.3968,0.439,0.3905,0.1064,10,,,
-mma,2026-11-21T03:05:09+00:00,583867d6856aab7ddfcbefcf16dcd9b3,2026-11-21T15:10:00Z,2026-11-21,Shoaib Yousaf,John Mitchell,away,John Mitchell,betrivers,1.75,0.5714,0.6163,0.56,0.0785,8,,,
+mma,2026-11-21T03:05:09+00:00,583867d6856aab7ddfcbefcf16dcd9b3,2026-11-21T15:10:00Z,2026-11-21,Shoaib Yousaf,John Mitchell,away,John Mitchell,betrivers,1.75,0.5714,0.6163,0.56,0.0785,8,win,0.75,2026-11-22
+nba,2026-11-22T02:02:09+00:00,b754a1bf84af81d45d4a3a16398daa44,2026-11-22T03:10:00Z,2026-11-21,Sacramento Kings,Boston Celtics,home,Sacramento Kings,betmgm,6.0,0.1667,0.2207,0.1695,0.3244,10,,,
+nhl,2026-11-22T02:02:09+00:00,3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,2026-11-22,Vancouver Canucks,Chicago Blackhawks,home,Vancouver Canucks,fanduel,1.96,0.5102,0.5779,0.5026,0.1328,8,,,
+nhl,2026-11-22T02:02:09+00:00,5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,2026-11-22,Tampa Bay Lightning,Buffalo Sabres,away,Buffalo Sabres,betrivers,2.8,0.3571,0.4014,0.3548,0.1238,8,,,
+nhl,2026-11-22T02:02:09+00:00,7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,2026-11-22,St Louis Blues,Edmonton Oilers,home,St Louis Blues,betrivers,2.08,0.4808,0.5693,0.4884,0.1842,8,,,
+nhl,2026-11-22T02:02:09+00:00,d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,2026-11-22,Dallas Stars,Pittsburgh Penguins,away,Pittsburgh Penguins,betrivers,2.95,0.339,0.4152,0.3357,0.225,8,,,
