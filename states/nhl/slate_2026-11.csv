@@ -171,3 +171,4 @@ snap_date,event_id,start,name,state,completed,home,home_id,home_score,away,away_
 2026-11-24,401892777,2026-11-24T00:30Z,UTA @ WPG,in,False,WPG,28,3,UTA,129764,2,False
 2026-11-24,401892778,2026-11-24T02:40Z,ANA @ SEA,pre,False,SEA,124292,0,ANA,25,0,False
 2026-11-24,401892779,2026-11-24T03:00Z,MIN @ SJ,pre,False,SJ,18,0,MIN,30,0,False
+2026-11-24,401892780,2026-11-25T01:00Z,VGK @ EDM,pre,False,EDM,6,0,VGK,37,0,False
