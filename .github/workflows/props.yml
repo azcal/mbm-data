@@ -1,28 +1,53 @@
 name: props-track
-# Sunday 16:20 UTC snapshot (early-window games), 16:45 UTC flag; Tuesday 16:15 UTC grade.
+# The NFL receiving-props paper ledger. It no longer pulls prices itself: mbm-nfl already
+# buys the same prop prices for its Sunday sheet and commits them under data/odds, so
+# props_ledger.py reads those. The separate pull here (props_snapshot.py) had written a
+# header-only file since September, which is why the ledger had zero rows, and it would
+# have spent about 16 credits a week on prices the other repo already holds.
 on:
   schedule:
-    - cron: "20 16 * * 0"
-    - cron: "45 16 * * 0"
-    - cron: "15 16 * * 2"
+    # Hourly tick; slot_gate.py decides whether a tick does work, because GitHub starts
+    # scheduled jobs hours late. Slots (UTC): two Sunday flag passes after the mbm-nfl
+    # sheet lands and before the early kickoffs, then a Tuesday grade.
+    - cron: "17 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.g.outputs.run }}
+      slot: ${{ steps.g.outputs.slot }}
+      name: ${{ steps.g.outputs.name }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          sparse-checkout: |
+            slot_gate.py
+            .slots/props.txt
+          sparse-checkout-cone-mode: false
+      - id: g
+        run: python3 slot_gate.py
+        env:
+          SLOTS: "flag=sun@14:30,flag2=sun@16:30,grade=tue@16:15"
+          SLOT_MARKER: ".slots/props.txt"
+          SLOT_EVENT: ${{ github.event_name }}
+          SLOT_TZ: "UTC"
+          SLOT_WINDOW_H: "1.5"
   props:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with: { python-version: "3.11" }
       - run: pip install requests pandas numpy pyarrow
-      - run: |
-          if [ "${{ github.event.schedule }}" = "20 16 * * 0" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then python props_snapshot.py; fi
-        env:
-          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
-      - run: |
-          if [ "${{ github.event.schedule }}" != "20 16 * * 0" ]; then python props_ledger.py; fi
+      - run: python props_ledger.py
         env:
           MODEL_REPO_TOKEN: ${{ secrets.MODEL_REPO_TOKEN }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
@@ -33,4 +58,17 @@ jobs:
           mkdir -p odds ledger
           git add odds ledger
           git commit -m "props $(date -u +%F)" || echo "nothing new"
-          git pull --rebase && git push
+          git pull --rebase --autostash && git push
+      - name: record slot
+        if: needs.gate.outputs.slot != 'manual'
+        run: |
+          mkdir -p .slots && echo "${{ needs.gate.outputs.slot }}" > .slots/props.txt
+          git config user.name mbm-bot
+          git config user.email mbm-bot@users.noreply.github.com
+          git add .slots/props.txt
+          git commit -q -m "slot props ${{ needs.gate.outputs.slot }}" || exit 0
+          for i in 1 2 3 4; do
+            if git pull -q --rebase --autostash && git push -q; then exit 0; fi
+            sleep $((i * 4))
+          done
+          echo "could not record the slot; the next tick will run this again"
