@@ -42,20 +42,32 @@ def in_season(sc):
     return (a <= md <= b) if a <= b else (md >= a or md <= b)
 
 
-def tick_hour():
-    """The hour the cron MEANT to fire, not the hour it actually ran. GitHub delays scheduled
-    jobs by minutes to an hour at busy times, which would otherwise make a 15:05 tick miss a
-    15-hour schedule. odds.yml passes the matching cron line in TICK_CRON."""
-    cron = os.environ.get("TICK_CRON", "").split()
-    if len(cron) >= 2 and cron[1].isdigit():
-        return int(cron[1])
-    return NOW.hour
+def tick():
+    """(weekday, hour) of the slot this run belongs to, in UTC.
+
+    The slot, not the clock. odds.yml now ticks hourly and slot_gate.py picks the slot, so
+    a run that starts late still knows which snapshot it is: TICK_SLOT looks like
+    "2026-11-29 16:05 h16". Before this the weekday came from the wall clock, so a 23:05
+    tick that started after midnight UTC looked for Tuesday's schedule on a Monday game."""
+    slot = os.environ.get("TICK_SLOT", "").strip()
+    try:
+        d = dt.datetime.strptime(slot[:16], "%Y-%m-%d %H:%M")
+        return d.weekday(), d.hour
+    except ValueError:
+        return NOW.weekday(), NOW.hour
 
 
 def due(sport, sc):
     if os.environ.get("FORCE_SPORT") == sport:
         return True
-    return NOW.weekday() in sc["days"] and tick_hour() in sc["utc_hours"] and in_season(sc)
+    wd, hr = tick()
+    if not in_season(sc):
+        return False
+    # "ticks" lists exact (weekday, hour) pairs and wins over days x utc_hours. It exists so
+    # the NFL can take one snapshot per game window instead of two a day on four days.
+    if "ticks" in sc:
+        return [wd, hr] in [list(x) for x in sc["ticks"]]
+    return wd in sc["days"] and hr in sc["utc_hours"]
 
 
 def snapshot(sport, sc):
@@ -76,13 +88,22 @@ def snapshot(sport, sc):
     path = os.path.join(HERE, "odds", sport, NOW.strftime("%Y-%m") + ".csv")
     os.makedirs(os.path.dirname(path), exist_ok=True)
     new = not os.path.exists(path)
-    n = 0
+    n = live = 0
     with open(path, "a", newline="") as f:
         w = csv.writer(f)
         if new:
             w.writerow(["snap_ts", "event_id", "commence", "home", "away", "book", "book_update",
                         "market", "outcome", "point", "price"])
         for ev in events:
+            # Pre-game prices only. The feed keeps quoting a game after it starts, and a
+            # late run was writing those in-play prices into what is meant to be a
+            # closing-line archive (94 of 152 NBA events by 2026-11-22).
+            try:
+                if dt.datetime.fromisoformat(ev["commence_time"].replace("Z", "+00:00")) <= NOW:
+                    live += 1
+                    continue
+            except (KeyError, ValueError):
+                pass
             for bk in ev.get("bookmakers", []):
                 for mk in bk.get("markets", []):
                     for o in mk.get("outcomes", []):
@@ -90,7 +111,7 @@ def snapshot(sport, sc):
                                     ev["home_team"], ev["away_team"], bk["key"], bk.get("last_update", ""),
                                     mk["key"], o.get("name"), o.get("point", ""), o.get("price")])
                         n += 1
-    print(f"{sport}: {len(events)} events, {n} rows -> {os.path.relpath(path, HERE)}; {rem} credits left")
+    print(f"{sport}: {len(events)} events ({live} already started, skipped), {n} rows -> {os.path.relpath(path, HERE)}; {rem} credits left")
 
 
 def main():
@@ -103,7 +124,7 @@ def main():
             snapshot(sport, sc); ran += 1
     os.makedirs(os.path.dirname(USAGE), exist_ok=True)
     json.dump(U, open(USAGE, "w"), indent=1)
-    print(f"tick {NOW.isoformat(timespec='minutes')} (scheduled hour {tick_hour()} UTC, weekday {NOW.weekday()}): "
+    print(f"tick {NOW.isoformat(timespec='minutes')} (slot weekday {tick()[0]}, hour {tick()[1]} UTC): "
           f"{ran} sport(s) snapshotted, {remaining()} credits left this month")
 
 

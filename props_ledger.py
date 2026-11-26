@@ -3,7 +3,8 @@ props_ledger.py: the NFL receiving-props paper rule. Sunday 16:45 UTC to flag, T
 16:15 UTC to grade (nflverse posts the week's player stats by Tuesday morning).
 
 Rule (written 2026-09-03, do not edit mid-season):
-  For every receiving-yards and receptions line on the Sunday snapshot, take the model's
+  For every receiving-yards and receptions line on the Sunday snapshot (since 2026-11-26
+  the one mbm-nfl takes for its own sheet, read from its data/odds folder), take the model's
   probability for that side from logs/props_grid.csv in mbm-nfl (yards: linear
   interpolation on the grid; receptions: P(rec >= k+1) for a k.5 line). Flag the best
   price across books wherever probability x price >= 1.05. Flat one unit.
@@ -102,6 +103,40 @@ def fetch_grid():
     return pd.read_csv(io.StringIO(r.text))
 
 
+def _shape(q):
+    """mbm-nfl names the decimal price price_dec; this ledger calls it price."""
+    if "price" not in q.columns and "price_dec" in q.columns:
+        q = q.rename(columns={"price_dec": "price"})
+    return q
+
+
+def nfl_prices(grid):
+    """Prop prices for the grid's week, read from mbm-nfl instead of bought a second time.
+
+    mbm-nfl's Sunday sheet pulls player_reception_yds and player_receptions for the slate
+    and commits each pull as data/odds/props_<season>_w<week>_<timestamp>.csv, with the same
+    columns this ledger needs. Returns the most recent file for the grid's week, or None.
+    Set LOCAL_PRICES to a CSV path to test without the network."""
+    if os.environ.get("LOCAL_PRICES"):
+        return _shape(pd.read_csv(os.environ["LOCAL_PRICES"], low_memory=False))
+    try:
+        season, week = int(grid.season.iloc[0]), int(grid.week.iloc[0])
+        h = {"Authorization": f"token {TOKEN}"} if TOKEN else {}
+        r = requests.get(f"https://api.github.com/repos/{OWNER}/mbm-nfl/contents/data/odds", headers=h, timeout=60)
+        if r.status_code != 200:
+            print(f"mbm-nfl data/odds listing failed (HTTP {r.status_code}); no prices this run"); return None
+        names = sorted(x["name"] for x in r.json() if x.get("name", "").startswith(f"props_{season}_w{week}_"))
+        if not names:
+            print(f"mbm-nfl has no prop prices for {season} week {week} yet"); return None
+        rr = requests.get(f"https://raw.githubusercontent.com/{OWNER}/mbm-nfl/main/data/odds/{names[-1]}", headers=h, timeout=60)
+        if rr.status_code != 200:
+            print(f"could not read {names[-1]} (HTTP {rr.status_code})"); return None
+        print(f"prices: {names[-1]} from mbm-nfl")
+        return _shape(pd.read_csv(io.StringIO(rr.text), low_memory=False))
+    except Exception as ex:
+        print(f"prices from mbm-nfl unavailable: {type(ex).__name__}: {ex}"); return None
+
+
 def p_side(row, market, side, line):
     if market == "player_reception_yds":
         ps = np.array([row[f"p_over_{int(x)}"] for x in YGRID]); po = float(np.interp(line, YGRID, ps))
@@ -129,8 +164,15 @@ def main():
     files = sorted(glob.glob(os.path.join(HERE, "odds", "props_americanfootball_nfl", "*.csv")))
     out = load_out(); have = set(zip(out.event_id.astype(str), out.player, out.market, out.side, out.line.astype(float)))
     new = []
-    if files:
-        q = pd.concat([pd.read_csv(f, low_memory=False) for f in files[-2:]], ignore_index=True)
+    frames = [pd.read_csv(f, low_memory=False) for f in files[-2:]]
+    shared = nfl_prices(grid)
+    if shared is not None:
+        frames.append(shared)
+    frames = [f for f in frames if len(f)]
+    if frames:
+        q = pd.concat(frames, ignore_index=True)
+        # main lines only: the grid has no price for an alternate ladder rung
+        q = q[q.market.isin(["player_reception_yds", "player_receptions"])]
         q["price"] = pd.to_numeric(q.price, errors="coerce"); q["point"] = pd.to_numeric(q.point, errors="coerce")
         q = q.dropna(subset=["price", "point", "player"]); q["start"] = pd.to_datetime(q.commence, utc=True)
         q = q[q.start > NOW]
